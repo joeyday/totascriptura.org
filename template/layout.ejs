@@ -6,10 +6,14 @@
   
 </head>
 <body>
+  <header>
+    <a href="/">Tota Scriptura</a>
+  </header>
   <main>
-    <h1><%= frontmatter.title %><% if (frontmatter.featured) { %><span class="featured-badge">&starf;</span><% } %></h1>
-
-    <%- content %>
+    <article>
+      <h1><%= frontmatter.title %><% if (frontmatter.featured) { %><span class="featured-badge">&starf;</span><% } %></h1>
+      <%- content %>
+    </article>
 
     <% if (subcategories.length > 0) { %>
     <section>
@@ -52,6 +56,15 @@
     </section>
     <% } %>
   </main>
+  
+  <nav>
+    <menu>
+      <li><a href="/about">About this project</a></li>
+      <li><a href="/index/alphabetical">Alphabetical index</a></li>
+      <li><a href="/index/catagorical">Categorical index</a></li>
+      <li><a href="/index/featured">Featured topics</a></li>
+    </menu>
+  </nav>
   
 </body>
 </html>
