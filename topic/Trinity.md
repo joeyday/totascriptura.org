@@ -14,11 +14,11 @@ God is a simple unity—one in being, essence, and nature—but there are three 
 There is one and only one God. God is simple (not composed of parts) and stands apart from all creatures as the source and ground of all being.
 
 ### “God is one”, there is only one God
-{{mt|Monotheism|Simplicity}}
+{{mt|[[Monotheism]]|[[Simplicity]]}}
 {{monotheism}}
 
 ### There is no one else like God
-{{mt|Creator-creature distinction}}
+{{mt|[[Creator-creature distinction]]}}
 ![[Monotheism#^30f1cf]]
 
 ## Threeness
@@ -39,26 +39,26 @@ Jn 10:30; 17:11, 22; 1Jn 5:7 KJV <small>— _cf. grammatically 1Co 3:8, contrast
 Jn 1:18; 3:35; 5:20; 10:17; 14:31; 17:23–24, 26
 
 ### Holy Spirit is a person
-{{mt|Holy Spirit is a person}}
+{{mt|[[Holy Spirit is a person]]}}
 Mt 28:19; Jn 14:16, 26; 15:26; 16:7, 13–14; Ac 13:2; 16:6–7; 8:29; 13:2; 15:28; Ro 8:16, 26–27; 1Co 12:11; Eph 4:30; Heb 10:29
 
 ## Equality
 The three persons are co-essential, co-eternal, and co-equal in all attributes of divinity. The fulness of the divine being belongs equally to each of them. They mutually indwell one another.
 
 ### Father is fully God
-{{mt|Father is God}}
+{{mt|[[Father is God]]}}
 Mt 6:26–30; Jn 20:17; Ro 1:7; 15:6; 1Co 1:3; 8:6; 15:24; 2Co 1:2–3; 11:31; Gal 1:1, 3–4; Eph 1:2–3, 17; 4:6; 5:20; 6:23; Php 1:2; 2:11; 4:20; Col 1:2–3; 3:17; 1Th 1:1, 3; 3:11, 13; 2Th 1:1–2; 2:16; 1Ti 1:2; 2Ti 1:2; Tit 1:4; Phm 3; Jas 1:27; 1Pe 1:2–3, 17; 2Jn 1:3; Jude 1:1; Rev 1:6
 
 ### Son is fully God
-{{mt|Jesus is God}}
+{{mt|[[Jesus is God]]}}
 {{jesus-is-god}}
 
 ### Holy Spirit is fully God
-{{mt|Holy Spirit is God}}
+{{mt|[[Holy Spirit is God]]}}
 Ps 139:7–8; Jn 3:5–7 <small>(cf. 1Jn 3:9)</small>; Ac 5:3–4; 1Co 2:10–11; 1Co 3:16; 2Co 3:17
 
 ### Perichoresis <small>(mutual indwelling)</small>
-{{mt|Perichoresis}}
+{{mt|[[Perichoresis]]}}
 {{trinity-perichoresis}}
 
 ## Distinction
@@ -68,7 +68,7 @@ Mt 28:19; Eph 2:18
 ### Father holds primacy in role
 Mt 19:17 <small>(cf. Mk 10:18; Lk 18:19)</small>; Jn 14:28; 1 Cor 11:3; 15:27–28; 1 Jn 4:14
 ### Son eternally begotten of Father
-{{mt|Eternal generation}}
+{{mt|[[Eternal generation]]}}
 {{eternal-generation}}
 ### Spirit proceeds from Father and Son
 Jn 14:16–17, 26; 15:26; 16:7, 13–14; 20:22; Ro 8:9; Gal 4:6; Php 1:19

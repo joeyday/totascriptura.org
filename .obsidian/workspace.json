@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "topic/Trinity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Trinity"
             }
           }
         ]
@@ -186,12 +186,14 @@
   },
   "active": "157471c5b60b9e4f",
   "lastOpenFiles": [
-    "index.md",
+    "topic/Abrahamic covenant.md",
+    "topic/Monotheism.md",
+    "topic/Jesus is God.md",
     "Home.md",
+    "index.md",
     "About.md",
     "topic/Trinity.md",
     "template/partials/eternal-generation.ejs",
-    "topic/Jesus is God.md",
     "template/partials/trinity-perichoresis.ejs",
     "template/partials/Trinity-perichoresis.ejs",
     "template/partials/omnipotence-heading.ejs",
@@ -201,12 +203,10 @@
     "template/partials/veracity-heading.ejs",
     "template/partials/sovereignty-heading.ejs",
     "template/partials/omniscience-heading.ejs",
-    "topic/Monotheism.md",
     "topic/God the Father.md",
     "topic/God the bridegroom.md",
     "topic/Father is God.md",
     "topic/Essential doctrines.md",
-    "topic/Abrahamic covenant.md",
     "category/Soteriology.md",
     "category/Biblical theology.md",
     "aside/Abrahamic covenant (notes).md",
