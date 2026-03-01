@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topic/Trinity.md",
+                "file": "topic/Jesus is God.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trinity"
+              "title": "Jesus is God"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "{{",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,8 +185,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "157471c5b60b9e4f",
+  "active": "6dc5948113179fe2",
   "lastOpenFiles": [
+    "template/partials/eternal generation.ejs",
+    "template/partials/trinity-perichoresis.ejs",
+    "template/partials/monotheism.ejs",
+    "template/partials/veracity-heading.ejs",
+    "template/partials/sovereignty-heading.ejs",
+    "template/partials/omniscience-heading.ejs",
+    "template/partials/omnipresence-heading.ejs",
+    "template/partials/neffability-heading.ejs",
+    "template/partials/impeccability-heading.ejs",
+    "template/partials/immutability-heading.ejs",
+    "template/partials/aseity-heading.ejs",
+    "topic/Trinity.md",
     "topic/Monotheism.md",
     "topic/Jesus is God.md",
     "topic/God the Father.md",
@@ -193,21 +206,10 @@
     "topic/Father is God.md",
     "topic/Essential doctrines.md",
     "topic/Abrahamic covenant.md",
-    "template/partials/s.ejs",
-    "template/partials/mt.ejs",
     "category/Soteriology.md",
     "category/Biblical theology.md",
     "aside/Abrahamic covenant (notes).md",
-    "aside",
     "_topics/Father is God.md",
-    "topic/Trinity.md",
-    "template/partials/endmark.ejs",
-    "template/partials/callout.ejs",
-    "template/partials/byline.ejs",
-    "template/partials",
-    "template/layout.ejs",
-    "topic",
-    "template",
     "home.md",
     "_topics/God the bridegroom.md",
     "_topics/Trinity.md",
