@@ -7,8 +7,13 @@ import markdownItMark from "markdown-it-mark";
 import ejs from "ejs";
 import slugify from "slugify";
 
-const md = markdownIt({ html: true, linkify: true, typographer: true, breaks: false })
-  .enable('strikethrough')
+const md = markdownIt({
+  html: true,
+  linkify: true,
+  typographer: true,
+  breaks: false,
+})
+  .enable("strikethrough")
   .use(markdownItFootnote)
   .use(markdownItMark);
 
@@ -673,7 +678,7 @@ async function build() {
   ];
 
   for (const indexPage of indexPages) {
-    let listHtml = `<h1>${indexPage.title}</h1>\n`;
+    let listHtml = "";
     if (indexPage.items.length === 0) {
       listHtml += "<p>No pages yet.</p>";
     } else {
