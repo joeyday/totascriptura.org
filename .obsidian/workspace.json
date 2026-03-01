@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About this project.md",
+                "file": "Home page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About this project"
+              "title": "Home page"
             }
           }
         ],
@@ -199,10 +199,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "d1e1bb33e1af0e31",
+  "active": "278a84f9d81b7da8",
   "lastOpenFiles": [
+    "About this project.md",
     "image/Autumn.png",
-    "Home.md",
+    "Home page.md",
     "topic/Trinity.md",
     "topic/Monotheism.md",
     "template/partials/there-is-no-other-god.ejs",
@@ -210,7 +211,6 @@
     "topic/Jesus is God.md",
     "topic/Essential doctrines.md",
     "topic/Abrahamic covenant.md",
-    "About this project.md",
     "topic/God the bridegroom.md",
     "topic/Father is God.md",
     "Colophon.md",
