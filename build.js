@@ -4,6 +4,7 @@ import matter from "gray-matter";
 import markdownIt from "markdown-it";
 import markdownItFootnote from "markdown-it-footnote";
 import markdownItMark from "markdown-it-mark";
+import markdownItContainer from "markdown-it-container";
 import ejs from "ejs";
 import slugify from "slugify";
 
@@ -15,7 +16,17 @@ const md = markdownIt({
 })
   .enable("strikethrough")
   .use(markdownItFootnote)
-  .use(markdownItMark);
+  .use(markdownItMark)
+  .use(markdownItContainer, "", {
+    validate: () => true,
+    render(tokens, idx) {
+      const info = tokens[idx].info.trim();
+      if (tokens[idx].nesting === 1) {
+        return info ? `<div class="${info}">\n` : "<div>\n";
+      }
+      return "</div>\n";
+    },
+  });
 
 const OUTPUT_DIR = "dist";
 const TEMPLATE_PATH = path.join("template", "layout.ejs");
@@ -545,7 +556,10 @@ async function build() {
     // Step 4: Strip Obsidian comments (%%...%%) — after EJS so partial comments are caught
     markdownContent = markdownContent.replace(/%%[\s\S]*?%%/g, "");
 
-    // Step 5: Convert Markdown to HTML
+    // Step 5: Custom inline syntax (~small~)
+    markdownContent = markdownContent.replace(/(?<!~)~(?!~)([^~\n]+?)(?<!~)~(?!~)/g, "<small>$1</small>");
+
+    // Step 6: Convert Markdown to HTML
     const htmlContent = md.render(markdownContent);
 
     // Resolve aside-of

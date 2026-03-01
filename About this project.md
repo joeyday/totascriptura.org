@@ -3,13 +3,18 @@ permalink: about
 ---
 ![[Autumn.png]]
 
-<p style="text-align: center; margin-left: 3.5em; margin-right: 3.5em;"><em>Your word is a lamp to my feet and a light to my path.</em>[^psalms1]</p>
-<p style="text-align: center; margin-left: 1.35em; margin-right: 1.35em;"><em>For the word of God is living and active, sharper than any two-edged sword . . .</em>[^hebrews]</p>
+:::
+*Your word is a lamp to my feet and a light to my path.*[^psalms1]
+:::
+
+:::
+*For the word of God is living and active, sharper than any two-edged sword . . .*[^hebrews]
+:::
 
 ## The author
 Hi, I’m Joey. I’m a Reformed Christian living in Salt Lake City, Utah. My family and I are members of [Jordan Valley Church (<abbr>PCA</abbr>)](https://jordanvalleychurch.org). I’m 40-something and currently a software engineer, but when I grow up I’d like to be a seminary professor.
 ## The inception
-This project came to life as a memo in my Palm <small>PDA</small> back in 2002. That early document was titled “Things that convince me,” and was created shortly after I was born again and joined my first Christian church. When my little memo started to become a big memo a few years later, I moved it over to a wiki I was using at the time for general note taking and thought collection. When that already overlong page became entirely unwieldy in 2009, I decided it deserved a site all its own, and here it is.
+This project came to life as a memo in my Palm <abbr>PDA</abbr> back in 2002. That early document was titled “Things that convince me,” and was created shortly after I was born again and joined my first Christian church. When my little memo started to become a big memo a few years later, I moved it over to a wiki I was using at the time for general note taking and thought collection. When that already overlong page became entirely unwieldy in 2009, I decided it deserved a site all its own, and here it is.
 ## The focus
 From the beginning of this project I’ve deliberately avoided interjecting any sort of running commentary or narrative into the topics, preferring instead to simply gather Scripture passages together topically and let them speak for themselves. I sometimes compare it to [Nave’s Topical Bible](https://en.wikipedia.org/wiki/Nave%27s_Topical_Bible) for this reason.
 
@@ -21,9 +26,17 @@ For example, one of my favorite topics here is [[God the Father]], where I’ve 
 ## The name
 This new emphasis on completion is why I chose **Tota Scriptura** as the title for the project. Fitting nicely with the more well-known principle of *sola Scriptura* (Scripture alone), the reformation doctrine of *tota Scriptura* (all of Scripture) is about “embracing the whole counsel of God as it is revealed in the entirety of sacred Scripture”[^sproul].
 
-<p style="text-align: center; margin-left: 2.75em; margin-right: 2.75em;"><em>. . . he <small>[Jesus]</small> interpreted to them <strong>in all the Scriptures</strong> the things concerning himself.</em>[^luke]</p>
-<p style="text-align: center; margin-left: 1.35em; margin-right: 1.35em;"><em>. . . for I <small>[Paul]</small> did not shrink from declaring to you <strong>the whole counsel of God</strong>.</em>[^acts]</p>
-<p style="text-align: center; margin-left: 3.5em; margin-right: 3.5em;"><em><strong>All Scripture</strong> is breathed out by God and profitable . . .</em>[^timothy]</p>
+:::
+*. . . he ~[Jesus]~ interpreted to them **in all the Scriptures** the things concerning himself.*[^luke]
+:::
+
+:::
+*. . . for I ~[Paul]~ did not shrink from declaring to you **the whole counsel of God**.*[^acts]
+:::
+
+:::
+***All Scripture** is breathed out by God and profitable . . .*[^timothy]
+:::
 
 ## The inspiration
 Great encouragement for this project is found in the opening chapter of Wayne Grudem’s *Systematic Theology*:
@@ -38,13 +51,12 @@ Grudem says this better than I can:
 
 > The study of theology is not merely a theoretical exercise of the intellect. It is a study of the living God, and of the wonders of all his works in creation and redemption. We cannot study this subject dispassionately! . . . In the study of the teachings of God’s Word, it should not surprise us if we often find our hearts spontaneously breaking forth in expressions of praise and delight . . .[^grudem37]
 
-My prayer as you browse these pages is that you, like me, will be “confronted with the total weight of the teaching of Scripture,”[^grudem28] and that you would join me in rejoicing over God’s word “like one who finds great spoil.”[^psalms2]</ref>
+My prayer as you browse these pages is that you, like me, will be “confronted with the total weight of the teaching of Scripture,”[^grudem28] and that you would join me in rejoicing over God’s word “like one who finds great spoil.”[^psalms2]
 
 *Soli Deo gloria!*
 
 Joey Day
 February 2017
-
 
 [^psalms1]: Psalms 119:105
 [^hebrews]: Hebrews 4:12
