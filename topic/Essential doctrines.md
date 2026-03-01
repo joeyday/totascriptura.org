@@ -6,7 +6,7 @@ categories:
 ![[Pillars.png]]
 
 :::
-*In essentials unity, in non-essentials  
+*In essentials unity, in non-essentials\
 liberty, in all things charity.*
 :::
 
