@@ -24,6 +24,7 @@ This new emphasis on completion is why I chose **Tota Scriptura** as the title f
 <p style="text-align: center; margin-left: 2.75em; margin-right: 2.75em;"><em>. . . he <small>[Jesus]</small> interpreted to them <strong>in all the Scriptures</strong> the things concerning himself.</em>[^luke]</p>
 <p style="text-align: center; margin-left: 1.35em; margin-right: 1.35em;"><em>. . . for I <small>[Paul]</small> did not shrink from declaring to you <strong>the whole counsel of God</strong>.</em>[^acts]</p>
 <p style="text-align: center; margin-left: 3.5em; margin-right: 3.5em;"><em><strong>All Scripture</strong> is breathed out by God and profitable . . .</em>[^timothy]</p>
+
 ## The inspiration
 Great encouragement for this project is found in the opening chapter of Wayne Grudem’s *Systematic Theology*:
 
