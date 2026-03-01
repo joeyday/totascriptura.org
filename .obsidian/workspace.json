@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topic/Father is God.md",
+                "file": "topic/Trinity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Father is God"
+              "title": "Trinity"
             }
           }
         ]
@@ -184,23 +184,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "d1e1bb33e1af0e31",
+  "active": "157471c5b60b9e4f",
   "lastOpenFiles": [
-    "template/partials/s.ejs",
-    "topic/Essential doctrines.md",
-    "template/partials/mt.ejs",
-    "category/Soteriology.md",
-    "topic/Abrahamic covenant.md",
-    "category/Biblical theology.md",
-    "aside/Abrahamic covenant (notes).md",
-    "aside",
-    "_topics/Father is God.md",
-    "topic/Trinity.md",
     "topic/Monotheism.md",
     "topic/Jesus is God.md",
     "topic/God the Father.md",
     "topic/God the bridegroom.md",
     "topic/Father is God.md",
+    "topic/Essential doctrines.md",
+    "topic/Abrahamic covenant.md",
+    "template/partials/s.ejs",
+    "template/partials/mt.ejs",
+    "category/Soteriology.md",
+    "category/Biblical theology.md",
+    "aside/Abrahamic covenant (notes).md",
+    "aside",
+    "_topics/Father is God.md",
+    "topic/Trinity.md",
     "template/partials/endmark.ejs",
     "template/partials/callout.ejs",
     "template/partials/byline.ejs",
@@ -208,7 +208,6 @@
     "template/layout.ejs",
     "topic",
     "template",
-    "package.json",
     "home.md",
     "_topics/God the bridegroom.md",
     "_topics/Trinity.md",

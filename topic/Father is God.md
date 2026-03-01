@@ -42,5 +42,3 @@ Dt 1:31; 8:5; Ps 103:13; Pr 3:12; Isa 49:15; 66:13; Mal 3:17
 == See also ==
 * [[Father is God]]
 * [[God the bridegroom]]
-
-{{featured}}[[c:Paterology]]

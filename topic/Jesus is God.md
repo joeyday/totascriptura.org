@@ -161,8 +161,3 @@ Mt 4:1 <small>(cf. Mk 1:13; Lk 4:1–2)</small>; Heb 2:18; 4:15 {{s|cf. Jas 1:13
 * [[Holy Spirit is God]]
 * [[Trinity]]
 * [[Attributes of God]]
-
-<hr class="references">
-<references />
-
-{{featured}}[[c:Christology]]
