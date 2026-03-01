@@ -9,14 +9,6 @@
   <main>
     <h1><%= frontmatter.title %><% if (frontmatter.featured) { %><span class="featured-badge">&starf;</span><% } %></h1>
 
-    <% if (asideOf) { %>
-    <p>Aside of <a href="<%= asideOf.url %>"><%= asideOf.title %></a></p>
-    <% } %>
-
-    <% if (categories.length > 0) { %>
-    <p>Categories: <% categories.forEach(function(cat, i) { %><a href="<%= cat.url %>"><%= cat.title %></a><%= i < categories.length - 1 ? ', ' : '' %><% }); %></p>
-    <% } %>
-
     <%- content %>
 
     <% if (subcategories.length > 0) { %>
@@ -39,6 +31,14 @@
         <% }); %>
       </ul>
     </section>
+    <% } %>
+
+    <% if (categories.length > 0) { %>
+    <p>Categories: <% categories.forEach(function(cat, i) { %><a href="<%= cat.url %>"><%= cat.title %></a><%= i < categories.length - 1 ? ', ' : '' %><% }); %></p>
+    <% } %>
+
+    <% if (asideOf) { %>
+    <p>Aside of <a href="<%= asideOf.url %>"><%= asideOf.title %></a></p>
     <% } %>
 
     <% if (asides.length > 0) { %>
