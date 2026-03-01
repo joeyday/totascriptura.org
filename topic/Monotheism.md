@@ -16,7 +16,7 @@ Dt 6:4–5; Mk 12:28–34 <small>(cites Dt 6:4–5)</small>; Ro 3:30; Gal 3:20; 
 Mt 19:17; Jn 5:44; 1Co 8:4–6 <small>(alludes to Dt 6:4)</small>; Eph 4:4–6; 1Ti 1:17; 2:5; Jas 4:12
 ### There is no one else like God
 {{mt|[[Creator-creature distinction]]}}
-{{monotheism}}
+{{there-is-no-other-god}}
 ### Other so-called gods are no gods at all
 Dt 32:17, 21; Ps 96:5; 115:4; 135:15; Isa 2:8, 20; 14:12–15; 40:18–20; 41:23–29; 44:9–20; 57:13; Jer 10:5, 8, 14; 51:17; Eze 28:1–10; Hos 13:2; Hab 2:18; Ac 7:41; 14:15; 1Co 8:4–6; 12:2; 2Th 2:4; Rev 9:20
 ## See also
