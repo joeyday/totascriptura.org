@@ -4,7 +4,11 @@ categories:
   - "[[Soteriology]]"
 ---
 ![[Pillars.png]]
-<p style="text-align: center; margin-left: 1.35em; margin-right: 1.35em;"><em>In essentials unity, in non-essentials<br />liberty, in all things charity.</em></p>
+
+:::
+*In essentials unity, in non-essentials
+liberty, in all things charity.*
+:::
 
 Passages in this topic are grouped under each heading based on their indication, grammatically, that believing the given doctrine is either **necessary** or **sufficient** for salvation.[^necessary]
 ## God
