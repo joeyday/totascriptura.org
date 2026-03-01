@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title><%= frontmatter.title || 'My Site' %></title>
+</head>
+<body>
+  <header>
+    <a href="/">Home</a>
+  </header>
+  <main>
+    <% if (asideOf) { %>
+    <p>Aside of <a href="<%= asideOf.url %>"><%= asideOf.title %></a></p>
+    <% } %>
+
+    <% if (categories.length > 0) { %>
+    <p>Categories: <% categories.forEach(function(cat, i) { %><a href="<%= cat.url %>"><%= cat.title %></a><%= i < categories.length - 1 ? ', ' : '' %><% }); %></p>
+    <% } %>
+
+    <%- content %>
+
+    <% if (subcategories.length > 0) { %>
+    <section>
+      <h2>Subcategories</h2>
+      <ul>
+        <% subcategories.forEach(function(sub) { %>
+        <li><a href="<%= sub.url %>"><%= sub.title %></a></li>
+        <% }); %>
+      </ul>
+    </section>
+    <% } %>
+
+    <% if (pages.length > 0) { %>
+    <section>
+      <h2>Pages in this category</h2>
+      <ul>
+        <% pages.forEach(function(page) { %>
+        <li><a href="<%= page.url %>"><%= page.title %></a></li>
+        <% }); %>
+      </ul>
+    </section>
+    <% } %>
+
+    <% if (asides.length > 0) { %>
+    <section>
+      <h2>Asides</h2>
+      <ul>
+        <% asides.forEach(function(aside) { %>
+        <li><a href="<%= aside.url %>"><%= aside.title %></a></li>
+        <% }); %>
+      </ul>
+    </section>
+    <% } %>
+  </main>
+</body>
+</html>

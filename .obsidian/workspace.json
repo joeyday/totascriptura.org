@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "3a257c636b29a08c",
+    "type": "split",
+    "children": [
+      {
+        "id": "79ff7f6a54fc6ddb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "157471c5b60b9e4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "topic/Father is God.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Father is God"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b94ffb00d7eb3f25",
+    "type": "split",
+    "children": [
+      {
+        "id": "838685b5ccca07cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1e1bb33e1af0e31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6dc5948113179fe2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5aeb69adf66fbb5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4f56a5c519be420",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c1ce1a1c67b596a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11f8779120f19356",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_topics/Monotheism.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Monotheism"
+            }
+          },
+          {
+            "id": "597328f77d7d0b78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_topics/Monotheism.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Monotheism"
+            }
+          },
+          {
+            "id": "1fa097825400ff5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "06cbec51a81badbc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "260db914157fe007",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_topics/Monotheism.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Monotheism"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "157471c5b60b9e4f",
+  "lastOpenFiles": [
+    "topic/Essential doctrines.md",
+    "template/partials/mt.ejs",
+    "category/Soteriology.md",
+    "topic/Abrahamic covenant.md",
+    "category/Biblical theology.md",
+    "aside/Abrahamic covenant (notes).md",
+    "aside",
+    "_topics/Father is God.md",
+    "topic/Trinity.md",
+    "topic/Monotheism.md",
+    "topic/Jesus is God.md",
+    "topic/God the Father.md",
+    "topic/God the bridegroom.md",
+    "topic/Father is God.md",
+    "template/partials/endmark.ejs",
+    "template/partials/callout.ejs",
+    "template/partials/byline.ejs",
+    "template/partials",
+    "template/layout.ejs",
+    "topic",
+    "template",
+    "package.json",
+    "home.md",
+    "_topics/God the bridegroom.md",
+    "_topics/Trinity.md",
+    "_topics/God the Father.md",
+    "_topics/Jesus is God.md",
+    "_topics/Essential doctrines.md",
+    "image/Cobblestones-and-grass.png",
+    "_topics/Monotheism.md",
+    "_topics/Attributes of God.md",
+    "_topics/Abrahamic covenant.md",
+    "image/Pillars.png",
+    "publish.css.md"
+  ]
+}

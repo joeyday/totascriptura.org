@@ -1,0 +1,14 @@
+{
+  "name": "static-site-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^4.0.1",
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^14.1.1",
+    "markdown-it-footnote": "^4.0.0",
+    "markdown-it-mark": "^4.0.0",
+    "slugify": "^1.6.6"
+  }
+}
