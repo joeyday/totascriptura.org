@@ -1,4 +1,4 @@
 ---
-aside for: "[[Abrahamic covenant]]"
+aside of: "[[Abrahamic covenant]]"
 ---
 Hello

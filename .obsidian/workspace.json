@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topic/Trinity.md",
+                "file": "aside/Abrahamic covenant (notes).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trinity"
+              "title": "Abrahamic covenant (notes)"
             }
           }
         ]
@@ -186,13 +186,13 @@
   },
   "active": "157471c5b60b9e4f",
   "lastOpenFiles": [
+    "topic/Trinity.md",
     "topic/Abrahamic covenant.md",
     "topic/Monotheism.md",
     "topic/Jesus is God.md",
     "Home.md",
     "index.md",
     "About.md",
-    "topic/Trinity.md",
     "template/partials/eternal-generation.ejs",
     "template/partials/trinity-perichoresis.ejs",
     "template/partials/Trinity-perichoresis.ejs",
