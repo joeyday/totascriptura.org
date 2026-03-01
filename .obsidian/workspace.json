@@ -184,8 +184,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "157471c5b60b9e4f",
+  "active": "d1e1bb33e1af0e31",
   "lastOpenFiles": [
+    "template/partials/s.ejs",
     "topic/Essential doctrines.md",
     "template/partials/mt.ejs",
     "category/Soteriology.md",
