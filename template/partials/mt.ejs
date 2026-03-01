@@ -1,2 +1,1 @@
-*Main topic<%= locals.length > 1 ? 's' : '' %>: <%= locals.join(', ') %>
-*
+*Main topic<%= Object.values(locals).length > 1 ? 's' : '' %>: <%= Object.values(locals).join(', ') %>*
