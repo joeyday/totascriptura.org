@@ -7,7 +7,7 @@
 </head>
 <body>
   <main>
-    <h1><%= frontmatter.title %><% if (frontmater.featured) { %>&starf;<% } %></h1>
+    <h1><%= frontmatter.title %><% if (frontmatter.featured) { %><span class="featured-badge">&starf;</span><% } %></h1>
 
     <% if (asideOf) { %>
     <p>Aside of <a href="<%= asideOf.url %>"><%= asideOf.title %></a></p>
