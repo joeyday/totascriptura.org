@@ -248,7 +248,7 @@ async function build() {
     }
 
     let finalUrlPath;
-    if (relDir === "" && baseName.toLowerCase() === "home") {
+    if (relDir === "" && permalink === "home") {
       finalUrlPath = "/";
     } else if ((relDir === "" && permalink === "index") || permalink === "") {
       finalUrlPath = "/";
