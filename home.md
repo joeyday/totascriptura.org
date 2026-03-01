@@ -1,4 +1,3 @@
-
 %%[[File:Avatar_540px_prisma.png|left|link=|alt=Joey Day (Avatar2.png)]]%% %% There’s some CSS acting on this image over at [[MediaWiki:Skinny.css]] %%
 
 Hi, I’m Joey. This project is my small contribution to Christian systematic theology. I’m endeavoring to bring “the total weight of the teaching of Scripture”[^grudem] to bear on many important topics here. For more on how and why the site came to be, read about this project.

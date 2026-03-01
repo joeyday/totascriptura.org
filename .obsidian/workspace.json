@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aside/Abrahamic covenant (notes).md",
+                "file": "topic/Trinity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abrahamic covenant (notes)"
+              "title": "Trinity"
+            }
+          },
+          {
+            "id": "278a84f9d81b7da8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "topic/Monotheism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monotheism"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,15 +199,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "157471c5b60b9e4f",
+  "active": "278a84f9d81b7da8",
   "lastOpenFiles": [
     "topic/Trinity.md",
-    "topic/Abrahamic covenant.md",
-    "topic/Monotheism.md",
     "topic/Jesus is God.md",
+    "topic/Monotheism.md",
+    "topic/Essential doctrines.md",
+    "topic/God the Father.md",
+    "topic/Abrahamic covenant.md",
+    "topic/God the bridegroom.md",
+    "topic/Father is God.md",
+    "Colophon.md",
+    "About.md",
     "Home.md",
     "index.md",
-    "About.md",
+    "aside/Abrahamic covenant (notes).md",
+    "template/style.css",
     "template/partials/eternal-generation.ejs",
     "template/partials/trinity-perichoresis.ejs",
     "template/partials/Trinity-perichoresis.ejs",
@@ -202,14 +224,8 @@
     "template/partials/monotheism.ejs",
     "template/partials/veracity-heading.ejs",
     "template/partials/sovereignty-heading.ejs",
-    "template/partials/omniscience-heading.ejs",
-    "topic/God the Father.md",
-    "topic/God the bridegroom.md",
-    "topic/Father is God.md",
-    "topic/Essential doctrines.md",
     "category/Soteriology.md",
     "category/Biblical theology.md",
-    "aside/Abrahamic covenant (notes).md",
     "_topics/Father is God.md",
     "_topics/God the bridegroom.md",
     "_topics/Trinity.md",
