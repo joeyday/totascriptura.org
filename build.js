@@ -472,9 +472,6 @@ async function build() {
 
     let markdownContent = fileInfo.parsed.content;
 
-    // Step 0: Strip Obsidian comments (%%...%%)
-    markdownContent = markdownContent.replace(/%%[\s\S]*?%%/g, "");
-
     // Step 1: Transform wikilinks (including ![[image]] embeds)
     markdownContent = markdownContent.replace(
       /(!?)\[\[(.*?)\]\]/g,
@@ -536,7 +533,10 @@ async function build() {
       },
     );
 
-    // Step 4: Convert Markdown to HTML
+    // Step 4: Strip Obsidian comments (%%...%%) — after EJS so partial comments are caught
+    markdownContent = markdownContent.replace(/%%[\s\S]*?%%/g, "");
+
+    // Step 5: Convert Markdown to HTML
     const htmlContent = md.render(markdownContent);
 
     // Resolve aside-of
