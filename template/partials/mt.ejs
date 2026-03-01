@@ -1,1 +1,5 @@
+<% const values = locals ? Object.values(locals) : [] %>
+
+<%= JSON.stringify(locals, null, 2) %>
+
 *Main topic<%= Object.values(locals).length > 1 ? 's' : '' %>: <%= Object.values(locals).join(', ') %>*
