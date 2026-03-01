@@ -470,6 +470,10 @@ async function build() {
       continue;
     }
 
+    if (!getFrontmatterValue(fileInfo.parsed.data, "title")) {
+      fileInfo.parsed.data.title = fileInfo.baseName;
+    }
+
     let markdownContent = fileInfo.parsed.content;
 
     // Step 1: Transform wikilinks (including ![[image]] embeds)
