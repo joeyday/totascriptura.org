@@ -59,7 +59,7 @@ Ps 139:7–8; Jn 3:5–7 <small>(cf. 1Jn 3:9)</small>; Ac 5:3–4; 1Co 2:10–11
 
 ### Perichoresis <small>(mutual indwelling)</small>
 {{mt|Perichoresis}}
-{{Trinity-perichoresis}}
+{{trinity-perichoresis}}
 
 ## Distinction
 The persons are not interchangeable, but can be distinguished by their order[^order], relations of origin[^relations], and personal properties[^properties]. These ontological distinctions are revealed to us primarily in the roles assumed by the persons in the economy of creation and redemption.
@@ -69,7 +69,7 @@ Mt 28:19; Eph 2:18
 Mt 19:17 <small>(cf. Mk 10:18; Lk 18:19)</small>; Jn 14:28; 1 Cor 11:3; 15:27–28; 1 Jn 4:14
 ### Son eternally begotten of Father
 {{mt|Eternal generation}}
-{{eternal generation}}
+{{eternal-generation}}
 ### Spirit proceeds from Father and Son
 Jn 14:16–17, 26; 15:26; 16:7, 13–14; 20:22; Ro 8:9; Gal 4:6; Php 1:19
 ### Economy of the Trinity
