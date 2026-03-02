@@ -138,7 +138,29 @@ function resolveFileMapKey(target, fileMap) {
   return raw;
 }
 
-function expandShorthand(text) {
+function resolveWikilinksInText(text, fileMap, imageMap) {
+  return text.replace(/\[\[(.*?)\]\]/g, (match, inner) => {
+    let target = inner;
+    let linkText = inner;
+    if (inner.includes("|")) {
+      const parts = inner.split("|");
+      target = parts[0];
+      linkText = parts.slice(1).join("|");
+    }
+    const searchTarget = target.trim();
+    const ext = path.extname(searchTarget).toLowerCase();
+    if (IMAGE_EXTENSIONS.has(ext)) {
+      const imgUrl = imageMap[searchTarget.toLowerCase()] || searchTarget;
+      return `[${linkText === inner ? searchTarget : linkText}](${imgUrl})`;
+    }
+    let key = searchTarget.toLowerCase();
+    if (key.endsWith(".md")) key = key.substring(0, key.length - 3);
+    const linkUrl = fileMap[key] || `/${slugify(target, { lower: true, strict: true })}`;
+    return `[${linkText}](${linkUrl})`;
+  });
+}
+
+function expandShorthand(text, fileMap, imageMap) {
   text = text.replace(/\{\{(\d+)\}\}/g, (match, num) => {
     return `<%= locals["${num}"] %>`;
   });
@@ -146,65 +168,26 @@ function expandShorthand(text) {
   text = text.replace(
     /\{\{([^}|]+?)(?:\|([^}]*))?\}\}/g,
     (match, name, argsStr) => {
-      name = name.trim();
+      name = name.trim().replace(/^\[\[/, "").replace(/\]\]$/, "").trim();
+      const escapedName = name.replace(/'/g, "\\'");
       if (!argsStr) {
-        return `<%- include('${name}') %>`;
+        return `<%- include('embed', { "file": "${escapedName}" }) %>`;
       }
       const args = argsStr.split("|");
       const argsObj = args
-        .map((arg, i) => `"${i + 1}": "${arg.trim()}"`)
+        .map((arg, i) => {
+          let val = arg.trim();
+          val = resolveWikilinksInText(val, fileMap, imageMap);
+          return `"${i + 1}": "${val.replace(/\\/g, '\\\\').replace(/"/g, '\\"')}"`;
+        })
         .join(", ");
-      return `<%- include('${name}', { ${argsObj} }) %>`;
+      return `<%- include('embed', { "file": "${escapedName}", ${argsObj} }) %>`;
     },
   );
 
   return text;
 }
 
-async function preProcessPartials() {
-  try {
-    await fs.access(PARTIALS_DIR);
-  } catch {
-    return;
-  }
-
-  const files = await fs.readdir(PARTIALS_DIR);
-  for (const file of files) {
-    if (!file.endsWith(".ejs")) continue;
-    const filePath = path.join(PARTIALS_DIR, file);
-    const content = await fs.readFile(filePath, "utf-8");
-    const expanded = expandShorthand(content);
-    if (expanded !== content) {
-      const preprocessedDir = path.join(PARTIALS_DIR, ".preprocessed");
-      await ensureDir(preprocessedDir);
-      await fs.writeFile(path.join(preprocessedDir, file), expanded);
-    }
-  }
-}
-
-async function getPartialsViewDir() {
-  const preprocessedDir = path.join(PARTIALS_DIR, ".preprocessed");
-  try {
-    await fs.access(preprocessedDir);
-    const origFiles = await fs.readdir(PARTIALS_DIR);
-    for (const file of origFiles) {
-      if (!file.endsWith(".ejs")) continue;
-      const prepPath = path.join(preprocessedDir, file);
-      try {
-        await fs.access(prepPath);
-      } catch {
-        const content = await fs.readFile(
-          path.join(PARTIALS_DIR, file),
-          "utf-8",
-        );
-        await fs.writeFile(prepPath, content);
-      }
-    }
-    return preprocessedDir;
-  } catch {
-    return PARTIALS_DIR;
-  }
-}
 
 function parseCategoriesList(raw) {
   if (!raw) return [];
@@ -218,11 +201,9 @@ async function build() {
   await ensureDir(OUTPUT_DIR);
   const layoutTemplate = await fs.readFile(TEMPLATE_PATH, "utf-8");
 
-  await preProcessPartials();
-  const viewsDir = await getPartialsViewDir();
-
   const fileMap = {};
   const titleMap = {};
+  const contentMap = {};
   const filesToProcess = [];
 
   // Discover and copy image files, build image map
@@ -274,6 +255,7 @@ async function build() {
     const key = baseName.toLowerCase().trim();
     fileMap[key] = finalUrlPath;
     titleMap[key] = getFrontmatterValue(parsed.data, "title") || baseName;
+    contentMap[key] = parsed.content;
 
     filesToProcess.push({
       relDir,
@@ -415,12 +397,13 @@ async function build() {
     );
   }
 
-  // Build alphabetical index (exclude asides, categories, and root-level pages; include redirects)
+  // Build alphabetical index (exclude asides, categories, partials, and root-level pages; include redirects)
   const allPages = [];
   for (const fileInfo of filesToProcess) {
     const asideOf = getFrontmatterValue(fileInfo.parsed.data, "aside of");
     if (asideOf) continue;
     if (fileInfo.relDir === "") continue;
+    if (getFrontmatterValue(fileInfo.parsed.data, "hidden")) continue;
     const pageKey = fileInfo.baseName.toLowerCase().trim();
     if (membersMap[pageKey]) continue;
 
@@ -445,6 +428,8 @@ async function build() {
 
   // Pass 2: Render pages
   for (const fileInfo of filesToProcess) {
+    if (getFrontmatterValue(fileInfo.parsed.data, "hidden")) continue;
+
     // Check for alias of (redirect)
     let aliasOfValue = getFrontmatterValue(fileInfo.parsed.data, "alias of");
     if (aliasOfValue) {
@@ -491,6 +476,14 @@ async function build() {
     }
 
     let markdownContent = fileInfo.parsed.content;
+
+    // Step 0: Protect {{...}} embed blocks from wikilink transformation
+    const embedPlaceholders = [];
+    markdownContent = markdownContent.replace(/\{\{([\s\S]*?)\}\}/g, (match) => {
+      const idx = embedPlaceholders.length;
+      embedPlaceholders.push(match);
+      return `\x00EMBED_${idx}\x00`;
+    });
 
     // Step 1: Transform wikilinks (including ![[image]] embeds)
     markdownContent = markdownContent.replace(
@@ -539,17 +532,28 @@ async function build() {
       },
     );
 
+    // Step 1.5: Restore {{...}} embed blocks
+    markdownContent = markdownContent.replace(/\x00EMBED_(\d+)\x00/g, (match, idx) => {
+      return embedPlaceholders[Number(idx)];
+    });
+
     // Step 2: Expand shorthand syntax into EJS
-    markdownContent = expandShorthand(markdownContent);
+    markdownContent = expandShorthand(markdownContent, fileMap, imageMap);
 
     // Step 3: Render EJS (handles includes recursively)
     markdownContent = ejs.render(
       markdownContent,
       {
         frontmatter: fileInfo.parsed.data,
+        contentMap,
+        ejs,
+        fileMap,
+        imageMap,
+        resolveWikilinksInText,
+        expandShorthand,
       },
       {
-        views: [path.resolve(viewsDir)],
+        views: [path.resolve(PARTIALS_DIR)],
       },
     );
 

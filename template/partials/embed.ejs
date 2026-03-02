@@ -1,0 +1,27 @@
+<%
+  const fileName = locals.file;
+  const key = fileName.toLowerCase().trim();
+  let embedContent = contentMap[key] || '';
+  if (!embedContent) {
+    embedContent = `<!-- embed not found: ${fileName} -->`;
+  } else {
+    const numberedArgs = Object.keys(locals)
+      .filter(k => /^\d+$/.test(k))
+      .sort((a, b) => Number(a) - Number(b));
+    for (const n of numberedArgs) {
+      embedContent = embedContent.replace(
+        new RegExp('\\{\\{' + n + '\\}\\}', 'g'),
+        locals[n]
+      );
+    }
+    embedContent = resolveWikilinksInText(embedContent, fileMap, imageMap);
+    embedContent = expandShorthand(embedContent, fileMap, imageMap);
+    const numberedLocals = {};
+    for (const n of numberedArgs) {
+      numberedLocals[n] = locals[n];
+    }
+    const renderLocals = { ...numberedLocals, contentMap, ejs, fileMap, imageMap, resolveWikilinksInText, expandShorthand };
+    embedContent = ejs.render(embedContent, renderLocals, { views: locals.settings?.views });
+  }
+%>
+<%- embedContent %>
