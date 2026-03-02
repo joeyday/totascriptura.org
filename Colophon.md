@@ -2,7 +2,7 @@ Except as otherwise stated below, all content on **Tota Scriptura** is copyright
 ## Software
 ***Tota Scriptura*** is powered by a bespoke artisanal handcrafted static site generator written in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and executed in the [Node.js](https://nodejs.org) runtime, built and deployed to [GitHub Pages](https://docs.github.com/en/pages) via [GitHub Actions](https://github.com/features/actions), and uses [markdown-it](https://www.npmjs.com/package/markdown-it) for [Markdown](https://daringfireball.net/projects/markdown) parsing (or, more accurately, [CommonMark](https://commonmark.org) parsing), [gray-matter](https://www.npmjs.com/package/gray-matter) for [YAML](https://yaml.org) front-matter extraction, and [EJS](https://www.npmjs.com/package/ejs) for templating.
 ## Typeface
-**Tota Scripura** is presented in the humanist sans-serif typeface [FF Meta]() by Erik Spiekermann, courtesy of the awesome [Adobe Fonts](https://fonts.adobe.com/) web font service.
+**Tota Scripura** is presented in Erik Spiekermann’s humanist typefaces [FF Meta Serif](https://fonts.adobe.com/fonts/ff-meta-serif) and [FF Meta](https://fonts.adobe.com/fonts/ff-meta), courtesy of the awesome [Adobe Fonts](https://fonts.adobe.com/) web font service.
 ## Images
 Images used throughout the site are screenshots from my favorite video game, [“The Witness”](https://en.wikipedia.org/wiki/The_Witness_(2016_video_game)), by Thekla, Inc.
 ## Icons
