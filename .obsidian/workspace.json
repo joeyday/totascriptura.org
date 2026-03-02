@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topic/Monotheism.md",
+                "file": "Colophon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monotheism"
+              "title": "Colophon"
             }
           }
         ]
@@ -186,19 +186,19 @@
   },
   "active": "157471c5b60b9e4f",
   "lastOpenFiles": [
+    "Colophon.md",
+    "topic/Monotheism.md",
     "About this project.md",
     "topic/Essential doctrines.md",
     "topic/Trinity.md",
     "Home page.md",
     "image/Autumn.png",
-    "topic/Monotheism.md",
     "template/partials/there-is-no-other-god.ejs",
     "topic/God the Father.md",
     "topic/Jesus is God.md",
     "topic/Abrahamic covenant.md",
     "topic/God the bridegroom.md",
     "topic/Father is God.md",
-    "Colophon.md",
     "index.md",
     "aside/Abrahamic covenant (notes).md",
     "template/style.css",
