@@ -1,3 +1,21 @@
+@font-face {
+    font-family: Entypo;
+    src: url('/asset/entypo.eot');
+    src: url('/asset/entypo.eot?#iefix') format('embedded-opentype'),
+         url('/asset/entypo.woff') format('woff'),
+         url('/asset/entypo.ttf') format('truetype'),
+         url('/asset/entypo.svg') format('svg');
+}
+
+@font-face {
+    font-family: Entypo Social;
+    src: url('entypo/entypo-social.eot');
+    src: url('entypo/entypo-social.eot?#iefix') format('embedded-opentype'),
+         url('entypo/entypo-social.woff') format('woff'),
+         url('entypo/entypo-social.ttf') format('truetype'),
+         url('entypo/entypo-social.svg') format('svg');
+}
+    
 :root {
     /* palette */
     --color-gray: #616161;
@@ -30,8 +48,8 @@
     
     /* semantic fonts */
     --font-primary: var(--font-meta-serif);
-    --font-secondary: var(--font-meta-condensed)
-    --font-fancy: var(--font-meta-headline)
+    --font-secondary: var(--font-meta-condensed);
+    --font-fancy: var(--font-meta-headline);
 }
 
 body {
@@ -77,6 +95,11 @@ main {
     }
 }
 
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 700;
+	clear: both;
+}
+
 h1 {
     font-family: var(--font-fancy);
     font-weight: normal;
@@ -85,6 +108,54 @@ h1 {
 	border-bottom: 1px solid var(--color-stroke);
 	padding-right: 25px; /* Give room for icon on right, e.g. on featured pages */
 	line-height: 1.2em;
+}
+
+h2 {
+    font-family: var(--font-fancy);
+    font-weight: normal;
+	font-size: 1.285em; /* 14px·1.285=18px */
+	margin: 1em 0 0.777em; /* 18px·0.777=14px */
+	border-bottom: 1px solid #ccc;
+}
+	
+h2 + p .main-topic {
+    font-family: var(--font-secondary);
+    font-size: 0.857em; /* 14px·0.857=12px */
+    display: block;
+    margin: -0.75em 0 1em 1.4em;
+}
+	
+/* h2 + p .main-topic i {
+    font-style: normal;
+} */
+    
+h3 {
+    -webkit-font-feature-settings: "kern", "liga", "c2sc", "smcp";
+    -moz-font-feature-settings: "kern", "liga", "c2sc", "smcp";
+    font-feature-settings: "kern", "liga", "c2sc", "smcp";
+    font-weight: normal;
+	font-size: 1em; /* 14px·1=14px */
+	margin: 1em 0 0; /* 14px·1=14px */
+}
+
+h4, h5, h6 {
+	font-size: 1em; /* 14px·1=14px */
+	margin: 1em 0 0; /* 14px·1=14px */
+}
+	
+h3 + p {
+    margin: 0 0 1em 1.4em;
+    color: #888;
+}
+    
+h3 + p .main-topic {
+    font-family: var(--font-secondary);
+    font-size: 0.857em; /* 14px·0.857=12px */
+    display: block;
+}
+
+strong, b {
+    font-weight: 700;
 }
 
 a {
