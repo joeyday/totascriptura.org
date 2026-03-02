@@ -1,5 +1,34 @@
-body {
+:root {
+    /* palette */
+    --color-gray: #616161;
+    --color-red: #e54028;
+    --color-orange: #f18d05;
+    --color-dark-green: #32742c;
+    --color-green: #61ae24;
+    --color-light-green: #d0d102;
+    --color-dark-blue: #113f8c;
+    --color-blue: #00a1cb;
+    --color-teal: #01a4a4;
+    --color-pink: #d70060;
+    
+    --color-background: var(--color-gray);
+    --color-primary: var(--color-green);
+    --color-secondary: var(--color-blue);
+    --color-tertiary: var(--color-pink);
+    
+    --color-text: #000;
+    --color-text-inverted: #fff;
+    --color-text-background: #fff;
+}
 
+body, header, nav, footer {
+    color: var(--color-text-inverted);
+    background-color: var(--color-background);
+}
+
+main {
+    color: var(--color-text);
+    background: var (--color-text-background);
 }
 
 img {
