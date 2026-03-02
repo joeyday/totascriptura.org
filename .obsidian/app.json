@@ -1,5 +1,5 @@
 {
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "image",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": false
 }
