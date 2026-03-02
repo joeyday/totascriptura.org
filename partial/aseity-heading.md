@@ -1,4 +1,4 @@
 ---
 hidden: "true"
 ---
-Aseity ~(independent, self-existent, self-sufficient)~
+### Aseity ~(independent, self-existent, self-sufficient)~

@@ -1,4 +1,4 @@
 ---
 hidden: "true"
 ---
-Omnipotence ~(all-powerful)~
+### Omnipotence ~(all-powerful)~

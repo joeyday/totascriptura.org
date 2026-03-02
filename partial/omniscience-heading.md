@@ -1,4 +1,4 @@
 ---
 hidden: "true"
 ---
-Omniscience ~(all-knowing)~
+### Omniscience ~(all-knowing)~
