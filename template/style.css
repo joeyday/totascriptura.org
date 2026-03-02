@@ -28,7 +28,7 @@ body, header, nav, footer {
 
 main {
     color: var(--color-text);
-    background: var (--color-text-background);
+    background-color: var (--color-text-background);
 }
 
 img {
