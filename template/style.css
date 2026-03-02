@@ -144,6 +144,7 @@ h4, h5, h6 {
 }
 	
 h3 + p,
+h3 + div,
 h3 + div.main-topic + p {
     margin: 0 0 1em 1.4em;
     color: #888;
