@@ -48,12 +48,13 @@ main {
     color: var(--color-text);
     background-color: var(--color-text-background);
     
-    a, a.external {
-        color: var(--color-secondary);
+    a {
+        color: var(--color-primary);
     }
     
-    a.internal {
-        color: var(--color-primary);
+    a.external,
+    a.rtBibleRef {
+        color: var(--color-secondary);
     }
     
     a.broken {
