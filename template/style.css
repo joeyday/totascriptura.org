@@ -24,11 +24,35 @@
 body, header, nav, footer {
     color: var(--color-text-inverted);
     background-color: var(--color-background);
+    
+    a {
+        color: var(--color-text-inverted);
+    }
 }
 
 main {
     color: var(--color-text);
     background-color: var (--color-text-background);
+    
+    a.internal {
+        color: var(--color-primary);
+    }
+    
+    a.external {
+        color: var(--color-secondary);
+    }
+    
+    a.broken {
+        color: var(--color-tertiary);
+    }
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 img {
