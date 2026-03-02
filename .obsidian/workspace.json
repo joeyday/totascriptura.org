@@ -186,6 +186,19 @@
   },
   "active": "157471c5b60b9e4f",
   "lastOpenFiles": [
+    "image/mstile-144x144.png",
+    "image/favicon.ico",
+    "image/apple-touch-icon-57x57.png",
+    "image/apple-touch-icon-60x60.png",
+    "image/apple-touch-icon-72x72.png",
+    "image/apple-touch-icon-114x114.png",
+    "image/apple-touch-icon-120x120.png",
+    "image/apple-touch-icon-144x144.png",
+    "image/apple-touch-icon-152x152.png",
+    "image/apple-touch-icon-180x180.png",
+    "image/favicon-32x32.png",
+    "image/favicon-194x194.png",
+    "image/favicon (1).ico",
     "topic/God the Father.md",
     "topic/Essential doctrines.md",
     "partial/mt.md",
@@ -212,17 +225,12 @@
     "partial/immutability-heading.ejs",
     "partial/impeccability-heading.ejs",
     "partial/ineffability-heading.ejs",
-    "partial/omnipresence-heading.ejs",
-    "partial/omniscience-heading.ejs",
     "topic/Jesus is God.md",
     "topic/Monotheism.md",
     "topic/Trinity.md",
     "Colophon.md",
     "About this project.md",
     "Home page.md",
-    "image/Autumn.png",
-    "topic/Abrahamic covenant.md",
-    "image/Cobblestones-and-grass.png",
-    "image/Pillars.png"
+    "topic/Abrahamic covenant.md"
   ]
 }

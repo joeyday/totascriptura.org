@@ -731,6 +731,24 @@ async function build() {
   }
 
   await fs.writeFile(path.join(OUTPUT_DIR, ".nojekyll"), "");
+
+  // Copy CSS files from template/ to dist/asset/
+  try {
+    const templateFiles = await fs.readdir("template");
+    const cssFiles = templateFiles.filter((f) => f.endsWith(".css"));
+    if (cssFiles.length > 0) {
+      const cssOutDir = path.join(OUTPUT_DIR, "asset");
+      await ensureDir(cssOutDir);
+      for (const cssFile of cssFiles) {
+        await fs.copyFile(
+          path.join("template", cssFile),
+          path.join(cssOutDir, cssFile),
+        );
+      }
+      console.log(`Copied ${cssFiles.length} CSS file(s) to dist/asset/`);
+    }
+  } catch {
+  }
 }
 
 build().catch((err) => {
