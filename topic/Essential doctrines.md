@@ -14,15 +14,15 @@ Passages in this topic are grouped under each heading based on their indication,
 ## God
 ### God <small>(non-specific)</small>
 *Sufficient:* Jn 4:22–24; 17:3; Eph 1:17–18; 2Pe 1:2–4
-## God exists <small>(theism)</small>
+### God exists ~(theism)~
 *Necessary:* Heb 11:1–3, 6
-### God is one <small>(monotheism)</small>
+### God is one ~(monotheism)~
 {{mt|[[Monotheism]]|[[Creator-creature distinction]]}}
 *Necessary:* Ex 20:2–3; Mk 12:28–34 <small>(cites Dt 6:4–5)</small>; Jas 2:19
 ## Jesus
-### Jesus <small>(non-specific)</small>
+### Jesus ~(non-specific)~
 Sufficient: Jn 3:16–18, 36; 6:28–29, 40, 47; 11:25–27; Ac 4:12; 10:43; 11:17; 16:31; 26:18; Gal 2:16; 3:22; 1Jn 3:23
-### Jesus is Lord, God <small>(Yahweh)</small>
+### Jesus is Lord, God ~(Yahweh)~
 {{mt|[[Jesus is God]]}}
 *Necessary:* Jn 5:22–23 <small>(cf. Isa 8:13; 1Pe 3:15)</small>; Jn 8:21–25 <small>(cf. Jn 8:28, 58)</small>; *Sufficient:* Ro 10:9, 13 <small>(cites Joel 2:32)</small> <small>— *see also 1Co 12:3; 2Co 4:3–5*</small>
 ### Jesus is Christ, Son of God
@@ -33,7 +33,7 @@ Sufficient: Jn 3:16–18, 36; 6:28–29, 40, 47; 11:25–27; Ac 4:12; 10:43; 11:
 {{mt|[[Holy Spirit is God]]}}
 *Necessary:* Mt 12:31–32 <small>(cf. Mk 3:28–29; Lk 12:10)</small>
 ## The Gospel
-### The gospel <small>(non-specific)</small>
+### The gospel ~(non-specific)~
 {{mt|[[Gospel]]}}
 *Both necessary and sufficient:* Mk 16:15–16; *Necessary:* 2Co 11:3–4; Gal 1:6–9; *Sufficient:* Ac 11:14; Ro 1:16–17; 1Co 1:17–18; Eph 1:12–13
 ### We have sinned
@@ -42,13 +42,13 @@ Sufficient: Jn 3:16–18, 36; 6:28–29, 40, 47; 11:25–27; Ac 4:12; 10:43; 11:
 ### Christ was sent by God
 {{mt|[[Eternal generation]]}}
 *Sufficient:* Jn 16:27-28
-### Christ came in the flesh <small>(incarnation)</small>
+### Christ came in the flesh ~(incarnation)~
 {{mt|[[Hypostatic union]]}}
 *Necessary:* 1Jn 4:2–3; 2Jn 1:7–11
 ### Christ died for our sins, was buried, was raised on the third day
 {{mt|[[Atonement]]}}
 *Sufficient:* 1Co 15:1–4
-### Christ was raised <small>(resurrection)</small>
+### Christ was raised ~(resurrection)~
 {{mt|[[Resurrection]]}}
 *Necessary:* 1Co 15:14, 17; *Sufficient:* Ro 10:9
 ### Salvation by grace through faith in Christ
