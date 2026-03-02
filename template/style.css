@@ -19,11 +19,17 @@
     --color-text: #000;
     --color-text-inverted: #fff;
     --color-text-background: #fff;
+    
+    --font-serif: ff-meta-serif-web-pro, serif;
+    --font-sans-serif: ff-meta-web-pro-condensed, sans-serif;
+    --font-serif-headline: ff-meta-headline-web-pro, sans-serif;
 }
 
 body {
     margin: 0;
     padding: 0;
+    
+    font-family: var(--font-serif);
 }
 
 body {
