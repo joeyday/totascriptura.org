@@ -20,8 +20,8 @@
     for (const n of numberedArgs) {
       numberedLocals[n] = locals[n];
     }
-    const renderLocals = { ...numberedLocals, contentMap, ejs, fileMap, imageMap, resolveWikilinksInText, expandShorthand };
-    embedContent = ejs.render(embedContent, renderLocals, { views: locals.settings?.views });
+    const renderLocals = { ...numberedLocals, contentMap, ejs, fileMap, imageMap, resolveWikilinksInText, expandShorthand, viewsPath };
+    embedContent = ejs.render(embedContent, renderLocals, { views: viewsPath });
   }
 %>
 <%- embedContent %>

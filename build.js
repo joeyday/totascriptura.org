@@ -551,6 +551,7 @@ async function build() {
         imageMap,
         resolveWikilinksInText,
         expandShorthand,
+        viewsPath: [path.resolve(PARTIALS_DIR)],
       },
       {
         views: [path.resolve(PARTIALS_DIR)],
