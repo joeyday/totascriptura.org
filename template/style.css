@@ -48,12 +48,12 @@ main {
     color: var(--color-text);
     background-color: var(--color-text-background);
     
-    a.internal {
-        color: var(--color-primary);
+    a, a.external {
+        color: var(--color-secondary);
     }
     
-    a.external {
-        color: var(--color-secondary);
+    a.internal {
+        color: var(--color-primary);
     }
     
     a.broken {
