@@ -21,9 +21,20 @@
     --color-text-background: #fff;
 }
 
-body, header, nav, footer {
-    color: var(--color-text-inverted);
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
     background-color: var(--color-background);
+}
+
+header, nav, footer {
+    margin: 0;
+    padding: 1em;
+
+    color: var(--color-text-inverted);
     
     a {
         color: var(--color-text-inverted);
@@ -31,8 +42,11 @@ body, header, nav, footer {
 }
 
 main {
+    margin: 0;
+    padding: 1em;
+
     color: var(--color-text);
-    background-color: var (--color-text-background);
+    background-color: var(--color-text-background);
     
     a.internal {
         color: var(--color-primary);
