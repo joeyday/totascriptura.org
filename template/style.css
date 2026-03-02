@@ -1,6 +1,7 @@
 :root {
     /* palette */
     --color-gray: #616161;
+    --color-light-gray: #999;
     --color-red: #e54028;
     --color-orange: #f18d05;
     --color-dark-green: #32742c;
@@ -11,25 +12,33 @@
     --color-teal: #01a4a4;
     --color-pink: #d70060;
     
+    /* fonts */
+    --font-meta-serif: ff-meta-serif-web-pro, serif;
+    --font-meta-condensed: ff-meta-web-pro-condensed, sans-serif;
+    --font-meta-headline: ff-meta-headline-web-pro, sans-serif;
+    
+    /* semantic colors */
     --color-background: var(--color-gray);
     --color-primary: var(--color-green);
     --color-secondary: var(--color-blue);
     --color-tertiary: var(--color-pink);
+    --color-stroke: var(--color-light-gray);
     
     --color-text: #000;
     --color-text-inverted: #fff;
     --color-text-background: #fff;
     
-    --font-serif: ff-meta-serif-web-pro, serif;
-    --font-sans-serif: ff-meta-web-pro-condensed, sans-serif;
-    --font-serif-headline: ff-meta-headline-web-pro, sans-serif;
+    /* semantic fonts */
+    --font-primary: var(--font-meta-serif);
+    --font-secondary: var(--font-meta-condensed)
+    --font-fancy: var(--font-meta-headline)
 }
 
 body {
     margin: 0;
     padding: 0;
     
-    font-family: var(--font-serif);
+    font-family: var(--font-primary);
 }
 
 body {
@@ -66,6 +75,16 @@ main {
     a.broken {
         color: var(--color-tertiary);
     }
+}
+
+h1 {
+    font-family: var(--font-fancy);
+    font-weight: normal;
+	font-size: 1.571em; /* 14px·1.375=22px */
+	margin: 0 0 0.255em; /* 1.571em·0.255=0.4em */
+	border-bottom: 1px solid var(--color-stroke);
+	padding-right: 25px; /* Give room for icon on right, e.g. on featured pages */
+	line-height: 1.2em;
 }
 
 a {
