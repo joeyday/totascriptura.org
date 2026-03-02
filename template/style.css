@@ -146,12 +146,20 @@ h4, h5, h6 {
 h3 + p,
 h3 + div p,
 h3 + div.main-topic + p {
-    margin: 0 0 1em 1.4em;
     color: #888;
+}
+
+h3 + p,
+h3 + div.main-topic + p {
+    margin: 0 0 1em 1.4em;
 }
 
 h3 + div {
     margin: 0;
+}
+
+h3 + div p {
+    margin: 0 0 0 1.4em;
 }
     
 h3 + div.main-topic {
