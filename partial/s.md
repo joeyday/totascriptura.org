@@ -1,1 +1,4 @@
-<small>{{1}}</small>
+---
+hidden: "true"
+---
+<small>— {{1}}</small>

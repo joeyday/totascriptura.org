@@ -1,3 +1,6 @@
+---
+hidden: "true"
+---
 <%
   const numberedValues = Object.keys(locals)
     .filter(key => /^\d+$/.test(key))   // keep only numeric keys
