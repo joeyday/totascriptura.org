@@ -48,7 +48,7 @@ Mt 28:18; Mk 2:5–7; Eph 1:21–23; Col 2:10; Heb 2:6–8; 1Pe 3:22 {{s|cf. Ps 
 Jn 14:6; 18:37; Eph 4:21 {{s|cf. Ps 31:5; Pr 30:5; Isa 65:16; Jn 3:33; 17:17–19; Ro 3:4}}
 ## Jesus’ own claims about himself
 ### “I AM” statements
-Mt 14:27 ~(cf. Mk 6:50; Jn 6:20)~; Mk 14:61–63 ~(cf. Lk 22:70)~; Jn 4:26; 6:20; 8:24, 28, 58; 13:19; 18:5–6, 8[^1] ~— cf. Ex 3:13–14; Dt 32:39; Ps 90:2; Isa 41:4; 43:10, 13, 25; 45:18; 46:4; 48:12; 51:12; 52:6~ ~— contrast Isa 47:8; Zep 2:15; Mk 13:6 ~(cf. Lk 21:8)~~
+Mt 14:27 ~(cf. Mk 6:50; Jn 6:20)~; Mk 14:61–63 ~(cf. Lk 22:70)~; Jn 4:26; 6:20; 8:24, 28, 58; 13:19; 18:5–6, 8[^1] ~— cf. Ex 3:13–14; Dt 32:39; Ps 90:2; Isa 41:4; 43:10, 13, 25; 45:18; 46:4; 48:12; 51:12; 52:6~ ~— contrast Isa 47:8; Zep 2:15; Mk 13:6 <small>(cf. Lk 21:8)</small>~
 ### God’s word is his word
 Mt 24:35 ~(cf. Mk 13:31)~
 ### God’s angels are his angels
