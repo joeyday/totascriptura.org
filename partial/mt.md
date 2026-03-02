@@ -9,5 +9,7 @@ hidden: "true"
 %>
 
 <% if (numberedValues.length) { %>
+::: main-topic
 *Main topic<%= numberedValues.length > 1 ? 's' : '' %>: <%= numberedValues.join(', ') %>*
+:::
 <% } %>

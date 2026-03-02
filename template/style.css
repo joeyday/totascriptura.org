@@ -118,14 +118,14 @@ h2 {
 	border-bottom: 1px solid #ccc;
 }
 	
-h2 + p .main-topic {
+h2 + div.main-topic {
     font-family: var(--font-secondary);
     font-size: 0.857em; /* 14px·0.857=12px */
     display: block;
     margin: -0.75em 0 1em 1.4em;
 }
 	
-/* h2 + p .main-topic i {
+/* h2 + p.main-topic i {
     font-style: normal;
 } */
     
@@ -148,7 +148,7 @@ h3 + p {
     color: #888;
 }
     
-h3 + p .main-topic {
+h3 + div.main-topic {
     font-family: var(--font-secondary);
     font-size: 0.857em; /* 14px·0.857=12px */
     display: block;
