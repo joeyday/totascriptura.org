@@ -12,7 +12,7 @@ Mt 3:17; 4:3, 6; 8:29; 11:27; 14:33; 16:16–17; 17:5; 26:63; 27:40, 43, 54; Mk 
 Mk 13:31 <small>(Isa 40:8)</small>; Lk 19:10 <small>(Eze 34:16, 22)</small>; Jn 12:41 <small>(Isa 6:1, 5)</small>; Jn 19:37 <small>(Zec 12:10)</small>; Ro 9:33 <small>(Isa 8:14)</small>; Ro 10:13 <small>(Joel 2:32)</small>; 1Co 10:9 <small>(Nu 21:5–6; Ps 78:18)</small>; 1Co 10:20–22 <small>(Dt 32:17, 21)</small>; Eph 4:8 <small>(Ps 68:18)</small>; Heb 1:6 <small>(Dt 32:43; Ps 97:7)</small>; Heb 1:10–12 <small>(Ps 102:25–27)</small>; 1Pe 2:8 <small>(Isa 8:14)</small>; 1Pe 3:14–15 <small>(Isa 8:12–13)</small>; Rev 22:12 <small>(Isa 40:10)</small>
 ## Jesus has names of God
 ### God
-{{jesus-is-god}} {{s|see also Mt 1:23 <small>(cites Isa 7:14)</small>; Ac 20:28 <small>(but see translators’ note)</small>; 1Jn 5:20}}
+{{[[jesus-is-god]]}} ~— see also Mt 1:23 ~(cites Isa 7:14)~; Ac 20:28 ~(but see translators’ note)~; 1Jn 5:20~
 ### Lord
 Mt 3:3 <small>(cites Isa 40:3)</small>; Mt 22:41–46 <small>(cf. Mk 12:35–37; Lk 20:41–44; cites Ps 110:1)</small>; Lk 1:43; 2:11; Ac 2:34–36 <small>(cites Ps 110:1)</small>; 1Co 8:6; 12:3; Heb 1:10–12 <small>(cites Ps 102:25–27)</small>
 ### King of Kings, Lord of Lords
