@@ -9,6 +9,4 @@ You’re welcome to browse [my favorite topics](/index/featured) or all topics [
 
 If anything here either helps you or is clearly incorrect or unhelpful, you’re welcome to send feedback via [Mastodon](https://mastodon.social/@joeyday) or [Facebook](http://facebook.com/joeynday).
 
-Hello, World?
-
 [^grudem]: Grudem, Wayne (2009). _Systematic Theology: An Introduction to Biblical Doctrine_ (p. 28). Zondervan.
