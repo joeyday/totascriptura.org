@@ -1,4 +1,4 @@
 ---
 hidden: "true"
 ---
-<small>— {{1}}</small>
+<small>— *{{1}}*</small>
