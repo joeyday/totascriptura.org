@@ -51,6 +51,15 @@ const IMAGE_EXTENSIONS = new Set([
   ".ico",
   ".bmp",
 ]);
+const ASSET_EXTENSIONS = new Set([
+  ...IMAGE_EXTENSIONS,
+  ".css",
+  ".eot",
+  ".otf",
+  ".ttf",
+  ".woff",
+  ".woff2",
+]);
 
 async function ensureDir(dir) {
   try {
@@ -88,7 +97,9 @@ async function findMarkdownFiles(dir, rootDir = dir) {
   return results;
 }
 
-async function findImageFiles(dir, rootDir = dir) {
+const ASSET_SKIP_DIRS = new Set(["node_modules", "dist", ".git", ".github", ".local"]);
+
+async function findAssetFiles(dir, rootDir = dir) {
   const results = [];
   let entries;
   try {
@@ -100,12 +111,12 @@ async function findImageFiles(dir, rootDir = dir) {
   for (const entry of entries) {
     const fullPath = path.join(dir, entry.name);
     if (entry.isDirectory()) {
-      if (SKIP_DIRS.has(entry.name) || entry.name.startsWith(".")) continue;
-      const subResults = await findImageFiles(fullPath, rootDir);
+      if (ASSET_SKIP_DIRS.has(entry.name) || entry.name.startsWith(".")) continue;
+      const subResults = await findAssetFiles(fullPath, rootDir);
       results.push(...subResults);
     } else if (entry.isFile()) {
       const ext = path.extname(entry.name).toLowerCase();
-      if (IMAGE_EXTENSIONS.has(ext)) {
+      if (ASSET_EXTENSIONS.has(ext)) {
         results.push({ filePath: fullPath, fileName: entry.name });
       }
     }
@@ -206,20 +217,23 @@ async function build() {
   const contentMap = {};
   const filesToProcess = [];
 
-  // Discover and copy image files, build image map
+  // Discover and copy asset files (images, CSS, fonts), build image map
   const imageMap = {};
-  const imageFiles = await findImageFiles(".");
+  const assetFiles = await findAssetFiles(".");
   const assetsOutDir = path.join(OUTPUT_DIR, "asset");
-  if (imageFiles.length > 0) {
+  if (assetFiles.length > 0) {
     await ensureDir(assetsOutDir);
   }
-  for (const { filePath: imgPath, fileName: imgName } of imageFiles) {
-    const outPath = path.join(assetsOutDir, imgName);
-    await fs.copyFile(imgPath, outPath);
-    imageMap[imgName.toLowerCase()] = `/asset/${imgName}`;
+  for (const { filePath: assetPath, fileName: assetName } of assetFiles) {
+    const outPath = path.join(assetsOutDir, assetName);
+    await fs.copyFile(assetPath, outPath);
+    const ext = path.extname(assetName).toLowerCase();
+    if (IMAGE_EXTENSIONS.has(ext)) {
+      imageMap[assetName.toLowerCase()] = `/asset/${assetName}`;
+    }
   }
-  if (imageFiles.length > 0) {
-    console.log(`Copied ${imageFiles.length} image(s) to dist/asset/`);
+  if (assetFiles.length > 0) {
+    console.log(`Copied ${assetFiles.length} asset(s) to dist/asset/`);
   }
 
   const mdFiles = await findMarkdownFiles(".");
@@ -731,24 +745,6 @@ async function build() {
   }
 
   await fs.writeFile(path.join(OUTPUT_DIR, ".nojekyll"), "");
-
-  // Copy CSS files from template/ to dist/asset/
-  try {
-    const templateFiles = await fs.readdir("template");
-    const cssFiles = templateFiles.filter((f) => f.endsWith(".css"));
-    if (cssFiles.length > 0) {
-      const cssOutDir = path.join(OUTPUT_DIR, "asset");
-      await ensureDir(cssOutDir);
-      for (const cssFile of cssFiles) {
-        await fs.copyFile(
-          path.join("template", cssFile),
-          path.join(cssOutDir, cssFile),
-        );
-      }
-      console.log(`Copied ${cssFiles.length} CSS file(s) to dist/asset/`);
-    }
-  } catch {
-  }
 }
 
 build().catch((err) => {
