@@ -145,7 +145,7 @@ h3 + p {
     }
     
 h3 + p .main-topic {
-    font-family: var(--font-secondary)
+    font-family: var(--font-secondary);
     font-size: 0.857em; /* 14px·0.857=12px */
     display: block;
 }
