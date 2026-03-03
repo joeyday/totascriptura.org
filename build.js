@@ -302,6 +302,9 @@ async function build() {
     fileMap[key] = finalUrlPath;
 
     const title = getFrontmatterValue(parsed.data, "title") || baseName;
+    if (!getFrontmatterValue(parsed.data, "title")) {
+      parsed.data.title = baseName;
+    }
     titleMap[key] = title;
     contentMap[key] = parsed.content;
 
