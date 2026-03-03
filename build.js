@@ -5,8 +5,41 @@ import markdownIt from "markdown-it";
 import markdownItFootnote from "markdown-it-footnote";
 import markdownItMark from "markdown-it-mark";
 import markdownItContainer from "markdown-it-container";
+import markdownItBracketedSpans from "markdown-it-bracketed-spans";
+import markdownItAttrs from "markdown-it-attrs";
 import ejs from "ejs";
 import slugify from "slugify";
+
+function parseFencedAttrs(info) {
+  const attrs = { classes: [], id: null, other: {} };
+  if (!info) return attrs;
+  const m = info.match(/^\x01(.*)\x01$/);
+  if (!m) {
+    attrs.classes.push(info);
+    return attrs;
+  }
+  const tokens = m[1].match(/(?:[^\s"']+|"[^"]*"|'[^']*')+/g) || [];
+  for (const token of tokens) {
+    if (token.startsWith(".")) {
+      attrs.classes.push(token.slice(1));
+    } else if (token.startsWith("#")) {
+      attrs.id = token.slice(1);
+    } else if (token.includes("=")) {
+      const eq = token.indexOf("=");
+      const key = token.slice(0, eq);
+      let val = token.slice(eq + 1);
+      if ((val.startsWith('"') && val.endsWith('"')) || (val.startsWith("'") && val.endsWith("'"))) {
+        val = val.slice(1, -1);
+      }
+      attrs.other[key] = val;
+    }
+  }
+  return attrs;
+}
+
+function protectFencedAttrs(text) {
+  return text.replace(/^(:::)\s*\{([^}]+)\}/gm, (m, colons, content) => colons + "\x01" + content + "\x01");
+}
 
 const md = markdownIt({
   html: true,
@@ -17,16 +50,26 @@ const md = markdownIt({
   .enable("strikethrough")
   .use(markdownItFootnote)
   .use(markdownItMark)
+  .use(markdownItBracketedSpans)
   .use(markdownItContainer, "", {
     validate: () => true,
     render(tokens, idx) {
       const info = tokens[idx].info.trim();
       if (tokens[idx].nesting === 1) {
-        return info ? `<div class="${info}">\n` : "<div>\n";
+        if (!info) return "<div>\n";
+        const parsed = parseFencedAttrs(info);
+        let tag = "<div";
+        if (parsed.id) tag += ` id="${parsed.id}"`;
+        if (parsed.classes.length) tag += ` class="${parsed.classes.join(" ")}"`;
+        for (const [k, v] of Object.entries(parsed.other)) {
+          tag += ` ${k}="${v}"`;
+        }
+        return tag + ">\n";
       }
       return "</div>\n";
     },
-  });
+  })
+  .use(markdownItAttrs);
 
 const OUTPUT_DIR = "dist";
 const TEMPLATE_PATH = path.join("template", "layout.ejs");
@@ -371,6 +414,7 @@ async function build() {
   const allKnownUrls = new Set([
     ...Object.values(fileMap),
     ...Object.values(imageMap),
+    "/search",
   ]);
   const draftUrls = new Set(draftPages.map((p) => p.url));
   const featuredUrls = new Set(featuredPages.map((p) => p.url));
@@ -441,6 +485,7 @@ async function build() {
   );
 
   // Pass 2: Render pages
+  const searchDocs = [];
   for (const fileInfo of filesToProcess) {
     if (getFrontmatterValue(fileInfo.parsed.data, "hidden")) continue;
 
@@ -579,6 +624,7 @@ async function build() {
     markdownContent = markdownContent.replace(/(?<!~)~(?!~)([^~\n]+?)(?<!~)~(?!~)/g, "<small>$1</small>");
 
     // Step 6: Convert Markdown to HTML
+    markdownContent = protectFencedAttrs(markdownContent);
     const htmlContent = md.render(markdownContent);
 
     // Resolve aside-of
@@ -662,6 +708,15 @@ async function build() {
     console.log(
       `Built: ${fileInfo.filePath} -> ${outFilePath} (URL: ${fileInfo.finalUrlPath})`,
     );
+
+    const pageTitle = getFrontmatterValue(fileInfo.parsed.data, "title") || fileInfo.baseName;
+    const bodyText = htmlContent.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
+    searchDocs.push({
+      id: fileInfo.finalUrlPath,
+      title: pageTitle,
+      url: fileInfo.finalUrlPath,
+      body: bodyText,
+    });
   }
 
   // Collect which pages belong to a category
@@ -743,6 +798,95 @@ async function build() {
     await fs.writeFile(path.join(outDir, "index.html"), html);
     console.log(`Built (index): /index/${indexPage.slug}`);
   }
+
+  // Generate search index
+  await fs.writeFile(
+    path.join(OUTPUT_DIR, "search-index.json"),
+    JSON.stringify(searchDocs),
+  );
+  console.log(`Built search index: ${searchDocs.length} document(s)`);
+
+  // Generate client-side search script
+  const searchJs = `(function() {
+  var index = null;
+  var docs = null;
+  var input = document.getElementById("search-input");
+  var results = document.getElementById("search-results");
+
+  function render(hits) {
+    if (!hits.length) {
+      results.innerHTML = input.value.trim() ? "<p>No results found.</p>" : "";
+      return;
+    }
+    var html = "<ul>";
+    for (var i = 0; i < hits.length; i++) {
+      html += '<li><a href="' + hits[i].url + '">' + hits[i].title + '</a></li>';
+    }
+    html += "</ul>";
+    results.innerHTML = html;
+  }
+
+  function doSearch() {
+    if (!index) return;
+    var q = input.value.trim();
+    var url = new URL(window.location);
+    if (q) {
+      url.searchParams.set("q", q);
+    } else {
+      url.searchParams.delete("q");
+    }
+    history.replaceState(null, "", url);
+    if (!q) { render([]); return; }
+    var hits = index.search(q, { prefix: true, fuzzy: 0.2, boost: { title: 2 } });
+    var mapped = [];
+    for (var i = 0; i < hits.length; i++) {
+      var doc = docs.find(function(d) { return d.id === hits[i].id; });
+      if (doc) mapped.push({ title: doc.title, url: doc.url });
+    }
+    render(mapped);
+  }
+
+  fetch("/search-index.json")
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      docs = data;
+      index = new MiniSearch({ fields: ["title", "body"], storeFields: ["title", "url"] });
+      index.addAll(docs);
+      var params = new URLSearchParams(window.location.search);
+      var q = params.get("q");
+      if (q) { input.value = q; }
+      doSearch();
+    });
+
+  input.addEventListener("input", doSearch);
+})();
+`;
+  await fs.writeFile(path.join(OUTPUT_DIR, "search.js"), searchJs);
+
+  // Generate search page
+  const searchContent = `<div id="search-page">
+  <input type="text" id="search-input" placeholder="Search…" autofocus>
+  <div id="search-results"></div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/minisearch@7/dist/umd/index.min.js"><\/script>
+<script src="/search.js"><\/script>`;
+
+  const searchHtml = classifyLinks(
+    ejs.render(layoutTemplate, {
+      frontmatter: { title: "Search" },
+      content: searchContent,
+      asideOf: null,
+      asides: [],
+      categories: [],
+      subcategories: [],
+      pages: [],
+    }),
+  );
+
+  const searchOutDir = path.join(OUTPUT_DIR, "search");
+  await ensureDir(searchOutDir);
+  await fs.writeFile(path.join(searchOutDir, "index.html"), searchHtml);
+  console.log("Built: /search");
 
   await fs.writeFile(path.join(OUTPUT_DIR, ".nojekyll"), "");
 }
