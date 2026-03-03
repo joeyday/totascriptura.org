@@ -117,18 +117,7 @@ h2 {
 	margin: 1em 0 0.777em; /* 18px·0.777=14px */
 	border-bottom: 1px solid #ccc;
 }
-	
-h2 + div.main-topic {
-    font-family: var(--font-secondary);
-    font-size: 0.857em; /* 14px·0.857=12px */
-    display: block;
-    margin: -0.75em 0 1em 1.4em;
-}
-	
-/* h2 + p.main-topic i {
-    font-style: normal;
-} */
-    
+	    
 h3 {
     -webkit-font-feature-settings: "kern", "liga", "c2sc", "smcp";
     -moz-font-feature-settings: "kern", "liga", "c2sc", "smcp";
@@ -143,27 +132,20 @@ h4, h5, h6 {
 	margin: 1em 0 0; /* 14px·1=14px */
 }
 	
-h3 + p,
-h3 + div p,
-h3 + div.main-topic + p {
-    color: #888;
-}
-
-h3 + p,
-h3 + div.main-topic + p {
-    margin: 0 0 1em 1.4em;
-}
-
-h3 + div {
-    margin: 0;
-}
-
-h3 + div p {
-    margin: 0 0 0 1.4em;
+h2 + p .main-topic {
+    font-family: var(--font-secondary);
+    font-size: 0.857em; /* 14px·0.857=12px */
+    display: block;
+    margin: -0.75em 0 1em 1.4em;
 }
     
-h3 + div.main-topic {
-    font-family: var(--font-secondary);
+h3 + p {
+    margin: 0 0 1em 1.4em;
+    color: #888;
+    }
+    
+h3 + p .main-topic {
+    font-family: var(--font-secondary)
     font-size: 0.857em; /* 14px·0.857=12px */
     display: block;
 }
