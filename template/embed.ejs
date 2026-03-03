@@ -22,7 +22,12 @@
       numberedLocals[n] = locals[n];
     }
     const renderLocals = { ...numberedLocals, contentMap, ejs, fileMap, imageMap, resolveWikilinksInText, expandShorthand, viewsPath };
-    embedContent = ejs.render(embedContent, renderLocals, { views: viewsPath });
+    try {
+      embedContent = ejs.render(embedContent, renderLocals, { views: viewsPath });
+    } catch (embedErr) {
+      console.warn(`Warning: EJS error in embed "${fileName}" — ${embedErr.message}`);
+      embedContent = `<!-- EJS error in embed: ${fileName} -->`;
+    }
   }
 %>
 <%- embedContent %>
