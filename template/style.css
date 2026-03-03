@@ -8,11 +8,16 @@
 
 * {
     margin: 0;
-    line-height: calc(1em + 0.5rem);
+    line-height: calc(1em + 0.4rem);
 }
 
 body {
-    -webkit-font-smoothing: antialiased;
+	-webkit-text-size-adjust: none;
+}
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -26,16 +31,40 @@ p, li, blockquote {
     hyphens: auto;
 }
 
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
 img, picture, video, canvas, svg {
     display: block;
     max-width: 100%;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
 }
 
 input, button, textarea, select {
     font: inherit;
 }
 
+a {
+    text-decoration: none;
+    
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
 /* End CSS reset */
+
 	
 @font-face {
     font-family: Entypo;
@@ -94,13 +123,12 @@ input, button, textarea, select {
 
 body {
     font-family: var(--font-primary);
-    background-color: var(--color-nav-background);
     font-size: 0.875em; /* 4.375vw; */ /* 14 ÷ 320 × 100 = 4.375vw */ /* 16px·0.875=14px */
+    -webkit-font-feature-settings: "kern", "liga", "onum";
+    -moz-font-feature-settings: "kern", "liga", "onum";
+    font-feature-settings: "kern", "liga", "onum";
 
-
-    strong, b { font-weight: 700; }
-    a { text-decoration: none; }
-    a:hover { text-decoration: underline; }
+    background-color: var(--color-nav-background);
 }
 
 main {
@@ -110,12 +138,6 @@ main {
     color: var(--color-main-text);
     background-color: var(--color-main-background);
     
-    a { color: var(--color-primary); }
-    
-    a.external, a.rtBibleRef { color: var(--color-secondary); }
-    
-    a.broken { color: var(--color-tertiary); }
-
     h1, h2, h3, h4, h5, h6 {
         font-weight: 700;
         clear: both;
@@ -176,6 +198,18 @@ main {
         -moz-hyphens: auto;
         -webkit-hyphens: auto;
         -ms-hyphens: auto;
+    }
+
+    a {
+        color: var(--color-primary);
+    }
+    
+    a.external, a.rtBibleRef {
+        color: var(--color-secondary);
+    }
+    
+    a.broken {
+        color: var(--color-tertiary);
     }
 
     img {
