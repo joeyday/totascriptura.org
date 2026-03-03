@@ -74,34 +74,14 @@ const md = markdownIt({
 const OUTPUT_DIR = "dist";
 const TEMPLATE_PATH = path.join("template", "layout.ejs");
 const PARTIALS_DIR = path.join("template", "partials");
-const SKIP_DIRS = new Set([
-  "node_modules",
-  "dist",
-  ".git",
-  ".github",
-  ".local",
-  "template",
-]);
 const SKIP_FILES = new Set(["replit.md"]);
+const MD_SKIP_DIRS = new Set(["node_modules", "dist", ".git", ".github", ".local", "template"]);
+const ASSET_SKIP_DIRS = new Set(["node_modules", "dist", ".git", ".github", ".local"]);
 const IMAGE_EXTENSIONS = new Set([
-  ".png",
-  ".jpg",
-  ".jpeg",
-  ".gif",
-  ".svg",
-  ".webp",
-  ".avif",
-  ".ico",
-  ".bmp",
+  ".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp", ".avif", ".ico", ".bmp",
 ]);
 const ASSET_EXTENSIONS = new Set([
-  ...IMAGE_EXTENSIONS,
-  ".css",
-  ".eot",
-  ".otf",
-  ".ttf",
-  ".woff",
-  ".woff2",
+  ...IMAGE_EXTENSIONS, ".css", ".eot", ".otf", ".ttf", ".woff", ".woff2",
 ]);
 
 async function ensureDir(dir) {
@@ -112,7 +92,8 @@ async function ensureDir(dir) {
   }
 }
 
-async function findMarkdownFiles(dir, rootDir = dir) {
+async function findFiles(dir, { skipDirs, filter, rootDir }) {
+  rootDir = rootDir || dir;
   const results = [];
   let entries;
   try {
@@ -120,52 +101,50 @@ async function findMarkdownFiles(dir, rootDir = dir) {
   } catch {
     return results;
   }
-
   for (const entry of entries) {
     const fullPath = path.join(dir, entry.name);
     if (entry.isDirectory()) {
-      if (SKIP_DIRS.has(entry.name) || entry.name.startsWith(".")) continue;
-      const subResults = await findMarkdownFiles(fullPath, rootDir);
+      if (skipDirs.has(entry.name) || entry.name.startsWith(".")) continue;
+      const subResults = await findFiles(fullPath, { skipDirs, filter, rootDir });
       results.push(...subResults);
-    } else if (
-      entry.isFile() &&
-      entry.name.endsWith(".md") &&
-      !SKIP_FILES.has(entry.name.toLowerCase())
-    ) {
-      const relDir = path.relative(rootDir, dir);
-      results.push({ filePath: fullPath, relDir, fileName: entry.name });
+    } else if (entry.isFile()) {
+      const item = filter(entry, fullPath, rootDir);
+      if (item) results.push(item);
     }
   }
-
   return results;
 }
 
-const ASSET_SKIP_DIRS = new Set(["node_modules", "dist", ".git", ".github", ".local"]);
+function findMarkdownFiles(dir) {
+  return findFiles(dir, {
+    skipDirs: MD_SKIP_DIRS,
+    filter: (entry, fullPath, rootDir) => {
+      if (!entry.name.endsWith(".md") || SKIP_FILES.has(entry.name.toLowerCase())) return null;
+      const relDir = path.relative(rootDir, path.dirname(fullPath));
+      return { filePath: fullPath, relDir, fileName: entry.name };
+    },
+  });
+}
 
-async function findAssetFiles(dir, rootDir = dir) {
-  const results = [];
-  let entries;
-  try {
-    entries = await fs.readdir(dir, { withFileTypes: true });
-  } catch {
-    return results;
-  }
-
-  for (const entry of entries) {
-    const fullPath = path.join(dir, entry.name);
-    if (entry.isDirectory()) {
-      if (ASSET_SKIP_DIRS.has(entry.name) || entry.name.startsWith(".")) continue;
-      const subResults = await findAssetFiles(fullPath, rootDir);
-      results.push(...subResults);
-    } else if (entry.isFile()) {
+function findAssetFiles(dir) {
+  return findFiles(dir, {
+    skipDirs: ASSET_SKIP_DIRS,
+    filter: (entry, fullPath) => {
       const ext = path.extname(entry.name).toLowerCase();
-      if (ASSET_EXTENSIONS.has(ext)) {
-        results.push({ filePath: fullPath, fileName: entry.name });
-      }
-    }
-  }
+      if (!ASSET_EXTENSIONS.has(ext)) return null;
+      return { filePath: fullPath, fileName: entry.name };
+    },
+  });
+}
 
-  return results;
+function getOutputPaths(finalUrlPath) {
+  let outDirPath;
+  if (finalUrlPath === "/") {
+    outDirPath = OUTPUT_DIR;
+  } else {
+    outDirPath = path.join(OUTPUT_DIR, finalUrlPath.substring(1));
+  }
+  return { outDirPath, outFilePath: path.join(outDirPath, "index.html") };
 }
 
 function getFrontmatterValue(data, key) {
@@ -242,7 +221,6 @@ function expandShorthand(text, fileMap, imageMap) {
   return text;
 }
 
-
 function parseCategoriesList(raw) {
   if (!raw) return [];
   if (Array.isArray(raw)) {
@@ -260,19 +238,24 @@ async function build() {
   const contentMap = {};
   const filesToProcess = [];
 
-  // Discover and copy asset files (images, CSS, fonts), build image map
   const imageMap = {};
   const assetFiles = await findAssetFiles(".");
   const assetsOutDir = path.join(OUTPUT_DIR, "asset");
   if (assetFiles.length > 0) {
     await ensureDir(assetsOutDir);
   }
+  const seenAssetNames = new Map();
   for (const { filePath: assetPath, fileName: assetName } of assetFiles) {
+    const lowerName = assetName.toLowerCase();
+    if (seenAssetNames.has(lowerName)) {
+      console.warn(`Warning: Asset filename collision — "${assetName}" from "${assetPath}" overwrites "${seenAssetNames.get(lowerName)}"`);
+    }
+    seenAssetNames.set(lowerName, assetPath);
     const outPath = path.join(assetsOutDir, assetName);
     await fs.copyFile(assetPath, outPath);
     const ext = path.extname(assetName).toLowerCase();
     if (IMAGE_EXTENSIONS.has(ext)) {
-      imageMap[assetName.toLowerCase()] = `/asset/${assetName}`;
+      imageMap[lowerName] = `/asset/${assetName}`;
     }
   }
   if (assetFiles.length > 0) {
@@ -283,7 +266,13 @@ async function build() {
 
   for (const { filePath, relDir, fileName } of mdFiles) {
     const content = await fs.readFile(filePath, "utf-8");
-    const parsed = matter(content);
+    let parsed;
+    try {
+      parsed = matter(content);
+    } catch (err) {
+      console.warn(`Warning: Failed to parse frontmatter in "${filePath}" — skipping (${err.message})`);
+      continue;
+    }
 
     const baseName = path.basename(fileName, ".md");
 
@@ -311,8 +300,18 @@ async function build() {
 
     const key = baseName.toLowerCase().trim();
     fileMap[key] = finalUrlPath;
-    titleMap[key] = getFrontmatterValue(parsed.data, "title") || baseName;
+
+    const title = getFrontmatterValue(parsed.data, "title") || baseName;
+    titleMap[key] = title;
     contentMap[key] = parsed.content;
+
+    const hidden = !!getFrontmatterValue(parsed.data, "hidden");
+    const aliasOf = getFrontmatterValue(parsed.data, "alias of");
+    const asideOf = getFrontmatterValue(parsed.data, "aside of");
+    const rawCategories = getFrontmatterValue(parsed.data, "categories");
+    const categories = parseCategoriesList(rawCategories);
+    const featured = !!getFrontmatterValue(parsed.data, "featured");
+    const draft = !!getFrontmatterValue(parsed.data, "draft");
 
     filesToProcess.push({
       relDir,
@@ -322,16 +321,20 @@ async function build() {
       permalink,
       finalUrlPath,
       parsed,
+      title,
+      hidden,
+      aliasOf: aliasOf ? stripBrackets(String(aliasOf)) : null,
+      asideOf: asideOf ? stripBrackets(String(asideOf)) : null,
+      categories,
+      featured,
+      draft,
     });
   }
 
-  // Build redirect map: alias key -> canonical URL
   const redirectMap = {};
   for (const fileInfo of filesToProcess) {
-    let aliasOf = getFrontmatterValue(fileInfo.parsed.data, "alias of");
-    if (!aliasOf) continue;
-    aliasOf = stripBrackets(String(aliasOf));
-    const resolvedKey = resolveFileMapKey(aliasOf, fileMap);
+    if (!fileInfo.aliasOf) continue;
+    const resolvedKey = resolveFileMapKey(fileInfo.aliasOf, fileMap);
     const canonicalUrl = fileMap[resolvedKey];
     if (canonicalUrl) {
       const key = fileInfo.baseName.toLowerCase().trim();
@@ -344,20 +347,12 @@ async function build() {
   const draftPages = [];
 
   for (const fileInfo of filesToProcess) {
-    const aliasOf = getFrontmatterValue(fileInfo.parsed.data, "alias of");
-    if (aliasOf) continue;
-
-    const title =
-      getFrontmatterValue(fileInfo.parsed.data, "title") || fileInfo.baseName;
-
-    const featured = getFrontmatterValue(fileInfo.parsed.data, "featured");
-    if (featured) {
-      featuredPages.push({ title, url: fileInfo.finalUrlPath });
+    if (fileInfo.aliasOf) continue;
+    if (fileInfo.featured) {
+      featuredPages.push({ title: fileInfo.title, url: fileInfo.finalUrlPath });
     }
-
-    const draft = getFrontmatterValue(fileInfo.parsed.data, "draft");
-    if (draft) {
-      draftPages.push({ title, url: fileInfo.finalUrlPath });
+    if (fileInfo.draft) {
+      draftPages.push({ title: fileInfo.title, url: fileInfo.finalUrlPath });
     }
   }
 
@@ -368,49 +363,38 @@ async function build() {
     a.title.localeCompare(b.title, undefined, { sensitivity: "base" }),
   );
 
-  // Build asides map
   const asidesMap = {};
   for (const fileInfo of filesToProcess) {
-    let asideOfValue = getFrontmatterValue(fileInfo.parsed.data, "aside of");
-    if (!asideOfValue) continue;
-
-    asideOfValue = stripBrackets(String(asideOfValue));
-    const resolvedKey = resolveFileMapKey(asideOfValue, fileMap);
-
+    if (!fileInfo.asideOf) continue;
+    const resolvedKey = resolveFileMapKey(fileInfo.asideOf, fileMap);
     if (!asidesMap[resolvedKey]) {
       asidesMap[resolvedKey] = [];
     }
     asidesMap[resolvedKey].push({
-      title:
-        getFrontmatterValue(fileInfo.parsed.data, "title") || fileInfo.baseName,
+      title: fileInfo.title,
       url: fileInfo.finalUrlPath,
     });
   }
 
-  // Build members map (reverse of categories)
   const membersMap = {};
   for (const fileInfo of filesToProcess) {
-    const rawCategories = getFrontmatterValue(
-      fileInfo.parsed.data,
-      "categories",
-    );
-    const categoryNames = parseCategoriesList(rawCategories);
-
-    for (const catName of categoryNames) {
+    for (const catName of fileInfo.categories) {
       const resolvedKey = resolveFileMapKey(catName, fileMap);
       if (!membersMap[resolvedKey]) {
         membersMap[resolvedKey] = [];
       }
       membersMap[resolvedKey].push({
-        title:
-          getFrontmatterValue(fileInfo.parsed.data, "title") ||
-          fileInfo.baseName,
+        title: fileInfo.title,
         url: fileInfo.finalUrlPath,
       });
     }
   }
 
-  // Build URL classification sets for link styling
+  const urlToKey = {};
+  for (const [key, url] of Object.entries(fileMap)) {
+    if (!urlToKey[url]) urlToKey[url] = key;
+  }
+
   const allKnownUrls = new Set([
     ...Object.values(fileMap),
     ...Object.values(imageMap),
@@ -424,7 +408,7 @@ async function build() {
   }
   const asideUrls = new Set();
   for (const fileInfo of filesToProcess) {
-    if (getFrontmatterValue(fileInfo.parsed.data, "aside of")) {
+    if (fileInfo.asideOf) {
       asideUrls.add(fileInfo.finalUrlPath);
     }
   }
@@ -455,49 +439,55 @@ async function build() {
     );
   }
 
-  // Build alphabetical index (exclude asides, categories, partials, and root-level pages; include redirects)
+  function renderLayout(content, locals = {}) {
+    return classifyLinks(
+      ejs.render(layoutTemplate, {
+        frontmatter: locals.frontmatter || {},
+        content,
+        asideOf: locals.asideOf || null,
+        asides: locals.asides || [],
+        categories: locals.categories || [],
+        subcategories: locals.subcategories || [],
+        pages: locals.pages || [],
+      }),
+    );
+  }
+
   const allPages = [];
   for (const fileInfo of filesToProcess) {
-    const asideOf = getFrontmatterValue(fileInfo.parsed.data, "aside of");
-    if (asideOf) continue;
+    if (fileInfo.asideOf) continue;
     if (fileInfo.relDir === "") continue;
-    if (getFrontmatterValue(fileInfo.parsed.data, "hidden")) continue;
+    if (fileInfo.hidden) continue;
     const pageKey = fileInfo.baseName.toLowerCase().trim();
     if (membersMap[pageKey]) continue;
 
-    const title =
-      getFrontmatterValue(fileInfo.parsed.data, "title") || fileInfo.baseName;
-    const aliasOf = getFrontmatterValue(fileInfo.parsed.data, "alias of");
-    if (aliasOf) {
-      const aliasTarget = stripBrackets(String(aliasOf));
-      const resolvedKey = resolveFileMapKey(aliasTarget, fileMap);
-      const canonicalTitle = titleMap[resolvedKey] || aliasTarget;
+    if (fileInfo.aliasOf) {
+      const resolvedKey = resolveFileMapKey(fileInfo.aliasOf, fileMap);
+      const canonicalTitle = titleMap[resolvedKey] || fileInfo.aliasOf;
       const canonicalUrl =
         fileMap[resolvedKey] ||
-        `/${slugify(aliasTarget, { lower: true, strict: true })}`;
-      allPages.push({ title, url: canonicalUrl, redirect: canonicalTitle });
+        `/${slugify(fileInfo.aliasOf, { lower: true, strict: true })}`;
+      allPages.push({ title: fileInfo.title, url: canonicalUrl, redirect: canonicalTitle });
     } else {
-      allPages.push({ title, url: fileInfo.finalUrlPath });
+      allPages.push({ title: fileInfo.title, url: fileInfo.finalUrlPath });
     }
   }
   allPages.sort((a, b) =>
     a.title.localeCompare(b.title, undefined, { sensitivity: "base" }),
   );
 
-  // Pass 2: Render pages
   const searchDocs = [];
-  for (const fileInfo of filesToProcess) {
-    if (getFrontmatterValue(fileInfo.parsed.data, "hidden")) continue;
+  const viewsPathResolved = [path.resolve(PARTIALS_DIR)];
 
-    // Check for alias of (redirect)
-    let aliasOfValue = getFrontmatterValue(fileInfo.parsed.data, "alias of");
-    if (aliasOfValue) {
-      aliasOfValue = stripBrackets(String(aliasOfValue));
-      const resolvedKey = resolveFileMapKey(aliasOfValue, fileMap);
+  for (const fileInfo of filesToProcess) {
+    if (fileInfo.hidden) continue;
+
+    if (fileInfo.aliasOf) {
+      const resolvedKey = resolveFileMapKey(fileInfo.aliasOf, fileMap);
       const targetUrl =
         fileMap[resolvedKey] ||
-        `/${slugify(aliasOfValue, { lower: true, strict: true })}`;
-      const targetTitle = titleMap[resolvedKey] || aliasOfValue;
+        `/${slugify(fileInfo.aliasOf, { lower: true, strict: true })}`;
+      const targetTitle = titleMap[resolvedKey] || fileInfo.aliasOf;
 
       const redirectHtml = `<!DOCTYPE html>
 <html lang="en">
@@ -512,16 +502,7 @@ async function build() {
 </body>
 </html>`;
 
-      let outDirPath;
-      let outFilePath;
-      if (fileInfo.finalUrlPath === "/") {
-        outDirPath = OUTPUT_DIR;
-        outFilePath = path.join(outDirPath, "index.html");
-      } else {
-        outDirPath = path.join(OUTPUT_DIR, fileInfo.finalUrlPath.substring(1));
-        outFilePath = path.join(outDirPath, "index.html");
-      }
-
+      const { outDirPath, outFilePath } = getOutputPaths(fileInfo.finalUrlPath);
       await ensureDir(outDirPath);
       await fs.writeFile(outFilePath, redirectHtml);
       console.log(
@@ -530,13 +511,8 @@ async function build() {
       continue;
     }
 
-    if (!getFrontmatterValue(fileInfo.parsed.data, "title")) {
-      fileInfo.parsed.data.title = fileInfo.baseName;
-    }
-
     let markdownContent = fileInfo.parsed.content;
 
-    // Step 0: Protect {{...}} embed blocks from wikilink transformation
     const embedPlaceholders = [];
     markdownContent = markdownContent.replace(/\{\{([\s\S]*?)\}\}/g, (match) => {
       const idx = embedPlaceholders.length;
@@ -544,7 +520,6 @@ async function build() {
       return `\x00EMBED_${idx}\x00`;
     });
 
-    // Step 1: Transform wikilinks (including ![[image]] embeds)
     markdownContent = markdownContent.replace(
       /(!?)\[\[(.*?)\]\]/g,
       (match, bang, inner) => {
@@ -559,12 +534,10 @@ async function build() {
 
         let searchTarget = target.trim();
 
-        // Check if target is an image file
         const ext = path.extname(searchTarget).toLowerCase();
         if (IMAGE_EXTENSIONS.has(ext)) {
           const imgUrl = imageMap[searchTarget.toLowerCase()] || searchTarget;
           if (isEmbed) {
-            // Parse optional dimensions: ![[img.png|300]] or ![[img.png|300x150]]
             let attrs = "";
             const dimMatch = text.match(/^(\d+)(?:x(\d+))?$/);
             if (dimMatch) {
@@ -591,67 +564,56 @@ async function build() {
       },
     );
 
-    // Step 1.5: Restore {{...}} embed blocks
     markdownContent = markdownContent.replace(/\x00EMBED_(\d+)\x00/g, (match, idx) => {
       return embedPlaceholders[Number(idx)];
     });
 
-    // Step 2: Expand shorthand syntax into EJS
     markdownContent = expandShorthand(markdownContent, fileMap, imageMap);
 
-    // Step 3: Render EJS (handles includes recursively)
-    markdownContent = ejs.render(
-      markdownContent,
-      {
-        frontmatter: fileInfo.parsed.data,
-        contentMap,
-        ejs,
-        fileMap,
-        imageMap,
-        resolveWikilinksInText,
-        expandShorthand,
-        viewsPath: [path.resolve(PARTIALS_DIR)],
-      },
-      {
-        views: [path.resolve(PARTIALS_DIR)],
-      },
-    );
+    try {
+      markdownContent = ejs.render(
+        markdownContent,
+        {
+          frontmatter: fileInfo.parsed.data,
+          contentMap,
+          ejs,
+          fileMap,
+          imageMap,
+          resolveWikilinksInText,
+          expandShorthand,
+          viewsPath: viewsPathResolved,
+        },
+        {
+          views: viewsPathResolved,
+        },
+      );
+    } catch (err) {
+      console.warn(`Warning: EJS render error in "${fileInfo.filePath}" — ${err.message}`);
+      markdownContent = `<!-- EJS render error in: ${fileInfo.fileName} -->`;
+    }
 
-    // Step 4: Strip Obsidian comments (%%...%%) — after EJS so partial comments are caught
     markdownContent = markdownContent.replace(/%%[\s\S]*?%%/g, "");
 
-    // Step 5: Custom inline syntax (~small~)
     markdownContent = markdownContent.replace(/(?<!~)~(?!~)([^~\n]+?)(?<!~)~(?!~)/g, "<small>$1</small>");
 
-    // Step 6: Convert Markdown to HTML
     markdownContent = protectFencedAttrs(markdownContent);
     const htmlContent = md.render(markdownContent);
 
-    // Resolve aside-of
-    let asideOf = null;
-    let asideOfValue = getFrontmatterValue(fileInfo.parsed.data, "aside of");
-    if (asideOfValue) {
-      asideOfValue = stripBrackets(String(asideOfValue));
-      const resolvedKey = resolveFileMapKey(asideOfValue, fileMap);
+    let asideOfResolved = null;
+    if (fileInfo.asideOf) {
+      const resolvedKey = resolveFileMapKey(fileInfo.asideOf, fileMap);
       if (fileMap[resolvedKey]) {
-        asideOf = {
+        asideOfResolved = {
           title: titleMap[resolvedKey],
           url: fileMap[resolvedKey],
         };
       }
     }
 
-    // Resolve asides
     const pageKey = fileInfo.baseName.toLowerCase().trim();
     const asides = asidesMap[pageKey] || [];
 
-    // Resolve categories for this page
-    const rawCategories = getFrontmatterValue(
-      fileInfo.parsed.data,
-      "categories",
-    );
-    const categoryNames = parseCategoriesList(rawCategories);
-    const categories = categoryNames.map((catName) => {
+    const resolvedCategories = fileInfo.categories.map((catName) => {
       const resolvedKey = resolveFileMapKey(catName, fileMap);
       return {
         title: titleMap[resolvedKey] || catName,
@@ -661,79 +623,50 @@ async function build() {
       };
     });
 
-    // Resolve members (pages that list this page as a category)
     const allMembers = membersMap[pageKey] || [];
     const subcategories = [];
     const pages = [];
     for (const member of allMembers) {
-      const memberKey = Object.keys(fileMap).find(
-        (k) => fileMap[k] === member.url,
-      );
-      if (
-        memberKey &&
-        membersMap[memberKey] &&
-        membersMap[memberKey].length > 0
-      ) {
+      const memberKey = urlToKey[member.url];
+      if (memberKey && membersMap[memberKey] && membersMap[memberKey].length > 0) {
         subcategories.push(member);
       } else {
         pages.push(member);
       }
     }
 
-    const finalHtml = classifyLinks(
-      ejs.render(layoutTemplate, {
-        frontmatter: fileInfo.parsed.data,
-        content: htmlContent,
-        asideOf,
-        asides,
-        categories,
-        subcategories,
-        pages,
-      }),
-    );
+    const finalHtml = renderLayout(htmlContent, {
+      frontmatter: fileInfo.parsed.data,
+      asideOf: asideOfResolved,
+      asides,
+      categories: resolvedCategories,
+      subcategories,
+      pages,
+    });
 
-    let outDirPath;
-    let outFilePath;
-
-    if (fileInfo.finalUrlPath === "/") {
-      outDirPath = OUTPUT_DIR;
-      outFilePath = path.join(outDirPath, "index.html");
-    } else {
-      outDirPath = path.join(OUTPUT_DIR, fileInfo.finalUrlPath.substring(1));
-      outFilePath = path.join(outDirPath, "index.html");
-    }
-
+    const { outDirPath, outFilePath } = getOutputPaths(fileInfo.finalUrlPath);
     await ensureDir(outDirPath);
     await fs.writeFile(outFilePath, finalHtml);
     console.log(
       `Built: ${fileInfo.filePath} -> ${outFilePath} (URL: ${fileInfo.finalUrlPath})`,
     );
 
-    const pageTitle = getFrontmatterValue(fileInfo.parsed.data, "title") || fileInfo.baseName;
     const bodyText = htmlContent.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
     searchDocs.push({
       id: fileInfo.finalUrlPath,
-      title: pageTitle,
+      title: fileInfo.title,
       url: fileInfo.finalUrlPath,
-      body: bodyText,
+      body: bodyText.slice(0, 5000),
     });
   }
 
-  // Collect which pages belong to a category
   const pagesWithCategories = new Set();
   for (const fileInfo of filesToProcess) {
-    const rawCategories = getFrontmatterValue(
-      fileInfo.parsed.data,
-      "categories",
-    );
-    const categoryNames = parseCategoriesList(rawCategories);
-    if (categoryNames.length > 0) {
-      const key = fileInfo.baseName.toLowerCase().trim();
-      pagesWithCategories.add(key);
+    if (fileInfo.categories.length > 0) {
+      pagesWithCategories.add(fileInfo.baseName.toLowerCase().trim());
     }
   }
 
-  // Top-level categories: have members but don't themselves belong to any category
   const topLevelCategoryPages = Object.keys(membersMap)
     .filter((key) => fileMap[key] && !pagesWithCategories.has(key))
     .map((key) => ({ title: titleMap[key] || key, url: fileMap[key] }))
@@ -741,28 +674,11 @@ async function build() {
       a.title.localeCompare(b.title, undefined, { sensitivity: "base" }),
     );
 
-  // Generate index pages
   const indexPages = [
-    {
-      slug: "alphabetical",
-      title: "Alphabetical Index",
-      items: allPages,
-    },
-    {
-      slug: "categorical",
-      title: "Categorical Index",
-      items: topLevelCategoryPages,
-    },
-    {
-      slug: "featured",
-      title: "Featured Topics",
-      items: featuredPages,
-    },
-    {
-      slug: "drafts",
-      title: "Drafts",
-      items: draftPages,
-    },
+    { slug: "alphabetical", title: "Alphabetical Index", items: allPages },
+    { slug: "categorical", title: "Categorical Index", items: topLevelCategoryPages },
+    { slug: "featured", title: "Featured Topics", items: featuredPages },
+    { slug: "drafts", title: "Drafts", items: draftPages },
   ];
 
   for (const indexPage of indexPages) {
@@ -781,17 +697,9 @@ async function build() {
       listHtml += "</ul>";
     }
 
-    const html = classifyLinks(
-      ejs.render(layoutTemplate, {
-        frontmatter: { title: indexPage.title },
-        content: listHtml,
-        asideOf: null,
-        asides: [],
-        categories: [],
-        subcategories: [],
-        pages: [],
-      }),
-    );
+    const html = renderLayout(listHtml, {
+      frontmatter: { title: indexPage.title },
+    });
 
     const outDir = path.join(OUTPUT_DIR, "index", indexPage.slug);
     await ensureDir(outDir);
@@ -799,14 +707,12 @@ async function build() {
     console.log(`Built (index): /index/${indexPage.slug}`);
   }
 
-  // Generate search index
   await fs.writeFile(
     path.join(OUTPUT_DIR, "search-index.json"),
     JSON.stringify(searchDocs),
   );
   console.log(`Built search index: ${searchDocs.length} document(s)`);
 
-  // Generate client-side search script
   const searchJs = `(function() {
   var index = null;
   var docs = null;
@@ -863,7 +769,6 @@ async function build() {
 `;
   await fs.writeFile(path.join(OUTPUT_DIR, "search.js"), searchJs);
 
-  // Generate search page
   const searchContent = `<div id="search-page">
   <input type="text" id="search-input" placeholder="Search…" autofocus>
   <div id="search-results"></div>
@@ -871,17 +776,9 @@ async function build() {
 <script src="https://cdn.jsdelivr.net/npm/minisearch@7/dist/umd/index.min.js"><\/script>
 <script src="/search.js"><\/script>`;
 
-  const searchHtml = classifyLinks(
-    ejs.render(layoutTemplate, {
-      frontmatter: { title: "Search" },
-      content: searchContent,
-      asideOf: null,
-      asides: [],
-      categories: [],
-      subcategories: [],
-      pages: [],
-    }),
-  );
+  const searchHtml = renderLayout(searchContent, {
+    frontmatter: { title: "Search" },
+  });
 
   const searchOutDir = path.join(OUTPUT_DIR, "search");
   await ensureDir(searchOutDir);
