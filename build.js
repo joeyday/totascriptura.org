@@ -73,7 +73,7 @@ const md = markdownIt({
 
 const OUTPUT_DIR = "dist";
 const TEMPLATE_PATH = path.join("template", "layout.ejs");
-const PARTIALS_DIR = path.join("template", "partials");
+const PARTIALS_DIR = "template";
 const SKIP_FILES = new Set(["replit.md"]);
 const MD_SKIP_DIRS = new Set(["node_modules", "dist", ".git", ".github", ".local", "template"]);
 const ASSET_SKIP_DIRS = new Set(["node_modules", "dist", ".git", ".github", ".local"]);
