@@ -337,11 +337,10 @@ header {
 
 nav {
     font-family: var(--font-secondary);
-    
 }
 
 footer {
-    
+    font-family: var(--font-secondary);
 }
 
 
