@@ -345,3 +345,11 @@ nav {
 footer {
     
 }
+
+/* Page-specific styles */
+
+.about article div p,
+.essential-doctrines articles div p {
+    text-align: center
+    text-wrap: balance;
+}
