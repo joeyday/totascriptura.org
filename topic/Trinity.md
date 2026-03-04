@@ -12,7 +12,7 @@ God is a simple unity—one in being, essence, and nature—but there are three 
 There is one and only one God. God is simple (not composed of parts) and stands apart from all creatures as the source and ground of all being.
 ### “God is one”, there is only one God
 {{mt|[[Monotheism]]|[[Simplicity]]}}
-{{monotheism}}
+{{monotheism-template}}
 ### There is no one else like God
 {{mt|[[Creator-creature distinction]]}}
 {{there-is-no-other-god}}
