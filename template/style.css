@@ -297,6 +297,11 @@ main {
         /* TODO: make this a variable — what even is this color? */
         background-color: rgba(209, 209, 0, 0.3);
     }
+    
+    article div:not([class]) p {
+        text-align: center;
+        text-wrap: balance;
+    }
 }
 
 header, nav, footer {
@@ -348,8 +353,3 @@ footer {
 
 /* Page-specific styles */
 
-.about article div p,
-.essential-doctrines article div p {
-    text-align: center;
-    text-wrap: balance;
-}
