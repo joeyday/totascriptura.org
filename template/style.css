@@ -219,31 +219,28 @@ main {
         margin: 1em 0;
     }
     
-    ul {
+    ul, ol {
         margin: 1em 0;
-        
-        li {
-            margin-left: 2em;
-            list-style-type: disc;
-        }
     }
     
+    li {
+        margin-left: 2em;
+    }
     
-    ol {
-        margin: 1em 0;
+    ul li {
+        list-style-type: disc;
+    }
     
-        li {
-            margin-left: 2em;
-            list-style-type: decimal;
+    ol li {
+        list-style-type: decimal;
+    }
+        
+    ol li li {
+        list-style-type: lower-alpha;
+    }
             
-            li {
-                list-style-type: lower-alpha;
-                
-                li {
-                    list-style-type: lower-roman;
-                }
-            }
-        }
+    ol li li li {
+        list-style-type: lower-roman;
     }
     
     th, td {
@@ -306,7 +303,7 @@ header, nav, footer {
     width: 22.375em;
     margin: auto;
     padding: 1em;
-    
+
     text-align: center;
 
     color: var(--color-nav-text);
@@ -319,6 +316,8 @@ header {
         font-feature-settings: "smcp", "c2sc";
         font-weight: normal;
         text-decoration: none;
+				
+				text-align: center;
         
         &:before {
             font-family: Entypo;
@@ -337,12 +336,12 @@ header {
 
 nav {
     font-family: var(--font-secondary);
+    
+    menu li {
+        list-style-type: none;
+    }
 }
 
 footer {
-    font-family: var(--font-secondary);
+    
 }
-
-
-
-
