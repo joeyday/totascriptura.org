@@ -275,7 +275,8 @@ main {
 }
 
 header, nav, footer {
-    margin: 0;
+    width: 22.375em;
+    margin: auto;
     padding: 1em;
 
     color: var(--color-nav-text);
@@ -302,6 +303,14 @@ header {
             padding-right: 0.1em;
         }
     }
+}
+
+nav {
+    
+}
+
+footer {
+    
 }
 
 
