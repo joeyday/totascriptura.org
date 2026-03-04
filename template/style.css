@@ -271,28 +271,7 @@ main {
     mark {
         /* TODO: make this a variable — what even is this color? */
         background-color: rgba(209, 209, 0, 0.3);
-    }    
-    
-    header a {
-        font-family: var(--font-primary);
-        font-feature-settings: "smcp", "c2sc";
-        font-weight: normal;
-        text-decoration: none;
     }
-    
-    header a:before {
-        font-family: Entypo;
-        content: '\2712' !important;
-        font-weight: normal;
-        font-style: normal;
-        display: inline-block;
-        text-decoration: none !important;
-        text-indent: 0;
-        vertical-align: -0.166rem !important;
-        font-size: 200%;
-        padding-right: 0.1em;
-    }
-
 }
 
 header, nav, footer {
@@ -301,6 +280,28 @@ header, nav, footer {
 
     color: var(--color-nav-text);
     a { color: var(--color-nav-text); }
+}
+
+header {
+    a {
+        font-family: var(--font-primary);
+        font-feature-settings: "smcp", "c2sc";
+        font-weight: normal;
+        text-decoration: none;
+        
+        &:before {
+            font-family: Entypo;
+            content: '\2712' !important;
+            font-weight: normal;
+            font-style: normal;
+            display: inline-block;
+            text-decoration: none !important;
+            text-indent: 0;
+            vertical-align: -0.166rem !important;
+            font-size: 200%;
+            padding-right: 0.1em;
+        }
+    }
 }
 
 
