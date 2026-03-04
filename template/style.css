@@ -103,6 +103,7 @@ a {
         
     /* semantic colors */
     --color-main-text: var(--color-black);
+    --color-main-text-muted: var(--color-dark-gray);
     --color-main-background: var(--color-white);
     --color-nav-text: var(--color-white);
     --color-nav-background: var(--color-gray);
@@ -277,6 +278,24 @@ main {
         }
     }
     
+    sup.footnote-ref {
+        font-family: var(--font-secondary);
+        font-size: 0.857em; /* 14px·0.857=12px */
+        vertical-align: baseline;
+        top: -0.2em;
+        position: relative;
+        margin-left: 0.2em;
+        margin-right: 0.2em;
+    }
+    
+    ol.footnotes-list {
+        font-family: var(--font-secondary);
+        color: var(--color-main-text-muted);
+        font-size: 0.857em; /* 14px·0.857=12px */
+        margin: 0;
+	}
+
+    
     mark {
         /* TODO: make this a variable — what even is this color? */
         background-color: rgba(209, 209, 0, 0.3);
@@ -315,6 +334,7 @@ header {
 }
 
 nav {
+    font-family: var(--font-secondary);
     
 }
 
