@@ -11,11 +11,9 @@ God is a simple unity—one in being, essence, and nature—but there are three 
 ## Oneness
 There is one and only one God. God is simple (not composed of parts) and stands apart from all creatures as the source and ground of all being.
 ### “God is one”, there is only one God
-{{mt|[[Monotheism]]|[[Simplicity]]}}
-{{monotheism-template}}
+{{mt|[[Monotheism]]|[[Simplicity]]}}{{monotheism-template}}
 ### There is no one else like God
-{{mt|[[Creator-creature distinction]]}}
-{{there-is-no-other-god}}
+{{mt|[[Creator-creature distinction]]}}{{there-is-no-other-god}}
 ## Threeness
 God eternally exists in three persons: God the Father, the Lord Jesus Christ, and the Holy Spirit.
 ### Plurality of persons implicit in OT

@@ -132,8 +132,9 @@ body {
 }
 
 main {
-    margin: 0;
-    padding: 1em;
+    width: 20.057em; /* 14px·22.857=320px */
+    margin: auto;
+    padding: 1.4em;
 
     color: var(--color-main-text);
     background-color: var(--color-main-background);
@@ -149,7 +150,6 @@ main {
         margin: 0 0 0.255em; /* 1.571em·0.255=0.4em */
         border-bottom: 1px solid var(--color-stroke);
         padding-right: 25px; /* Give room for icon on right, e.g. on featured pages */
-        line-height: 1.2em;
     }
     
     h2 {
