@@ -306,14 +306,14 @@ header, nav, footer {
     width: 22.375em;
     margin: auto;
     padding: 1em;
+    
+    text-align: center;
 
     color: var(--color-nav-text);
     a { color: var(--color-nav-text); }
 }
 
 header {
-    text-align: center;
-	
     a {
         font-family: var(--font-primary);
         font-feature-settings: "smcp", "c2sc";
