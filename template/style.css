@@ -312,13 +312,13 @@ header, nav, footer {
 }
 
 header {
+    text-align: center;
+	
     a {
         font-family: var(--font-primary);
         font-feature-settings: "smcp", "c2sc";
         font-weight: normal;
         text-decoration: none;
-				
-				text-align: center;
         
         &:before {
             font-family: Entypo;
