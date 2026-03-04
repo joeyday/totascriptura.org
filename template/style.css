@@ -349,7 +349,7 @@ footer {
 /* Page-specific styles */
 
 .about article div p,
-.essential-doctrines articles div p {
+.essential-doctrines article div p {
     text-align: center;
     text-wrap: balance;
 }
