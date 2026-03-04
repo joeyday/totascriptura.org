@@ -317,6 +317,8 @@ header {
         font-feature-settings: "smcp", "c2sc";
         font-weight: normal;
         text-decoration: none;
+				
+				text-align: center;
         
         &:before {
             font-family: Entypo;
