@@ -90,6 +90,7 @@ a {
     --color-white: #fff;
     --color-gray: #616161;
     --color-light-gray: #999;
+    --color-faint-gray: #ccc;
     --color-red: #e54028;
     --color-orange: #f18d05;
     --color-dark-green: #32742c;
@@ -109,6 +110,7 @@ a {
     --color-secondary: var(--color-blue);
     --color-tertiary: var(--color-pink);
     --color-stroke: var(--color-light-gray);
+    --color-thin-stroke: var(--color-faint-gray);
     
     /* hardcoded fonts */
     --font-meta-serif: ff-meta-serif-web-pro, serif;
@@ -192,13 +194,6 @@ main {
         display: block;
     }
     
-    p, li, blockquote {
-        hyphens: auto;
-        -moz-hyphens: auto;
-        -webkit-hyphens: auto;
-        -ms-hyphens: auto;
-    }
-
     a {
         color: var(--color-primary);
     }
@@ -211,9 +206,93 @@ main {
         color: var(--color-tertiary);
     }
 
-    img {
-        max-width: 100%;
+    p, li, blockquote {
+        hyphens: auto;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
+        -ms-hyphens: auto;
     }
+    
+    p {
+        margin: 1em 0;
+    }
+    
+    ul {
+        margin: 1em 0;
+        
+        li {
+            margin-left: 2em;
+            list-style-type: disc;
+        }
+    }
+    
+    
+    ol {
+        margin: 1em 0;
+    
+        li {
+            margin-left: 2em;
+            list-style-type: decimal;
+            
+            li {
+                list-style-type: lower-alpha;
+                
+                li {
+                    list-style-type: lower-roman;
+                }
+            }
+        }
+    }
+    
+    th, td {
+        text-align: left;
+        vertical-align: top;
+        padding: 0;
+    }
+    
+    th {
+        font-family: var(--font-fancy);
+        width: 20%;
+        font-weight: normal;
+        padding: 0.5em 1em;
+    }
+    
+    td {
+        padding: 0.5em 1em;
+    }
+    
+    hr {
+        color: var(--color-thin-stroke);
+        border: none;
+        height: 1px;
+        border-top: 1px dashed var(--color-thin-stroke);
+    }
+    
+    mark {
+        /* TODO: make this a variable — what even is this color? */
+        background-color: rgba(209, 209, 0, 0.3);
+    }    
+    
+    header a {
+        font-family: var(--font-primary);
+        font-feature-settings: "smcp", "c2sc";
+        font-weight: normal;
+        text-decoration: none;
+    }
+    
+    header a:before {
+        font-family: Entypo;
+        content: '\2712' !important;
+        font-weight: normal;
+        font-style: normal;
+        display: inline-block;
+        text-decoration: none !important;
+        text-indent: 0;
+        vertical-align: -0.166rem !important;
+        font-size: 200%;
+        padding-right: 0.1em;
+    }
+
 }
 
 header, nav, footer {
