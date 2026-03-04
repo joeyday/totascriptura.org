@@ -300,6 +300,7 @@ async function build() {
 
     const key = baseName.toLowerCase().trim();
     fileMap[key] = finalUrlPath;
+    parsed.data.permalink = permalink;
 
     const title = getFrontmatterValue(parsed.data, "title") || baseName;
     if (!getFrontmatterValue(parsed.data, "title")) {
