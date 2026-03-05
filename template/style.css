@@ -389,6 +389,7 @@ nav.tabs {
         li {
             background-color: transparent;
             margin: 0 0 1em;
+            padding: 0.5em 0.45em 0.4em;
             list-style-type: none;
             display: inline-block;
             vertical-align: top;
@@ -397,7 +398,6 @@ nav.tabs {
             border-bottom-right-radius: 3px;
             
             a {
-                padding: 0.5em 0.45em 0.4em;
                 line-height: 1em;
                 text-transform: lowercase;
                 text-decoration: none;
