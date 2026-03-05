@@ -62,34 +62,41 @@
         </section>
         <% } %>
 
-        <% if (categories.length > 0) { %>
-        <p>Categories: <% categories.forEach(function(cat, i) { %><a href="<%= cat.url %>"><%= cat.title %></a><%= i < categories.length - 1 ? ', ' : '' %><% }); %></p>
+        <% if (categories.length) { %>
+        <p class="categories">
+            <span class="entypo-icon">📁</span>
+            <a class="index-link" href="/index/categorical">Categories</a>:
+            <% categories.forEach(function(cat, i) { %>
+            <a href="<%= cat.url %>"><%= cat.title %></a><%= i < categories.length - 1 ? ', ' : '' %>
+            <% }); %>
+        </p>
         <% } %>
 
-        <% if (asideOf) { %>
-        <p>Aside of <a href="<%= asideOf.url %>"><%= asideOf.title %></a></p>
-        <% } %>
+        <ul class="tabs">
+            <% if (!asideOf) { %>
+            <li class="topic selected">topic</li>
+            <% } else { %>
+            <li class="topic"><a href="<%= asideOf.url %>">topic</a></li>
+            <% } %>
+            <% if (asideOf) { %>
+            <li class="note selected">note</li>
+            <% else if (asides.length) { %>
+            <li class="note"><a href="<%= aside[0].url %>">note</a></li>
+            <% } else { %>
+            <li class="note muted">note</li>
+            <% } %>
+        </ul>
 
-        <% if (asides.length > 0) { %>
-        <section>
-            <h2>Asides</h2>
-            <ul>
-                <% asides.forEach(function(aside) { %>
-                <li><a href="<%= aside.url %>"><%= aside.title %></a></li>
-                <% }); %>
-            </ul>
-        </section>
-        <% } %>
     </main>
     
     <nav>
         <div>
-            <menu>
+            <ul>
                 <li><a href="/about">About this project</a></li>
                 <li><a href="/index/alphabetical">Alphabetical index</a></li>
                 <li><a href="/index/categorical">Categorical index</a></li>
                 <li><a href="/index/featured">Featured topics</a></li>
-            </menu>
+            </ul>
         </div>
         
         <div>

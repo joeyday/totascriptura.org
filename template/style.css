@@ -86,11 +86,12 @@ a {
 :root {
     /* hardcoded colors */
     --color-black: #000;
-    --color-white: #fff;
     --color-dark-gray: #444;
     --color-gray: #616161;
     --color-light-gray: #999;
     --color-faint-gray: #ccc;
+    --color-tint-white: #f9f9f9;
+    --color-white: #fff;
     --color-red: #e54028;
     --color-orange: #f18d05;
     --color-dark-green: #32742c;
@@ -113,6 +114,7 @@ a {
     --color-thick-stroke: var(--color-dark-gray);
     --color-stroke: var(--color-light-gray);
     --color-thin-stroke: var(--color-faint-gray);
+    --color-tint-background: var(--color-tint-white);
     
     /* hardcoded fonts */
     --font-meta-serif: ff-meta-serif-web-pro, serif;
@@ -317,6 +319,21 @@ main {
         text-align: center;
         text-wrap: balance;
     }
+    
+    .categories {
+        font-family: var(--font-secondary);
+    	font-size: 0.857em; /* 14px·0.857=12px */
+        background-color: var(--color-tint-background);
+        
+        display: inline-block;
+        margin: 2.25em auto 0;
+        
+        border-radius: 0.25em;
+        
+        .index-link {
+            color: var(--color-main-text);
+        }
+    }
 }
 
 header, nav, footer {
@@ -357,7 +374,7 @@ header {
 nav {
     font-family: var(--font-secondary);
     
-    menu li {
+    ul li {
         list-style-type: none;
     }
     
