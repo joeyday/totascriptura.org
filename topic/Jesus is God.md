@@ -1,3 +1,7 @@
+---
+categories:
+  - "[[Christology]]"
+---
 ![[Cobblestones-and-grass.png]]
 
 ### Jesus is Son of God
