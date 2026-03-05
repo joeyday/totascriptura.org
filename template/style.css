@@ -14,6 +14,7 @@
 
 body {
 	-webkit-text-size-adjust: none;
+	position: relative;
 }
 
 article, aside, details, figcaption, figure, 
@@ -291,6 +292,22 @@ main {
         margin: 0;
 	}
 
+    .entypo-icon,
+    .featured-badge {
+        font-family: Entypo;
+        font-size: 200%;
+        cursor: default;
+        vertical-align: -0.1em;
+    }
+
+    .featured-badge {
+        position: absolute;
+        margin-left: -5.0142em;
+        width: 10.0285em;
+        text-align: right;
+        top: 0.9em;
+        left: 50%;
+    }
     
     mark {
         /* TODO: make this a variable — what even is this color? */
