@@ -347,6 +347,7 @@ nav {
     
     display: grid;
     grid-template-columns: 1fr 1fr;
+    align-items: center;
     
     input {
         display: block;
@@ -365,7 +366,7 @@ nav {
         padding: 0.25em 0.5em;
         font-size: 0.875em;
         color: var(--color-nav-text);
-        background-color: var(--color-stroke);
+        background-color: var(--nav-background);
         border: 2px solid #aaa; /* TODO: make a variable for this color */
         border-radius: 3em;
         
