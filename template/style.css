@@ -107,6 +107,7 @@ a {
     --color-main-text-muted: var(--color-dark-gray);
     --color-main-background: var(--color-white);
     --color-nav-text: var(--color-white);
+    --color-nav-text-muted: var(--color-faint-gray);
     --color-nav-background: var(--color-gray);
     --color-primary: var(--color-green);
     --color-secondary: var(--color-blue);
@@ -431,6 +432,11 @@ nav.tabs {
             &.notes,
             &.backlinks {
                 margin-right: 1.25em;
+            }
+            
+            &.muted {
+                color: var(--color-nav-text-muted);
+                a { color: var(--color-nav-text-muted); }
             }
         }
     }    
