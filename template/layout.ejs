@@ -76,16 +76,16 @@
     <nav class="tabs">
         <ul>
             <% if (!asideOf) { %>
-            <li class="topic selected">topic</li>
+            <li class="topic selected">Topic</li>
             <% } else { %>
-            <li class="topic"><a href="<%= asideOf.url %>">topic</a></li>
+            <li class="topic"><a href="<%= asideOf.url %>">Topic</a></li>
             <% } %>
             <% if (asideOf) { %>
-            <li class="notes selected">notes</li>
+            <li class="notes selected">Notes</li>
             <% } else if (asides.length) { %>
-            <li class="notes"><a href="<%= asides[0].url %>">notes</a></li>
+            <li class="notes"><a href="<%= asides[0].url %>">Notes</a></li>
             <% } else { %>
-            <li class="notes muted">notes</li>
+            <li class="notes muted">Notes</li>
             <% } %>
         </ul>
     </nav>

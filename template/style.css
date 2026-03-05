@@ -344,11 +344,7 @@ main {
     }
 }
 
-nav.tabs {
-    
-}
-
-header, nav.sidebar, footer {
+header, nav, footer {
     width: 22.375em;
     margin: auto;
     padding: 1em;
@@ -381,6 +377,35 @@ header {
             padding-right: 0.1em;
         }
     }
+}
+
+nav.tabs {
+    ul {
+        margin: 0 0 1em;
+        
+        li {
+            margin: 0 0 1em;
+            list-style-type: none;
+            display: inline-block;
+            vertical-align: top;
+            
+            a {
+                font-family: var(--font-secondary);
+                font-size: 0.857em; /* 14px·0.857=12px */
+                padding: 0.5em 0.45em 0.4em;
+                line-height: 1em;
+                text-transform: lowercase;
+                text-decoration: none;
+                color: #fff;
+                background: transparent;
+                display: inline-block;
+                vertical-align: top;
+                white-space: nowrap;
+                border-bottom-left-radius: 3px;
+                border-bottom-right-radius: 3px;
+            }
+        }
+    }    
 }
 
 nav.sidebar {
