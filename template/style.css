@@ -298,6 +298,8 @@ main {
         font-family: Entypo;
         font-size: 2rem;
         cursor: default;
+        vertical-align: -0.1em;
+        line-height: 1rem;
     }
 
     h1:has(.featured-badge) {
@@ -307,7 +309,6 @@ main {
     
     h1 .featured-badge {
         margin-left: auto;
-        line-height: 1rem;
     }
     
     mark {
@@ -327,6 +328,7 @@ main {
         
         display: inline-block;
         margin: 2.25em auto 0;
+        padding: 0.25em 0.75em;
         
         border-radius: 0.25em;
         
