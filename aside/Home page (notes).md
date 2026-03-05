@@ -1,3 +1,6 @@
+---
+aside of: "[[Home page]]"
+---
 ## Recently edited topics
 <DynamicPageList>
 namespace   = Main
