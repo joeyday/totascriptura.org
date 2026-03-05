@@ -419,7 +419,8 @@ nav.tabs {
                 }
             }
             
-            &.notes {
+            &.notes,
+            &.backlinks {
                 margin-right: 1.25em;
             }
         }
