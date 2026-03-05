@@ -71,8 +71,10 @@
             <% }); %>
         </p>
         <% } %>
-
-        <ul class="tabs">
+    </main>
+    
+    <nav class="tabs">
+        <ul>
             <% if (!asideOf) { %>
             <li class="topic selected">topic</li>
             <% } else { %>
@@ -86,10 +88,9 @@
             <li class="notes muted">notes</li>
             <% } %>
         </ul>
+    </nav>
 
-    </main>
-    
-    <nav>
+    <nav class="sidebar">
         <div>
             <ul>
                 <li><a href="/about">About this project</a></li>

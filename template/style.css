@@ -291,6 +291,10 @@ main {
         color: var(--color-main-text-muted);
         font-size: 0.857em; /* 14px·0.857=12px */
         margin: 0;
+        
+        p {
+            margin: 0;
+        }
 	}
 
     .entypo-icon,
@@ -339,7 +343,11 @@ main {
     }
 }
 
-header, nav, footer {
+nav.tabs {
+    
+}
+
+header, nav.sidebar, footer {
     width: 22.375em;
     margin: auto;
     padding: 1em;
@@ -374,7 +382,7 @@ header {
     }
 }
 
-nav {
+nav.sidebar {
     font-family: var(--font-secondary);
     
     ul li {
