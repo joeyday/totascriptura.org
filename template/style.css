@@ -153,7 +153,6 @@ main {
         font-size: 1.571em; /* 14px·1.375=22px */
         margin: 0 0 0.255em; /* 1.571em·0.255=0.4em */
         border-bottom: 1px solid var(--color-stroke);
-        padding-right: 25px; /* Give room for icon on right, e.g. on featured pages */
     }
     
     h2 {
@@ -295,6 +294,7 @@ main {
     .entypo-icon,
     .featured-badge {
         font-family: Entypo;
+        font-size: 2rem;
         cursor: default;
     }
 
