@@ -418,6 +418,10 @@ nav.tabs {
                     color: var(--color-primary);
                 }
             }
+            
+            &.notes {
+                margin-right: 1.25em;
+            }
         }
     }    
 }
