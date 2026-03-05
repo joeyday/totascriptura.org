@@ -347,7 +347,7 @@ main {
 header, nav, footer {
     width: 22.375em;
     margin: auto;
-    padding: 1em;
+    padding: 1em 0;
 
     text-align: center;
 
@@ -381,37 +381,39 @@ header {
 }
 
 nav.tabs {
+    padding: 0;
+    
     ul {
         margin: 0 0 1em;
         
         li {
+            background-color: transparent;
             margin: 0 0 1em;
             list-style-type: none;
             display: inline-block;
             vertical-align: top;
             font-size: 0.857em; /* 14px·0.857=12px */
+            border-bottom-left-radius: 3px;
+            border-bottom-right-radius: 3px;
             
             a {
                 padding: 0.5em 0.45em 0.4em;
                 line-height: 1em;
                 text-transform: lowercase;
                 text-decoration: none;
-                background: transparent;
                 display: inline-block;
                 vertical-align: top;
                 white-space: nowrap;
-                border-bottom-left-radius: 3px;
-                border-bottom-right-radius: 3px;
             }
             
             &.selected {
-                background: var(--color-main-background);
+                background-color: var(--color-main-background);
                 color: var(--color-main-text);
                 font-weight: 700;
                 padding: 0.642em 0.45em 0.4em;
                 position: relative;
                 top: -0.0714em;
-                
+
                 a {
                     color: var(--color-primary);
                 }
