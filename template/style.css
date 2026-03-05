@@ -107,7 +107,7 @@ a {
     --color-main-text-muted: var(--color-dark-gray);
     --color-main-background: var(--color-white);
     --color-nav-text: var(--color-white);
-    --color-nav-text-muted: var(--color-faint-gray);
+    --color-nav-text-muted: var(--color-light-gray);
     --color-nav-background: var(--color-gray);
     --color-primary: var(--color-green);
     --color-secondary: var(--color-blue);
