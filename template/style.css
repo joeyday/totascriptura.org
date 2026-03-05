@@ -301,10 +301,7 @@ main {
     }
 
     .featured-badge {
-        position: absolute;
-        margin-left: -5.0142em;
-        width: 10.0285em;
-        text-align: right;
+        float: right;
         top: 0.9em;
         left: 50%;
     }
