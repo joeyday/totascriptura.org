@@ -295,15 +295,16 @@ main {
     .entypo-icon,
     .featured-badge {
         font-family: Entypo;
-        font-size: 200%;
         cursor: default;
-        vertical-align: -0.1em;
     }
 
-    .featured-badge {
-        float: right;
-        top: 0.9em;
-        left: 50%;
+    h1:has(.featured-badge) {
+        display: flex;
+        align-items: center;
+    }
+    
+    h1 .featured-badge {
+        margin-left: auto;
     }
     
     mark {
