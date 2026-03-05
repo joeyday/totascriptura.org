@@ -326,7 +326,8 @@ main {
     	font-size: 0.857em; /* 14px·0.857=12px */
         background-color: var(--color-tint-background);
         
-        display: inline-block;
+        display: block;
+        width: fit-content;
         margin: 2.25em auto 0;
         padding: 0.25em 0.75em;
         
