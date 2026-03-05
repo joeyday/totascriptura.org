@@ -305,6 +305,7 @@ main {
     
     h1 .featured-badge {
         margin-left: auto;
+        line-height: 1rem;
     }
     
     mark {
