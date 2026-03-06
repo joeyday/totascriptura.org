@@ -102,7 +102,7 @@ Clean up an exported list of verses from Logos (convert newlines to semicolons f
 
 Merge diffs on <tt>main.css</tt> back into Skinny theme over on Perpetual Datebook Wiki. — [[File:Avatar.png|link=User:Joey]] [[User:Joey|Joey]] 21:08, 21 June 2012 (UTC)
 
-:::{.indent style="text-indent: 2em"}
+:::{.indent style="margin-left: 2em"}
 Consider using symlinks from the Skinny folder under db.jday.us over to the Skinny folder under totascriptura.org. Then whenever I update the stylesheet for totascriptura.org, they automatically get updated for db.jday.us. Brilliant! — [[File:Avatar.png|link=User:Joey]] [[User:Joey|Joey]] 16:08, 22 June 2012 (UTC)
 :::
 
