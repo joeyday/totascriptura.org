@@ -456,14 +456,19 @@ nav.tabs {
 }
 
 nav.sidebar {
-    ul li {
-        list-style-type: none;
-    }
-    
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;
     
+    ul li {
+        list-style-type: none;
+        
+        &.muted {
+            color: var(--color-nav-text-muted);
+            a { color: var(--color-nav-text-muted); }
+        }
+    }
+
     input {
         display: block;
         width: 70%;
