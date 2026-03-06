@@ -40,11 +40,11 @@ What if climate change is the next spectacular sin? God meant it for good but we
 
 > And a page considering whether their might be further prophets and a latter-day [[Restoration|restoration]] and [[Scattering and gathering of Israel|gathering]] with additional [[Scripture]]...
 
-— [[File:Avatar.png|link=User:Joey]] [[User:Joey|Joey]] 18:04, 9 January 2015 (UTC)
+— **User:Joey** 18:04, 9 January 2015 (UTC)
 
 > As you mentioned yesterday, the [[Revelation|revelation]] page appears to be only one side of the issue. You might want to do an update and search for scriptures that support the opposite.
 
-— [[File:Avatar.png|link=User:Joey]] [[User:Joey|Joey]] 19:11, 9 January 2015 (UTC)
+— **User:Joey** 19:11, 9 January 2015 (UTC)
 
 [[c:Suggestions from Steve]]
 
@@ -70,7 +70,7 @@ Need to copy more of the [[w:Wikipedia:Image copyright tags|image copyright tags
 
 The study of theology is not merely a theoretical exercise of the intellect. It is a study of the living God, and of the wonders of all his works in creation and redemption. We cannot study this subject dispassionately! We must love all that God is, all that he says and all that he does. “You shall love the LORD your God with all your heart” (Dt 6:5). Our response to the study of the theology of Scripture should be that of the psalmist who said, “How precious to me are your thoughts, O God!” (Ps 139:17). In the study of the teachings of God’s Word, it should not surprise us if we often find our hearts spontaneously breaking forth in expressions of praise and delight like those of the psalmist: Ps 19:8; Ps 119:14; Ps 119:103; Ps 119:111; Ps 119:162. <ref>Ibid., p. 37.</ref>
 
-— [[File:Avatar.png|link=User:Joey]] [[User:Joey|Joey]] 22:43, 8 June 2012 (UTC)
+— **User:Joey** 22:43, 8 June 2012 (UTC)
 
 ## TextWrangler regexes
 
@@ -100,10 +100,10 @@ Clean up an exported list of verses from Logos (convert newlines to semicolons f
 
 ## Skinny
 
-Merge diffs on <tt>main.css</tt> back into Skinny theme over on Perpetual Datebook Wiki. — [[File:Avatar.png|link=User:Joey]] [[User:Joey|Joey]] 21:08, 21 June 2012 (UTC)
+Merge diffs on <tt>main.css</tt> back into Skinny theme over on Perpetual Datebook Wiki. — **User:Joey** 21:08, 21 June 2012 (UTC)
 
-:::{.indent style="margin-left: 2em"}
-Consider using symlinks from the Skinny folder under db.jday.us over to the Skinny folder under totascriptura.org. Then whenever I update the stylesheet for totascriptura.org, they automatically get updated for db.jday.us. Brilliant! — [[File:Avatar.png|link=User:Joey]] [[User:Joey|Joey]] 16:08, 22 June 2012 (UTC)
+:::{style="margin-left: 1em"}
+Consider using symlinks from the Skinny folder under db.jday.us over to the Skinny folder under totascriptura.org. Then whenever I update the stylesheet for totascriptura.org, they automatically get updated for db.jday.us. Brilliant! — **User:Joey** 16:08, 22 June 2012 (UTC)
 :::
 
 ## New project color scheme
@@ -115,7 +115,7 @@ Consider using symlinks from the Skinny folder under db.jday.us over to the Skin
 
 “It is beyond dispute that the inferior is blessed by the superior.” —Heb 7:7
 
-You don’t necessarily have to read this in context, since the author uses this statement as the ground for an argument he’s making. He holds this to be self-evident. What are the implications of this idea? — [[File:Avatar.png|link=User:Joey]] [[User:Joey|Joey]] 16:04, 18 January 2014 (UTC)
+You don’t necessarily have to read this in context, since the author uses this statement as the ground for an argument he’s making. He holds this to be self-evident. What are the implications of this idea? — **User:Joey** 16:04, 18 January 2014 (UTC)
 
 ## Should I upgrade to the latest MediaWiki?
 

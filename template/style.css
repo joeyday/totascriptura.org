@@ -322,7 +322,7 @@ main {
         background-color: rgba(209, 209, 0, 0.3);
     }
     
-    article div:not([class]) p {
+    article div:not([class], [id], [style]) p {
         text-align: center;
         text-wrap: balance;
     }
