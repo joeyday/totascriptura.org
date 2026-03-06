@@ -226,6 +226,11 @@ main {
         margin: 1em 0;
     }
     
+    ul ul,
+    ol ol {
+        margin: 0;
+    }
+    
     li {
         margin-left: 2em;
     }
