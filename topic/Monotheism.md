@@ -1,6 +1,4 @@
 ---
-title: Monotheism
-slug: monotheism
 featured: true
 categories:
   - Theology (proper)

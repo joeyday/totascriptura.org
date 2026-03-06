@@ -116,6 +116,7 @@ a {
     --color-stroke: var(--color-light-gray);
     --color-thin-stroke: var(--color-faint-gray);
     --color-tint-background: var(--color-tint-white);
+    --color-accent-stroke: var(--color-teal);
     
     /* hardcoded fonts */
     --font-meta-serif: ff-meta-serif-web-pro, serif;
@@ -225,6 +226,11 @@ main {
         margin: 1em 0;
     }
     
+    ul ul,
+    ol ol {
+        margin: 0;
+    }
+    
     li {
         margin-left: 2em;
     }
@@ -243,6 +249,13 @@ main {
             
     ol li li li {
         list-style-type: lower-roman;
+    }
+    
+    blockquote {
+        font-size: 0.857em; /* 14px·0.857=12px */
+        margin: 1em 0.4em;
+        padding-left: 1em;
+        border-left: 1px solid var(--color-accent-stroke);
     }
     
     th, td {
@@ -322,7 +335,7 @@ main {
         background-color: rgba(209, 209, 0, 0.3);
     }
     
-    article div:not([class]) p {
+    article div:not([class], [id], [style]) p {
         text-align: center;
         text-wrap: balance;
     }
