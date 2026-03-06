@@ -493,4 +493,9 @@ footer {
 }
 
 /* Page-specific styles */
-
+.home article img {
+    float: left;
+    margin: 0.3em 1em 0.5em 0;
+    width: 4.571em;
+    border-radius: 100%;
+}
