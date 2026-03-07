@@ -517,11 +517,11 @@ footer {
 }
 
 .colophon article {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    display: flex;
+    flex-wrap: wrap;
     gap: 1rem;
 
-    :not(table) {
-        grid-column: 1 / -1;
+    table {
+        flex: 1 1 calc(50% - 0.5rem);
     }
 }
