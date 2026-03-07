@@ -4,15 +4,14 @@ categories:
 ---
 ![[Rocks.png]]
 
-e{{[[aseity-heading]]}}
+{{[[aseity-heading]]}}
 {{[[aseity]]}}
 
 {{[[eternity-heading]]}}
 Ge 1:1; 21:33; Job 36:26; Ps 90:2, 4; 93:2; 102:24; Isa 26:4; 40:28; 41:4; 44:6; 48:12; 57:15; Jer 10:10; Hab 1:12; Ro 1:23; 16:26; 1Ti 1:17; 6:16; Rev 1:4, 8; 4:8; 21:6
 
 ### Foreknowledge
-{{mt|[[foreknowledge]]}}
-{{[[foreknowledge]]}}
+{{mt|[[foreknowledge]]}}{{[[foreknowledge]]}}
 
 ### Holiness
 Lev 11:44
@@ -34,8 +33,7 @@ Isa 57:15; Ac 17:27–28; Ro 10:8
 1Ki 8:27; 2Ch 2:6; 6:18; Isa 66:1; Ac 7:49; 17:24
 
 ### Incorporeality ~(“without body”, immaterial, invisible, spirit)~
-{{mt|[[Incorporeality]]}}
-{{[[incorporeality]]}}
+{{mt|[[Incorporeality]]}}{{[[incorporeality]]}}
 
 {{[[ineffability-heading]]}}
 {{[[ineffability]]}}
@@ -67,12 +65,10 @@ Ps 103:6
 Dt 6:4–5; Jer 23:6; Mk 12:28–34 ~(cites Dt 6:4–5)~; Jn 1:4–5, 9; 3:33; 4:24; 14:6; Ro 3:30; 1Co 1:30; Gal 3:20; Jas 2:19; 1Jn 1:5; 4:8, 16; 5:6
 
 ### Sovereignty
-{{mt|[[Providence]]}}
-{{[[sovereignty]]}}
+{{mt|[[Providence]]}}{{[[sovereignty]]}}
 
 ### Transcendence
-{{mt|[[Creator-creature distinction]]}}
-{{[[transcendence]]}}
+{{mt|[[Creator-creature distinction]]}}{{[[transcendence]]}}
 
 {{[[veracity-heading]]}}
 Ps 31:5; Pr 30:5; Isa 65:16; Jn 3:33; 17:17–19; Ro 3:4; Tit 1:2
