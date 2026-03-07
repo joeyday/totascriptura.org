@@ -1,6 +1,7 @@
 ---
 categories:
   - "[[Theology (proper)]]"
+featured: true
 ---
 ![[Rocks.png]]
 
