@@ -128,11 +128,13 @@ a {
     --font-primary: var(--font-meta-serif);
     --font-secondary: var(--font-meta-condensed);
     --font-fancy: var(--font-meta-headline);
+    
+    --font-base-size: clamp(14px, calc((14px * 100svw) / 320px), 22px);
 }
 
 body {
     font-family: var(--font-primary);
-    font-size: clamp(14px, calc((14px * 100svw) / 320px), 22px);
+    font-size: var(--font-base-size);
     -webkit-font-feature-settings: "kern", "liga", "onum";
     -moz-font-feature-settings: "kern", "liga", "onum";
     font-feature-settings: "kern", "liga", "onum";
@@ -144,7 +146,7 @@ main {
     background-color: var(--color-main-background);
     
     article {
-        width: clamp(320px, 100svw, 640px);
+        width: clamp(320px, 100svw, calc((22px * 100svw) / var(--font-base-size)));
         margin: auto;
         padding: 1.4em;
     
