@@ -521,7 +521,7 @@ footer {
     grid-template-columns: 1fr 1fr;
     gap: 1rem;
 
-    .container > :not(table) {
+    :not(table) {
         grid-column: 1 / -1;
     }
 }
