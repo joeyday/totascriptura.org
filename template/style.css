@@ -144,7 +144,7 @@ main {
     background-color: var(--color-main-background);
     
     article {
-        width: 20.057em; /* 14px·22.857=320px */
+        width: 22.857em; /* 14px·22.857=320px */
         margin: auto;
         padding: 1.4em;
     
@@ -371,7 +371,7 @@ main {
 }
 
 header, nav, footer {
-    width: 22.375em;
+    width: 22.857em; /* 14px·22.857=320px */
     margin: auto;
     padding: 1em 0;
 
