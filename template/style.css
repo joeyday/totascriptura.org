@@ -132,7 +132,7 @@ a {
 
 body {
     font-family: var(--font-primary);
-    font-size: 4.375vw;
+    font-size: clamp(14px calc(14px / 320px * 100vw) 22px);
     -webkit-font-feature-settings: "kern", "liga", "onum";
     -moz-font-feature-settings: "kern", "liga", "onum";
     font-feature-settings: "kern", "liga", "onum";
@@ -144,7 +144,7 @@ main {
     background-color: var(--color-main-background);
     
     article {
-        width: 100svw;
+        width: clamp(320px 100svw 1000px);
         margin: auto;
         padding: 1.4em;
     
