@@ -132,7 +132,7 @@ a {
 
 body {
     font-family: var(--font-primary);
-    font-size: 0.875em; /* 4.375vw; */ /* 14 ÷ 320 × 100 = 4.375vw */ /* 16px·0.875=14px */
+    font-size: 4.375vw;
     -webkit-font-feature-settings: "kern", "liga", "onum";
     -moz-font-feature-settings: "kern", "liga", "onum";
     font-feature-settings: "kern", "liga", "onum";
@@ -144,7 +144,7 @@ main {
     background-color: var(--color-main-background);
     
     article {
-        width: 22.857em; /* 14px·22.857=320px */
+        width: 100svw;
         margin: auto;
         padding: 1.4em;
     
@@ -371,7 +371,7 @@ main {
 }
 
 header, nav, footer {
-    width: 22.857em; /* 14px·22.857=320px */
+    width: 100svw;
     margin: auto;
     padding: 1em 0;
 
