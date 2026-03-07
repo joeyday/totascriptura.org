@@ -262,23 +262,29 @@ main {
             border-left: 1px solid var(--color-accent-stroke);
         }
         
-        th, td {
-            text-align: left;
-            vertical-align: top;
-            padding: 0;
+        table {
+            border: 1px solid var(--color-table-border);
+            width: 100%;
+            
+            th {
+                width: 20%;
+                font-family: var(--font-fancy);
+                color: var(--color-nav-text);
+                background-color: var(--color-nav-background);
+                font-weight: normal;
+            }
+            
+            th, td {
+                padding-left: 0.5em;
+                padding-right: 0.5em;
+                border: 1px solid var(--color-table-border);
+            }
+            
+            tr:nth-child(even) td {
+                background-color: var(--color-tint-background);
+            }
         }
-        
-        th {
-            font-family: var(--font-fancy);
-            width: 20%;
-            font-weight: normal;
-            padding: 0.5em 1em;
-        }
-        
-        td {
-            padding: 0.5em 1em;
-        }
-        
+                
         hr {
             color: var(--color-thin-stroke);
             border: none;
@@ -337,27 +343,6 @@ main {
         mark {
             /* TODO: make this a variable — what even is this color? */
             background-color: rgba(209, 209, 0, 0.3);
-        }
-        
-        table {
-            border: 1px solid var(--color-table-border);
-            width: 100%;
-            
-            th {
-                background-color: var(--color-nav-background);
-                color: var(--color-nav-text);
-                font-weight: normal;
-            }
-            
-            th, td {
-                padding-left: 0.5em;
-                padding-right: 0.5em;
-                border: 1px solid var(--color-table-border);
-            }
-            
-            tr:nth-child(even) td {
-                background-color: var(--color-tint-background);
-            }
         }
         
         div:not([class], [id], [style]) p {
@@ -529,4 +514,14 @@ footer {
     margin: 0.3em 1em 0.5em 0;
     width: 4.571em;
     border-radius: 100%;
+}
+
+.colophon article {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+
+    .container > :not(table) {
+        grid-column: 1 / -1;
+    }
 }
