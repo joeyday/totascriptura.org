@@ -351,11 +351,6 @@ main {
             text-wrap: balance;
         }
         
-        .two-columns {
-            column-count: 2;
-            column-gap: 1.5rem;
-        }
-
         .categories {
             font-family: var(--font-secondary);
             font-size: 0.857em; /* 14px·0.857=12px */
@@ -520,4 +515,10 @@ footer {
     margin: 0.3em 1em 0.5em 0;
     width: 4.571em;
     border-radius: 100%;
+}
+
+.colophon .two-columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
 }
