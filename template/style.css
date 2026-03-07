@@ -345,9 +345,15 @@ main {
             background-color: rgba(209, 209, 0, 0.3);
         }
         
+        /* callout boxes */
         div:not([class], [id], [style]) p {
             text-align: center;
             text-wrap: balance;
+        }
+        
+        .two-columns {
+            column-count: 2;
+            column-gap: 1.5rem;
         }
 
         .categories {
@@ -514,14 +520,4 @@ footer {
     margin: 0.3em 1em 0.5em 0;
     width: 4.571em;
     border-radius: 100%;
-}
-
-.colophon article {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-
-    table {
-        flex: 1 1 calc(50% - 0.5rem);
-    }
 }

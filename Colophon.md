@@ -18,6 +18,8 @@ Scripture quotations taken from The Holy Bible, [New International Version&reg;]
 ## Abbreviations
 **Tota Scriptura** uses the <abbr>NIV</abbr>-style Bible book abbreviations found in <cite>The Christian Writer’s Manual of Style: 4th Edition</cite>:
 
+::: two-columns
+
 | Book title      | Abbr |
 | --------------- | ---- |
 | Genesis         | Ge   |
@@ -89,3 +91,4 @@ Scripture quotations taken from The Holy Bible, [New International Version&reg;]
 | 3 John          | 3Jn  |
 | Jude            | Jude |
 | Revelation      | Rev  |
+:::
