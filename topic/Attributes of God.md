@@ -11,7 +11,7 @@ categories:
 Ge 1:1; 21:33; Job 36:26; Ps 90:2, 4; 93:2; 102:24; Isa 26:4; 40:28; 41:4; 44:6; 48:12; 57:15; Jer 10:10; Hab 1:12; Ro 1:23; 16:26; 1Ti 1:17; 6:16; Rev 1:4, 8; 4:8; 21:6
 
 ### Foreknowledge
-{{mt|[[foreknowledge]]}}{{[[foreknowledge]]}}
+{{mt|[[Foreknowledge]]}}{{[[foreknowledge-template]]}}
 
 ### Holiness
 Lev 11:44
