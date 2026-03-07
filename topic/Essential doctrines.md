@@ -1,7 +1,7 @@
 ---
-featured: true
 categories:
   - "[[Soteriology]]"
+featured: true
 ---
 ![[Pillars.png]]
 
