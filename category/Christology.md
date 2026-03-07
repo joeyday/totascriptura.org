@@ -1,0 +1,4 @@
+---
+categories:
+  - "[[Theology (proper)]]"
+---
