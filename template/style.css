@@ -117,7 +117,8 @@ a {
     --color-thin-stroke: var(--color-faint-gray);
     --color-tint-background: var(--color-tint-white);
     --color-accent-stroke: var(--color-teal);
-    
+    --color-table-border: var(--color-gray);
+        
     /* hardcoded fonts */
     --font-meta-serif: ff-meta-serif-web-pro, serif;
     --font-meta-condensed: ff-meta-web-pro-condensed, sans-serif;
@@ -336,6 +337,27 @@ main {
         mark {
             /* TODO: make this a variable — what even is this color? */
             background-color: rgba(209, 209, 0, 0.3);
+        }
+        
+        table {
+            border: 1px solid var(--color-table-border);
+            width: 100%;
+            
+            th {
+                background-color: var(--color-nav-background);
+                color: var(--color-nav-text);
+                font-weight: normal;
+            }
+            
+            th, td {
+                padding-left: 0.5em;
+                padding-right: 0.5em;
+                border: 1px solid var(--color-table-border);
+            }
+            
+            tr:nth-child(even) td {
+                background-color: var(--color-tint-background);
+            }
         }
         
         div:not([class], [id], [style]) p {
