@@ -32,6 +32,7 @@ Ex 4:24–26; Lk 7:30
 | About twelve men of John’s disciples                                     | Ac 19:1, 3–5, 7                                       |
 | Gaius ~(and his household?)~                                | 1Co 1:14                                              |
 | Stephanus and his household                                              | 1Co 1:16                                              |
+
 <span style="color: #D70060;">*</span> John’s baptism\
 <span style="color: #D70060;">**</span> Christian baptism before the church age
 
