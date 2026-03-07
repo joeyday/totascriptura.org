@@ -129,12 +129,12 @@ a {
     --font-secondary: var(--font-meta-condensed);
     --font-fancy: var(--font-meta-headline);
     
-    --font-base-size: clamp(14px, calc((14px * 100svw) / 320px), 22px);
+    --font-relative-size: calc((14px * 100svw) / 320px);
 }
 
 body {
     font-family: var(--font-primary);
-    font-size: var(--font-base-size);
+    font-size: clamp(14px, var(--font-relative-size), 22px);
     -webkit-font-feature-settings: "kern", "liga", "onum";
     -moz-font-feature-settings: "kern", "liga", "onum";
     font-feature-settings: "kern", "liga", "onum";
@@ -146,7 +146,7 @@ main {
     background-color: var(--color-main-background);
     
     article {
-        width: clamp(320px, 100svw, calc((22px * 100svw) / var(--font-base-size)));
+        width: clamp(320px, 100svw, calc((22px * 100svw) / var(--font-relative-size)));
         margin: auto;
         padding: 1.4em;
     
@@ -373,7 +373,7 @@ main {
 }
 
 header, nav, footer {
-    width: clamp(320px, 100svw, calc((22px * 100svw) / var(--font-base-size)));
+    width: clamp(320px, 100svw, calc((22px * 100svw) / var(--font-relative-size)));
     margin: auto;
     padding: 1em 0;
 
