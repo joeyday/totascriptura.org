@@ -517,8 +517,9 @@ footer {
     border-radius: 100%;
 }
 
-.colophon .two-columns {
+.colophon .bible-books {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1rem;
+    font-size: 0.8em;
 }

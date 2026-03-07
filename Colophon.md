@@ -18,7 +18,7 @@ Scripture quotations taken from The Holy Bible, [New International Version&reg;]
 ## Abbreviations
 **Tota Scriptura** uses the <abbr>NIV</abbr>-style Bible book abbreviations found in <cite>The Christian Writer’s Manual of Style: 4th Edition</cite>:
 
-::: two-columns
+::: bible-books
 
 | Book title      | Abbr |
 | --------------- | ---- |
