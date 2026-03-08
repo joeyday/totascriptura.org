@@ -132,9 +132,12 @@ a {
     --font-relative-size: calc((14px * 100svw) / 320px);
 }
 
+html {
+    font-size: clamp(14px, var(--font-relative-size), 22px);
+}
+
 body {
     font-family: var(--font-primary);
-    font-size: clamp(14px, var(--font-relative-size), 22px);
     -webkit-font-feature-settings: "kern", "liga", "onum";
     -moz-font-feature-settings: "kern", "liga", "onum";
     font-feature-settings: "kern", "liga", "onum";
