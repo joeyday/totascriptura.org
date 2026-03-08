@@ -336,7 +336,8 @@ main {
             line-height: 1rem;
         }
     
-        h1:has(.featured-badge) {
+        h1:has(.featured-badge),
+        h1:has(.quick-nav) {
             display: flex;
             align-items: center;
         }

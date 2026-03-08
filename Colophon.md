@@ -1,3 +1,6 @@
+---
+quick nav: true
+---
 Except as otherwise stated below, all content on **Tota Scriptura** is copyright &copy; 2009–<%= new Date().getFullYear() %> by Joey Day.
 ## Software
 **Tota Scriptura** is powered by a bespoke artisanal handcrafted static site generator written in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and executed in the [Node.js](https://nodejs.org) runtime, built and deployed to [GitHub Pages](https://docs.github.com/en/pages) via [GitHub Actions](https://github.com/features/actions), and uses [markdown-it](https://www.npmjs.com/package/markdown-it) for [Markdown](https://daringfireball.net/projects/markdown) parsing (or, more accurately, [CommonMark](https://commonmark.org) parsing), [gray-matter](https://www.npmjs.com/package/gray-matter) for [YAML](https://yaml.org) front-matter extraction, and [EJS](https://www.npmjs.com/package/ejs) for templating.

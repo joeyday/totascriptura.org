@@ -35,7 +35,11 @@
     </header>
     <main>
         <article>
-            <h1><%= frontmatter.title %><% if (frontmatter.featured) { %> <span class="featured-badge">&starf;</span><% } %></h1>
+            <h1>
+                <%= frontmatter.title %>
+                <% if (frontmatter.featured) { %><span class="featured-badge">&starf;</span><% } %>
+                <% if (frontmatter['quick nav']) { %><span class="quick-nav"><a class="internal" href="/index/featured">Featured</a> &middot; <a class="internal" href="/index/alphabetical">Index</a></span><% } %>
+            </h1>
             
             <%- content %>
 
