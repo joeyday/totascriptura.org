@@ -84,6 +84,19 @@ a {
 }
     
 :root {
+    /* font size */
+    --font-relative-size: calc((14px * 100svw) / 320px);
+
+    /* hardcoded fonts */
+    --font-meta-serif: ff-meta-serif-web-pro, serif;
+    --font-meta-condensed: ff-meta-web-pro-condensed, sans-serif;
+    --font-meta-headline: ff-meta-headline-web-pro, sans-serif;
+    
+    /* semantic fonts */
+    --font-primary: var(--font-meta-serif);
+    --font-secondary: var(--font-meta-condensed);
+    --font-fancy: var(--font-meta-headline);
+
     /* hardcoded colors */
     --color-black: #000;
     --color-dark-gray: #444;
@@ -118,19 +131,24 @@ a {
     --color-tint-background: var(--color-tint-white);
     --color-accent-stroke: var(--color-teal);
     --color-table-border: var(--color-gray);
-        
-    /* hardcoded fonts */
-    --font-meta-serif: ff-meta-serif-web-pro, serif;
-    --font-meta-condensed: ff-meta-web-pro-condensed, sans-serif;
-    --font-meta-headline: ff-meta-headline-web-pro, sans-serif;
     
-    /* semantic fonts */
-    --font-primary: var(--font-meta-serif);
-    --font-secondary: var(--font-meta-condensed);
-    --font-fancy: var(--font-meta-headline);
-    
-    --font-relative-size: calc((14px * 100svw) / 320px);
+    /* dark mode colors */
+    @media (prefers-color-scheme: dark) {
+        --color-main-text: var(--color-white);
+        --color-main-text-muted: var(--color-faint-gray);
+        --color-main-background: var(--color-dark-gray);
+        --color-primary: var(--color-green);
+        --color-secondary: var(--color-blue);
+        --color-tertiary: var(--color-pink);
+        --color-thick-stroke: var(--color-dark-gray);
+        --color-stroke: var(--color-light-gray);
+        --color-thin-stroke: var(--color-faint-gray);
+        --color-tint-background: var(--color-tint-white);
+        --color-accent-stroke: var(--color-teal);
+        --color-table-border: var(--color-gray);
+    }
 }
+    
 
 html {
     font-size: clamp(14px, var(--font-relative-size), 22px);
