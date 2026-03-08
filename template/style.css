@@ -349,6 +349,7 @@ main {
         h1 .quick-nav {
             margin-left: auto;
             font-size: 1rem;
+            font-family: var(--font-secondary);
         }
         
         mark {
