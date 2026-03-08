@@ -318,7 +318,7 @@ main {
             
             &.footnotes-sep {
                 width: 50%;
-                border-top: 1px dashed var(--color-main-thick-stroke);
+                border-top: 1px solid var(--color-main-thick-stroke);
                 margin-top: 2em;
                 margin-left: 0;
             }
