@@ -103,6 +103,7 @@ a {
     --color-light-gray: oklch(0.7 0 0);
     --color-neutral-gray: oklch(0.5 0 0);
     --color-dark-gray: oklch(0.3 0 0);
+    --color-darker-gray: oklch(0.15 0 0);
     --color-black: oklch(0 0 0);
     --color-red: oklch(0.6132 0.2053 31.39);
     --color-orange: oklch(0.7341 0.1671 62.6);
@@ -148,6 +149,8 @@ a {
         --color-secondary: oklch(from var(--color-blue) calc(l + 0.1) calc(c - 0.01) h);
         --color-tertiary: oklch(from var(--color-pink) calc(l + 0.1) calc(c - 0.01) h);
         --color-quaternary: oklch(from var(--color-teal) calc(l + 0.1) calc(c - 0.01) h);
+        
+        --color-nav-background: var(--color-darker-gray);
     }
 }
     
