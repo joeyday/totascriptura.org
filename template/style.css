@@ -118,11 +118,11 @@ a {
     --color-main-text: var(--color-black);
     --color-main-text-muted: var(--color-dark-gray);
     --color-main-background: var(--color-white);
-    --color-main-tint-background: oklch(from var(--color-main-background) calc(l - 0.02) c h)
+    --color-main-tint-background: oklch(from var(--color-main-background) calc(l - 0.02) c h);
     --color-main-thick-stroke: var(--color-dark-gray);
     --color-main-stroke: var(--color-neutral-gray);
     --color-main-thin-stroke: var(--color-light-gray);
-    --color-main-thinner-stroke: var(--color-faint-gray);
+    --color-main-thinner-stroke: var(--color-lighter-gray);
 
     --color-primary: var(--color-green);
     --color-secondary: var(--color-blue);
@@ -284,7 +284,7 @@ main {
             font-size: 0.857em; /* 14px·0.857=12px */
             margin: 1em 0.4em;
             padding-left: 1em;
-            border-left: 1px solid var(--color-accent-stroke);
+            border-left: 1px solid var(--color-quaternary);
         }
         
         table {
@@ -322,7 +322,7 @@ main {
                 margin-top: 2em;
                 margin-left: 0;
                 border-top-style: solid;
-                color: var(--color--main-thick-stroke);
+                color: var(--color-main-thick-stroke);
             }
         }
         
@@ -530,7 +530,7 @@ nav.sidebar {
         padding: 0.25em 0.5em;
         font-size: 0.875em;
         color: var(--color-nav-text);
-        background-color: var(--nav-background);
+        background-color: var(--color-nav-background);
         border: 2px solid #aaa; /* TODO: make a variable for this color */
         border-radius: 3em;
         
