@@ -311,7 +311,6 @@ main {
         }
                 
         hr {
-            color: var(--color-main-thinner-stroke);
             border: none;
             height: 1px;
             border-top: 1px dashed var(--color-main-thinner-stroke);
@@ -319,10 +318,9 @@ main {
             
             &.footnotes-sep {
                 width: 50%;
+                border-top: 1px dashed var(--color-main-thick-stroke);
                 margin-top: 2em;
                 margin-left: 0;
-                border-top-style: solid;
-                color: var(--color-main-thick-stroke);
             }
         }
         
