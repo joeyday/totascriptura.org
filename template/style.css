@@ -139,10 +139,10 @@ a {
         --color-main-text: var(--color-white);
         --color-main-text-muted: var(--color-light-gray);
         --color-main-background: var(--color-dark-gray);
-        --color-main-thick-stroke: var(--color-neutral-gray);
+        --color-main-thick-stroke: var(--color-lighter-gray);
         --color-main-stroke: var(--color-light-gray);
-        --color-main-thin-stroke: var(--color-lighter-gray);
-        --color-main-thinner-stroke: var(--color-lighter-gray);
+        --color-main-thin-stroke: var(--color-neutral-gray);
+        --color-main-thinner-stroke: var(--color-neutral-gray);
 
         --color-primary: oklch(from var(--color-green) calc(l + 0.1) calc(c - 0.01) h);
         --color-secondary: oklch(from var(--color-blue) calc(l + 0.1) calc(c - 0.01) h);
