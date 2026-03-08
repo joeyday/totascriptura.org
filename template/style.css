@@ -137,7 +137,7 @@ a {
     /* dark mode colors */
     @media (prefers-color-scheme: dark) {
         --color-main-text: var(--color-white);
-        --color-main-text-muted: var(--color-light-gray);
+        --color-main-text-muted: var(--color-lighter-gray);
         --color-main-background: var(--color-dark-gray);
         --color-main-thick-stroke: var(--color-lighter-gray);
         --color-main-stroke: var(--color-light-gray);
