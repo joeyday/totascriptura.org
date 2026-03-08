@@ -144,10 +144,10 @@ a {
         --color-main-thin-stroke: var(--color-lighter-gray);
         --color-main-thinner-stroke: var(--color-lighter-gray);
 
-        --color-primary: oklch(from var(--color-green) calc(l - 0.1) calc(c - 0.01) h);
-        --color-secondary: oklch(from var(--color-blue) calc(l - 0.1) calc(c - 0.01) h);
-        --color-tertiary: oklch(from var(--color-pink) calc(l - 0.1) calc(c - 0.01) h);
-        --color-quaternary: oklch(from var(--color-teal) calc(l - 0.1) calc(c - 0.01) h);
+        --color-primary: oklch(from var(--color-green) calc(l + 0.1) calc(c - 0.01) h);
+        --color-secondary: oklch(from var(--color-blue) calc(l + 0.1) calc(c - 0.01) h);
+        --color-tertiary: oklch(from var(--color-pink) calc(l + 0.1) calc(c - 0.01) h);
+        --color-quaternary: oklch(from var(--color-teal) calc(l + 0.1) calc(c - 0.01) h);
     }
 }
     
