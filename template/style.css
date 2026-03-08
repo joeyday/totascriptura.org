@@ -346,6 +346,12 @@ main {
             margin-left: auto;
         }
         
+        h1 .quick-nav {
+            margin-left: auto;
+            font-size: 1rem;
+            font-family: var(--font-primary);
+        }
+        
         mark {
             /* TODO: make this a variable — what even is this color? */
             background-color: rgba(209, 209, 0, 0.3);
