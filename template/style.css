@@ -590,7 +590,7 @@ footer {
         grid-area: header;
         width: 100%;
         
-        margin: 3.5rem 0 1.5em;
+        margin: 4rem 0 1.5rem;
         padding: 0;
         
         a:before {
@@ -618,7 +618,7 @@ footer {
         width: 100%;
         
         div {
-            margin-bottom: 1.5em;
+            margin-bottom: 1.5rem;
         }
     }
     
