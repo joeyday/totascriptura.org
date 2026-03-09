@@ -582,7 +582,6 @@ footer {
             "footer sidebar";
                         
         margin: 0 auto;
-        align-items: stretch;
         
         min-height: 100svh; /* extend background to bottom of viewport */
     }
@@ -601,12 +600,16 @@ footer {
     }
     
     nav.sidebar {
+        height: 100%; /* stretch to fill remaining space */
+        
         grid-area: sidebar;
         display: revert;
         width: 100%;
     }
     
     footer {
+        height: 100%; /* stretch to fill remaining space */
+        
         grid-area: footer;
         background-color: var(--color-main-background);
         
