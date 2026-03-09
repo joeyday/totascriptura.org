@@ -605,6 +605,10 @@ footer {
     
     footer {
         grid-area: footer;
+        background-color: var(--color-main-background);
+        
+        color: var(--color-main-text);
+        a { color: var(--color-main-text); }
     }
 }
 
