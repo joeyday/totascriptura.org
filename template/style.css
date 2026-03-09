@@ -153,6 +153,10 @@ a {
         
         --color-nav-background: var(--color-darker-gray);
     }
+
+    /* For mobile breakpoint, this actually colors the background
+       For desktop breakpoint, this controls Safari window color (dumb) */
+    background-color: var(--color-nav-background);
 }
     
 
@@ -165,8 +169,6 @@ body {
     -webkit-font-feature-settings: "kern", "liga", "onum";
     -moz-font-feature-settings: "kern", "liga", "onum";
     font-feature-settings: "kern", "liga", "onum";
-
-    background-color: var(--color-nav-background);
 }
 
 main {
