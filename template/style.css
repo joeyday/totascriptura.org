@@ -157,8 +157,11 @@ a {
     
 
 html {
-    font-family: var(--font-primary);
     font-size: clamp(14px, var(--font-relative-size), 22px);
+}
+
+body {
+    font-family: var(--font-primary);
     -webkit-font-feature-settings: "kern", "liga", "onum";
     -moz-font-feature-settings: "kern", "liga", "onum";
     font-feature-settings: "kern", "liga", "onum";
@@ -532,7 +535,6 @@ nav.sidebar {
         background-color: var(--color-nav-background);
         border: 2px solid #aaa; /* TODO: make a variable for this color */
         border-radius: 3em;
-        
     }
 }
 
@@ -559,10 +561,6 @@ footer {
     }
 }
 
-
-
-
-
 /* Responsive breakpoints */
 @media screen and (min-width: 800px) {
     html {
@@ -572,6 +570,8 @@ footer {
 
     body {
         width: calc(var(--main-max-width) * 1.5);
+        background: linear-gradient(to right, var(--color-main-background) 66.666%, var(--color-nav-background) 66.666%);
+
         display: grid;
         grid-template-columns: var(--main-max-width) calc(var(--main-max-width) * 0.5);
         grid-template-rows: 100px 1fr 100px 100px;
@@ -611,4 +611,3 @@ footer {
         a { color: var(--color-main-text); }
     }
 }
-
