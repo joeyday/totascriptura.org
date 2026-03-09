@@ -582,7 +582,7 @@ footer {
             "footer sidebar";
                         
         margin: 0 auto;
-        align-items: start;
+        align-items: stretch;
         
         min-height: 100svh; /* extend background to bottom of viewport */
     }
