@@ -614,6 +614,10 @@ footer {
         grid-area: sidebar;
         display: revert;
         width: 100%;
+        
+        div {
+            margin-bottom: 1.5em;
+        }
     }
     
     footer {
