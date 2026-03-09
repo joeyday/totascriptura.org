@@ -570,7 +570,7 @@ footer {
 
     body {
         width: calc(var(--main-max-width) * 1.5);
-        background: linear-gradient(to right, var(--color-main-background) 66.666%, var(--color-nav-background) 66.666%);
+        background: linear-gradient(to right, var(--color-main-background) calc(66.666% - 1rem), var(--color-nav-background) calc(66.666% - 1rem));
 
         display: grid;
         grid-template-columns: var(--main-max-width) calc(var(--main-max-width) * 0.5);
@@ -580,6 +580,7 @@ footer {
             "main sidebar"
             "tabs sidebar"
             "footer sidebar";
+        gap: 2rem;
                         
         margin: 0 auto;
         
@@ -600,8 +601,9 @@ footer {
             padding-bottom: 0.05em;
         }
         
-        a:hover::before {
+        a:hover {
             text-decoration: none;
+            border-bottom: 1px solid #fff;
         }
     }
     
