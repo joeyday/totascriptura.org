@@ -583,7 +583,7 @@ footer {
                         
         margin: 0 auto;
         
-        min-height: 100%; /* extend background to bottom of viewport */
+        min-height: 100svh; /* extend background to bottom of viewport */
     }
     
     header {
