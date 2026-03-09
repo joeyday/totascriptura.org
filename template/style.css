@@ -598,7 +598,10 @@ footer {
             font-size: 300%;
             padding-right: 0;
             padding-bottom: 0.05em;
-            text-decoration: none;
+            
+            &:hover {
+                text-decoration: none;
+            }
         }
     }
     
