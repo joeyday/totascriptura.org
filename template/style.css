@@ -564,7 +564,7 @@ footer {
 }
 
 /* Responsive breakpoints */
-@media screen and (min-width: calc(var(--main-max-width) * 1.5 + 6rem) {
+@media screen and (min-width: calc(var(--main-max-width) * 1.5 + 6rem)) {
     html {
         /* Is this the best way to do this? */
         background: linear-gradient(to right, var(--color-main-background) 50%, var(--color-nav-background) 50%);
