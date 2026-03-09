@@ -34,8 +34,8 @@ blockquote, q {
 	quotes: none;
 }
 
-blockquote:before, blockquote:after,
-q:before, q:after {
+blockquote::before, blockquote::after,
+q::before, q::after {
 	content: '';
 	content: none;
 }
@@ -425,7 +425,7 @@ header {
 				
         text-align: center;
         
-        &:before {
+        &::before {
             font-family: Entypo;
             content: '\2712' !important;
             font-weight: normal;
@@ -593,12 +593,15 @@ footer {
         margin: 4rem 0 1.5rem;
         padding: 0;
         
-        a:before {
+        a::before {
             display: block;
             font-size: 300%;
             padding-right: 0;
             padding-bottom: 0.05em;
-            text-decoration: none !important;
+        }
+        
+        a:hover::before {
+            text-decoration: none;
         }
     }
     
