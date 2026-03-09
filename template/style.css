@@ -611,6 +611,10 @@ footer {
     
     main {
         grid-area: main;
+        
+        article h1 .quick-nav {
+            display: none;
+        }
     }
     
     nav.tabs {
