@@ -569,7 +569,7 @@ footer {
     }
 
     body {
-        width: calc(var(--main-max-width) * 1.5);
+        width: calc(var(--main-max-width) * 1.5 + 2rem);
         background: linear-gradient(to right, var(--color-main-background) calc(66.666% - 1rem), var(--color-nav-background) calc(66.666% - 1rem));
 
         display: grid;
