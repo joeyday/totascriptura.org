@@ -591,6 +591,11 @@ footer {
         width: 100%;
         
         margin-top: 3.5rem;
+        
+        &:before {
+            display: block;
+            font-size: 300%;
+        }
     }
     
     main {
