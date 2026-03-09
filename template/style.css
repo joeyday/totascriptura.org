@@ -590,6 +590,7 @@ footer {
     
     nav.sidebar {
         grid-area: sidebar;
+        display: revert;
     }
     
     footer {
