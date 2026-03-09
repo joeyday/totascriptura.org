@@ -86,6 +86,7 @@ a {
 :root {
     /* font size */
     --font-relative-size: calc((14px * 100svw) / 320px);
+    --main-max-width: calc((22px * 100svw) / var(--font-relative-size));
 
     /* hardcoded fonts */
     --font-meta-serif: ff-meta-serif-web-pro, serif;
@@ -172,7 +173,7 @@ main {
     background-color: var(--color-main-background);
     
     article {
-        width: clamp(320px, 100svw, calc((22px * 100svw) / var(--font-relative-size)));
+        width: clamp(320px, 100svw, var(--main-max-width));
         margin: auto;
         padding: 1.4em;
     
@@ -556,3 +557,22 @@ footer {
     gap: 1rem;
     font-size: 0.8em;
 }
+
+
+
+
+
+/* Responsive breakpoints */
+@media screen and (min-width: 800px) {
+    body {
+        width: calc(var(--main-max-width) * 1.5);
+        display: grid;
+        grid-template-columns: var(--main-max-width) 1fr;
+        grid-template-rows: 100px 1fr 100px;
+        grid-template-areas:
+            "main header",
+            "main nav",
+            "footer nav";
+    }
+}
+
