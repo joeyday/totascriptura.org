@@ -595,6 +595,8 @@ footer {
         a:before {
             display: block;
             font-size: 300%;
+            padding-right: 0;
+            padding-bottom: 0.05em;
         }
     }
     
