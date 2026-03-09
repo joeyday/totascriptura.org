@@ -578,6 +578,7 @@ footer {
     
     header {
         grid-area: header;
+        width: 100%;
     }
     
     main {
@@ -591,6 +592,7 @@ footer {
     nav.sidebar {
         grid-area: sidebar;
         display: revert;
+        width: 100%;
     }
     
     footer {
