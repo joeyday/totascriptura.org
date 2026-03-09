@@ -568,11 +568,32 @@ footer {
         width: calc(var(--main-max-width) * 1.5);
         display: grid;
         grid-template-columns: var(--main-max-width) 1fr;
-        grid-template-rows: 100px 1fr 100px;
+        grid-template-rows: 100px 1fr 100px 100px;
         grid-template-areas:
             "main header",
-            "main nav",
-            "footer nav";
+            "main sidebar",
+            "tabs sidebar"
+            "footer sidebar";
+    }
+    
+    header {
+        grid-area: header;
+    }
+    
+    main {
+        grid-area: main;
+    }
+    
+    nav.tabs {
+        grid-area: tabs;
+    }
+    
+    nav.sidebar {
+        grid-area: sidebar;
+    }
+    
+    footer {
+        grid-area: footer;
     }
 }
 
