@@ -574,15 +574,16 @@ footer {
 
         display: grid;
         grid-template-columns: var(--main-max-width) calc(var(--main-max-width) * 0.5);
-        grid-template-rows: 100px 1fr 100px 100px 1fr;
+        grid-template-rows: 100px 1fr 100px 100px;
         grid-template-areas:
             "main header"
             "main sidebar"
             "tabs sidebar"
-            "footer sidebar"
-            "space space";
-            
+            "footer sidebar";
+                        
         margin: 0 auto;
+        
+        min-height: 100%; /* extend background to bottom of viewport */
     }
     
     header {
