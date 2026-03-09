@@ -567,7 +567,7 @@ footer {
     body {
         width: calc(var(--main-max-width) * 1.5);
         display: grid;
-        grid-template-columns: var(--main-max-width) calc(var(--main-max-width) * 1.5);
+        grid-template-columns: var(--main-max-width) calc(var(--main-max-width) * 0.5);
         grid-template-rows: 100px 1fr 100px 100px;
         grid-template-areas:
             "main header"
