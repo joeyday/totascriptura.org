@@ -556,6 +556,10 @@ footer {
     grid-template-columns: 1fr 1fr;
     gap: 1rem;
     font-size: 0.8em;
+    
+    tr:first-child td:first-child {
+        width: 75%;
+    }
 }
 
 
