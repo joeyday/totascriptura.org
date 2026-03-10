@@ -396,6 +396,8 @@ main {
             width: fit-content;
             margin: 2.25em auto 0;
             padding: 0.25em 0.75em;
+            text-align: center;
+            text-wrap: pretty;
             
             border-radius: 0.25em;
             
