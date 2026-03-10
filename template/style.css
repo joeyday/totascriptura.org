@@ -408,8 +408,8 @@ main {
 
 header, nav, footer {
     width: clamp(320px, 100svw, var(--main-max-width));
-    margin: 1em auto 0;
-    padding: 0 1.4em 1em;
+    margin: 1rem auto 0;
+    padding: 0 1.4rem 1rem;
 
     text-align: center;
 
@@ -664,6 +664,11 @@ footer {
     
     footer {
         height: 100%; /* stretch to fill space */
+
+        /* I don't know why I need these, why does the
+           body not extend all the way to the bottom?? */        
+        width: calc(var(--main-max-width) + 1rem);
+        padding: 0 2.4rem 1rem 1.4rem;
         
         grid-area: footer;
         background-color: var(--color-main-background);
