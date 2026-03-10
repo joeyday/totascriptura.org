@@ -550,6 +550,14 @@ nav.sidebar {
 
 footer {
     font-size: 0.857em; /* 14px·0.857=12px */
+    
+    p {
+        display: inline-block;
+        
+        a:first-child {
+            display: none;
+        }
+    }
 }
 
 /* Page-specific styles */
@@ -634,7 +642,7 @@ footer {
         padding: 0;
         
         grid-area: sidebar;
-        display: revert;
+        display: initial;
         width: 100%;
         
         div {
@@ -654,5 +662,13 @@ footer {
         
         color: var(--color-main-text);
         a { color: var(--color-main-text); }
+        
+        p {
+            display: block;
+            
+            a:first-child {
+                display: initial;
+            }
+        }
     }
 }
