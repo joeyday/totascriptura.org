@@ -4,7 +4,7 @@ Places in Scripture where God is called “Father” or people are called “son
 ### Of Jesus
 Mt 3:17; 4:3, 6; 7:21; 8:29; 10:32–33; 11:25–27; 12:50; 14:33; 15:13; 16:16–17, 27; 17:5; 18:10, 14, 19, 35; 20:23; 25:34; 26:29, 39, 42, 53, 63; 27:40, 43, 54; Mk 1:1, 11; 3:11; 5:7; 8:38; 9:7; 14:36, 61; 15:39; Lk 1:32, 35; 2:49; 3:22, 23 <small>(this one’s subtle)</small>; Lk 4:3, 9, 41; 8:28; 9:35; 10:21–22; 22:29, 42, 70; 23:34, 46; 24:49; Jn 1:14, 34, 49; 2:16; 3:16–18; 5:17–18, 25, 43; 6:32, 40; 8:19, 36, 38, 49, 54; 10:18, 25, 29, 36–37; 11:4, 27, 41; 12:27–28; 14:2, 7, 20–21, 23; 15:1, 8, 10, 15, 23–24; 17:1, 5, 11, 21, 24–25; 19:7; 20:17, 31; Ac 9:20; 13:33 <small>(cites Ps 2:7)</small>; Ro 1:3–4, 9; 5:10; 8:3, 29, 32; 15:6; 1Co 1:9; 15:28; 2Co 1:3, 19; 11:31; Gal 1:16; 2:20; 4:4, 6; Eph 1:3; 4:13; Col 1:3, 13, 15; 1Th 1:10; Heb 1:2, 5–6 <small>(cites 2Sa 7:14; Ps 2:7)</small>; Heb 1:8; 3:6; 4:14; 5:5 <small>(cites Ps 2:7)</small>; Heb 5:8; 6:6; 7:3, 28; 10:29; 12:23; 1Pe 1:3; 2Pe 1:17; 1Jn 1:7; 3:8, 23; 4:9–10, 14–15; 5:5, 9–13, 20; 2Jn 1:3; Rev 1:5–6; 2:18, 27; 3:5, 21; 14:1
 ### Of “the sons of God”
-{{mt|Sons of God in Genesis 6}}
+{{mt|[[Sons of God in Genesis 6]]}}
 Ge 6:1–4; Dt 32:8 <small>(but see <abbr>ESV</abbr> footnote)</small>; Job 1:6; 2:1; 38:7; Ps 29:1 <small>(see <abbr>ESV</abbr> footnote)</small>; Ps 82; 89:5–7 <small>(see <abbr>ESV</abbr> footnote)</small> {{s|see also Dan 3:25}}
 ### Of Adam
 Lk 3:38
