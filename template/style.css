@@ -506,6 +506,7 @@ nav.tabs {
 
 nav.sidebar {
     font-size: 0.857em; /* 14px·0.857=12px */
+    margin: 0;
 
     display: grid;
     grid-template-columns: 1fr 1fr;
