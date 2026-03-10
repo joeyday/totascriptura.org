@@ -12,7 +12,7 @@ featured: true
 neither are your ways my ways.*[^1]
 :::
 ### God alone is the creator
-Ge 1:1; Ex 20:11; 31:17; Neh 9:6; Isa 29:16; 40:28; 42:5; 43:1, 15; 44:24; 45:12, 18; 64:8; Jer 18:6; Ac 14:15; 17:24; Ro 9:21; Rev 4:11
+Ge 1:1; Ex 20:11; 31:17; Ne 9:6; Isa 29:16; 40:28; 42:5; 43:1, 15; 44:24; 45:12, 18; 64:8; Jer 18:6; Ac 14:15; 17:24; Ro 9:21; Rev 4:11
 ### We are creatures, created beings
 Ge 1:27; 2:7, 21–22; 5:1–2; Heb 4:13; Jas 1:18
 ## Creator
