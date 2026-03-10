@@ -56,7 +56,7 @@ My prayer as you browse these pages is that you, like me, will be “confronted 
 
 *Soli Deo gloria!*
 
-Joey Day
+Joey Day\
 February 2017
 
 [^psalms1]: Psalms 119:105
