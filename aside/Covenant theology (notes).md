@@ -1,19 +1,19 @@
 ---
 aside of: "[[Covenant theology]]"
 ---
-== “They will be my people and I will be their God” ==
-<blockquote>When God first entered into an everlasting covenant with Abraham, he promised to be God to him and to his seed after him (Gen. 17:7). This language is used of the covenant made at Sinai under Moses (Ex. 19:5; 20:1–2), of the covenant made on the Plains of Moab (Deut. 29:13), of the covenant with David (2 Sam. 7:14), and of the new covenant in Christ (Jer. 31:33; Heb. 8:10). In the description of the consummate state in Revelation 21:1-8, this language is also employed to describe the unbroken communion that God will enjoy with his people in the new heaven and new earth. All the blessings of life and fellowship with the triune God in the Old and New Testaments are summed up in the covenantal promise of union and communion with God. <ref>''Case for Covenantal Infant Baptism, The'' (Kindle Locations 2322-2326). Kindle Edition.</ref></blockquote>
+## “They will be my people and I will be their God”
+<blockquote>When God first entered into an everlasting covenant with Abraham, he promised to be God to him and to his seed after him (Gen. 17:7). This language is used of the covenant made at Sinai under Moses (Ex. 19:5; 20:1–2), of the covenant made on the Plains of Moab (Deut. 29:13), of the covenant with David (2 Sam. 7:14), and of the new covenant in Christ (Jer. 31:33; Heb. 8:10). In the description of the consummate state in Revelation 21:1-8, this language is also employed to describe the unbroken communion that God will enjoy with his people in the new heaven and new earth. All the blessings of life and fellowship with the triune God in the Old and New Testaments are summed up in the covenantal promise of union and communion with God. <ref>*Case for Covenantal Infant Baptism, The* (Kindle Locations 2322-2326). Kindle Edition.</ref></blockquote>
 
 <hr class="references" />
 <references />
 
 
-== Lots of Scripture passages on national v. spiritual Israel ==
+## Lots of Scripture passages on national v. spiritual Israel
 * http://scripturetruths5.tripod.com/spiritualisrael.html
 * http://www.ecclesia.org/truth/chosen.html
 
-== Good summary of Covenant of Redemption ==
-From [http://carm.org/questions-eternal-covenant CARM: “What is the Eternal Covenant, also known as the Covenant of Redemption?”] by Matt Slick:
+## Good summary of Covenant of Redemption
+From [CARM: “What is the Eternal Covenant, also known as the Covenant of Redemption?”](http://carm.org/questions-eternal-covenant) by Matt Slick:
 
 <blockquote><p>In this covenant God the Father and the Son made an agreement with regard to the elect.  This covenant was made before the universe was created and it consisted of the Father promising to bring to the Son all whom the Father had given Him (John 6:39;17:2,9,24), to send the Son to be the representative of the people (John 3:16; Rom. 5:18-19), to prepare a body for the Son (Col. 2:9; Heb. 10:5), and to give the Son all authority in heaven and earth (Matt. 28:18).</p>
 
@@ -23,43 +23,43 @@ From [http://carm.org/questions-eternal-covenant CARM: “What is the Eternal Co
 
 <p>Normally, covenants are made between those of different authority levels such as a king and a subject.  But in the Eternal Covenant, all the parties involved (the Father, the Son, and the Holy Spirit) are equals.</p></blockquote>
 
-== Covenant renewed at Shechem ==
+## Covenant renewed at Shechem
 Where does Joshua 24 fit in this topic, if anywhere? Is this a renewal of the Mosaic covenant?
 
-== The Gospel and the Land Promise ==
+## The Gospel and the Land Promise
 This looks like a site I should invest the time to read: http://tcc.customer.sentex.ca/VH/GLP-index.php?page=intro_glp.html
 
-== OT prophecies that Israel will contain Gentiles at time of new covenant ==
+## OT prophecies that Israel will contain Gentiles at time of new covenant
 Zec 2:11; Mal 1:11
 
-== Where does this belong? ==
+## Where does this belong?
 Zec 9:11
 
-== “Promise” ==
+## “Promise”
 
 Need to do a comprehensive word study on “promise”. So many passages I had never before connected with covenant should properly be connected with covenant.
 
-== Continuity ==
+## Continuity
 
 Isa 54:9–10 shows continuity between Noahic covenant and which other covenant? Is this chapter a prophecy of new covenant or an exposition of the then-current Mosaic covenant? (I’m thinking probably new covenant.)
 
-== Cool chart ==
+## Cool chart
 
-Here's a cool covenant theology chart: [https://www.scribd.com/document/23473222/Covenant-Chart Covenant Chart].
+Here's a cool covenant theology chart: [Covenant Chart](https://www.scribd.com/document/23473222/Covenant-Chart).
 
-== Objections to Dispensationalism ==
+## Objections to Dispensationalism
 Moving this from the topic to here because I honestly don’t remember why these are important. I lifted these straight out of a book and wouldn't have written them this way myself.
-=== Covenant with Abraham always referred to in singular ===
+### Covenant with Abraham always referred to in singular
 Ex 2:24; Lev 26:42; 2Ki 13:23; 1Ch 16:16; Ps 105:9
 
-=== Spiritual nature of Abrahamic covenant proved by manner in which its promises are interpreted in NT ===
+### Spiritual nature of Abrahamic covenant proved by manner in which its promises are interpreted in NT
 Ro 4:16–18; 2Co 6:16–18; Gal 3:8–9, 14, 16; Heb 8:10; 11:9–10, 13
 
-== Episode 128 of the Heidelcast ==
+## Episode 128 of the Heidelcast
 
 Episode 128 of the heidelcast has lots of great scripture proofs for the pactum salutis.
 
-== Implications of covenant theology ==
+## Implications of covenant theology
 
 * Soteriology (<abbr>TULIP</abbr>)
 * Expository preaching
@@ -74,6 +74,6 @@ Episode 128 of the heidelcast has lots of great scripture proofs for the pactum 
 * Providence (common grace, etc.)
 * I’m not sure I fully grasp this one, but Lane Tipton argues in the 2018 Reformed Forum Conference that the genius of covenant theology is that it supports the deeper Protestant conception. Covenant presupposes that Adam is created in the image of God and is eschatologically oriented toward a relationship with God. This goes directly against the Catholic conception of nature-grace duality and the donum superadditum and also against neo-orthodoxy.
 
-== Ancient Near East covenant cutting ==
+## Ancient Near East covenant cutting
 
-Jer 34:18 <small>(retrieved from [https://meredithkline.com/klines-works/articles-and-essays/oath-and-ordeal-signs-part-1/])</small> and of course Ge 15.
+Jer 34:18 ~(retrieved from [https://meredithkline.com/klines-works/articles-and-essays/oath-and-ordeal-signs-part-1/])~ and of course Ge 15.

@@ -34,7 +34,7 @@ What if climate change is the next spectacular sin? God meant it for good but we
 
 > What about verses for and against the possibility/necessity of continuing [[Revelation|revelation]], prophets, apostles, and [[Scripture]]? What about a list of verses for and against an [[Apostasy|apostasy]], a [[Restoration|restoration]]? What about a list of [[Unfulfilled prophecies|prophecies yet unfulfilled]] by Jesus when he came?
 
-<small>(In the middle here I explained I don’t like having pages that focus too heavily on LDS doctrines.)</small>
+~(In the middle here I explained I don’t like having pages that focus too heavily on LDS doctrines.)~
 
 > OK, I understand. Still, it seems that to truly consider whether the canon is closed and the Bible is *tota* and *sola Scriptura*, you should examine all biblical references with regard to the Bible, [[Scripture]], [[Revelation|revelation]], [[Prophets|prophets]], etc. That’s not a Mormon topic. Perhaps you have?
 

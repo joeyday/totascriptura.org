@@ -10,18 +10,18 @@ aside of: "[[Jesus is God]]"
 	* Larry and Pete’s e-mails? The JW website? The “What Does the Bible Really Teach” book?
 	* April 2012 issue of Watchtower has an article that might have more [https://dl.dropbox.com/u/1977451/watchtower-2012-04_modified.pdf].
 	* Use Spotlight full index search to find other Awake! and Watchtower magazines that mention the Trinity.
-	 - I posted this question on Quora: [https://www.quora.com/Christianity-god/What-Bible-proof-texts-are-were-used-to-defend-Arianism What proof texts are/were used to defend Arianism?]
-	* I have now also posted this question: [https://www.quora.com/Jehovahs-Witnesses/What-Bible-passages-do-Jehovah’s-Witnesses-use-to-disprove-the-Trinity What Bible passages do Jehovah’s Witnesses use to disprove the Trinity?]
-	* There is an out-of-print brochure published by Jehovah’s Witnesses titled *Should You Believe in the Trinity?* I was able to find it on [http://web.archive.org/web/20120314084459/http://www.watchtower.org/e/ti/start.htm Archive.org].
-		* Actually, it’s still available on JW.org: [https://wol.jw.org/en/wol/d/r1/lp-e/1101989312 *Should You Believe in the Trinity?* › Contents]
-	* [http://www.youtube.com/watch?v=-qxvmP-NzN4&desktop_uri=%2Fwatch%3Fv%3D-qxvmP-NzN4&app=desktop Five Major Problems with the Trinity]
-	* [http://www.21stcr.org/multimedia/PDF/who_is_jesus.pdf Who is Jesus? ‹ 21st Century Reformation]
-	- [http://www.biblicalunitarian.com/100-scriptural-arguments-for-the-unitarian-faith 100 Scriptural Arguments for the Unitarian Faith ‹ Biblical Unitarian]
-	* [http://www.biblicalunitarian.com/verses Common Verses ‹ Biblical Unitarian]
-* [http://www.rim.org/muslim/JesusisGod.htm Does the Bible say Jesus is God?]
-* [http://www.compellingtruth.org/Jesus-claim-God-deity-biblical.html Did Jesus ever claim to be God? Is the deity of Christ biblical?]
-* [http://www.gotquestions.org/is-Jesus-God.html Is Jesus God? Did Jesus ever claim to be God?]
-* [http://www.tektonics.org/jesusclaims/miscclaims.html Did Jesus Claim to be God? Miscellaneous Divine Claims of Jesus]
+	 - I posted this question on Quora: [What proof texts are/were used to defend Arianism?](https://www.quora.com/Christianity-god/What-Bible-proof-texts-are-were-used-to-defend-Arianism)
+	* I have now also posted this question: [What Bible passages do Jehovah’s Witnesses use to disprove the Trinity?](https://www.quora.com/Jehovahs-Witnesses/What-Bible-passages-do-Jehovah’s-Witnesses-use-to-disprove-the-Trinity)
+	* There is an out-of-print brochure published by Jehovah’s Witnesses titled *Should You Believe in the Trinity?* I was able to find it on [Archive.org](http://web.archive.org/web/20120314084459/http://www.watchtower.org/e/ti/start.htm).
+		* Actually, it’s still available on JW.org: [*Should You Believe in the Trinity?* › Contents](https://wol.jw.org/en/wol/d/r1/lp-e/1101989312)
+	* [Five Major Problems with the Trinity](http://www.youtube.com/watch?v=-qxvmP-NzN4&desktop_uri=%2Fwatch%3Fv%3D-qxvmP-NzN4&app=desktop)
+	* [Who is Jesus? ‹ 21st Century Reformation](http://www.21stcr.org/multimedia/PDF/who_is_jesus.pdf)
+	- [100 Scriptural Arguments for the Unitarian Faith ‹ Biblical Unitarian](http://www.biblicalunitarian.com/100-scriptural-arguments-for-the-unitarian-faith)
+	* [Common Verses ‹ Biblical Unitarian](http://www.biblicalunitarian.com/verses)
+* [Does the Bible say Jesus is God?](http://www.rim.org/muslim/JesusisGod.htm)
+* [Did Jesus ever claim to be God? Is the deity of Christ biblical?](http://www.compellingtruth.org/Jesus-claim-God-deity-biblical.html)
+* [Is Jesus God? Did Jesus ever claim to be God?](http://www.gotquestions.org/is-Jesus-God.html)
+* [Did Jesus Claim to be God? Miscellaneous Divine Claims of Jesus](http://www.tektonics.org/jesusclaims/miscclaims.html)
 * Also see todos in [[Talk:Trinity]]
 
 ## Where do these go now?
@@ -42,8 +42,8 @@ Jn 8:19; Jn 10:30; 14:7–9; 2Co 4:4–5; Php 2:5–11; Col 1:15–17, 19; 2:9�
 
 ## Draft incommunicable attributes
 
-### Omnisapience <small>(is this one a stretch?)</small>
-Pr 8; 9:1–12; Isa 11:1–2; Mk 6:2; Lk 2:40; 2:52; 21:15; 1 Cor 1:24; 1:30; 2:16 <small>(cites Isa 40:13)</small>; Col 2:2–3; Rev 5:12 <small>— *cf. Job 11:5–9; 12:13–25; 28:12–28; Pr 2:6; Isa 28:29; 33:5–6; 40:13; Jer 10:12; 51:15*</small>
+### Omnisapience ~(is this one a stretch?)~
+Pr 8; 9:1–12; Isa 11:1–2; Mk 6:2; Lk 2:40; 2:52; 21:15; 1 Cor 1:24; 1:30; 2:16 ~(cites Isa 40:13)~; Col 2:2–3; Rev 5:12 ~— *cf. Job 11:5–9; 12:13–25; 28:12–28; Pr 2:6; Isa 28:29; 33:5–6; 40:13; Jer 10:12; 51:15*~
 
 ### Ineffibility
 —
@@ -52,7 +52,7 @@ Pr 8; 9:1–12; Isa 11:1–2; Mk 6:2; Lk 2:40; 2:52; 21:15; 1 Cor 1:24; 1:30; 2:
 —
 
 ### Holiness
-Heb 7:26; 1 Pet 3:15; Rev 3:7 <small>— *cf. Isa 8:13*</small> <small>— *but see also Heb 12:10; 12:14*</small> — study [http://www.biblegateway.com/keyword/?search=holy&version1=ESV&searchtype=all&limit=none&wholewordsonly=no holy], [http://www.biblegateway.com/keyword/?search=holiness&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73 holiness], [http://www.biblegateway.com/keyword/?search=separate&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73 separate], [http://www.biblegateway.com/keyword/?search=%22set+apart%22&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73 set apart]
+Heb 7:26; 1 Pet 3:15; Rev 3:7 ~— *cf. Isa 8:13*~ ~— *but see also Heb 12:10; 12:14*~ — study [holy](http://www.biblegateway.com/keyword/?search=holy&version1=ESV&searchtype=all&limit=none&wholewordsonly=no), [holiness](http://www.biblegateway.com/keyword/?search=holiness&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73), [separate](http://www.biblegateway.com/keyword/?search=separate&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73), [set apart](http://www.biblegateway.com/keyword/?search=%22set+apart%22&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73)
 
 ### Immanence
 —
@@ -83,7 +83,7 @@ Heb 7:26; 1 Pet 3:15; Rev 3:7 <small>— *cf. Isa 8:13*</small> <small>— *but 
 Some of these are near complete but I don’t like them since they aren’t necessarily exclusively describing the one God. 
 
 ### “The fountain of living waters”
-Jn 4:7–15; 7:37–38; Rev 7:17; 22:1 <small>— *cf. Jer 2:13; 17:13; Rev 21:6*</small>
+Jn 4:7–15; 7:37–38; Rev 7:17; 22:1 ~— *cf. Jer 2:13; 17:13; Rev 21:6*~
 
 ### Jesus is life
 Pr 8:35; Jn 1:4; 11:25; 14:6; Acts 5:20; 1 Jn 1:1–2; 5:11–13
@@ -92,16 +92,16 @@ Pr 8:35; Jn 1:4; 11:25; 14:6; Acts 5:20; 1 Jn 1:1–2; 5:11–13
 Jn 8:12; Ps 27:1
 
 ### Jesus gives life
-Jn 5:21; <small>(see Jn 5:19–29)</small>; Jn 5:40; 6:27; 6:51; 6:68; 8:12; 10:10; 10:28; 17:2–3; 20:31; Acts 3:14–15; Rom 5:17–21; 1 Cor 15:45; Col 3:4; 2 Tim 1:10; Rev 22:1 — <small>*cf. Gen 2:7; 1 Sam 2:6; Job 33:4; Ps 36:9; 54:4; Pr 14:27; Rom 4:17; 1 Tim 6:13*</small>
+Jn 5:21; ~(see Jn 5:19–29)~; Jn 5:40; 6:27; 6:51; 6:68; 8:12; 10:10; 10:28; 17:2–3; 20:31; Acts 3:14–15; Rom 5:17–21; 1 Cor 15:45; Col 3:4; 2 Tim 1:10; Rev 22:1 — ~*cf. Gen 2:7; 1 Sam 2:6; Job 33:4; Ps 36:9; 54:4; Pr 14:27; Rom 4:17; 1 Tim 6:13*~
 
 ### “What man can live and never see death?”
-Jn 2:19–22; 10:17–18; Heb 7:16; Rev 1:17–18; 2:8 — <small>*cf. Ps 89:48*</small>
+Jn 2:19–22; 10:17–18; Heb 7:16; Rev 1:17–18; 2:8 — ~*cf. Ps 89:48*~
 
 ### “A people for his own possession”
-Titus 2:13–14 — <small>*cf. Ex 19:5; Dt 7:6; 14:2; 26:18; 1 Sam 12:22; Ps 135:4; Mal 3:17; 1 Pet 2:9*</small>
+Titus 2:13–14 — ~*cf. Ex 19:5; Dt 7:6; 14:2; 26:18; 1 Sam 12:22; Ps 135:4; Mal 3:17; 1 Pet 2:9*~
 
 ### “Honor the Lord as holy”
-1 Pet 3:14–15 <small>— *cf. Isa 8:12–13*</small>
+1 Pet 3:14–15 ~— *cf. Isa 8:12–13*~
 
 ### Saved for later
 Isa 33:22
@@ -110,25 +110,25 @@ Isa 33:22
 Gen 32:29; Ex 6:3; Jdg 13:18
 
 ### “King of Kings”
-Rev 17:14; 19:16 <small>— *cf. 1 Sam 12:12; Ps 95:3; 1 Tim 1:17; 6:15*</small> — study [http://www.biblegateway.com/keyword/index.php?search=king%20god&version1=ESV&searchtype=all&limit=none&wholewordsonly=no&startnumber=51 king god], [http://www.biblegateway.com/keyword/?search=king+lord&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73 king lord]
+Rev 17:14; 19:16 ~— *cf. 1 Sam 12:12; Ps 95:3; 1 Tim 1:17; 6:15*~ — study [king god](http://www.biblegateway.com/keyword/index.php?search=king%20god&version1=ESV&searchtype=all&limit=none&wholewordsonly=no&startnumber=51), [king lord](http://www.biblegateway.com/keyword/?search=king+lord&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73)
 
 ### “High and lifted up”
-Isa 52:13 <small>— *cf. Isa 6:1; 57:15*</small>
+Isa 52:13 ~— *cf. Isa 6:1; 57:15*~
 
 ### “Thus says the Lord” v. “Truly, I say to you”
-Mt 7:28–29 <small>(cf. Mk 1:22, 27; Lk 4:32, 36)</small>; Jn 7:45–46 <small>— search “Thus says the Lord,” “But I say to you,” and “Truly, I say to you.”</small>
+Mt 7:28–29 ~(cf. Mk 1:22, 27; Lk 4:32, 36)~; Jn 7:45–46 ~— search “Thus says the Lord,” “But I say to you,” and “Truly, I say to you.”~
 
 ### “Declaring the end from the beginning”
-Jn 13:19; 14:29 <small>— *cf. Isa 41:21–23; 42:8–9; 44:6–8; 46:8–11*</small>
+Jn 13:19; 14:29 ~— *cf. Isa 41:21–23; 42:8–9; 44:6–8; 46:8–11*~
 
 ### “You alone are holy”
-Ac 3:14 <small>— *cf. Rev 15:4*</small>
+Ac 3:14 ~— *cf. Rev 15:4*~
 
 ### “Who is a teacher like him?”
 Job 36:22
 
 ### “The stone the builders rejected”
-Ps 118:22; Isa 8:13–15; 28:16; Lk 20:17–18 <small>(relevant?)</small>; Acts 4:11; Ro 9:33; Eph 2:20; 1 Pet 2:4–8
+Ps 118:22; Isa 8:13–15; 28:16; Lk 20:17–18 ~(relevant?)~; Acts 4:11; Ro 9:33; Eph 2:20; 1 Pet 2:4–8
 
 ### “You alone are the Most High”
 Ps 83:18
@@ -137,13 +137,13 @@ Ps 83:18
 Mk 2:5–7
 
 ### “Love the Lord your God with all your heart”
-Mt 10:37 <small>— *cf. Mt 22:37*</small> — more in ch. 5 of *Putting Jesus in His Place* by Rob Bowman
+Mt 10:37 ~— *cf. Mt 22:37*~ — more in ch. 5 of *Putting Jesus in His Place* by Rob Bowman
 
 ### “The word of our God will stand forever”
-Mt 24:35; Mk 13:31 <small>— *cf. Isa 40:8</small>
+Mt 24:35; Mk 13:31 ~— *cf. Isa 40:8~
 
 ### “God alone treads on the waves of the sea”
-Mt 14:25–27 <small>(cf. Mk 6:48–50; Jn 6:19–20)</small> <small>— *cf. Job 9:8; Ps 77:19; Isa 43:16*</small> — I got this one from the first chapter of *The Essential Trinity* <small>(eds. Brandon Crowe and Carl Trueman)</small>, but aren’t these <abbr>OT</abbr> passages references to the crossing of the Red Sea? Seems like a stretch to connect this to Jesus walking on water, but there is an I AM statement here, so maybe the connection is appropriate?
+Mt 14:25–27 ~(cf. Mk 6:48–50; Jn 6:19–20)~ ~— *cf. Job 9:8; Ps 77:19; Isa 43:16*~ — I got this one from the first chapter of *The Essential Trinity* ~(eds. Brandon Crowe and Carl Trueman)~, but aren’t these <abbr>OT</abbr> passages references to the crossing of the Red Sea? Seems like a stretch to connect this to Jesus walking on water, but there is an I AM statement here, so maybe the connection is appropriate?
 
 ## From the ’83 Watchtower article
 
@@ -184,7 +184,7 @@ Inferences from pairs of passages.
 Isolated passages, “there being no danger of mistaking their application”:
 
 ::: {style="margin-left: 1em:"}
-Isa 2:17–18 <small>(cf. 1Jn 5:20–21)</small>; Jer 23:6; Jn 14:11; 2Co 5:19; 2Co 5:20; Jude 4
+Isa 2:17–18 ~(cf. 1Jn 5:20–21)~; Jer 23:6; Jn 14:11; 2Co 5:19; 2Co 5:20; Jude 4
 :::
 
 ## Jesus’ own claims about himself
@@ -213,7 +213,7 @@ Hab 1:12 deserves a spot in difficult passages, I think. NWT has “You do not d
 
 ## Biblical Unitarian arguments
 
-“The Scriptures never say the word ‘Trinity’, they never say the phrase ‘God the Son’, they never say the word ‘co-equal’, ‘co-essential’—in fact, they never say any of this. Not only do they never say any of these words, but none of these concepts, anywhere, are explained in Scripture.” —Sean Finnegan, <small>*[http://www.youtube.com/watch?v=-qxvmP-NzN4&desktop_uri=%2Fwatch%3Fv%3D-qxvmP-NzN4&app=desktop Five Major Problems with the Trinity]*</small>
+“The Scriptures never say the word ‘Trinity’, they never say the phrase ‘God the Son’, they never say the word ‘co-equal’, ‘co-essential’—in fact, they never say any of this. Not only do they never say any of these words, but none of these concepts, anywhere, are explained in Scripture.” —Sean Finnegan, ~*[Five Major Problems with the Trinity](http://www.youtube.com/watch?v=-qxvmP-NzN4&desktop_uri=%2Fwatch%3Fv%3D-qxvmP-NzN4&app=desktop)*~
 
 (See todos above.)
 
@@ -262,8 +262,8 @@ To the existing inference section on this topic I should probably add some refer
 
 ## Matthew 22:41–46
 
-Mt 22:41–46 <small>(cf. Mk 12:35–37; Lk 20:41–44)</small> belongs on this page as an inference. Probably in the pre-existence section? Where else could it go?
+Mt 22:41–46 ~(cf. Mk 12:35–37; Lk 20:41–44)~ belongs on this page as an inference. Probably in the pre-existence section? Where else could it go?
 
 ## Mark 5:19–20 
 
-Mk 5:19–20 <small>(cf. Lk 8:39)</small> is relevant to this topic as an inference. I guess there are different ways to interpret it, but to me the identification of Jesus with God is so deliberate. Did the man make a mistake? He should have given glory to God for his healing but he glorified Jesus instead? Or was he right to glorify Jesus because Jesus is God? If he was mistaken, why do the gospel writers not point out his mistake? Or why not simply correct it and say he went about proclaiming what God had done for him?
+Mk 5:19–20 ~(cf. Lk 8:39)~ is relevant to this topic as an inference. I guess there are different ways to interpret it, but to me the identification of Jesus with God is so deliberate. Did the man make a mistake? He should have given glory to God for his healing but he glorified Jesus instead? Or was he right to glorify Jesus because Jesus is God? If he was mistaken, why do the gospel writers not point out his mistake? Or why not simply correct it and say he went about proclaiming what God had done for him?

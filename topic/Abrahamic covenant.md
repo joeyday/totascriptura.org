@@ -28,16 +28,16 @@ Ro 4:13–18; Gal 3:13–18
 ### Christians comforted by immutability of Abrahamic promise
 Heb 6:13–18
 ### NT church represented as a nation
-Mt 21:43; Ro 9:25–26 <small>(cf. Hos 2:23)</small>; Eph 2:19; Tit 2:14
+Mt 21:43; Ro 9:25–26 ~(cf. Hos 2:23)~; Eph 2:19; Tit 2:14
 ### OT passages about Israel applied to church
-2Co 6:16 <small>(cites Ex 29:45; Lev 26:12)</small>; 1Pe 2:9 <small>(cites Ex 19:6)</small>
+2Co 6:16 ~(cites Ex 29:45; Lev 26:12)~; 1Pe 2:9 ~(cites Ex 19:6)~
 ### There is a land inheritance in the new covenant
-Mt 5:5; Lk 12:44; Ro 4:13; 1Co 3:21–23; Php 3:20; Heb 11:9–10, 13–16; 12:22–23; 13:14; Rev 21 <small>(see also Ps 102:25–27; Heb 1:10–12; Rev 6:12–14; 16:17–20)</small>
+Mt 5:5; Lk 12:44; Ro 4:13; 1Co 3:21–23; Php 3:20; Heb 11:9–10, 13–16; 12:22–23; 13:14; Rev 21 ~(see also Ps 102:25–27; Heb 1:10–12; Rev 6:12–14; 16:17–20)~
 ### If you are Christ’s then you are Abraham’s
 Gal 3:6–7, 14, 27, 29
 ### Israel has always included Gentiles
 Dt 23:7-8; Isa 56:3, 6–7; Eze 47:22-23
 ### Not all are children of Abraham simply because they are his offspring
-Ge 21:12 <small>(cited at Ro 9:7)</small>; Ge 25:23 <small>(cited at Ro 9:12)</small>; Ex 33:19; Isa 28:22; Mal 1:2–3 <small>(cited at Ro 9:13)</small>; Mt 3:8–9; Jn 8:33–34, 37–40; Ro 9:6–13 <small>(cites Ge 21:12; 25:23; Mal 1:2–3)</small>
+Ge 21:12 ~(cited at Ro 9:7)~; Ge 25:23 ~(cited at Ro 9:12)~; Ex 33:19; Isa 28:22; Mal 1:2–3 ~(cited at Ro 9:13)~; Mt 3:8–9; Jn 8:33–34, 37–40; Ro 9:6–13 ~(cites Ge 21:12; 25:23; Mal 1:2–3)~
 ## See also
 * [[Covenant theology]]

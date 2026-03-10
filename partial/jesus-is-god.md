@@ -2,4 +2,4 @@
 hidden: "true"
 ---
 %% FYI, THIS LIST IS REPRODUCED EXACTLY AS IT APPEARS IN GRUDEM’S SYSTEMATIC THEOLOGY CHAPTER 26, SECTION B %%
-Isa 9:6; Jn 1:1–4, 18; 20:28; Ro 9:5; Tit 2:13; Heb 1:8–9 <small>(cites Ps 45:6–7)</small>; 2Pe 1:1 <small>(cf. 2Pe 1:11)</small>
+Isa 9:6; Jn 1:1–4, 18; 20:28; Ro 9:5; Tit 2:13; Heb 1:8–9 ~(cites Ps 45:6–7)~; 2Pe 1:1 ~(cf. 2Pe 1:11)~
