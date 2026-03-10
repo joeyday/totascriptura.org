@@ -4,6 +4,7 @@ categories:
 featured: true
 ---
 ![[Work-table-2.png]]
+
 ### Creation from nothing ~(most explicit passages)~
 {{[[ex-nihilo]]}}
 ### Nothing exists God did not create

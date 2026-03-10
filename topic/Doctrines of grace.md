@@ -4,6 +4,7 @@ categories:
 featured: true
 ---
 ![[Aspen-path.png]]
+
 ### Total depravity
 {{mt|[[Total depravity]]}}
 Ps 14:2–3; 58:3; Isa 53:6; Jer 13:23; Mt 7:18; 12:34; Ro 8:7–8; 1Co 2:14; 2Co 4:3–4; 1Jn 1:8–10

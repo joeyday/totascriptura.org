@@ -3,7 +3,8 @@ categories:
   - "[[Prolegomena]]"
 featured: true
 ---
-[[File:Boardwalk.png|link=]]
+![[Boardwalk.png]]
+
 ## Canon of
 ### Old Testament canon
 {{mt|[[Old Testament canon]]}}
