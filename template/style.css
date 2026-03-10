@@ -504,6 +504,8 @@ nav.tabs {
 }
 
 nav.sidebar {
+    font-size: 0.857em; /* 14px·0.857=12px */
+
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;
@@ -541,7 +543,7 @@ nav.sidebar {
 }
 
 footer {
-
+    font-size: 0.857em; /* 14px·0.857=12px */
 }
 
 /* Page-specific styles */
