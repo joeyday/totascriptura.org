@@ -551,7 +551,7 @@ nav.sidebar {
 
 footer {
     font-size: 0.857em; /* 14px·0.857=12px */
-    padding-bottom: 2em;
+    padding-bottom: 1em;
     
     p {
         display: inline-block;
@@ -674,7 +674,7 @@ footer {
         p {
             display: block;
             
-            /* Show about footer link
+            /* Show about footer link */
             a:first-child {
                 display: initial;
             }
