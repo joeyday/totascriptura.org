@@ -6,4 +6,4 @@ hidden: "true"
     .sort((a, b) => Number(a) - Number(b)) // ensure proper order
     .map(key => locals[key])
 
-if (numberedValues.length) { %><span class="main-topic"><em>Main topic<%= numberedValues.length > 1 ? 's' : * %>: <%= numberedValues.join(', ') %></em></span><% } %>
+if (numberedValues.length) { %><span class="main-topic"><em>Main topic<%= numberedValues.length > 1 ? 's' : ' ' %>: <%= numberedValues.join(', ') %></em></span><% } %>
