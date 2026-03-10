@@ -408,8 +408,8 @@ main {
 
 header, nav, footer {
     width: clamp(320px, 100svw, calc((22px * 100svw) / var(--font-relative-size)));
-    margin: auto;
-    padding: 1em 0;
+    margin: 1em auto;
+    padding: 0 1.4em 1em;
 
     text-align: center;
 
@@ -550,6 +550,7 @@ nav.sidebar {
 
 footer {
     font-size: 0.857em; /* 14px·0.857=12px */
+    padding-bottom: 2em;
     
     p {
         display: inline-block;
