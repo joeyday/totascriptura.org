@@ -655,7 +655,7 @@ footer {
         }
             
         /* Hide home page menu item */
-        ul:first-child li:first-child {
+        div:first-child ul:first-child li:first-child {
             display: none;
         }
     }
