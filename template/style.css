@@ -510,12 +510,16 @@ nav.sidebar {
     grid-template-columns: 1fr 1fr;
     align-items: center;
     
-    ul li {
-        list-style-type: none;
-        
-        &.muted {
-            color: var(--color-nav-text-muted);
-            a { color: var(--color-nav-text-muted); }
+    ul {
+        margin-bottom: 1.5rem;
+
+        li {
+            list-style-type: none;
+            
+            &.muted {
+                color: var(--color-nav-text-muted);
+                a { color: var(--color-nav-text-muted); }
+            }
         }
     }
 
@@ -632,10 +636,6 @@ footer {
         width: 100%;
         
         div {
-            margin-bottom: 1.5rem;
-        }
-        
-        ul {
             margin-bottom: 1.5rem;
         }
     }
