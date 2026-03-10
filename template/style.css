@@ -407,7 +407,7 @@ main {
 }
 
 header, nav, footer {
-    width: clamp(320px, 100svw, calc((22px * 100svw) / var(--font-relative-size)));
+    width: clamp(320px, 100svw, var(--main-max-width));
     margin: 1em auto 0;
     padding: 0 1.4em 1em;
 
