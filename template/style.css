@@ -551,7 +551,7 @@ nav.sidebar {
 
 footer {
     font-size: 0.857em; /* 14px·0.857=12px */
-    padding-bottom: 1em;
+    padding-bottom: 2rem;
     
     p {
         display: inline-block;
@@ -668,7 +668,7 @@ footer {
         /* I don't know why I need these, why does the
            body not extend all the way to the bottom?? */        
         width: calc(var(--main-max-width) + 1rem);
-        padding: 0 2.4rem 1rem 1.4rem;
+        padding: 0 2.4rem 2rem 1.4rem;
         
         grid-area: footer;
         background-color: var(--color-main-background);
