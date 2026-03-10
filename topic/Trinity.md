@@ -1,9 +1,7 @@
 ---
-title: Trinity
-permalink: trinity
-featured: true
 categories:
-  - Theology (proper)
+  - "[[Theology (proper)]]"
+featured: true
 ---
 ![[Town.png]]
 

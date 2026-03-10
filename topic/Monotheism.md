@@ -1,7 +1,7 @@
 ---
-featured: true
 categories:
-  - Theology (proper)
+  - "[[Theology (proper)]]"
+featured: true
 ---
 ![[Dock-beach-2.png]]
 
