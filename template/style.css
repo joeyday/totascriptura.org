@@ -408,7 +408,7 @@ main {
 
 header, nav, footer {
     width: clamp(320px, 100svw, calc((22px * 100svw) / var(--font-relative-size)));
-    margin: 1em auto;
+    margin: 1em auto 0;
     padding: 0 1.4em 1em;
 
     text-align: center;
@@ -443,6 +443,7 @@ header {
 }
 
 nav.tabs {
+    margin: 0;
     padding: 0;
     font-size: 0.857em; /* 14px·0.857=12px */
     text-transform: lowercase;
