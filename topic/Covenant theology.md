@@ -3,7 +3,7 @@ categories:
   - "[[Biblical theology]]"
 featured: true
 ---
-[[File:Autumn-chapel-ruins.png|link=]]
+![[Autumn-chapel-ruins.png]]
 ## Covenant of Redemption
 ### Covenant of Redemption
 Ps 2:7–9; 40:7–9; Jn 5:23, 36–37; 6:38–39, 44, 57; 8:16, 18; 10:17–18, 36; 12:49; 14:24; 17:4–10, 24; 20:21; Eph 1:3–14; 3:11; 2Th 2:13; 2Ti 1:9; Tit 1:1–3; Heb 5:5; Jas 2:5; 1Pe 1:1–2; 1Jn 4:14
