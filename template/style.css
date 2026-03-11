@@ -456,6 +456,8 @@ header {
 }
 
 nav.tabs {
+    width: calc(clamp(320px, 100svw, var(--main-max-width)) - 2.8rem);
+    
     margin: 0 auto;
     padding: 0;
     font-size: 0.857em; /* 14px·0.857=12px */
@@ -520,7 +522,7 @@ nav.tabs {
                         
             &.notes,
             &.backlinks {
-                margin-right: 1.25em;
+                margin-right: 1rem;
             }
             
             &.muted {
