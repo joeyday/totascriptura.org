@@ -1,7 +1,7 @@
 ---
 aside of: "[[Trinity]]"
 ---
-[[File:Trinity-diagram-3.png|link=]]
+![[Trinity-diagram-3.png]]
 
 ## Todo
 * Split apart references to the numerical oneness of the essence v. the oneness of mind, will, purpose among the persons
