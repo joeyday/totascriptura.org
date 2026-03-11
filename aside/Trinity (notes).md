@@ -6,103 +6,95 @@ aside of: "[[Trinity]]"
 ## Todo
 * Split apart references to the numerical oneness of the essence v. the oneness of mind, will, purpose among the persons
 * Mine the following for additional references:
-** Erickson’s Trinity book
-** Erickson’s *Christian Theology*
-** <mark>Berkhof’s *Systematic Theology*</mark>
-** Calvin’s *Institutes*
-** Reformed creeds and confessions?
+	* Erickson’s Trinity book
+	- Erickson’s *Christian Theology*
+	- ==Berkhof’s *Systematic Theology*==
+	- Calvin’s *Institutes*
+	- Reformed creeds and confessions?
 * [*The Ontological and Economic Trinity*](http://carm.org/ontological-and-economic-trinity) by Matt Slick
 * [*The Great Trinity Debate, Part 6: Rob Bowman’s Closing Statement*](http://www.reclaimingthemind.org/blog/2010/05/the-great-trinity-debate-part-6-rob-bowmans-closing-statement)
 * [*The Biblical Basis of the Doctrine of the Trinity*](http://irr.org/biblical-basis-of-doctrine-of-trinity) by Rob Bowman
 * [*FAQ about the Trinity*](http://bib.irr.org/category/trinity/faq-about-trinity) by Rob Bowman (see especially the great article here about how to defend anti-trinitarian theologies)
 * I have a commentary on the WCF by A.A. Hodge in my Logos base package. He gives several prooftexts for the Trinity in his comments on WCF 2.3.
-* Also see todos in [[{{ns:Talk}}:Jesus is God]]
+* Also see todos in [[Jesus is God (notes)]]
 
 ## Alternative outlines / definitions
-
 From Theopedia’s *Trinity* article:
-
-# There is one and only one God.
-# God eternally exists in three distinct persons.
-# The Father is God, the Son is God, and the Holy Spirit is God.
-# The Father is not the Son, the Son is not the Father, the Father is not the Spirit, etc.
+1. There is one and only one God.
+2. God eternally exists in three distinct persons.
+3. The Father is God, the Son is God, and the Holy Spirit is God.
+4. The Father is not the Son, the Son is not the Father, the Father is not the Spirit, etc.
 
 From Berkhof’s *Systematic Theology*:
 
-# There is in the Divine Being but one indivisible essence (ousia, essentia).
-# In this one Divine Being there are three Persons or individual subsistences, Father, Son, and Holy Spirit.
-# The whole undivided essence of God belongs equally to each of the three persons.
-# The subsistence and operation of the three persons in the divine Being is marked by a certain definite order.
-# There are certain personal attributes by which the three persons are distinguished.
+1. There is in the Divine Being but one indivisible essence (ousia, essentia).
+2. In this one Divine Being there are three Persons or individual subsistences, Father, Son, and Holy Spirit.
+3. The whole undivided essence of God belongs equally to each of the three persons.
+4. The subsistence and operation of the three persons in the divine Being is marked by a certain definite order.
+5. There are certain personal attributes by which the three persons are distinguished.
 
-From Rob Bowman’s [*The Biblical Basis of the Doctrine of the Trinity*](http://irr.org/biblical-basis-of-doctrine-of-trinity):
+From Rob Bowman’s *[The Biblical Basis of the Doctrine of the Trinity](http://irr.org/biblical-basis-of-doctrine-of-trinity)*:
 
-# There is one God (i.e., one proper object of religious devotion).
-# This one God is a single divine being, called Jehovah or Yahweh in the Old Testament (the <abbr>LORD</abbr>).
-# The Father of our Lord Jesus Christ is God, the <abbr>LORD</abbr>.
-# The Son, Jesus Christ, is God, the <abbr>LORD</abbr>.
-# The Holy Spirit is God, the <abbr>LORD</abbr>.
-# The Father, Son, and Holy Spirit are each someone distinct from the other two.
+1. There is one God (i.e., one proper object of religious devotion).
+2. This one God is a single divine being, called Jehovah or Yahweh in the Old Testament (the <abbr>LORD</abbr>).
+3. The Father of our Lord Jesus Christ is God, the <abbr>LORD</abbr>.
+4. The Son, Jesus Christ, is God, the <abbr>LORD</abbr>.
+5. The Holy Spirit is God, the <abbr>LORD</abbr>.
+6. The Father, Son, and Holy Spirit are each someone distinct from the other two.
 
 From Philip Ryken and Michael LeFebvre’s *Our Triune God*<ref>Ryken, Philip Graham; LeFebvre, Michael. *Our Triune God: Living in the Love of the Three-in-One* (p. 20). Crossway. Kindle Edition.</ref>:
 
-# God the Father is God.
-# God the Son is God.
-# God the Holy Spirit is God.
-# The Father is not the Son.
-# The Son is not the Spirit.
-# The Spirit is not the Father.
-# Nevertheless, there is only one God.
+1. God the Father is God.
+2. God the Son is God.
+3. God the Holy Spirit is God.
+4. The Father is not the Son.
+5. The Son is not the Spirit.
+6. The Spirit is not the Father.
+7. Nevertheless, there is only one God.
 
 From the Catholic Encyclopedia:
-
-<blockquote>The Trinity is the term employed to signify the central doctrine of the Christian religion — the truth that in the unity of the Godhead there are Three Persons, the Father, the Son, and the Holy Spirit, these Three Persons being truly distinct one from another.</blockquote>
+> The Trinity is the term employed to signify the central doctrine of the Christian religion — the truth that in the unity of the Godhead there are Three Persons, the Father, the Son, and the Holy Spirit, these Three Persons being truly distinct one from another.
 
 From an article at Desiring God:
-
-<blockquote>(1) The Father, Son, and Holy Spirit are distinct Persons, (2) each Person is fully God, (3) there is only one God.<ref>http://www.desiringgod.org/articles/what-is-the-doctrine-of-the-trinity</ref></blockquote>
+> (1) The Father, Son, and Holy Spirit are distinct Persons, (2) each Person is fully God, (3) there is only one God.[^1]
 
 Wayne Grudem’s <cite>Systematic Theology</cite>:
-
-<blockquote>Sometimes people use three different names when referring to God: God or Father, Jesus Christ, and the Holy Spirit. But these are more than simply different names for one person; they are, in fact, the names of three very distinct persons. But even though God the Father, God the Son (Jesus), and God the Holy Spirit have eternally existed as three distinct persons, there is only one God. This is called the doctrine of the Trinity.<ref>Grudem, Wayne; Grudem, Elliot (2009-03-10). Christian Beliefs: Twenty Basics Every Christian Should Know (Kindle Locations 482-485). Zondervan. Kindle Edition.</ref></blockquote>
+> Sometimes people use three different names when referring to God: God or Father, Jesus Christ, and the Holy Spirit. But these are more than simply different names for one person; they are, in fact, the names of three very distinct persons. But even though God the Father, God the Son (Jesus), and God the Holy Spirit have eternally existed as three distinct persons, there is only one God. This is called the doctrine of the Trinity.[^2]
 
 The Athanasian Creed:
-
-<blockquote>And the catholic faith is this: that we worship one God in Trinity, and Trinity in unity, neither confounding the persons nor dividing the substance.</blockquote>
+> And the catholic faith is this: that we worship one God in Trinity, and Trinity in unity, neither confounding the persons nor dividing the substance.
 
 Westminster Confession of Faith:
-
-<blockquote>2.3. In the unity of the Godhead there be three persons, of one substance, power, and eternity; God the Father, God the Son, and God the Holy Ghost. The Father is of none, neither begotten nor proceeding; the Son is eternally begotten of the Father; the Holy Ghost eternally proceeding from the Father and the Son.</blockquote>
+> 2.3. In the unity of the Godhead there be three persons, of one substance, power, and eternity; God the Father, God the Son, and God the Holy Ghost. The Father is of none, neither begotten nor proceeding; the Son is eternally begotten of the Father; the Holy Ghost eternally proceeding from the Father and the Son.
 
 Westminster Larger Catechism:
-
-<blockquote>*Q. 8. Are there more Gods than one?*<br />A. There is but One only, the living and true God.
-
-*Q. 9. How many persons are there in the Godhead?*<br />A. There be three persons in the Godhead, the Father, the Son, and the Holy Ghost; and these three are one true, eternal God, the same in substance, equal in power and glory; although distinguished by their personal properties.
-
-*Q. 10. What are the personal properties of the three persons in the Godhead?*<br />A. It is proper to the Father to beget the Son, and to the Son to be begotten of the Father, and to the Holy Ghost to proceed from the Father and the Son from all eternity.
-
-*Q. 11. How doth it appear that the Son and the Holy Ghost are God equal with the Father?*<br />A. The scriptures manifest that the Son and the Holy Ghost are God equal with the Father, ascribing unto them such names, attributes, works, and worship, as are proper to God only.</blockquote>
+> *Q. 8. Are there more Gods than one?*\
+> A. There is but One only, the living and true God.
+> 
+> *Q. 9. How many persons are there in the Godhead?*\
+> A. There be three persons in the Godhead, the Father, the Son, and the Holy Ghost; and these three are one true, eternal God, the same in substance, equal in power and glory; although distinguished by their personal properties.
+> 
+> *Q. 10. What are the personal properties of the three persons in the Godhead?*\
+> A. It is proper to the Father to beget the Son, and to the Son to be begotten of the Father, and to the Holy Ghost to proceed from the Father and the Son from all eternity.
+> 
+> *Q. 11. How doth it appear that the Son and the Holy Ghost are God equal with the Father?*\
+> A. The scriptures manifest that the Son and the Holy Ghost are God equal with the Father, ascribing unto them such names, attributes, works, and worship, as are proper to God only.
 
 Scott Swain’s *The Trinity: An Introduction*:
-
-# There is one God, the source and end of all creatures.
-# The Father, the Son, and the Holy Spirit are identical with the one God and, as such, are on the divine side of the distinction between the one God and all creatures.
-# The Father, the Son, and the Holy Spirit are distinguished from each other only by relations of origin.
-# The relations of origin that distinguish the Father, the Son, and the Holy Spirit do not follow as a consequence of the one God’s will to create. Rather, God’s will to create follows the relations of origin that distinguish the Father, the Son, and the Holy Spirit.
-# Certain creatures are destined by God’s grace to be embraced within the relations of the Father, the Son, and the Holy Spirit, to the praise of his triune glory.
-# God himself, through the missions of the Son and the Spirit, brings it about that certain creatures are embraced within the relations of the Father, the Son, and the Holy Spirit.
-
+1. There is one God, the source and end of all creatures.
+2. The Father, the Son, and the Holy Spirit are identical with the one God and, as such, are on the divine side of the distinction between the one God and all creatures.
+3. The Father, the Son, and the Holy Spirit are distinguished from each other only by relations of origin.
+4. The relations of origin that distinguish the Father, the Son, and the Holy Spirit do not follow as a consequence of the one God’s will to create. Rather, God’s will to create follows the relations of origin that distinguish the Father, the Son, and the Holy Spirit.
+5. Certain creatures are destined by God’s grace to be embraced within the relations of the Father, the Son, and the Holy Spirit, to the praise of his triune glory.
+6. God himself, through the missions of the Son and the Spirit, brings it about that certain creatures are embraced within the relations of the Father, the Son, and the Holy Spirit.
 ## On the economical Trinity
 
 On the economical/functional Trinity, the following articles are very helpful for understanding the context and full meaning of the phrase “only begotten Son”.
-
 * [The Only Begotten Son](http://www.bible-researcher.com/only-begotten.html) by Michael Marlowe
 * [The eternal generation of the Son](http://www.bible-researcher.com/eternal-generation.html) by Louis Berkhof
 * [What’s the Difference between the Ontological and the Economic Trinity?](http://www.ligonier.org/blog/whats-difference-between-ontological-and-economic-trinity/) by R.C. Sproul
 
-— [[File:Avatar.png|link=User:Joey]] [[User:Joey|Joey]] 19:44, 20 June 2012 (UTC)
-
+—**Joey** 19:44, 20 June 2012 (UTC)
 ## Generation and procession in the creeds and confessions
 
 ;Nicene Creed
@@ -526,3 +518,7 @@ I guess inseparable operations should be included either in the oneness section 
 
 <hr class="references" />
 <references />
+
+[^1]: http://www.desiringgod.org/articles/what-is-the-doctrine-of-the-trinity
+
+[^2]: Grudem, Wayne; Grudem, Elliot (2009-03-10). Christian Beliefs: Twenty Basics Every Christian Should Know (Kindle Locations 482-485). Zondervan. Kindle Edition.

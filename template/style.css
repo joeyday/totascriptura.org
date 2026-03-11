@@ -387,6 +387,17 @@ main {
             text-wrap: balance;
         }
         
+        div.indent,
+        div.one-tab {
+            margin-left: 1.4rem;
+        }
+        
+        div.indent-again,
+        div.indent-twice,
+        div.two-tabs {
+            margin-left: 2.8rem;
+        }
+        
         .categories {
             font-family: var(--font-secondary);
             font-size: 0.857em; /* 14px·0.857=12px */
@@ -566,25 +577,6 @@ footer {
     }
 }
 
-/* Page-specific styles */
-.home article img {
-    float: left;
-    margin: 0.5em 0.75em 0.25em 0;
-    width: 5em;
-    border-radius: 100%;
-}
-
-.colophon .bible-books {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 1rem;
-    font-size: 0.8em;
-    
-    tr:first-child td:first-child {
-        width: 75%;
-    }
-}
-
 /* Responsive breakpoints */
 @media screen and (min-width: calc(502.85714286px * 1.5 + 8rem)) { /* calc((var(--main-max-width) * 1.5) + 6rem)) { */
     html {
@@ -689,5 +681,24 @@ footer {
                 display: initial;
             }
         }
+    }
+}
+
+/* Page-specific styles */
+.home article img {
+    float: left;
+    margin: 0.5em 0.75em 0.25em 0;
+    width: 5em;
+    border-radius: 100%;
+}
+
+.colophon .bible-books {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    font-size: 0.8em;
+    
+    tr:first-child td:first-child {
+        width: 75%;
     }
 }
