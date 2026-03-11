@@ -471,24 +471,38 @@ nav.tabs {
 
             background-color: transparent;
             padding: 0.5em 0.45em 0.4em;
+
             border-bottom-left-radius: 3px;
             border-bottom-right-radius: 3px;
+            border-left: 1px solid transparent;
+            border-bottom: 1px solid transparent;
+            border-right: 1px solid transparent;
             
             &:has(a) {
                 padding: 0;
                 border-radius: unset;
+                border: none;
             }
             
             a {
                 background-color: transparent;
                 padding: 0.5em 0.45em 0.4em;
+
                 border-bottom-left-radius: 3px;
                 border-bottom-right-radius: 3px;
+                border-left: 1px solid transparent;
+                border-bottom: 1px solid transparent;
+                border-right: 1px solid transparent;
 
                 text-decoration: none;
                 display: inline-block;
                 vertical-align: top;
                 white-space: nowrap;
+                
+                &:hover {
+                    background-color: var(--color-main-background);
+                    color: var(--color-main-text);
+                }
             }
             
             &.selected {
@@ -500,10 +514,10 @@ nav.tabs {
                 top: -0.0714em;
 
                 a {
-                    color: var(--color-primary);
+                    color: var(--color-main-text);
                 }
             }
-            
+                        
             &.notes,
             &.backlinks {
                 margin-right: 1.25em;
@@ -635,8 +649,43 @@ footer {
     
     nav.tabs {
         grid-area: tabs;
-    }
+        border-top: 1px solid var(--color-main-thick-stroke);
+            
+        ul {
+            
+            li {
+                color: var(--color-main-text);
+                
+                a {
+                    color: var(--color-main-text);
+                        
+                    &:hover {
+                        border-left: 1px solid var(--color-main-thick-stroke);
+                        border-bottom: 1px solid var(--color-main-thick-stroke);
+                        border-right: 1px solid var(--color-main-thick-stroke);
+                    }
+                }
+                
+                &.selected {
+                    background-color: var(--color-main-background);
+                    color: var(--color-main-text);
     
+                    border-left: 1px solid var(--color-main-thick-stroke);
+                    border-bottom: 1px solid var(--color-main-thick-stroke);
+                    border-right: 1px solid var(--color-main-thick-stroke);
+
+                    a {
+                        color: var(--color-main-text);
+                    }
+                }
+                            
+                &.muted {
+                    color: var(--color-main-text-muted);
+                    a { color: var(--color-main-text-muted); }
+                }
+            }
+        }    
+    }    
     nav.sidebar {
         height: 100%; /* stretch to fill space */
         padding: 0;

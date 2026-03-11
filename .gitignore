@@ -3,4 +3,4 @@ dist
 .DS_Store
 .obsidian
 *.tar.gz
-/index.html
+example-page.html
