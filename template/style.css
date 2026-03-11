@@ -117,10 +117,10 @@ a {
     --color-pink: oklch(0.5643 0.2263 6.46);
         
     /* semantic colors */
-    --color-main-text: var(--color-black);
-    --color-main-text-muted: var(--color-light-gray);
     --color-main-background: var(--color-white);
     --color-main-tint-background: oklch(from var(--color-main-background) calc(l - 0.02) c h);
+    --color-main-text: var(--color-black);
+    --color-main-text-muted: var(--color-light-gray);
     --color-main-thick-stroke: var(--color-dark-gray);
     --color-main-stroke: var(--color-neutral-gray);
     --color-main-thin-stroke: var(--color-light-gray);
@@ -131,27 +131,27 @@ a {
     --color-tertiary: var(--color-pink);
     --color-quaternary: var(--color-teal);
 
+    --color-nav-background: var(--color-neutral-gray);
     --color-nav-text: var(--color-white);
     --color-nav-text-muted: var(--color-light-gray);
-    --color-nav-background: var(--color-neutral-gray);
     --color-nav-stroke: var(--color-light-gray);
     
     /* dark mode colors */
     @media (prefers-color-scheme: dark) {
+        --color-main-background: var(--color-darker-gray);
         --color-main-text: var(--color-white);
         --color-main-text-muted: var(--color-lighter-gray);
-        --color-main-background: var(--color-dark-gray);
         --color-main-thick-stroke: var(--color-lighter-gray);
         --color-main-stroke: var(--color-light-gray);
         --color-main-thin-stroke: var(--color-neutral-gray);
-        --color-main-thinner-stroke: var(--color-neutral-gray);
+        --color-main-thinner-stroke: var(--color-dark-gray);
 
         --color-primary: oklch(from var(--color-green) calc(l + 0.1) calc(c - 0.01) h);
         --color-secondary: oklch(from var(--color-blue) calc(l + 0.1) calc(c - 0.01) h);
         --color-tertiary: oklch(from var(--color-pink) calc(l + 0.1) calc(c - 0.01) h);
         --color-quaternary: oklch(from var(--color-teal) calc(l + 0.1) calc(c - 0.01) h);
         
-        --color-nav-background: var(--color-darker-gray);
+        --color-nav-background: var(--color-dark-gray);
     }
 
     /* For mobile breakpoint, this actually colors the background
