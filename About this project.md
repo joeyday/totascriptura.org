@@ -1,6 +1,6 @@
 ---
 permalink: about
-quick nav: "true"
+quick nav: true
 ---
 ![[Autumn.png]]
 

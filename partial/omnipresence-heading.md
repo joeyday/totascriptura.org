@@ -1,4 +1,4 @@
 ---
-hidden: "true"
+hidden: true
 ---
 ### Omnipresence ~(everywhere-present)~
