@@ -1,3 +1,6 @@
+---
+aside of: "[[Atonement]]"
+---
 ## Every Scripture in *Institutes* ~II.XVI~
 This list contains every Scripture passage referenced or alluded to in Calvin’s *Institutes of the Christian Religion*, book II, chapter XVI.
 ### 1. The Redeemer
