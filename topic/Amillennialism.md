@@ -12,7 +12,7 @@ Jn 5:25, 28–29; 6:39, 40, 44, 54; 12:48; Ac 24:15
 ### “First resurrection” is regeneration
 Jn 5:24; Ro 6:4, 13; Eph 2:5; Col 2:12–13; 1Jn 3:14
 ## Parallelism in Revelation
-Revelation can be divided into seven sections that recapitulate the same general time period and events. The parallel sections are:<ref>Hendriksen, William. *More Than Conquerors* (pp. 21–22). Grand Rapids, MI: Baker Books. Kindle Edition.</ref>
+Revelation can be divided into seven sections that recapitulate the same general time period and events. The parallel sections are:[^1]
 
 1. The seven lampstands (ch. 1–3)
 2. The seven seals (ch. 4–7)
@@ -24,7 +24,6 @@ Revelation can be divided into seven sections that recapitulate the same general
 
 Each parallel section spans the entire church age from the first coming to the second coming of Christ. Some sections go beyond the second coming to describe the final states of the reprobate and the redeemed. Notable parallels are given below:
 
-
 | Event                                                                                          | Parallel passages                                                        |
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | First coming                                                                                   | Rev 1:5–6; 5:5–6; 12:5                                                   |
@@ -33,3 +32,5 @@ Each parallel section spans the entire church age from the first coming to the s
 | Satan released, great battle ~(a short period, “3½ days”)~                                     | Rev 11:7–10; 13:7; 16:14; 19:17–21; 20:7–10                              |
 | Second coming, final judgment                                                                  | Rev 1:7; Rev 6:16–17; 11:15–19; 14:14, 16; 16:15, 20; 19:11–16; 20:10–15 |
 | New heavens, new earth                                                                         | Rev 7:9–17; Rev 21:1–27; 22:1–5                                          |
+
+[^1]: Hendriksen, William. <cite>More Than Conquerors</cite> (pp. 21–22). Grand Rapids, MI: Baker Books. Kindle Edition.
