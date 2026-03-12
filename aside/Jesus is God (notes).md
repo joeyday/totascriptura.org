@@ -22,7 +22,7 @@ aside of: "[[Jesus is God]]"
 * [Did Jesus ever claim to be God? Is the deity of Christ biblical?](http://www.compellingtruth.org/Jesus-claim-God-deity-biblical.html)
 * [Is Jesus God? Did Jesus ever claim to be God?](http://www.gotquestions.org/is-Jesus-God.html)
 * [Did Jesus Claim to be God? Miscellaneous Divine Claims of Jesus](http://www.tektonics.org/jesusclaims/miscclaims.html)
-* Also see todos in [[Talk:Trinity]]
+* Also see todos in [[Trinity (notes)]]
 
 ## Where do these go now?
 After refactoring the page somewhat, it's unclear to me where I should put these. I feel like they could be divvied out to various sections of the page.
