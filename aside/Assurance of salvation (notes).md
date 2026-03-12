@@ -1,7 +1,7 @@
 ---
 aside of: "[[Assurance of salvation]]"
 ---
-== Prooftexts from WCF XVIII ==
+## Prooftexts from WCF XVIII
 1. Job 8:13–14; Mic 3:11; Dt 29:19; Jn 8:41
 2. Mt 7:22–23
 3. 1Jn 2:3; 3:14, 18–19, 21, 24; 1Jn 5:13
@@ -20,9 +20,9 @@ aside of: "[[Assurance of salvation]]"
 16. 1Jn 3:9; Lk 22:32; Job 13:15; Ps 73:15; 51:8, 12; Isa 1:10
 17. Mic 7:7–9; Jer 32:40; Isa 54:7–10; Ps 22:1; 88:1–18
 
-== More passages ==
+## More passages
 
-== G.I. Williamson on Assurance ==
-> We believe that God’s Word is infallible in all that it says, and therefore also ''when it speaks of us''. It is of paramount importance to insist that this infallible assurance is never ours by some private revelation by the Spirit. To claim assurance on the basis of a witness of the Spirit apart from or additional to the Bible is to claim a false assurance. God’s Word is sufficient. By Scripture alone “the man of God may be complete, thoroughly equipped” (2Ti 3:16–17). In effecting infallible assurance in the hearts of believers, the Holy Spirit does not impart new revelation (because there is no need for new revelation). He applies that which is already revealed, namely, the scriptural truth that believers shall be saved. By bringing the sure Word of God (with the infallible promises it contains) ''and'' the actually existing graces of the heart (with respect to which these promises are made) together, the Spirit enables the believer to say with assurance, “I am a child of God, and will be forever.”[^1]
+## G.I. Williamson on Assurance
+> We believe that God’s Word is infallible in all that it says, and therefore also *when it speaks of us*. It is of paramount importance to insist that this infallible assurance is never ours by some private revelation by the Spirit. To claim assurance on the basis of a witness of the Spirit apart from or additional to the Bible is to claim a false assurance. God’s Word is sufficient. By Scripture alone “the man of God may be complete, thoroughly equipped” (2Ti 3:16–17). In effecting infallible assurance in the hearts of believers, the Holy Spirit does not impart new revelation (because there is no need for new revelation). He applies that which is already revealed, namely, the scriptural truth that believers shall be saved. By bringing the sure Word of God (with the infallible promises it contains) *and* the actually existing graces of the heart (with respect to which these promises are made) together, the Spirit enables the believer to say with assurance, “I am a child of God, and will be forever.”[^1]
 
-[^1]: G.I. Williamson (2004). ''The Westminster Confession of Faith for Study Classes''. P&R Publishing.
+[^1]: G.I. Williamson (2004). *The Westminster Confession of Faith for Study Classes*. P&R Publishing.
