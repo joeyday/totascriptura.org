@@ -85,8 +85,8 @@ a {
     
 :root {
     /* max widths at the two different breakpoints */
-    --main-small-max-width: 440px; /* iPhone Pro Max logical width */
-    --main-large-max-width: 502.85714286px; /* 22px * 100vw / 4.375 */
+    --main-small-max-width: 412px; /* iPhone Pro Max logical width */
+    --main-large-max-width: 500px; /* 22px * 100vw / 4.4 */
 
     /* At smallest (default) breakpoint, page is fixed single column
        As it widens, the text grows with a kind of zooming effect
@@ -168,7 +168,7 @@ a {
 
 html {
     /* font size is a ratio of the main column width, 14px / 320px  = 0.04375 */
-    font-size: clamp(14px, calc(var(--main-width) * 0.04375), 22px);
+    font-size: clamp(0px, calc(var(--main-width) * 0.044), 22px);
 }
 
 body {
@@ -752,11 +752,7 @@ footer {
     and (min-height: 500px) {
     
     :root {
-        /* The math maths, I promise. The main column is this crazy
-           percentage of the full viewport width. I calculated it by
-           hand and hardcoded it here because using the calc function 
-           caused too much visual glitching as the viewport resized. */
-        --main-width: clamp(411.42857143px, 61.5757575757vw, var(--main-large-max-width));
+        --main-width: clamp(0px, 58vw, var(--main-large-max-width));
     }
 }
 
