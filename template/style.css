@@ -84,9 +84,15 @@ a {
 }
     
 :root {
-    /* font size */
-    --font-relative-size: 4.375svw; /* calc((14px * 100svw) / 320px) */
-    --main-max-width: 502.85714286px; /* calc((22px * 100svw) / var(--font-relative-size)); */
+    /* max widths at the two different breakpoints */
+    --main-small-max-width: 440px; /* iPhone Pro Max logical width */
+    --main-large-max-width: 502.85714286px; /* 22px * 100vw / 4.375 */
+
+    /* At smallest (default) breakpoint, page is fixed single column
+       As it widens, the text grows with a kind of zooming effect
+       The text grows to a max font size of 18px
+       Font size stays static until wide enough for next breakpoint */
+    --main-width: clamp(0px, 100vw, var(--main-small-max-width)); /*
 
     /* hardcoded fonts */
     --font-meta-serif: ff-meta-serif-web-pro, serif;
@@ -161,7 +167,8 @@ a {
     
 
 html {
-    font-size: clamp(14px, var(--font-relative-size), 22px);
+    /* font size is a ratio of the main column width, 14px / 320px  = 0.04375 */
+    font-size: clamp(14px, calc(var(--main-width) * 0.04375), 22px);
 }
 
 body {
@@ -175,7 +182,7 @@ main {
     background-color: var(--color-main-background);
     
     article {
-        width: clamp(320px, 100svw, var(--main-max-width));
+        width: var(--main-width);
         margin: auto;
         padding: 1.4em;
     
@@ -420,7 +427,7 @@ main {
 }
 
 header, nav, footer {
-    width: clamp(320px, 100svw, var(--main-max-width));
+    width: calc(var(--main-width) - 2.8rem);
     margin: 1.4rem auto;
     padding: 0 1.4rem;
 
@@ -456,7 +463,7 @@ header {
 }
 
 nav.tabs {
-    width: calc(clamp(320px, 100svw, var(--main-max-width)) - 2.8rem);
+    width: calc(var(--main-width) - 2.8rem);
     
     margin-top: 0;
     font-size: 0.857em; /* 14px·0.857=12px */
@@ -592,18 +599,26 @@ footer {
 }
 
 /* Responsive breakpoints */
-@media screen and (min-width: calc(502.85714286px * 1.5 + 8rem)) { /* calc((var(--main-max-width) * 1.5) + 6rem)) { */
+
+/* At a width exactly wide enough, a sidebar appears */
+@media screen
+    and (min-width: 700px) {
+    
+    :root {
+        --main-width: var(--main-small-max-width);
+    }
+        
     html {
         /* Is this the best way to do this? */
         background: linear-gradient(to right, var(--color-main-background) 50%, var(--color-nav-background) 50%);
     }
 
     body {
-        width: calc(var(--main-max-width) * 1.5 + 2rem);
-        background: linear-gradient(to right, var(--color-main-background) calc(var(--main-max-width) + 1rem), var(--color-nav-background) calc(var(--main-max-width) + 1rem));
+        width: calc(var(--main-width) * 1.5 + 2rem);
+        background: linear-gradient(to right, var(--color-main-background) calc(var(--main-width) + 1rem), var(--color-nav-background) calc(var(--main-width) + 1rem));
 
         display: grid;
-        grid-template-columns: var(--main-max-width) calc(var(--main-max-width) * 0.5);
+        grid-template-columns: var(--main-width) calc(var(--main-width) * 0.5);
         grid-template-rows: min-content min-content min-content auto;
         grid-template-areas:
             "main header"
@@ -712,7 +727,7 @@ footer {
 
         /* I don't know why I need these, why does the
            body not extend all the way to the bottom?? */        
-        width: calc(var(--main-max-width) + 1rem);
+        width: calc(var(--main-width) + 1rem);
         padding: 0 2.4rem 2rem 1.4rem;
         
         grid-area: footer;
@@ -731,6 +746,21 @@ footer {
         }
     }
 }
+
+@media screen
+    and (min-width: 700px)
+    and (min-height: 500px) {
+    
+    :root {
+        /* The math maths, I promise. The main column is this crazy
+           percentage of the full viewport width. I calculated it by
+           hand and hardcoded it here because using the calc function 
+           caused too much visual glitching as the viewport resized. */
+        --main-width: clamp(411.42857143px, 61.5757575757vw, var(--main-large-max-width));
+    }
+}
+
+
 
 /* Page-specific styles */
 .home article img {
