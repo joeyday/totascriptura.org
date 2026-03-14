@@ -52,6 +52,6 @@ Episode 128 of the heidelcast has lots of great scripture proofs for the pactum 
 * Providence (common grace, etc.)
 * I’m not sure I fully grasp this one, but Lane Tipton argues in the 2018 Reformed Forum Conference that the genius of covenant theology is that it supports the deeper Protestant conception. Covenant presupposes that Adam is created in the image of God and is eschatologically oriented toward a relationship with God. This goes directly against the Catholic conception of nature-grace duality and the donum superadditum and also against neo-orthodoxy.
 ## Ancient Near East covenant cutting
-Jer 34:18 ~(retrieved from [Meredith Kline](https://meredithkline.com/klines-works/articles-and-essays/oath-and-ordeal-signs-part-1/)~ and of course Ge 15.
+Jer 34:18 ~(retrieved from [Meredith Kline](https://meredithkline.com/klines-works/articles-and-essays/oath-and-ordeal-signs-part-1/))~ and of course Ge 15.
 
 [^1]: <cite>Case for Covenantal Infant Baptism, The</cite> (Kindle Locations 2322-2326). Kindle Edition.

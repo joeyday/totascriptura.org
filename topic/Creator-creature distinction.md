@@ -39,7 +39,7 @@ Ge 1:27; 2:7, 21–22; 5:1–2; Heb 4:13; Jas 1:18
 ### God has absolute rights over creation
 Isa 45:9; Ro 9:20–21
 ### Worship of creator commanded
-Neh 9:6; Ps 33:8–9; Rev 4:11; 14:7
+Ne 9:6; Ps 33:8–9; Rev 4:11; 14:7
 ## Creatures
 ### We are wholly dependent on God
 Job 12:10; 34:14–15; Ps 104:29; Dan 5:23; Mt 5:44–45; Ac 14:17; 17:25, 28; Eph 2:8–9; 1Co 4:7

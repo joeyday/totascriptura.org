@@ -36,4 +36,4 @@ Dt 29:1-29; 30:1–20
 {{mt|[[New covenant]]}}
 Dt 30:1–10; Jer 31:31–34; Eze 36:24–30; 37:24–28; Mt 26:27-28 ~(cf. Mk 14:24; Lk 22:20)~; 1Co 11:25; Heb 12:24
 ### “They will be my people and I will be their God”
-{{[[i-will-be-their-god]]}
+{{[[i-will-be-their-god]]}}

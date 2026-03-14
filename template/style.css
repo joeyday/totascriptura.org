@@ -136,6 +136,7 @@ a {
     --color-secondary: var(--color-blue);
     --color-tertiary: var(--color-pink);
     --color-quaternary: var(--color-teal);
+    --color-quinary: oklch(from var(--color-orange) l c h / 0.3);
 
     --color-nav-background: var(--color-neutral-gray);
     --color-nav-text: var(--color-white);
@@ -156,6 +157,7 @@ a {
         --color-secondary: oklch(from var(--color-blue) calc(l + 0.1) calc(c - 0.01) h);
         --color-tertiary: oklch(from var(--color-pink) calc(l + 0.1) calc(c - 0.01) h);
         --color-quaternary: oklch(from var(--color-teal) calc(l + 0.1) calc(c - 0.01) h);
+        --color-quinary: oklch(from var(--color-orange) calc(l + 0.1) calc(c - 0.01) h / 0.3);
         
         --color-nav-background: var(--color-dark-gray);
     }
@@ -301,6 +303,8 @@ main {
         }
         
         table {
+            font-size: 0.857em; /* 14px·0.857=12px */
+
             border: 1px solid var(--color-main-stroke);
             width: 100%;
             
@@ -384,8 +388,8 @@ main {
         }
         
         mark {
-            /* TODO: make this a variable — what even is this color? */
-            background-color: rgba(209, 209, 0, 0.3);
+        	color: var(--color-main-text);
+            background-color: var(--color-quinary);
         }
         
         /* callout boxes */
