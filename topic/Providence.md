@@ -8,7 +8,7 @@ featured: true
 “God’s works of **providence** are, his most holy, wise, and powerful preserving and governing all his creatures, and all their actions.”[^1]
 
 ### Preservation
-Neh 9:6; Job 33:4; 34:14–15; Ps 104:29; Ac 17:25, 28; Col 1:17; Heb 1:3; 2Pe 3:7
+Ne 9:6; Job 33:4; 34:14–15; Ps 104:29; Ac 17:25, 28; Col 1:17; Heb 1:3; 2Pe 3:7
 ### Concurrence in chance, random things
 1Ki 22:34 ~(cf. 2Ch 18:33)~; Ps 16:5–6; Pr 16:33; Ecc 9:11; Jnh 1:7; Ac 1:26
 ### Concurrence in inanimate things

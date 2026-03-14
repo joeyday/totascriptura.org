@@ -43,11 +43,14 @@ And here’s an interesting forum discussion:
 Ps 102:25–27; Pr 3:19; Ac 17:28; 2Co 4:6; Heb 1:10–12 ~(cites Ps 102:25–27)~
 ## Difference between and implications of various Hebrew words
 
-;בָּרָא (*bara*): to shape, create
+בָּרָא (*bara*)
+: to shape, create
 
-;עָשָׂה (*asah*): to do, make
+עָשָׂה (*asah*)
+: to do, make
 
-;יָצַר (*yatsar*): to form, fashion
+יָצַר (*yatsar*)
+: to form, fashion
 
 In the case of *bara*, the subject is always and only God. Man is sometimes the subject of both *asah* and *yatsar*, and sometimes God is the subject of them. So God evidently carries out all these types of creation, but man never carries out *bara* creation.
 

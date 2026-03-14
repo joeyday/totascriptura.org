@@ -409,6 +409,11 @@ main {
             margin-left: 2.8rem;
         }
         
+        div.indent-three-times,
+        div.three-tabs {
+            margin-left: 4.2rem;
+        }
+
         .message {
 			border: 1px solid var(--color-main-stroke);
 			background-color: var(--color-main-tint-background);

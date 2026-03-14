@@ -43,7 +43,7 @@ Isa 40:8; 55:11; Mt 5:18; 24:35 ~(cf. Mk 13:31; Lk 21:33)~; Lk 16:17; Jn 10:35
 ### We recognize Scripture by its beauty and excellency
 Ps 19:7–8; 119:103, 129; 1Co 2:4–5
 ### We recognize Scripture by its power and efficacy
-2Ki 22:11–13; Ps 1:1–3; 119:50, 98, 105, 111, 144; Neh 8:8–12; Ac 2:34–37; 2Ti 3:16; Heb 4:12–13
+2Ki 22:11–13; Ps 1:1–3; 119:50, 98, 105, 111, 144; Ne 8:8–12; Ac 2:34–37; 2Ti 3:16; Heb 4:12–13
 ### We recognize Scripture by its unity and harmony
 Ps 89:35; Pr 14:5; Tit 1:2; Ac 17:11; Heb 13:8
 ## Apostolic, redemptive-historical, covenantal origin of
