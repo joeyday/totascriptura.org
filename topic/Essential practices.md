@@ -5,7 +5,7 @@ draft: true
 *To [God] is due from angels and men, and every other creature, whatsoever worship, service, or obedience he is pleased to require of them.*[^1]
 :::
 
-Passages in this topic are grouped under each heading based on their indication, grammatically, that carrying out a given practice is either **necessary** or **sufficient** for salvation.[^2]
+Passages in this topic are grouped under each heading based on their indication, grammatically, that observing a given practice is either **necessary** or **sufficient** for salvation.[^2]
 ## Faith and repentance
 ### Worship of the one true God
 *Necessary:* Ex 20:2–6; Dt 6:4–5; Jn 4:24
@@ -22,12 +22,14 @@ Passages in this topic are grouped under each heading based on their indication,
 {{mt|[[Lord’s Supper]]}}
 *Necessary and sufficient:* Jn 6:49–58
 ## Good works
-### Keeping the commandments
+### Keeping the commandments ~(non-specific)~
 *Necessary:* Mt 5:20; 19:16–22 ~(cf. Mk 10:17–22; Lk 18:18–23)~; Lk 10:25–28 ~(cf. Mt 22:34–40)~; 1Jn 1:6; *Sufficient:* 1Jn 2:3; 3:24
 ### Forsaking everything to follow Christ
 *Sufficient:* Mt 19:27–29
 ### Loving God and one another
 *Sufficient:* Jn 13:34–35; 1Jn 3:14–19; 1Jn 4:16–21
+### Providing for one’s relatives and household
+*Necessary:* 1Ti 5:8
 ### Holiness
 *Necessary:* Heb 12:14
 ### Enduring to the end
