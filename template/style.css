@@ -417,6 +417,7 @@ main {
 				    font-family: Entypo;
 				    font-size: 210%;
 				    cursor: default;
+                    line-height: 1rem;
 			    }
                 
 				margin: 0;
