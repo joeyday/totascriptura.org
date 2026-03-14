@@ -405,6 +405,26 @@ main {
             margin-left: 2.8rem;
         }
         
+        .message {
+			border: 1px solid var(--color-main-stroke);
+			background-color: var(--color-main-tint-background);
+			padding: 0.5rem 0.75rem;
+			font-size: 0.857rem;
+			margin-bottom: 1rem;
+		}
+		
+		.message span {
+			font-family: Entypo;
+			font-size: 210%;
+			cursor: default;
+			float: left;
+		}
+			
+		.message p {
+			margin: 0 0 0 28px;
+			padding: 0;
+		}
+        
         .categories {
             font-family: var(--font-secondary);
             font-size: 0.857em; /* 14px·0.857=12px */
