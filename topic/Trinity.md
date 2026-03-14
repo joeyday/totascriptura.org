@@ -12,6 +12,8 @@ There is one and only one God. God is simple (not composed of parts) and stands 
 {{mt|[[Monotheism]]|[[Simplicity]]}}{{[[monotheism-template]]}}
 ### There is no one else like God
 {{mt|[[Creator-creature distinction]]}}{{[[there-is-no-other-god]]}}
+### Inseparable operations
+1Co 12:6
 ## Threeness
 God eternally exists in three persons: God the Father, the Lord Jesus Christ, and the Holy Spirit.
 ### Plurality of persons implicit in OT

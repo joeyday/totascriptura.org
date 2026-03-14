@@ -443,8 +443,8 @@ I don’t have much to say on this now, but putting it here so I don’t forget 
 ## Modalism contradicts the doctrine of divine simplicity!
 From Dolezal’s *Trinity, Simplicity and the Status of God’s Personal Relations*:
 > What is removed from our ordinary conception of mode when we speak of God is its function as a quality modifying or conveying some additional actually to a thing in which it inheres – such as a mode of subsistence that a creature does not possess in virtue of its essence per se. Since God’s essence is infinite it cannot possibly be determined to subsist as Father, Son and Spirit by the reception of additional forms or modes of being.
-> 
-> He’s not actually talking about modalism here. He’s simply qualifying the proper ways we use the word “mode” in trinitarian doctrine, but it struck me that he’s specifically defining trinitarian modes in such a way as to exclude any act-potency/being-becoming composition in God, but modalism is totally all about that.
+
+He’s not actually talking about modalism here. He’s simply qualifying the proper ways we use the word “mode” in trinitarian doctrine, but it struck me that he’s specifically defining trinitarian modes in such a way as to exclude any act-potency/being-becoming composition in God, but modalism is totally all about that.
 ## Does the doctrine of divine simplicity contradict God’s tripersonality?
 ## Inseparable operations and appropriations
 My definition is still incomplete since it has no mention of inseparable operations or appropriation.
