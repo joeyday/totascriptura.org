@@ -411,18 +411,17 @@ main {
 			padding: 0.5rem 0.75rem;
 			font-size: 0.857rem;
 			margin-bottom: 1rem;
-		}
-		
-		.message span {
-			font-family: Entypo;
-			font-size: 210%;
-			cursor: default;
-			float: left;
-		}
 			
-		.message p {
-			margin: 0 0 0 28px;
-			padding: 0;
+			p {
+                span {
+				    font-family: Entypo;
+				    font-size: 210%;
+				    cursor: default;
+			    }
+                
+				margin: 0;
+				padding: 0;
+			}
 		}
         
         .categories {
