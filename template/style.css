@@ -413,15 +413,19 @@ main {
 			margin-bottom: 1rem;
 			
 			p {
+                display: flex;
+                align-items: center;
+                gap: 0.4rem;
+
+                margin: 0;
+				padding: 0;
+
                 span {
 				    font-family: Entypo;
 				    font-size: 210%;
 				    cursor: default;
                     line-height: 1rem;
 			    }
-                
-				margin: 0;
-				padding: 0;
 			}
 		}
         
