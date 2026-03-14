@@ -1,3 +1,6 @@
+---
+aside of: "[[Essential practices]]"
+---
 ## Additional relevant passages?
 ### Necessary practices
 Mt 6:1
