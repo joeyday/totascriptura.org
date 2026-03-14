@@ -41,6 +41,10 @@
                 <% if (frontmatter['quick nav']) { %><span class="quick-nav"><a class="internal" href="/index/featured">Featured</a> &middot; <a class="internal" href="/index/alphabetical">Index</a></span><% } %>
             </h1>
             
+            <% if (frontmatter.draft) { %>
+            <div class="message"><span>&#9998;</span><p><em>Notice: this topic is a working draft.</em></p></div>
+            <% } %>
+            
             <%- content %>
 
             <% if (subcategories.length > 0) { %>
