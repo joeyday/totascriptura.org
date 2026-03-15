@@ -2,23 +2,24 @@
 local categories = pandoc.List()
 
 function Link(el)
-  -- 1. Check if the link target starts with "c:" or "Category:"
-  if el.target:match("^c:") then
-    -- Extract the category name and replace underscores with spaces
-    local catName = el.target:gsub("^c:", ""):gsub("_", " ")
-    
-    -- Use RawInline to prevent the CommonMark writer from escaping the brackets
-    categories:insert(pandoc.RawInline('markdown', '[[' .. catName .. ']]'))
-    
-    -- Return an empty list to delete the category link from the document body
-    return {} 
+  -- 1. Handle category links (c: prefix)
+  local catName = el.target:match("^c:(.+)")
+  if catName then
+    catName = catName:gsub("_", " ")
+    if catName ~= "" then
+      categories:insert(pandoc.RawInline('markdown', '[[' .. catName .. ']]'))
+    end
+    return {}
   end
 
-  -- 2. Modified logic for regular links
-  -- Check if the target looks like an external URL (e.g., starting with http://, https://, or mailto:)
+  -- 2. Rewrite underscores in internal link targets only
   if not (el.target:match("^https?://") or el.target:match("^mailto:")) then
-    el.target = el.target:gsub("_", " ")
+    if not el.target:match("[?#]") then
+      el.target = el.target:gsub("_", " ")
+    end
   end
+
+  return el
 end
 
 function RawInline(el)
