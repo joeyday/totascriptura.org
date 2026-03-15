@@ -5,7 +5,7 @@ categories:
 ---
 ### Son is “from” Father ~(most explicit passages)~
 
-{{[[Eternal generation]]}}
+{{[[eternal-generation-partial]]}}
 
 ### Father gives name to Son
 

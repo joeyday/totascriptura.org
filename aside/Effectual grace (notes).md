@@ -1,3 +1,6 @@
+---
+aside of: "[[Effectual grace]]"
+---
 ## Todos
 
 - Study Scripture references in Piper’s <cite>Finally Alive</cite>.
