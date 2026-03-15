@@ -1,3 +1,6 @@
+---
+aside of: "[[Deception]]"
+---
 ## Disclaimer
 
 This is a controversial subject. God is omnibenevolent, yet omniscient and omnipotent. Evil exists in the world, and, as I see it, the only way that’s possible is if God somehow ordained evil to be, yet without sinning himself.
