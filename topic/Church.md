@@ -13,11 +13,11 @@ Mt 3:12; Mt 7:15–16, 21–23; 13:24–30, 47–48; Ac 20:29–30; Ro 9:6; 2Ti 
 Ac 9:31; Ro 16:5; 1Co 1:2; 12:28; 16:19; 2Co 1:1; Eph 5:25; 1Th 1:1
 ## Marks of a true church
 ### Right preaching of the word
-{{[[preaching-template]]}}
+{{[[preaching-partial]]}}
 ### Right administration of the sacraments
-*Baptism:* {{[[baptism-template]]}}; *Lord’s Supper:* {{[[lords-supper-template]]}}
+*Baptism:* {{[[baptism-partial]]}}; *Lord’s Supper:* {{[[lords-supper-partial]]}}
 ### Church discipline
-{{mt|[[Church discipline]]}}{{[[church-discipline-template]]}}
+{{mt|[[Church discipline]]}}{{[[church-discipline-partial]]}}
 ## Metaphors for
 ### Family
 Mt 12:49–50; 2Co 6:18; Eph 3:14; 1Ti 5:1–2; 1Jn 3:14–18
