@@ -4,4 +4,4 @@ dist
 .obsidian
 *.tar.gz
 example-page.html
-/scratch.wiki
+*.wiki
