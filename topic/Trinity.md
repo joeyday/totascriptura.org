@@ -9,7 +9,7 @@ God is a simple unity—one in being, essence, and nature—but there are three 
 ## Oneness
 There is one and only one God. God is simple (not composed of parts) and stands apart from all creatures as the source and ground of all being.
 ### “God is one”, there is only one God
-{{mt|[[Monotheism]]|[[Simplicity]]}}{{[[monotheism-template]]}}
+{{mt|[[Monotheism]]|[[Simplicity]]}}{{[[monotheism-partial]]}}
 ### There is no one else like God
 {{mt|[[Creator-creature distinction]]}}{{[[there-is-no-other-god]]}}
 ### Inseparable operations
@@ -35,7 +35,7 @@ The three persons are co-essential, co-eternal, and co-equal in all attributes o
 {{mt|[[Father is God]]}}
 Mt 6:26–30; Jn 20:17; Ro 1:7; 15:6; 1Co 1:3; 8:6; 15:24; 2Co 1:2–3; 11:31; Gal 1:1, 3–4; Eph 1:2–3, 17; 4:6; 5:20; 6:23; Php 1:2; 2:11; 4:20; Col 1:2–3; 3:17; 1Th 1:1, 3; 3:11, 13; 2Th 1:1–2; 2:16; 1Ti 1:2; 2Ti 1:2; Tit 1:4; Phm 3; Jas 1:27; 1Pe 1:2–3, 17; 2Jn 1:3; Jude 1:1; Rev 1:6
 ### Son is fully God
-{{mt|[[Jesus is God]]}}{{[[jesus-is-god]]}}
+{{mt|[[Jesus is God]]}}{{[[jesus-is-god-partial]]}}
 ### Holy Spirit is fully God
 {{mt|[[Holy Spirit is God]]}}
 Ps 139:7–8; Jn 3:5–7 ~(cf. 1Jn 3:9)~; Ac 5:3–4; 1Co 2:10–11; 1Co 3:16; 2Co 3:17
@@ -48,7 +48,7 @@ Mt 28:19; Eph 2:18
 ### Father holds primacy in role
 Mt 19:17 ~(cf. Mk 10:18; Lk 18:19)~; Jn 14:28; 1 Cor 11:3; 15:27–28; 1 Jn 4:14
 ### Son eternally begotten of Father
-{{mt|[[Eternal generation]]}}{{[[eternal-generation]]}}
+{{mt|[[Eternal generation]]}}{{[[eternal-generation-partial]]}}
 ### Spirit proceeds from Father and Son
 Jn 14:16–17, 26; 15:26; 16:7, 13–14; 20:22; Ro 8:9; Gal 4:6; Php 1:19
 ### Economy of the Trinity

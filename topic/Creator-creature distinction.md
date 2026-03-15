@@ -17,7 +17,7 @@ Ge 1:1; Ex 20:11; 31:17; Ne 9:6; Isa 29:16; 40:28; 42:5; 43:1, 15; 44:24; 45:12,
 Ge 1:27; 2:7, 21–22; 5:1–2; Heb 4:13; Jas 1:18
 ## Creator
 ### Only one God
-{{mt|[[Monotheism]]}}{{[[monotheism-template]]}}
+{{mt|[[Monotheism]]}}{{[[monotheism-partial]]}}
 ### No one else like God
 {{[[there-is-no-other-god]]}}
 ### God is uncreated, self-existent
