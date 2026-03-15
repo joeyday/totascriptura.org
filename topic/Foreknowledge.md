@@ -3,7 +3,7 @@ draft: true
 ---
 ### Foreknowledge
 
-{{[[Foreknowledge]]}}
+{{[[foreknowledge-partial]]}}
 
 ### To “know” is to be in relationship
 
