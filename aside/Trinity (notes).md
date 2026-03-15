@@ -36,10 +36,10 @@ From Berkhof’s *Systematic Theology*:
 From Rob Bowman’s *[The Biblical Basis of the Doctrine of the Trinity](http://irr.org/biblical-basis-of-doctrine-of-trinity)*:
 
 1. There is one God (i.e., one proper object of religious devotion).
-2. This one God is a single divine being, called Jehovah or Yahweh in the Old Testament (the <abbr>LORD</abbr>).
-3. The Father of our Lord Jesus Christ is God, the <abbr>LORD</abbr>.
-4. The Son, Jesus Christ, is God, the <abbr>LORD</abbr>.
-5. The Holy Spirit is God, the <abbr>LORD</abbr>.
+2. This one God is a single divine being, called Jehovah or Yahweh in the Old Testament (the LORD).
+3. The Father of our Lord Jesus Christ is God, the LORD.
+4. The Son, Jesus Christ, is God, the LORD.
+5. The Holy Spirit is God, the LORD.
 6. The Father, Son, and Holy Spirit are each someone distinct from the other two.
 
 From Philip Ryken and Michael LeFebvre’s *Our Triune God*:[^8]

@@ -2,31 +2,18 @@ from pathlib import Path
 import re
 
 def transform(text: str) -> str:
-    # Headings
-    text = re.sub(r"^====\s*(.*?)\s*====$", r"#### \1", text, flags=re.MULTILINE)
-    text = re.sub(r"^===\s*(.*?)\s*===$", r"### \1", text, flags=re.MULTILINE)
-    text = re.sub(r"^==\s*(.*?)\s*==$", r"## \1", text, flags=re.MULTILINE)
-
     # <small> tags
     text = text.replace("<small>", "~")
     text = text.replace("</small>", "~")
-
-    # Wiki-style external links: [https://example.com label]
-    text = re.sub(
-        r"\[(https?://[^\s\]]+)\s+([^\]]+)\]",
-        r"[\2](\1)",
-        text
-    )
-
-    # Wiki-style emphasis
-    text = text.replace("'''''", "***")
-    text = text.replace("'''", "**")
-    text = text.replace("''", "*")
+    
+    # <abbr> tags
+    text = text.replace("<abbr>", "")
+    text = text.replace("</abbr>", "")
 
     return text
 
 def main() -> None:
-    for path in Path(".").rglob("*.md"):
+    for path in Path(".").rglob("*.wiki"):
         original = path.read_text(encoding="utf-8")
         updated = transform(original)
 

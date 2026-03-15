@@ -23,9 +23,9 @@ Ac 8:35; 17:2, 11; 18:28
 Ps 19:7; 119:130; Eph 3:4; 2Ti 3:14–15
 ### Responsibility to read Scripture implies perspicuity
 Dt 6:6–7; Ps 1:2; 1Ti 4:13
-### <abbr>NT</abbr> authors assume <abbr>OT</abbr> is easy to understand
+### NT authors assume OT is easy to understand
 Mt 12:3 ~(cf. Lk 6:3)~; Mt 12:5, 7; 19:4; 21:42; 22:29, 31; Mk 12:10, 26; Jn 3:10; Ro 4:1–25; 15:4; 1Co 10:1–11; 2Ti 3:16–17 ~— *cf. Mt 9:13; 15:3; 21:13*~
-### <abbr>NT</abbr> authors assume church will understand their writings
+### NT authors assume church will understand their writings
 Jn 20:30–31; 1Co 1:2; 10:15; 2Co 1:13; Gal 1:2; Php 1:1; Col 4:16; Jas 1:1, 22–25; 1Pe 1:1; 2:2; 2Pe 1:19; 1Jn 5:13
 ### But some things are “hard to understand”
 2Pe 1:20; 3:15–16

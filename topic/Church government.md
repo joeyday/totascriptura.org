@@ -33,7 +33,7 @@ Jn 15:27; Ac 1:21–22; 1Co 9:1; 15:7–9; 2Co 12:12
 ## Prophet
 ### Rules regarding orderly prophesying
 1Co 14:1–5, 29–33, 37–40
-### Examples of <abbr>NT</abbr> prophets
+### Examples of NT prophets
 *Agabus*: Ac 11:27–28; 21:10; *Barnabas, Simeon, Lucius, Manaen, and Saul*: Ac 13:1; *Judas and Silas*: Ac 15:32
 ## Evangelist
 ### Evangelist, every occurrence of

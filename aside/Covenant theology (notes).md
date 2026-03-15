@@ -39,15 +39,15 @@ Ro 4:16–18; 2Co 6:16–18; Gal 3:8–9, 14, 16; Heb 8:10; 11:9–10, 13
 ## Episode 128 of the Heidelcast
 Episode 128 of the heidelcast has lots of great scripture proofs for the pactum salutis.
 ## Implications of covenant theology
-* Soteriology (<abbr>TULIP</abbr>)
+* Soteriology (TULIP)
 * Expository preaching
 * Eschatology
-* Ecclesiology / Polity (<abbr>OT</abbr> organization is just as valid as <abbr>NT</abbr> organization, since covenant community is one people)
+* Ecclesiology / Polity (OT organization is just as valid as NT organization, since covenant community is one people)
 * Apologetics
 * Sacraments as covenant signs and seals (esp. infant baptism)
-* Canonics / Bibliology (<abbr>OT</abbr> and <abbr>NT</abbr> are our covenant documents)
+* Canonics / Bibliology (OT and NT are our covenant documents)
 * Marital covenant analogous to Covenant of Redemption (complementary roles of man and woman show image of God—economic Trinity) and included in Covenant of Creation
-* Sabbath observance (and probably some other commandments others might consider outmoded because they are given only in the <abbr>OT</abbr>)
+* Sabbath observance (and probably some other commandments others might consider outmoded because they are given only in the OT)
 * The regulative principle of worship and the typical Reformed order of worship are covenantal in origin
 * Providence (common grace, etc.)
 * I’m not sure I fully grasp this one, but Lane Tipton argues in the 2018 Reformed Forum Conference that the genius of covenant theology is that it supports the deeper Protestant conception. Covenant presupposes that Adam is created in the image of God and is eschatologically oriented toward a relationship with God. This goes directly against the Catholic conception of nature-grace duality and the donum superadditum and also against neo-orthodoxy.

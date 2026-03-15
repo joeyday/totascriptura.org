@@ -13,13 +13,13 @@ Pictograms used throughout the interface are from the attractive and versatile [
 ## Bible passages
 **Tota Scriptura** uses the [Biblia](https://biblia.com/) web service from [Logos Bible Software](https://www.logos.com/). Scripture references are magically auto-hyperlinked by the amazing [Logos Reftagger](https://www.logos.com/reftagger).
 
-Scripture quotations are from the <abbr>ESV</abbr>&reg; Bible (The Holy Bible, [English Standard Version&reg;](https://esv.org/about)), &copy; 2001 by [Crossway](https://www.crossway.org/), a publishing ministry of Good News Publishers. <abbr>ESV</abbr> Text Edition: 2025. The <abbr>ESV</abbr> text may not be quoted in any publication made available to the public by a Creative Commons license. The <abbr>ESV</abbr> may not be translated in whole or in part into any other language. Used by permission. All rights reserved.
+Scripture quotations are from the ESV&reg; Bible (The Holy Bible, [English Standard Version&reg;](https://esv.org/about)), &copy; 2001 by [Crossway](https://www.crossway.org/), a publishing ministry of Good News Publishers. ESV Text Edition: 2025. The ESV text may not be quoted in any publication made available to the public by a Creative Commons license. The ESV may not be translated in whole or in part into any other language. Used by permission. All rights reserved.
 
 Scripture quotations taken from the (NASB&reg;) [New American Standard Bible&reg;](https://www.lockman.org/new-american-standard-bible-nasb), Copyright &copy; 1960, 1971, 1977, 1995, 2020 by [The Lockman Foundation](https://www.lockman.org). Used by permission. All rights reserved.
 
 Scripture quotations taken from The Holy Bible, [New International Version&reg;](https://www.thenivbible.com) NIV&reg;. Copyright &copy; 1973, 1978, 1984, 2011 by [Biblica, Inc](https://www.biblica.com). Used with permission. All rights reserved worldwide.
 ## Abbreviations
-**Tota Scriptura** uses the <abbr>NIV</abbr>-style Bible book abbreviations found in <cite>The Christian Writer’s Manual of Style: 4th Edition</cite>:
+**Tota Scriptura** uses the NIV-style Bible book abbreviations found in <cite>The Christian Writer’s Manual of Style: 4th Edition</cite>:
 
 ::: bible-books
 

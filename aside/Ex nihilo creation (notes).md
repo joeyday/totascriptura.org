@@ -23,7 +23,7 @@ Practical implications of *creatio ex nihilo*:
 * The universe is finite and contingent, and therefore not a proper object of worship—all worship, adoration, and glory belongs properly to God, not to created things
 * The universe is not self-existent, self-sufficient, self-explanatory, or self-sustaining—it is not ultimate
 * God does not depend in any way upon creation, but the opposite, the creator/creature distinction is affirmed
-* Everything is of grace! We can’t earn anything from God because we already owe him everything we have life and strength to give. ~(“The distance between God and the creature is so great that although reasonable creatures do owe obedience unto him as their Creator, yet they could never have any fruition of him as their blessedness and reward, but by some voluntary condescension on God’s part, which he hath been pleased to express by way of covenant \[<abbr>WCF</abbr> 7.1].”)~
+* Everything is of grace! We can’t earn anything from God because we already owe him everything we have life and strength to give. ~(“The distance between God and the creature is so great that although reasonable creatures do owe obedience unto him as their Creator, yet they could never have any fruition of him as their blessedness and reward, but by some voluntary condescension on God’s part, which he hath been pleased to express by way of covenant \[WCF 7.1].”)~
 ## External Links
 Here are several articles that talk about practical implications of *creatio ex nihilo*:
 * [*Creation Ex Nihilo* by Kenneth R. Samples ‹ Reasons to Believe](http://www.reasons.org/articles/creation-ex-nihilo)

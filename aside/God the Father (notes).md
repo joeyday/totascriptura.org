@@ -43,7 +43,7 @@ The observation that can be made from this is that whenever Jesus uses the words
 But, I find it rather fascinating that in the Gospel of John Jesus never refers to God as “your father” until after his resurrection when he tells Mary that he is going to ”my Father and your Father”, almost as though none of the elect are actually considered adopted until Christ’s sacrifice occurs. —**Joey** 03:29, 22 October 2010 (UTC)
 :::
 ## Inconsistencies between translations
-Take a look at Eph 3:14 <abbr>ESV</abbr> and Eph 3:14 KJV. In this case, the KJV says God is the Father of Jesus, the ESV says he is simply the Father. Given the number of such later interpolations by scribes, I suspect if I had used the KJV as the basis of this study, many of the verses in the "Of no one in particular" section would have ended up in the "Of Jesus" section. This is an interesting angle I'd like to study a bit more. —**Joey** 22:15, 20 March 2011 (UTC)
+Take a look at Eph 3:14 ESV and Eph 3:14 KJV. In this case, the KJV says God is the Father of Jesus, the ESV says he is simply the Father. Given the number of such later interpolations by scribes, I suspect if I had used the KJV as the basis of this study, many of the verses in the "Of no one in particular" section would have ended up in the "Of Jesus" section. This is an interesting angle I'd like to study a bit more. —**Joey** 22:15, 20 March 2011 (UTC)
 ## Only Begotten Son
 Fascinating! Did you know the phrase “only begotten son” is only applied to Jesus by John the gospel writer, and he only uses it five times? (The only other time it appears in the New Testament is when it is applied to Abraham's son, Isaac, by the author of Hebrews.)
 
@@ -54,7 +54,7 @@ Here’s where this gets interesting. The very first instance, John 1:14, is cle
 
 This article was helpful to me in discovering this: [Michael D. Marlowe &rsaquo; The Only Begotten Son (ὁ μονογενὴς υἱός)](http://www.bible-researcher.com/only-begotten.html).
 
-Note that (and I haven’t decided how I feel about this) the <abbr>ESV</abbr> translators chose not to translate the word μονογενής as “only begotten”, but simply as “only”. Compare the verses given above in <abbr>NASB</abbr>, <abbr>NKJV</abbr> or <abbr>KJV</abbr>. —**Joey** 02:02, 29 March 2011 (UTC)
+Note that (and I haven’t decided how I feel about this) the ESV translators chose not to translate the word μονογενής as “only begotten”, but simply as “only”. Compare the verses given above in NASB, NKJV or KJV. —**Joey** 02:02, 29 March 2011 (UTC)
 
 ::: one-tab
 It just occurred to me the phrase “Son of God” would probably have been interpreted in light of old testament passages that call the King of Israel the son of God. So that phrase can be taken metaphorically. If there’s any phrase that makes it sound more like we’re talking about God’s literal son, it’s “Only Begotten Son”, but if, as I’ve postulated above, that statement is also meant to be taken metaphorically, then what are we left with? Clearly I (along with the earliest Trinitarians) believe that Jesus proceeds from the Father in some way, so there must be at least some kind of face value literal meaning to these phrases, but I think we can safely reject the very literal Mormon interpretation that Jesus and God are material beings and that Jesus is literally God’s son in the same sense that I am my father’s son. — [[File:Avatar.png|link=User:Joey]] [[User:Joey|Joey]] 05:10, 28 June 2011 (UTC)

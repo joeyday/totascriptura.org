@@ -103,7 +103,7 @@ Mt 10:37 ~— *cf. Mt 22:37*~ — more in ch. 5 of *Putting Jesus in His Place* 
 ### “The word of our God will stand forever”
 Mt 24:35; Mk 13:31 ~— *cf. Isa 40:8~
 ### “God alone treads on the waves of the sea”
-Mt 14:25–27 ~(cf. Mk 6:48–50; Jn 6:19–20)~ ~— *cf. Job 9:8; Ps 77:19; Isa 43:16*~ — I got this one from the first chapter of *The Essential Trinity* ~(eds. Brandon Crowe and Carl Trueman)~, but aren’t these <abbr>OT</abbr> passages references to the crossing of the Red Sea? Seems like a stretch to connect this to Jesus walking on water, but there is an I AM statement here, so maybe the connection is appropriate?
+Mt 14:25–27 ~(cf. Mk 6:48–50; Jn 6:19–20)~ ~— *cf. Job 9:8; Ps 77:19; Isa 43:16*~ — I got this one from the first chapter of *The Essential Trinity* ~(eds. Brandon Crowe and Carl Trueman)~, but aren’t these OT passages references to the crossing of the Red Sea? Seems like a stretch to connect this to Jesus walking on water, but there is an I AM statement here, so maybe the connection is appropriate?
 ## From the ’83 Watchtower article
 > To redeem what Adam lost for mankind, Jesus needed to sacrifice a perfect human life, no more, no less. (Ex 21:23; 1Co 15:22, 45, 47; Ro 5:18, 19, RS, Catholic and Protestant editions; Mt 20:28) This alone gives the lie to the Incarnation and Trinity dogmas.
 

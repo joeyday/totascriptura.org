@@ -95,7 +95,7 @@ Mk 10:38–39; Lk 12:50; Ro 6:3–14; Col 2:11–13; 1Pe 3:21–22
 ### Baptism signifies spiritual washing ~(implying water is only necessary symbol)~
 Ps 51:7; Eze 36:25; Jn 3:25–26; Ac 2:38; 22:16; 1Co 6:11; Eph 5:26; Tit 3:5; Heb 9:14; 10:22; 1Pe 3:21; Rev 1:5 KJV
 
-### Notable Old Testament (<abbr>LXX</abbr>) uses of baptizō
+### Notable Old Testament (LXX) uses of baptizō
 Nu 19:13, 18–19, 20; Ps 51:7; Eze 36:25
 
 ### Places where baptizō and baptismos are not typically translated “baptism”
@@ -114,7 +114,7 @@ Ac 2:38; 8:16; 10:48; 19:5
 {{mt|[[Subjects of baptism]]}}
 
 ### Adults should be baptized only upon profession of faith
-Mk 16:16; Ac 2:37–38, 41; 8:12–13; Ac 8:37 KJV ~(not in earliest <abbr>MSS</abbr>)~; Ac 10:44–48; 16:14–15, 31–34
+Mk 16:16; Ac 2:37–38, 41; 8:12–13; Ac 8:37 KJV ~(not in earliest MSS)~; Ac 10:44–48; 16:14–15, 31–34
 
 ### Infants and children of believers should also be baptized
 Ge 17:7, 12, 23; Mt 19:13; Mk 10:13–16; Lk 18:15–17; Ac 2:38–39; 16:31; Ro 4:11–12; 1Co 7:14; Gal 3:9, 14; Col 2:11–12

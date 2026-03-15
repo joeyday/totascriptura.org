@@ -13,9 +13,9 @@ quick nav: true
 :::
 
 ## The author
-Hi, I’m Joey. I’m a Reformed Christian living in Salt Lake City, Utah. My family and I are members of [Jordan Valley Church (<abbr>PCA</abbr>)](https://jordanvalleychurch.org). I’m 40-something and currently a software engineer, but when I grow up I’d like to be a seminary professor.
+Hi, I’m Joey. I’m a Reformed Christian living in Salt Lake City, Utah. My family and I are members of [Jordan Valley Church (PCA)](https://jordanvalleychurch.org). I’m 40-something and currently a software engineer, but when I grow up I’d like to be a seminary professor.
 ## The inception
-This project came to life as a memo in my Palm <abbr>PDA</abbr> back in 2002. That early document was titled “Things that convince me,” and was created shortly after I was born again and joined my first Christian church. When my little memo started to become a big memo a few years later, I moved it over to a wiki I was using at the time for general note taking and thought collection. When that already overlong page became entirely unwieldy in 2009, I decided it deserved a site all its own, and here it is.
+This project came to life as a memo in my Palm PDA back in 2002. That early document was titled “Things that convince me,” and was created shortly after I was born again and joined my first Christian church. When my little memo started to become a big memo a few years later, I moved it over to a wiki I was using at the time for general note taking and thought collection. When that already overlong page became entirely unwieldy in 2009, I decided it deserved a site all its own, and here it is.
 ## The focus
 From the beginning of this project I’ve deliberately avoided interjecting any sort of running commentary or narrative into the topics, preferring instead to simply gather Scripture passages together topically and let them speak for themselves. I sometimes compare it to [Nave’s Topical Bible](https://en.wikipedia.org/wiki/Nave%27s_Topical_Bible) for this reason.
 

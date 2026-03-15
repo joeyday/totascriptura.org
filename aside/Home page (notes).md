@@ -18,8 +18,8 @@ aside of: "[[Home page]]"
 * Look back through my blog posts. 
 * Look back through documents on my computer. 
 * Look back through documents on my documentation wiki.
-* Browse my <abbr>NASB</abbr> Study Bible for underlined passages and notes.
-* Browse my old <abbr>LDS</abbr> scriptures for underlines and notes.
+* Browse my NASB Study Bible for underlined passages and notes.
+* Browse my old LDS scriptures for underlines and notes.
 * Harmonize passage lists about divinity and humanity being necessary for the atonement on [[Jesus is God]] (in the inferences section) and [[Hypostatic union]].
 
 ## Thinking about prepositions and the Trinity

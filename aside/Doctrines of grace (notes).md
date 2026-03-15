@@ -2,7 +2,7 @@
 aside of: "[[Doctrines of grace]]"
 ---
 ## Useful resources
-* [<abbr>TULIP</abbr> verse lists](https://www.dropbox.com/home#/Documents/TULIP%20verse%20lists:::) via [@aaronsauer](http://www.twitter.com/aaronsauer) (formerly of beforefoundation.com).
+* [TULIP verse lists](https://www.dropbox.com/home#/Documents/TULIP%20verse%20lists:::) via [@aaronsauer](http://www.twitter.com/aaronsauer) (formerly of beforefoundation.com).
 * [Doctrines of Grace – Categorized Scripture List](http://www.monergism.com/thethreshold/articles/onsite/gracelist.html)
 ## Passages to add
 Add 2Ti 1:8–9 to unconditional election? —**Joey** 05:01, 28 November 2011 (UTC)
