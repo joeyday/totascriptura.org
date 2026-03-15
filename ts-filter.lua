@@ -3,9 +3,9 @@ local categories = pandoc.List()
 
 function Link(el)
   -- 1. Check if the link target starts with "c:" or "Category:"
-  if el.target:match("^c:") or el.target:match("^Category:") then
+  if el.target:match("^c:") then
     -- Extract the category name and replace underscores with spaces
-    local catName = el.target:gsub("^c:", ""):gsub("^Category:", ""):gsub("_", " ")
+    local catName = el.target:gsub("^c:", ""):gsub("_", " ")
     
     -- Use RawInline to prevent the CommonMark writer from escaping the brackets
     categories:insert(pandoc.RawInline('markdown', '[[' .. catName .. ']]'))
@@ -14,21 +14,23 @@ function Link(el)
     return {} 
   end
 
-  -- 2. Existing logic for regular links
-  el.target = el.target:gsub("_", " ")
-  return el
+  -- 2. Modified logic for regular links
+  -- Check if the target looks like an external URL (e.g., starting with http://, https://, or mailto:)
+  if not (el.target:match("^https?://") or el.target:match("^mailto:")) then
+    el.target = el.target:gsub("_", " ")
+  end
 end
 
 function RawInline(el)
   if el.format == "html" then
     -- 1. Replace opening and closing small tags with a tilde
     if el.text == "<small>" or el.text == "</small>" then
-      return pandoc.Str("~")
+	  return pandoc.RawInline('markdown', '~')
     end
 
     -- 2. Remove opening <abbr> tags and closing </abbr> tags
     if el.text:match("^<abbr") or el.text == "</abbr>" then
-      return {} 
+      return {}
     end
     
     -- 3. Remove references tags
