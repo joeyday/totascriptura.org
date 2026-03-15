@@ -26,9 +26,34 @@ function RawInline(el)
       return pandoc.Str("~")
     end
 
-    -- 2. Remove opening <abbr> tags (including any attributes) and closing </abbr> tags
+    -- 2. Remove opening <abbr> tags and closing </abbr> tags
     if el.text:match("^<abbr") or el.text == "</abbr>" then
       return {} 
+    end
+    
+    -- 3. Remove references tags
+    if el.text:match("^<hr class=\"references\"") or el.text:match("^<references") then
+      return {}
+    end
+    
+  elseif el.format == "mediawiki" then
+    -- Convert MediaWiki includes {{name|params}} to {{[[name]]|params}}
+    if el.text:sub(1, 2) == "{{" and el.text:sub(-2) == "}}" then
+      local inner = el.text:sub(3, -3)
+      local pipe_pos = inner:find("|")
+      local new_text = ""
+      
+      if pipe_pos then
+        -- If there are parameters, separate the name from the parameters
+        local name = inner:sub(1, pipe_pos - 1)
+        local params = inner:sub(pipe_pos) -- keeps the leading '|'
+        new_text = '{{[[' .. name .. ']]' .. params .. '}}'
+      else
+        -- If there are no parameters, just wrap the whole inner text
+        new_text = '{{[[' .. inner .. ']]}}'
+      end
+      
+      return pandoc.RawInline('markdown', new_text)
     end
   end
 end
@@ -39,8 +64,27 @@ function RawBlock(el)
     if el.text:match("^<hr class=\"references\"") or el.text:match("^<references") then
       return {}
     end
+    
+  elseif el.format == "mediawiki" then
+    -- Convert MediaWiki includes {{name|params}} to {{[[name]]|params}}
+    if el.text:sub(1, 2) == "{{" and el.text:sub(-2) == "}}" then
+      local inner = el.text:sub(3, -3)
+      local pipe_pos = inner:find("|")
+      local new_text = ""
+      
+      if pipe_pos then
+        local name = inner:sub(1, pipe_pos - 1)
+        local params = inner:sub(pipe_pos) 
+        new_text = '{{[[' .. name .. ']]' .. params .. '}}'
+      else
+        new_text = '{{[[' .. inner .. ']]}}'
+      end
+      
+      return pandoc.RawBlock('markdown', new_text)
+    end
   end
 end
+
 
 function Image(el)
   -- Remove the "File:" or "Image:" prefix that MediaWiki uses
