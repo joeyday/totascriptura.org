@@ -15,7 +15,7 @@ Mt 6:33; 10:41; 13:49; 25:31–40, 46; Lk 14:12–14; Ac 2:21 ~(cites Joel 2:32)
 
 Mt 12:37; Lk 18:9–14; Jas 1:26–27
 
-## Suggestions from Sam
+### Suggestions from Sam
 
 Mt 7:21; Ro 2:13; 1Co 6:9, 15:2; Heb 9:5; 10:26
 
