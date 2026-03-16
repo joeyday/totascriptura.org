@@ -1,0 +1,27 @@
+views:
+  - type: table
+    name: Drafts + Hidden
+    filters:
+      or:
+        - draft == true
+        - and:
+            - hidden == true
+            - file.folder != "partial"
+    order:
+      - file.name
+      - categories
+  - type: table
+    name: Uncategorized
+    filters:
+      and:
+        - categories.isEmpty()
+        - '!file.folder.containsAny("aside", "category", "image", "partial", "template")'
+        - file.ext == "md"
+        - draft != true
+        - note["quick nav"] != true
+    order:
+      - file.name
+      - draft
+    sort:
+      - property: file.name
+        direction: ASC
