@@ -29,7 +29,7 @@ Isa 57:15; Ac 17:27–28; Ro 10:8
 ### Incomprehensibility ~(boundless, immeasurable, immense)~
 1Ki 8:27; 2Ch 2:6; 6:18; Isa 66:1; Ac 7:49; 17:24
 ### Incorporeality ~(“without body”, immaterial, invisible, spirit)~
-{{mt|[[Incorporeality]]}}{{[[incorporeality-template]]}}
+{{mt|[[Incorporeality]]}}{{[[incorporeality-partial]]}}
 
 {{[[ineffability-heading]]}}
 {{[[ineffability]]}}
