@@ -8,13 +8,11 @@ draft: true
 ### Foreknown, predestined, elect from before the foundation of the world
 
 {{[[mt]]|[[Unconditional election]]}}
-
 Mt 25:34; Ro 8:29–30; 11:2; Eph 1:4–5, 11; 1Pe 1:1–2; Rev 13:8; 17:8
 
 ### Calling linked to election, causes regeneration
 
 {{[[mt]]|[[Effectual grace]]}}
-
 2Ti 1:9
 
 ### Regeneration produces faith, repentance
