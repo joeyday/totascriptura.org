@@ -2,7 +2,7 @@
 categories:
 - "[[Theology (proper)]]"
 ---
-**Soli Deo gloria** is Latin for “glory to God alone”. It is one of the [[five solas of the Reformation]].
+**Soli Deo gloria** is Latin for “glory to God alone”. It is one of the [[Five solas of the Reformation]].
 
 ### God’s glory is the goal of creation
 
