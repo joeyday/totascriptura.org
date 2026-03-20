@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Exclusive Yahwism
 categories:
   - "[[Theology (proper)]]"
 featured: true

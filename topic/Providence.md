@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Compatibilism
+  - Sovereignty of God
 categories:
   - "[[Theology (proper)]]"
 featured: true

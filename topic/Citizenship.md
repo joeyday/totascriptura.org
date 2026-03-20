@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Patriotism
 categories:
   - "[[Political theology]]"
 ---

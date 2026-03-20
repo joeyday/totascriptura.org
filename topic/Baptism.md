@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Circumcision
 categories:
   - "[[Ecclesiology]]"
   - "[[Sacramentology]]"

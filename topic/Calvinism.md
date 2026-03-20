@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Reformed
 categories:
   - "[[Systematic theology]]"
   - "[[Soteriology]]"

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Communion
+  - Eucharist
 categories:
   - "[[Ecclesiology]]"
   - "[[Sacramentology]]"

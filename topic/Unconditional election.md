@@ -1,6 +1,10 @@
 ---
+aliases:
+  - Election
+  - Reprobation
+  - Unconditional reprobation
 categories:
-- "[[Soteriology]]"
+  - "[[Soteriology]]"
 ---
 **Unconditional election** teaches that in eternity God chose some individuals from the mass of fallen humanity unto salvation without regard to any merit or foreseen faith in them, but solely based on His sovereign intentions.
 

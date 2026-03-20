@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Canon
+  - Inerrancy of Scripture
+  - Perspicuity of Scripture
+  - Preservation of Scripture
 categories:
   - "[[Prolegomena]]"
 featured: true

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Church polity
+  - Polity
 categories:
   - "[[Ecclesiology]]"
 ---

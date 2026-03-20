@@ -1,8 +1,10 @@
 ---
 categories:
-- "[[Ecclesiology]]"
-- "[[Eschatology]]"
-- "[[Moral theology]]"
+  - "[[Ecclesiology]]"
+  - "[[Eschatology]]"
+  - "[[Moral theology]]"
+aliases:
+  - Lord’s Day
 ---
 ### Institution of, instructions for, blessings for observance of
 
