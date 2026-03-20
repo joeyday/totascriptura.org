@@ -2,4 +2,4 @@
 categories:
 - "[[Systematic theology]]"
 ---
-This category contains topics and subtopics pertaining to **hamartiology**, or the study of sin.
+This category contains topics and subcategories about **hamartiology**, or the study of sin.

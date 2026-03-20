@@ -3,4 +3,4 @@ categories:
 - "[[Practical theology]]"
 - "[[Systematic theology]]"
 ---
-This category contains topics and subcategories pertaining to **ecclesiology**, or the study of the church.
+This category contains topics and subcategories about **ecclesiology**, or the study of the church.
