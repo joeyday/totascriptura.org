@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Ecclesiology]]"
-  - "[[Sacraments]]"
+  - "[[Sacramentology]]"
 featured: true
 ---
 ![[Hidden-waterfall.png]]

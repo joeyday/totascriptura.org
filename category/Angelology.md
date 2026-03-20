@@ -2,4 +2,4 @@
 categories:
   - "[[Cosmology]]"
 ---
-Is it doing it because they're identical?
+This category contains topics and subcategories pertaining to **angelology**, or the study of angels.

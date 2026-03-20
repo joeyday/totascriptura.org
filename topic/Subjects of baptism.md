@@ -1,7 +1,7 @@
 ---
 categories:
-- "[[Ecclesiology]]"
-- "[[Sacraments]]"
+  - "[[Ecclesiology]]"
+  - "[[Sacramentology]]"
 ---
 ## Credobaptist
 
