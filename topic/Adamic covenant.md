@@ -2,7 +2,7 @@
 categories:
   - "[[Biblical theology]]"
 ---
-The Adamic covenant is an administration of the covenant of grace given to Adam and Eve and their posterity after the Fall, not to be confused with the covenant of works they were under before the Fall (and which they transgressed).
+The **Adamic covenant** is an administration of the covenant of grace given to Adam and Eve and their posterity after the Fall, not to be confused with the covenant of works they were under before the Fall (and which they transgressed).
 
 ### Promises
 
