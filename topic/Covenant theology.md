@@ -14,7 +14,7 @@ Gen 1:28–30; 2:8–9, 15–17; 3:11, 16–19, 22–24; Hos 6:7 ~(cf. Job 31:33
 ## Covenant of Grace
 ### Adamic covenant
 {{[[mt]]|[[Adamic covenant]]}}
-Gen 3:14–15, 21; Heb 2:14; Rev 20:1–3, 10
+Gen 3:14–15, 21; Ro 16:20; Heb 2:14; Rev 20:1–3, 10
 ### Noahic covenant
 {{[[mt]]|[[Noahic covenant]]}}
 Gen 6:13–22; 8:20–22; 9:1–17; Ps 19:1–4; Hos 2:18; Ro 8:18–25; 2Pe 3:3–13
