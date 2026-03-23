@@ -4,7 +4,7 @@ categories:
 featured: true
 featured with: "[[Providence]]"
 ---
-![[Windmill.png]]
+![[Windmill.png|600]]
 
 ### Most explicit affirmations of
 Jer 7:24, 31; Eze 33:11; Hos 8:4; Lk 7:30; 1Co 7:37; 10:13

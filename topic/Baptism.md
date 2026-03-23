@@ -6,7 +6,7 @@ categories:
   - "[[Sacramentology]]"
 featured: true
 ---
-![[Hidden-waterfall.png]]
+![[Hidden-waterfall.png|600]]
 
 ## Institution, commandment of
 ### Baptism instituted and commanded

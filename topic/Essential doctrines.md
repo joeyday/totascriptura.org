@@ -3,7 +3,7 @@ categories:
   - "[[Soteriology]]"
 featured: true
 ---
-![[Pillars.png]]
+![[Pillars.png|600]]
 
 :::
 *In essentials unity, in non-essentials\

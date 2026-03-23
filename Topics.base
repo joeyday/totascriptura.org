@@ -25,3 +25,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: Featured
+    filters:
+      and:
+        - featured == true
