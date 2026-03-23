@@ -321,6 +321,7 @@ main {
                 padding-left: 0.5em;
                 padding-right: 0.5em;
                 border: 1px solid var(--color-main-stroke);
+                vertical-align: top;
             }
             
             tr:nth-child(even) td {
