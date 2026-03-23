@@ -1,6 +1,8 @@
 ---
+aliases:
+  - Spiritual disciplines
 categories:
-- "[[Ecclesiology]]"
+  - "[[Ecclesiology]]"
 ---
 
 ### Preaching/teaching of the Word

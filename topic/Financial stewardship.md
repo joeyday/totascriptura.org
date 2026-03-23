@@ -1,6 +1,8 @@
 ---
+aliases:
+  - Tithing
 categories:
-- "[[Moral theology]]"
+  - "[[Moral theology]]"
 ---
 
 ### Everything belongs to God

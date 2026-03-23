@@ -1,6 +1,8 @@
 ---
+aliases:
+  - Irresistible grace
 categories:
-- "[[Soteriology]]"
+  - "[[Soteriology]]"
 ---
 **Effectual grace** teaches that the saving grace of God is effectually applied to those whom he has determined to save (the elect), whereby in God’s timing, he overcomes their resistance to the gospel call and brings them to saving faith in Christ.
 

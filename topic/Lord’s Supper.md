@@ -1,7 +1,10 @@
 ---
+aliases:
+  - Communion
+  - Eucharist
 categories:
-- "[[Ecclesiology]]"
-- "[[Sacraments]]"
+  - "[[Ecclesiology]]"
+  - "[[Sacramentology]]"
 notoc: true
 ---
 ### Institution of

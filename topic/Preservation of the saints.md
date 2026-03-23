@@ -1,3 +1,7 @@
+---
+aliases:
+  - Perseverance of the saints
+---
 **Preservation of the saints** teaches that those who are saved (the elect), though they may from time to time waver in their faith, cannot ultimately lose their salvation but are kept by God and will persevere to the end.
 
 ### Election, predestination are irrevocable

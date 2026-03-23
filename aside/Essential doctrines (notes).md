@@ -11,7 +11,7 @@ See also <http://www.desiringgod.org/interviews/what-must-someone-believe-in-ord
 ### Bodily resurrection of Christ
 ### Salvation by grace through faith
 ## Biblical support for “damnatory clauses” in Athanasian Creed?
-*The main content of this topic originated as a note on [[Trinity (notes)]]. Here are the additional notes that came from there.*
+*The main content of this topic originated as a note on [[Trinity (notes) (bad)]]. Here are the additional notes that came from there.*
 
 The Athanasian Creed states:
 > Whosoever will be saved, before all things it is necessary that he hold the catholic faith. Which faith except every one do keep whole and undefiled; without doubt he shall perish everlastingly. And the catholic faith is this: That we worship one God in Trinity, and Trinity in Unity; Neither confounding the Persons; nor dividing the Essence. . . . He therefore that will be saved, let him thus think of the Trinity.

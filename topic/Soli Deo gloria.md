@@ -1,6 +1,8 @@
 ---
+aliases:
+  - Glory
 categories:
-- "[[Theology (proper)]]"
+  - "[[Theology (proper)]]"
 ---
 **Soli Deo gloria** is Latin for “glory to God alone”. It is one of the [[Five solas of the Reformation]].
 

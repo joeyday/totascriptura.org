@@ -1,6 +1,8 @@
 ---
+aliases:
+  - Incarnation
 categories:
-- "[[Christology]]"
+  - "[[Christology]]"
 ---
 **Hypostatic union** is the doctrine that Christ’s human and divine natures are united in one person (*hypostasis*).
 

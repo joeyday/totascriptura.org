@@ -1,0 +1,1 @@
+This category contains topics and subcategories about **practical theology**, or the study of how Christian faith and theological doctrines are applied to everyday life, ministry, and modern society.

@@ -28,7 +28,10 @@ function parseFencedAttrs(info) {
       const eq = token.indexOf("=");
       const key = token.slice(0, eq);
       let val = token.slice(eq + 1);
-      if ((val.startsWith('"') && val.endsWith('"')) || (val.startsWith("'") && val.endsWith("'"))) {
+      if (
+        (val.startsWith('"') && val.endsWith('"')) ||
+        (val.startsWith("'") && val.endsWith("'"))
+      ) {
         val = val.slice(1, -1);
       }
       attrs.other[key] = val;
@@ -38,7 +41,10 @@ function parseFencedAttrs(info) {
 }
 
 function protectFencedAttrs(text) {
-  return text.replace(/^(:::)\s*\{([^}]+)\}/gm, (m, colons, content) => colons + "\x01" + content + "\x01");
+  return text.replace(
+    /^(:::)\s*\{([^}]+)\}/gm,
+    (m, colons, content) => colons + "\x01" + content + "\x01",
+  );
 }
 
 const md = markdownIt({
@@ -60,7 +66,8 @@ const md = markdownIt({
         const parsed = parseFencedAttrs(info);
         let tag = "<div";
         if (parsed.id) tag += ` id="${parsed.id}"`;
-        if (parsed.classes.length) tag += ` class="${parsed.classes.join(" ")}"`;
+        if (parsed.classes.length)
+          tag += ` class="${parsed.classes.join(" ")}"`;
         for (const [k, v] of Object.entries(parsed.other)) {
           tag += ` ${k}="${v}"`;
         }
@@ -75,13 +82,40 @@ const OUTPUT_DIR = "dist";
 const TEMPLATE_PATH = path.join("template", "layout.ejs");
 const PARTIALS_DIR = "template";
 const SKIP_FILES = new Set(["replit.md"]);
-const MD_SKIP_DIRS = new Set(["node_modules", "dist", ".git", ".github", ".local", "template"]);
-const ASSET_SKIP_DIRS = new Set(["node_modules", "dist", ".git", ".github", ".local"]);
+const MD_SKIP_DIRS = new Set([
+  "node_modules",
+  "dist",
+  ".git",
+  ".github",
+  ".local",
+  "template",
+]);
+const ASSET_SKIP_DIRS = new Set([
+  "node_modules",
+  "dist",
+  ".git",
+  ".github",
+  ".local",
+]);
 const IMAGE_EXTENSIONS = new Set([
-  ".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp", ".avif", ".ico", ".bmp",
+  ".png",
+  ".jpg",
+  ".jpeg",
+  ".gif",
+  ".svg",
+  ".webp",
+  ".avif",
+  ".ico",
+  ".bmp",
 ]);
 const ASSET_EXTENSIONS = new Set([
-  ...IMAGE_EXTENSIONS, ".css", ".eot", ".otf", ".ttf", ".woff", ".woff2",
+  ...IMAGE_EXTENSIONS,
+  ".css",
+  ".eot",
+  ".otf",
+  ".ttf",
+  ".woff",
+  ".woff2",
 ]);
 
 async function ensureDir(dir) {
@@ -105,7 +139,11 @@ async function findFiles(dir, { skipDirs, filter, rootDir }) {
     const fullPath = path.join(dir, entry.name);
     if (entry.isDirectory()) {
       if (skipDirs.has(entry.name) || entry.name.startsWith(".")) continue;
-      const subResults = await findFiles(fullPath, { skipDirs, filter, rootDir });
+      const subResults = await findFiles(fullPath, {
+        skipDirs,
+        filter,
+        rootDir,
+      });
       results.push(...subResults);
     } else if (entry.isFile()) {
       const item = filter(entry, fullPath, rootDir);
@@ -119,7 +157,11 @@ function findMarkdownFiles(dir) {
   return findFiles(dir, {
     skipDirs: MD_SKIP_DIRS,
     filter: (entry, fullPath, rootDir) => {
-      if (!entry.name.endsWith(".md") || SKIP_FILES.has(entry.name.toLowerCase())) return null;
+      if (
+        !entry.name.endsWith(".md") ||
+        SKIP_FILES.has(entry.name.toLowerCase())
+      )
+        return null;
       const relDir = path.relative(rootDir, path.dirname(fullPath));
       return { filePath: fullPath, relDir, fileName: entry.name };
     },
@@ -188,7 +230,8 @@ function resolveWikilinksInText(text, fileMap, imageMap) {
     }
     let key = searchTarget.toLowerCase();
     if (key.endsWith(".md")) key = key.substring(0, key.length - 3);
-    const linkUrl = fileMap[key] || `/${slugify(target, { lower: true, strict: true })}`;
+    const linkUrl =
+      fileMap[key] || `/${slugify(target, { lower: true, strict: true })}`;
     return `[${linkText}](${linkUrl})`;
   });
 }
@@ -211,7 +254,7 @@ function expandShorthand(text, fileMap, imageMap) {
         .map((arg, i) => {
           let val = arg.trim();
           val = resolveWikilinksInText(val, fileMap, imageMap);
-          return `"${i + 1}": "${val.replace(/\\/g, '\\\\').replace(/"/g, '\\"')}"`;
+          return `"${i + 1}": "${val.replace(/\\/g, "\\\\").replace(/"/g, '\\"')}"`;
         })
         .join(", ");
       return `<%- include('embed', { "file": "${escapedName}", ${argsObj} }) %>`;
@@ -248,7 +291,9 @@ async function build() {
   for (const { filePath: assetPath, fileName: assetName } of assetFiles) {
     const lowerName = assetName.toLowerCase();
     if (seenAssetNames.has(lowerName)) {
-      console.warn(`Warning: Asset filename collision — "${assetName}" from "${assetPath}" overwrites "${seenAssetNames.get(lowerName)}"`);
+      console.warn(
+        `Warning: Asset filename collision — "${assetName}" from "${assetPath}" overwrites "${seenAssetNames.get(lowerName)}"`,
+      );
     }
     seenAssetNames.set(lowerName, assetPath);
     const outPath = path.join(assetsOutDir, assetName);
@@ -270,7 +315,9 @@ async function build() {
     try {
       parsed = matter(content);
     } catch (err) {
-      console.warn(`Warning: Failed to parse frontmatter in "${filePath}" — skipping (${err.message})`);
+      console.warn(
+        `Warning: Failed to parse frontmatter in "${filePath}" — skipping (${err.message})`,
+      );
       continue;
     }
 
@@ -471,7 +518,11 @@ async function build() {
       const canonicalUrl =
         fileMap[resolvedKey] ||
         `/${slugify(fileInfo.aliasOf, { lower: true, strict: true })}`;
-      allPages.push({ title: fileInfo.title, url: canonicalUrl, redirect: canonicalTitle });
+      allPages.push({
+        title: fileInfo.title,
+        url: canonicalUrl,
+        redirect: canonicalTitle,
+      });
     } else {
       allPages.push({ title: fileInfo.title, url: fileInfo.finalUrlPath });
     }
@@ -518,11 +569,14 @@ async function build() {
     let markdownContent = fileInfo.parsed.content;
 
     const embedPlaceholders = [];
-    markdownContent = markdownContent.replace(/\{\{([\s\S]*?)\}\}/g, (match) => {
-      const idx = embedPlaceholders.length;
-      embedPlaceholders.push(match);
-      return `\x00EMBED_${idx}\x00`;
-    });
+    markdownContent = markdownContent.replace(
+      /\{\{([\s\S]*?)\}\}/g,
+      (match) => {
+        const idx = embedPlaceholders.length;
+        embedPlaceholders.push(match);
+        return `\x00EMBED_${idx}\x00`;
+      },
+    );
 
     markdownContent = markdownContent.replace(
       /(!?)\[\[(.*?)\]\]/g,
@@ -568,9 +622,12 @@ async function build() {
       },
     );
 
-    markdownContent = markdownContent.replace(/\x00EMBED_(\d+)\x00/g, (match, idx) => {
-      return embedPlaceholders[Number(idx)];
-    });
+    markdownContent = markdownContent.replace(
+      /\x00EMBED_(\d+)\x00/g,
+      (match, idx) => {
+        return embedPlaceholders[Number(idx)];
+      },
+    );
 
     markdownContent = expandShorthand(markdownContent, fileMap, imageMap);
 
@@ -592,13 +649,18 @@ async function build() {
         },
       );
     } catch (err) {
-      console.warn(`Warning: EJS render error in "${fileInfo.filePath}" — ${err.message}`);
+      console.warn(
+        `Warning: EJS render error in "${fileInfo.filePath}" — ${err.message}`,
+      );
       markdownContent = `<!-- EJS render error in: ${fileInfo.fileName} -->`;
     }
 
     markdownContent = markdownContent.replace(/%%[\s\S]*?%%/g, "");
 
-    markdownContent = markdownContent.replace(/(?<!~)~(?!~)([^~\n]+?)(?<!~)~(?!~)/g, "<small>$1</small>");
+    markdownContent = markdownContent.replace(
+      /(?<!~)~(?!~)([^~\n]+?)(?<!~)~(?!~)/g,
+      "<small>$1</small>",
+    );
 
     markdownContent = protectFencedAttrs(markdownContent);
     const htmlContent = md.render(markdownContent);
@@ -632,7 +694,11 @@ async function build() {
     const pages = [];
     for (const member of allMembers) {
       const memberKey = urlToKey[member.url];
-      if (memberKey && membersMap[memberKey] && membersMap[memberKey].length > 0) {
+      if (
+        memberKey &&
+        membersMap[memberKey] &&
+        membersMap[memberKey].length > 0
+      ) {
         subcategories.push(member);
       } else {
         pages.push(member);
@@ -655,7 +721,10 @@ async function build() {
       `Built: ${fileInfo.filePath} -> ${outFilePath} (URL: ${fileInfo.finalUrlPath})`,
     );
 
-    const bodyText = htmlContent.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
+    const bodyText = htmlContent
+      .replace(/<[^>]*>/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
     searchDocs.push({
       id: fileInfo.finalUrlPath,
       title: fileInfo.title,
@@ -679,9 +748,13 @@ async function build() {
     );
 
   const indexPages = [
-    { slug: "alphabetical", title: "Alphabetical Index", items: allPages },
-    { slug: "categorical", title: "Categorical Index", items: topLevelCategoryPages },
-    { slug: "featured", title: "Featured Topics", items: featuredPages },
+    { slug: "alphabetical", title: "Alphabetical index", items: allPages },
+    {
+      slug: "categorical",
+      title: "Categorical index",
+      items: topLevelCategoryPages,
+    },
+    { slug: "featured", title: "Featured topics", items: featuredPages },
     { slug: "drafts", title: "Drafts", items: draftPages },
   ];
 

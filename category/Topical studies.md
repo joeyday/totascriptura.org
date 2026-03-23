@@ -1,0 +1,1 @@
+This category contains miscellaneous **topical Bible studies**.

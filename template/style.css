@@ -146,6 +146,7 @@ a {
     /* dark mode colors */
     @media (prefers-color-scheme: dark) {
         --color-main-background: var(--color-darker-gray);
+		--color-main-tint-background: oklch(from var(--color-main-background) calc(l + 0.05) c h);
         --color-main-text: var(--color-white);
         --color-main-text-muted: var(--color-lighter-gray);
         --color-main-thick-stroke: var(--color-lighter-gray);

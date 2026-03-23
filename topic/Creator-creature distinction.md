@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Categorical distinction
 categories:
   - "[[Cosmology]]"
   - "[[Theology (proper)]]"

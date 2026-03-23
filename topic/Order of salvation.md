@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ordo salutis
 draft: true
 ---
 **Order of salvation** ~(Latin: **ordo salutis**)~ refers to the sequence of conceptual steps within the doctrine of salvation.

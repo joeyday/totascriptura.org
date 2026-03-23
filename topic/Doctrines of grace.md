@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Five points of Calvinism
+  - TULIP
 categories:
   - "[[Soteriology]]"
 featured: true
