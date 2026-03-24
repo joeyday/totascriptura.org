@@ -80,7 +80,6 @@ const md = markdownIt({
 
 const OUTPUT_DIR = "dist";
 const TEMPLATE_PATH = path.join("template", "layout.ejs");
-const PARTIALS_DIR = "template";
 const SKIP_FILES = new Set(["replit.md"]);
 const MD_SKIP_DIRS = new Set([
   "node_modules",
@@ -213,55 +212,47 @@ function resolveFileMapKey(target, fileMap) {
   return raw;
 }
 
-function resolveWikilinksInText(text, fileMap, imageMap) {
-  return text.replace(/\[\[(.*?)\]\]/g, (match, inner) => {
-    let target = inner;
-    let linkText = inner;
-    if (inner.includes("|")) {
-      const parts = inner.split("|");
-      target = parts[0];
-      linkText = parts.slice(1).join("|");
-    }
-    const searchTarget = target.trim();
-    const ext = path.extname(searchTarget).toLowerCase();
-    if (IMAGE_EXTENSIONS.has(ext)) {
-      const imgUrl = imageMap[searchTarget.toLowerCase()] || searchTarget;
-      return `[${linkText === inner ? searchTarget : linkText}](${imgUrl})`;
-    }
-    let key = searchTarget.toLowerCase();
-    if (key.endsWith(".md")) key = key.substring(0, key.length - 3);
-    const linkUrl =
-      fileMap[key] || `/${slugify(target, { lower: true, strict: true })}`;
-    return `[${linkText}](${linkUrl})`;
-  });
-}
-
-function expandShorthand(text, fileMap, imageMap) {
-  text = text.replace(/\{\{(\d+)\}\}/g, (match, num) => {
-    return `<%= locals["${num}"] %>`;
-  });
-
-  text = text.replace(
+function resolveEmbeds(text, contentMap, { seen = new Set() } = {}) {
+  return text.replace(
     /\{\{([^}|]+?)(?:\|([^}]*))?\}\}/g,
     (match, name, argsStr) => {
       name = name.trim().replace(/^\[\[/, "").replace(/\]\]$/, "").trim();
-      const escapedName = name.replace(/'/g, "\\'");
-      if (!argsStr) {
-        return `<%- include('embed', { "file": "${escapedName}" }) %>`;
+      const key = name.toLowerCase().trim();
+
+      // Numeric names are unfilled positional placeholders — leave as empty
+      if (/^\d+$/.test(key)) return "";
+
+      if (seen.has(key)) {
+        console.warn(`Warning: Circular embed detected — "${name}"`);
+        return `<!-- circular embed: ${name} -->`;
       }
-      const args = argsStr.split("|");
-      const argsObj = args
-        .map((arg, i) => {
-          let val = arg.trim();
-          val = resolveWikilinksInText(val, fileMap, imageMap);
-          return `"${i + 1}": "${val.replace(/\\/g, "\\\\").replace(/"/g, '\\"')}"`;
-        })
-        .join(", ");
-      return `<%- include('embed', { "file": "${escapedName}", ${argsObj} }) %>`;
+
+      let embedContent = contentMap[key];
+      if (embedContent === undefined || embedContent === null) {
+        console.warn(`Warning: Embed not found — "${name}"`);
+        return `<!-- embed not found: ${name} -->`;
+      }
+
+      const args = argsStr ? argsStr.split("|").map((a) => a.trim()) : [];
+
+      for (let i = 0; i < args.length; i++) {
+        embedContent = embedContent.replace(
+          new RegExp(`\\{\\{${i + 1}\\}\\}`, "g"),
+          args[i],
+        );
+      }
+
+      // Replace any remaining unfilled {{N}} placeholders with empty string
+      embedContent = embedContent.replace(/\{\{\d+\}\}/g, "");
+
+      embedContent = embedContent.replace(/\{\{\$args\}\}/g, args.join(", "));
+      embedContent = embedContent.replace(/\{\{\$n\}\}/g, String(args.length));
+
+      const newSeen = new Set(seen);
+      newSeen.add(key);
+      return resolveEmbeds(embedContent, contentMap, { seen: newSeen });
     },
   );
-
-  return text;
 }
 
 function parseCategoriesList(raw) {
@@ -446,8 +437,11 @@ async function build() {
     if (!urlToKey[url]) urlToKey[url] = key;
   }
 
+  const hiddenUrls = new Set(
+    filesToProcess.filter((f) => f.hidden).map((f) => f.finalUrlPath)
+  );
   const allKnownUrls = new Set([
-    ...Object.values(fileMap),
+    ...Object.values(fileMap).filter((url) => !hiddenUrls.has(url)),
     ...Object.values(imageMap),
     "/search",
   ]);
@@ -532,7 +526,6 @@ async function build() {
   );
 
   const searchDocs = [];
-  const viewsPathResolved = [path.resolve(PARTIALS_DIR)];
 
   for (const fileInfo of filesToProcess) {
     if (fileInfo.hidden) continue;
@@ -566,16 +559,9 @@ async function build() {
       continue;
     }
 
-    let markdownContent = fileInfo.parsed.content;
-
-    const embedPlaceholders = [];
-    markdownContent = markdownContent.replace(
-      /\{\{([\s\S]*?)\}\}/g,
-      (match) => {
-        const idx = embedPlaceholders.length;
-        embedPlaceholders.push(match);
-        return `\x00EMBED_${idx}\x00`;
-      },
+    let markdownContent = resolveEmbeds(
+      fileInfo.parsed.content,
+      contentMap,
     );
 
     markdownContent = markdownContent.replace(
@@ -622,32 +608,13 @@ async function build() {
       },
     );
 
-    markdownContent = markdownContent.replace(
-      /\x00EMBED_(\d+)\x00/g,
-      (match, idx) => {
-        return embedPlaceholders[Number(idx)];
-      },
-    );
-
-    markdownContent = expandShorthand(markdownContent, fileMap, imageMap);
-
     try {
-      markdownContent = ejs.render(
-        markdownContent,
-        {
-          frontmatter: fileInfo.parsed.data,
-          contentMap,
-          ejs,
-          fileMap,
-          imageMap,
-          resolveWikilinksInText,
-          expandShorthand,
-          viewsPath: viewsPathResolved,
-        },
-        {
-          views: viewsPathResolved,
-        },
-      );
+      markdownContent = ejs.render(markdownContent, {
+        frontmatter: fileInfo.parsed.data,
+        contentMap,
+        fileMap,
+        imageMap,
+      });
     } catch (err) {
       console.warn(
         `Warning: EJS render error in "${fileInfo.filePath}" — ${err.message}`,
