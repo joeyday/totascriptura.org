@@ -40,7 +40,7 @@ Ex 4:24–26; Lk 7:30
 
 ## Purpose of
 ### Circumcision was initiatory rite of old covenant
-Gen 17:10–14, 23–27; 21:4; Ex 12:48; Lev 12:3; Jos 5:2–9; Ac 7:8
+Ge 17:10–14, 23–27; 21:4; Ex 12:48; Lev 12:3; Jos 5:2–9; Ac 7:8
 
 ### Shedding of blood was integral to old covenant
 Ex 4:25–26; Lev 17:11; Heb 9:18, 22
