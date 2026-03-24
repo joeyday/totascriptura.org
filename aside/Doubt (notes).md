@@ -50,16 +50,16 @@ I don’t condone everything these men have said, taught, or done, but these quo
 - If infants should be baptized, why shouldn’t they also partake of the Lord’s supper?
 - The empirical evidence for an old earth and biological evolution seems undeniable. How can this be reconciled with *creatio ex nihilo* and a historical Adam?
 
-[^1]: Keller, T. (2008). `<cite>`{=html}The reason for God: Belief in an age of skepticism`</cite>`{=html}. (Kindle ed., p. xvi–xviii). New York, NY: Penguin Group (USA) Inc.
+[^1]: Keller, T. (2008). <cite>The reason for God: Belief in an age of skepticism</cite>. (Kindle ed., p. xvi–xviii). New York, NY: Penguin Group (USA) Inc.
 
-[^2]: Darling, D. (2004). `<cite>`{=html}The universal book of mathematics`</cite>`{=html}. (p. 90). Hoboken, NJ: John Wiley & Sons, Inc.
+[^2]: Darling, D. (2004). <cite>The universal book of mathematics</cite>. (p. 90). Hoboken, NJ: John Wiley & Sons, Inc.
 
-[^3]: Holmes, O. (1915). Ideals and doubts. `<cite>`{=html}Illinois Law Review`</cite>`{=html}, `<cite>`{=html}10`</cite>`{=html}, 3.
+[^3]: Holmes, O. (1915). Ideals and doubts. <cite>Illinois Law Review</cite>, <cite>10</cite>, 3.
 
-[^4]: Buechner, Frederick (1973). `<cite>`{=html}Wishful Thinking`</cite>`{=html}, 23.
+[^4]: Buechner, Frederick (1973). <cite>Wishful Thinking</cite>, 23.
 
 [^5]: Clifford, William K. (1877). “The Ethics of Belief.” *The Ethics of Belief and Other Essays* (Prometheus Books). Retrieved from [1](http://infidels.org/library/historical/w_k_clifford/ethics_of_belief.html).
 
 [^6]: As quoted in *The Reader’s Digest*, Vol. 37 (1940), p. 90; no specific source given.
 
-[^7]: Redford, J.A.C. (1997). `<cite>`{=html}Welcome all wonders: A composer’s journey`</cite>`{=html}. (p. 28). Grand Rapids, MI: Baker Books.
+[^7]: Redford, J.A.C. (1997). <cite>Welcome all wonders: A composer’s journey</cite>. (p. 28). Grand Rapids, MI: Baker Books.
