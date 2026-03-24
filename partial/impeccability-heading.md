@@ -1,4 +1,4 @@
 ---
 hidden: true
 ---
-### Impeccability ~(without sin)~
+Impeccability ~(without sin)~

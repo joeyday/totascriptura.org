@@ -40,9 +40,9 @@ Mt 9:15 ~(cf. Mk 2:19–20; Lk 5:34–35)~; Mt 22:2; 25:1–13; Jn 3:28–30; Ro
 
 ## Jesus has attributes of God
 
-{{mt|[[Attributes of God]]}}
+{{[[mt]]|[[Attributes of God]]}}
 
-## {{[[aseity-heading]]}}
+### {{[[aseity-heading]]}}
 
 Jn 1:3; 5:26; 8:58; Col 1:16–17 ~— *cf. Ex 3:14; Job 35:7; 41:11; Ps 50:10–13; Ac 17:25*~
 
@@ -54,35 +54,35 @@ Pr 8:22–31; Isa 9:6; Mic 5:2; Jn 1:1–2, 14–15, 30; 3:13; 6:32–33 ~(see J
 
 Isa 9:6–7; Jn 2:19–22; 10:17–18; Heb 1:10–12; 7:3, 16, 24–25; Rev 1:17–18; 2:8 ~— *cf. Hab 1:12 ~(see NIV)~; Ro 1:23; 1Ti 1:17; 6:16*~
 
-{{[[immutability-heading]]}}
+### {{[[immutability-heading]]}}
 
 Mt 24:35; Heb 1:10–12 ~(cites Ps 102:25–27)~; Heb 7:3; 13:8 ~— *cf. Num 23:19; Ps 102:25–27; 119:89; Isa 40:8; Mal 3:6; Jas 1:17*~
 
-{{[[impeccability-heading]]}}
+### {{[[impeccability-heading]]}}
 
 Ps 45:7; Isa 53:9, 11; Lk 23:4, 41, 47; Jn 8:46; 18:38; 2Co 5:21; Heb 4:15; 7:26–27; 9:14; 1Pe 1:18–19; 2:22–23; 1Jn 3:5 ~— *cf. {{[[god-does-not-sin]]}}*~
 
-{{[[ineffability-heading]]}}
+### {{[[ineffability-heading]]}}
 
 Mt 11:27; Lk 10:22 ~— *cf. Dt 29:29; Ps 92:5; Isa 40:28; 55:8–9; Ro 11:33–34*~
 
-{{[[omnipotence-heading]]}}
+### {{[[omnipotence-heading]]}}
 
 Isa 9:6; Mt 8:26–27; 14:19; Lk 1:36; 6:19; Jn 2:1–11; 1Co 1:24; 5:4; 2Co 12:9; 13:3; Eph 6:10; Col 1:16–17; Php 3:21; Heb 1:3; 2Pe 1:16 ~— *cf. Job 42:2; Ps 33:6; 102:25–27; 104:1–35; Isa 14:27; 40:28–31; 43:13; Mt 19:26; Eph 3:20–21; Php 4:13*~
 
-{{[[omnipresence-heading]]}}
+### {{[[omnipresence-heading]]}}
 
 Mt 8:5–13 ~(cf. Lk 7:1–10)~; Mt 18:20; 28:20; Mk 7:24–30; Jn 1:47–49; 4:46–54; 14:20–23; Eph 1:23; 4:10; Col 3:11 ~— *cf. Ge 28:15; Ps 139:7–10; Jer 23:23–24*~
 
-{{[[omniscience-heading]]}}
+### {{[[omniscience-heading]]}}
 
 Mt 9:4; 11:21–23 ~(cf. Lk 10:13–15)~; Mt 12:25; 26:20–25; ~(cf. Mk 14:17–21; Lk 22:21–23; Jn 6:70–71; 13:10–11, 21–29)~; Mt 26:31–35 ~(cf. Mk 14:27–31; Lk 22:31–34; Jn 13:36–38)~; Mk 2:8; Lk 6:8; 9:47; Jn 1:48; 2:24–25; 4:16–18, 39; 6:64; 11:11–15; 16:30; 21:17; Ac 1:24; Col 2:2–3; Rev 2:23 ~— *cf. Ps 139:1–6; Jer 17:10; Ro 11:33–34; 1Co 2:10–11; Heb 4:13; 1Jn 3:20*~
 
-{{[[sovereignty-heading]]}}
+### {{[[sovereignty-heading]]}}
 
 Mt 28:18; Mk 2:5–7; Eph 1:21–23; Col 2:10; Heb 2:6–8; 1Pe 3:22 ~— *cf. Ps 33:1–22; 93:1–5; 96:1; 97:1; 99:1; 103:19; Pr 21:1; Ro 13:1; Eph 1:11*~ ~— *but see also 1Co 15:27–28*~
 
-{{[[veracity-heading]]}}
+### {{[[veracity-heading]]}}
 
 Jn 14:6; 18:37; Eph 4:21 ~— *cf. Ps 31:5; Pr 30:5; Isa 65:16; Jn 3:33; 17:17–19; Ro 3:4*~
 

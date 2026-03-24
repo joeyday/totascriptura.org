@@ -1,4 +1,4 @@
 ---
 hidden: true
 ---
-### Ineffability ~(unknowable)~
+Ineffability ~(unknowable)~
