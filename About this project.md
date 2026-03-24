@@ -1,6 +1,7 @@
 ---
 permalink: about
 quick nav: true
+unlisted: true
 ---
 ![[Autumn.png]]
 
