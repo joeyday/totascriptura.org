@@ -229,7 +229,8 @@ main {
         .main-topic {
             font-family: var(--font-secondary);
             font-size: 0.857em; /* 14px·0.857=12px */
-        	margin: 0 0 1em 1.4em;
+            font-variant: italic;
+        	margin: 0 0 0 1.4rem;
 
 			p {
 				margin: 0;
@@ -239,7 +240,7 @@ main {
         h3 + p,
         h3 + .main-topic + p {
             color: var(--color-main-text-muted);
-            margin: 0 0 1em 1.4em;
+            margin: 0 0 1rem 1.4rem;
 		}
                 
         a {
