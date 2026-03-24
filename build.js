@@ -382,7 +382,7 @@ async function loadAbbrMap() {
 }
 
 // Tags whose content we skip entirely for abbreviation wrapping
-const ABBR_SKIP_TAGS = new Set(["abbr", "a", "code", "pre", "script", "style"]);
+const ABBR_SKIP_TAGS = new Set(["abbr", "code", "pre", "script", "style"]);
 
 function wrapAbbreviations(html, abbrMap) {
   // Sort abbreviations longest-first to prevent prefix collisions
