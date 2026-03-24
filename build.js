@@ -254,6 +254,9 @@ function processPlainText(text, ctxState) {
   }
   // Trailing text after the last named ref
   result += applyContinuationRefs(text.slice(lastIndex), ctxState);
+  // Move each trailing translation abbreviation inside the preceding closing </a>
+  // e.g. "3:1–4</a> KJV" → "3:1–4 KJV</a>"
+  result = result.replace(/(<\/a>)\s+(ESV|KJV|NASB|NIV|NKJV|NLT|NRSV)\b/g, " $2$1");
   return result;
 }
 
