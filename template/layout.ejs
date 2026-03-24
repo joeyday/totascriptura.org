@@ -83,18 +83,22 @@
     
     <nav class="tabs">
         <ul>
-            <% if (!asideOf) { %>
+            <% if (!isAside) { %>
             <li class="topic selected">Topic</li>
-            <% } else { %>
+            <% } else if (asideOf) { %>
             <li class="topic"><a href="<%= asideOf.url %>">Topic</a></li>
+            <% } else { %>
+            <li class="topic muted">Topic</li>
             <% } %>
-            <% if (asideOf) { %>
+
+            <% if (isAside) { %>
             <li class="notes selected">Notes</li>
             <% } else if (asides.length) { %>
             <li class="notes"><a href="<%= asides[0].url %>">Notes</a></li>
             <% } else { %>
             <li class="notes muted">Notes</li>
             <% } %>
+
             <li class="backlinks muted">Backlinks</li>
             <li class="print muted">Print</li>
             <li class="share muted">Share</li>

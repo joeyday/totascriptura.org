@@ -438,7 +438,7 @@ async function build() {
   }
 
   const hiddenUrls = new Set(
-    filesToProcess.filter((f) => f.hidden).map((f) => f.finalUrlPath)
+    filesToProcess.filter((f) => f.hidden).map((f) => f.finalUrlPath),
   );
   const allKnownUrls = new Set([
     ...Object.values(fileMap).filter((url) => !hiddenUrls.has(url)),
@@ -490,6 +490,7 @@ async function build() {
         frontmatter: locals.frontmatter || {},
         content,
         asideOf: locals.asideOf || null,
+        isAside: locals.isAside || false,
         asides: locals.asides || [],
         categories: locals.categories || [],
         subcategories: locals.subcategories || [],
@@ -559,10 +560,7 @@ async function build() {
       continue;
     }
 
-    let markdownContent = resolveEmbeds(
-      fileInfo.parsed.content,
-      contentMap,
-    );
+    let markdownContent = resolveEmbeds(fileInfo.parsed.content, contentMap);
 
     markdownContent = markdownContent.replace(
       /(!?)\[\[(.*?)\]\]/g,
@@ -675,6 +673,7 @@ async function build() {
     const finalHtml = renderLayout(htmlContent, {
       frontmatter: fileInfo.parsed.data,
       asideOf: asideOfResolved,
+      isAside: !!fileInfo.asideOf,
       asides,
       categories: resolvedCategories,
       subcategories,
