@@ -399,6 +399,15 @@ main {
             background-color: var(--color-quinary);
         }
         
+        abbr {
+			font-variant-caps: all-small-caps;
+			-moz-font-feature-settings: "kern", "liga", "c2sc", "smcp";
+			-webkit-font-feature-settings: "kern", "liga", "c2sc", "smcp";
+			font-feature-settings: "kern", "liga", "c2sc", "smcp";
+			text-decoration: none;
+		}
+
+        
         /* callout boxes */
         div:not([class], [id], [style]) p {
             text-align: center;
