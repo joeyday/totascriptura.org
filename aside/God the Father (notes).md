@@ -6,13 +6,13 @@ aside of: "[[God the Father]]"
 ### Some are not children of God ~(not exhaustive)~
 Ge 3:15; 6:1–4 ~(subject to [[Sons of God in Genesis 6|interpretation]])~; Dt 32:5; Isa 1:4; 14:20; 57:3–4; Eze 16:44–45; Mal 2:11; Mt 13:38; 15:24–26 ~(cf. Mk 7:27–28)~; Mt 23:15; Lk 16:8; 20:34-36; Jn 8:38-47; 17:12; Ac 13:10; Ro 9:8; Gal 4:21–31; Eph 2:2-3; 5:6; Col 3:6 NASB; 1Th 5:5; 2Th 2:3; Heb 12:8; 1Jn 3:10
 ### Idols and false gods called father
-Dt 13:13 KJV; Jdg 19:22 KJV; 20:13 KJV; 1Sa 1:16 KJV; 2:12 KJV; 10:27 KJV; 25:17 KJV, 25 KJV; 30:22 KJV; 2Sa 16:7 KJV; 20:1 KJV; 23:6 KJV; 1Ki 21:10 KJV, 13 KJV; 2Ch 13:7 KJV; Jer 2:27; Mal 2:11
+Dt 13:13 KJV; Jdg 19:22; 20:13 KJV; 1Sa 1:16; 2:12; 10:27; 25:17, 25; 30:22 KJV; 2Sa 16:7; 20:1; 23:6 KJV; 1Ki 21:10, 13 KJV; 2Ch 13:7 KJV; Jer 2:27; Mal 2:11
 ### Moses called father
-Num 11:12 ~(“did I \[Moses] conceive all this people?”)~
+Nu 11:12 ~(“did I \[Moses] conceive all this people?”)~
 ### Paul called father
-1 Cor 4:14–17; 2 Cor 12:14–15; Gal 4:19; Phil 2:22 ~(allegorically)~; 1 Th 2:7 ~(allegorically “a nursing mother”!)~; 1 Th 2:11–12 ~(allegorically)~; 1 Tim 1:2, 18; 2 Tim 1:2; 2:1; Tit 1:4; Phm 1:10
+1Co 4:14–17; 2Co 12:14–15; Gal 4:19; Php 2:22 ~(allegorically)~; 1Th 2:7 ~(allegorically “a nursing mother”!)~; 1Th 2:11–12 ~(allegorically)~; 1Ti 1:2, 18; 2Ti 1:2; 2:1; Tit 1:4; Phm 1:10
 ### John called father
-1 John 2:1; 2:12–13; 2:18; 2:28; 3:7; 3:18; 4:4; 5:21; 3 John 1:4
+1Jn 2:1; 2:12–13; 2:18; 2:28; 3:7; 3:18; 4:4; 5:21; 3Jn 1:4
 ### Any sense in which believers are Christ’s children?
 Ps 22:30; Isa 9:6; 53:10
 ### Someone called “son”, “daughter”, “child”, or “children” ~(not exhaustive)~
