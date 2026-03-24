@@ -229,12 +229,17 @@ main {
         .main-topic {
             font-family: var(--font-secondary);
             font-size: 0.857em; /* 14px·0.857=12px */
-            font-variant: italic;
+            font-style: italic;
+            
         	margin: 0 0 0 1.4rem;
 
 			p {
 				margin: 0;
 			}
+        }
+        
+        h2 + .main-topic {
+        	margin: -0.75rem 0 1rem 1.4rem;
         }
 
         h3 + p,
