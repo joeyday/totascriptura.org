@@ -742,7 +742,7 @@ async function build() {
     }
 
     const html = renderLayout(listHtml, {
-      frontmatter: { title: indexPage.title },
+      frontmatter: { title: indexPage.title, permalink: indexPage.slug },
     });
 
     const outDir = path.join(OUTPUT_DIR, "index", indexPage.slug);
@@ -821,7 +821,7 @@ async function build() {
 <script src="/search.js"><\/script>`;
 
   const searchHtml = renderLayout(searchContent, {
-    frontmatter: { title: "Search" },
+    frontmatter: { title: "Search", permalink: "search" },
   });
 
   const searchOutDir = path.join(OUTPUT_DIR, "search");

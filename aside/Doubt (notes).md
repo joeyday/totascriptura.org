@@ -1,5 +1,5 @@
 ---
-hidden: true
+aside of: "[[Doubt]]"
 ---
 ## Some good quotes
 

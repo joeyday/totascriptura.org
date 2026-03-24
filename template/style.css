@@ -228,6 +228,7 @@ main {
 
         .main-topic {
             font-family: var(--font-secondary);
+            color: var(--color-main-text-muted);
             font-size: 0.857em; /* 14px·0.857=12px */
             font-style: italic;
             
