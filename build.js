@@ -356,6 +356,105 @@ async function findHtmlFiles(dir) {
 
 // ─── End Bible Reference Auto-Linker ──────────────────────────────────────────
 
+// ─── Abbreviation Expansion ───────────────────────────────────────────────────
+
+async function loadAbbrMap() {
+  const abbrFile = "abbreviations.json";
+  let raw;
+  try {
+    raw = await fs.readFile(abbrFile, "utf-8");
+  } catch {
+    console.log("Abbreviation expander: abbreviations.json not found, skipping.");
+    return null;
+  }
+  let data;
+  try {
+    data = JSON.parse(raw);
+  } catch {
+    console.log("Abbreviation expander: abbreviations.json is not valid JSON, skipping.");
+    return null;
+  }
+  if (!data || typeof data !== "object" || Array.isArray(data)) {
+    console.log("Abbreviation expander: abbreviations.json must be a JSON object, skipping.");
+    return null;
+  }
+  return data;
+}
+
+// Tags whose content we skip entirely for abbreviation wrapping
+const ABBR_SKIP_TAGS = new Set(["abbr", "a", "code", "pre", "script", "style"]);
+
+function wrapAbbreviations(html, abbrMap) {
+  // Sort abbreviations longest-first to prevent prefix collisions
+  const sorted = Object.keys(abbrMap).sort((a, b) => b.length - a.length);
+
+  // Build a single regex that matches any abbreviation (case-sensitive)
+  // For each abbreviation:
+  //   - If it ends with a word character, use \b on both sides
+  //   - If it ends with punctuation (e.g. "e.g."), use \b on the left only
+  const parts = sorted.map((abbr) => {
+    const escaped = abbr.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    const lastChar = abbr[abbr.length - 1];
+    const rightBoundary = /\w/.test(lastChar) ? "\\b" : "";
+    return `\\b${escaped}${rightBoundary}`;
+  });
+  const combinedRe = new RegExp(`(${parts.join("|")})`, "g");
+
+  // Split HTML into tag and text chunks, process only text nodes outside skip tags
+  const result = [];
+  const TAG_RE = /<!--[\s\S]*?-->|<!\[CDATA\[[\s\S]*?\]\]>|<\/?([a-zA-Z][a-zA-Z0-9]*)[^>]*>/g;
+  const skipStack = [];
+  let lastIndex = 0;
+
+  let m;
+  TAG_RE.lastIndex = 0;
+  while ((m = TAG_RE.exec(html)) !== null) {
+    const tagFull = m[0];
+    const tagName = m[1] ? m[1].toLowerCase() : null;
+    const before = html.slice(lastIndex, m.index);
+
+    if (before) {
+      if (skipStack.length === 0) {
+        result.push(before.replace(combinedRe, (match) => {
+          const expansion = abbrMap[match];
+          return expansion ? `<abbr title="${expansion}">${match}</abbr>` : match;
+        }));
+      } else {
+        result.push(before);
+      }
+    }
+
+    if (tagName && ABBR_SKIP_TAGS.has(tagName)) {
+      if (tagFull.startsWith("</")) {
+        if (skipStack.length > 0 && skipStack[skipStack.length - 1] === tagName) {
+          skipStack.pop();
+        }
+      } else if (!tagFull.endsWith("/>")) {
+        skipStack.push(tagName);
+      }
+    }
+
+    result.push(tagFull);
+    lastIndex = m.index + tagFull.length;
+  }
+
+  const tail = html.slice(lastIndex);
+  if (tail) {
+    if (skipStack.length === 0) {
+      result.push(tail.replace(combinedRe, (match) => {
+        const expansion = abbrMap[match];
+        return expansion ? `<abbr title="${expansion}">${match}</abbr>` : match;
+      }));
+    } else {
+      result.push(tail);
+    }
+  }
+
+  return result.join("");
+}
+
+// ─── End Abbreviation Expansion ───────────────────────────────────────────────
+
 import markdownIt from "markdown-it";
 import markdownItFootnote from "markdown-it-footnote";
 import markdownItMark from "markdown-it-mark";
@@ -1194,6 +1293,23 @@ async function build() {
   console.log(
     `Bible ref linker: processed ${htmlFiles.length} HTML file(s), rewrote ${linkedCount}.`,
   );
+
+  // Post-process: wrap abbreviations in all HTML files
+  const abbrMap = await loadAbbrMap();
+  if (abbrMap && Object.keys(abbrMap).length > 0) {
+    let abbrCount = 0;
+    for (const htmlFile of htmlFiles) {
+      const raw = await fs.readFile(htmlFile, "utf-8");
+      const wrapped = wrapAbbreviations(raw, abbrMap);
+      if (wrapped !== raw) {
+        await fs.writeFile(htmlFile, wrapped);
+        abbrCount++;
+      }
+    }
+    console.log(
+      `Abbreviation expander: processed ${htmlFiles.length} HTML file(s), rewrote ${abbrCount}.`,
+    );
+  }
 }
 
 build().catch((err) => {
