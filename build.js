@@ -348,7 +348,8 @@ async function build() {
     contentMap[key] = parsed.content;
 
     const hidden = !!getFrontmatterValue(parsed.data, "hidden");
-    const aliasOf = getFrontmatterValue(parsed.data, "alias of");
+    const rawAliases = getFrontmatterValue(parsed.data, "aliases");
+    const aliases = parseCategoriesList(rawAliases);
     const asideOf = getFrontmatterValue(parsed.data, "aside of");
     const rawCategories = getFrontmatterValue(parsed.data, "categories");
     const categories = parseCategoriesList(rawCategories);
@@ -365,7 +366,7 @@ async function build() {
       parsed,
       title,
       hidden,
-      aliasOf: aliasOf ? stripBrackets(String(aliasOf)) : null,
+      aliases,
       asideOf: asideOf ? stripBrackets(String(asideOf)) : null,
       categories,
       featured,
@@ -373,15 +374,23 @@ async function build() {
     });
   }
 
-  const redirectMap = {};
+  const aliasRedirects = [];
   for (const fileInfo of filesToProcess) {
-    if (!fileInfo.aliasOf) continue;
-    const resolvedKey = resolveFileMapKey(fileInfo.aliasOf, fileMap);
-    const canonicalUrl = fileMap[resolvedKey];
-    if (canonicalUrl) {
-      const key = fileInfo.baseName.toLowerCase().trim();
-      redirectMap[key] = canonicalUrl;
-      fileMap[key] = canonicalUrl;
+    if (fileInfo.aliases.length === 0) continue;
+    for (const aliasName of fileInfo.aliases) {
+      const aliasSlug = slugify(aliasName, { lower: true, strict: true });
+      const aliasUrlPath =
+        fileInfo.relDir === ""
+          ? `/${aliasSlug}`
+          : `/${fileInfo.relDir}/${aliasSlug}`;
+      const aliasKey = aliasName.toLowerCase().trim();
+      if (!fileMap[aliasKey]) fileMap[aliasKey] = fileInfo.finalUrlPath;
+      if (!fileMap[aliasSlug]) fileMap[aliasSlug] = fileInfo.finalUrlPath;
+      aliasRedirects.push({
+        fromUrlPath: aliasUrlPath,
+        toUrl: fileInfo.finalUrlPath,
+        toTitle: fileInfo.title,
+      });
     }
   }
 
@@ -389,7 +398,6 @@ async function build() {
   const draftPages = [];
 
   for (const fileInfo of filesToProcess) {
-    if (fileInfo.aliasOf) continue;
     if (fileInfo.featured) {
       featuredPages.push({ title: fileInfo.title, url: fileInfo.finalUrlPath });
     }
@@ -442,6 +450,7 @@ async function build() {
   );
   const allKnownUrls = new Set([
     ...Object.values(fileMap).filter((url) => !hiddenUrls.has(url)),
+    ...aliasRedirects.map((r) => r.fromUrlPath),
     ...Object.values(imageMap),
     "/search",
   ]);
@@ -507,19 +516,12 @@ async function build() {
     const pageKey = fileInfo.baseName.toLowerCase().trim();
     if (membersMap[pageKey]) continue;
 
-    if (fileInfo.aliasOf) {
-      const resolvedKey = resolveFileMapKey(fileInfo.aliasOf, fileMap);
-      const canonicalTitle = titleMap[resolvedKey] || fileInfo.aliasOf;
-      const canonicalUrl =
-        fileMap[resolvedKey] ||
-        `/${slugify(fileInfo.aliasOf, { lower: true, strict: true })}`;
+    allPages.push({ title: fileInfo.title, url: fileInfo.finalUrlPath });
+    for (const aliasName of fileInfo.aliases) {
       allPages.push({
-        title: fileInfo.title,
-        url: canonicalUrl,
-        redirect: canonicalTitle,
+        title: aliasName,
+        redirect: { title: fileInfo.title, url: fileInfo.finalUrlPath },
       });
-    } else {
-      allPages.push({ title: fileInfo.title, url: fileInfo.finalUrlPath });
     }
   }
   allPages.sort((a, b) =>
@@ -530,35 +532,6 @@ async function build() {
 
   for (const fileInfo of filesToProcess) {
     if (fileInfo.hidden) continue;
-
-    if (fileInfo.aliasOf) {
-      const resolvedKey = resolveFileMapKey(fileInfo.aliasOf, fileMap);
-      const targetUrl =
-        fileMap[resolvedKey] ||
-        `/${slugify(fileInfo.aliasOf, { lower: true, strict: true })}`;
-      const targetTitle = titleMap[resolvedKey] || fileInfo.aliasOf;
-
-      const redirectHtml = `<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="0; url=${targetUrl}">
-  <link rel="canonical" href="${targetUrl}">
-  <title>Redirecting to ${targetTitle}</title>
-</head>
-<body>
-  <p>Redirecting to <a href="${targetUrl}">${targetTitle}</a>...</p>
-</body>
-</html>`;
-
-      const { outDirPath, outFilePath } = getOutputPaths(fileInfo.finalUrlPath);
-      await ensureDir(outDirPath);
-      await fs.writeFile(outFilePath, redirectHtml);
-      console.log(
-        `Built (redirect): ${fileInfo.filePath} -> ${outFilePath} (-> ${targetUrl})`,
-      );
-      continue;
-    }
 
     let markdownContent = resolveEmbeds(fileInfo.parsed.content, contentMap);
 
@@ -699,6 +672,25 @@ async function build() {
     });
   }
 
+  for (const { fromUrlPath, toUrl, toTitle } of aliasRedirects) {
+    const redirectHtml = `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url=${toUrl}">
+  <link rel="canonical" href="${toUrl}">
+  <title>Redirecting to ${toTitle}</title>
+</head>
+<body>
+  <p>Redirecting to <a href="${toUrl}">${toTitle}</a>...</p>
+</body>
+</html>`;
+    const { outDirPath, outFilePath } = getOutputPaths(fromUrlPath);
+    await ensureDir(outDirPath);
+    await fs.writeFile(outFilePath, redirectHtml);
+    console.log(`Built (alias redirect): ${fromUrlPath} -> ${toUrl}`);
+  }
+
   const pagesWithCategories = new Set();
   for (const fileInfo of filesToProcess) {
     if (fileInfo.categories.length > 0) {
@@ -732,7 +724,7 @@ async function build() {
       listHtml += "<ul>\n";
       for (const item of indexPage.items) {
         if (item.redirect) {
-          listHtml += `  <li>${item.title} (see <a href="${item.url}">${item.redirect}</a>)</li>\n`;
+          listHtml += `  <li>${item.title} <small>(see <a href="${item.redirect.url}">${item.redirect.title}</a>)</small></li>\n`;
         } else {
           listHtml += `  <li><a href="${item.url}">${item.title}</a></li>\n`;
         }
