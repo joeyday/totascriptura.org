@@ -398,6 +398,7 @@ async function build() {
   const draftPages = [];
 
   for (const fileInfo of filesToProcess) {
+    if (fileInfo.hidden) continue;
     if (fileInfo.featured) {
       featuredPages.push({ title: fileInfo.title, url: fileInfo.finalUrlPath });
     }
@@ -415,6 +416,7 @@ async function build() {
 
   const asidesMap = {};
   for (const fileInfo of filesToProcess) {
+    if (fileInfo.hidden) continue;
     if (!fileInfo.asideOf) continue;
     const resolvedKey = resolveFileMapKey(fileInfo.asideOf, fileMap);
     if (!asidesMap[resolvedKey]) {
@@ -428,6 +430,7 @@ async function build() {
 
   const membersMap = {};
   for (const fileInfo of filesToProcess) {
+    if (fileInfo.hidden) continue;
     for (const catName of fileInfo.categories) {
       const resolvedKey = resolveFileMapKey(catName, fileMap);
       if (!membersMap[resolvedKey]) {
@@ -699,7 +702,7 @@ async function build() {
   }
 
   const topLevelCategoryPages = Object.keys(membersMap)
-    .filter((key) => fileMap[key] && !pagesWithCategories.has(key))
+    .filter((key) => fileMap[key] && !pagesWithCategories.has(key) && !hiddenUrls.has(fileMap[key]))
     .map((key) => ({ title: titleMap[key] || key, url: fileMap[key] }))
     .sort((a, b) =>
       a.title.localeCompare(b.title, undefined, { sensitivity: "base" }),
