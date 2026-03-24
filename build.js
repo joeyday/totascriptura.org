@@ -122,10 +122,45 @@ const BIBLE_REF_RE = new RegExp(
   "gi",
 );
 
-function buildReflyUrl(cwms, chapter, verseStart, rangeVal, endVerse) {
+// Supported translation abbreviations (case-sensitive, word-boundary matched).
+// When one of these follows the last ref in a citation group, all refs in that
+// group link to that translation instead of the default ESV.
+const TRANSLATIONS = new Set(["ESV", "KJV", "NASB", "NIV", "NKJV", "NLT", "NRSV"]);
+const TRANS_RE = /\b(ESV|KJV|NASB|NIV|NKJV|NLT|NRSV)\b/g;
+
+// Pre-pass: build a map from each named-ref start index → translation abbreviation.
+// For each named ref, the translation is the first TRANS_RE match that appears
+// after it and before the next named ref; defaults to 'ESV' if none is found.
+function buildTranslationMap(text) {
+  const map = new Map();
+
+  BIBLE_REF_RE.lastIndex = 0;
+  const namedRefs = [];
+  let m;
+  while ((m = BIBLE_REF_RE.exec(text)) !== null) {
+    if (m[1] !== "!") namedRefs.push({ index: m.index });
+  }
+
+  TRANS_RE.lastIndex = 0;
+  const transList = [];
+  while ((m = TRANS_RE.exec(text)) !== null) {
+    transList.push({ index: m.index, abbr: m[1] });
+  }
+
+  for (let i = 0; i < namedRefs.length; i++) {
+    const from = namedRefs[i].index;
+    const to = i + 1 < namedRefs.length ? namedRefs[i + 1].index : Infinity;
+    const found = transList.find((t) => t.index > from && t.index < to);
+    map.set(from, found ? found.abbr : "ESV");
+  }
+
+  return map;
+}
+
+function buildReflyUrl(cwms, chapter, verseStart, rangeVal, endVerse, translation = "ESV") {
   // rangeVal = endVerse (same-chapter) or endChapter (cross-chapter)
   // endVerse = undefined (same-chapter) or the end verse (cross-chapter)
-  // URL format: https://ref.ly/{cwms}{chapter}[.{verse}[-{endVerse}|{endChapter}.{endVerse}]];ESV
+  // URL: https://ref.ly/{cwms}{chapter}[.{verse}[-{endVerse}|{endChapter}.{endVerse}]];{translation}
   let ref = `${cwms}${chapter}`;
   if (verseStart) {
     ref += `.${verseStart}`;
@@ -139,7 +174,7 @@ function buildReflyUrl(cwms, chapter, verseStart, rangeVal, endVerse) {
       }
     }
   }
-  return `https://ref.ly/${ref};ESV`;
+  return `https://ref.ly/${ref};${translation}`;
 }
 
 // Matches bare chapter:verse OR bare verse continuations after a separator.
@@ -156,7 +191,7 @@ function makeBibleRefLink(url, rawText) {
   return `<a href="${url}" class="external bible-ref" target="_blank" rel="noopener noreferrer">${lt}</a>`;
 }
 
-// ctxState = { lastCwms, lastChapter } — shared across processPlainText calls.
+// ctxState = { lastCwms, lastChapter, translation } — shared across processPlainText calls.
 // Apply continuation refs to a plain-text chunk using current context.
 function applyContinuationRefs(text, ctxState) {
   if (!ctxState.lastCwms) return text;
@@ -180,15 +215,17 @@ function applyContinuationRefs(text, ctxState) {
       // No chapter context yet; can't resolve a bare verse
       return match;
     }
-    const url = buildReflyUrl(ctxState.lastCwms, chapter, vs, rv, ev);
+    const url = buildReflyUrl(ctxState.lastCwms, chapter, vs, rv, ev, ctxState.translation);
     return sep + makeBibleRefLink(url, match.slice(sep.length));
   });
 }
 
-// ctxState = { lastCwms: string|null, lastChapter: string|null } — shared across calls
-// within one linkBibleRefs pass so continuation refs can span inline tags (e.g. <em>).
-// Reset at block boundaries.
+// ctxState = { lastCwms, lastChapter, translation } — shared across calls within one
+// linkBibleRefs pass so continuation refs can span inline tags. Reset at block boundaries.
 function processPlainText(text, ctxState) {
+  // Pre-pass: determine which translation each named ref's group uses
+  const transMap = buildTranslationMap(text);
+
   BIBLE_REF_RE.lastIndex = 0;
   let result = "";
   let lastIndex = 0;
@@ -206,7 +243,8 @@ function processPlainText(text, ctxState) {
       if (cwms) {
         ctxState.lastCwms = cwms;
         ctxState.lastChapter = chapter;
-        const url = buildReflyUrl(cwms, chapter, verseStart, rangeVal, endVerse);
+        ctxState.translation = transMap.get(m.index) || "ESV";
+        const url = buildReflyUrl(cwms, chapter, verseStart, rangeVal, endVerse, ctxState.translation);
         result += makeBibleRefLink(url, match);
       } else {
         result += match;
@@ -238,7 +276,7 @@ function linkBibleRefs(html) {
   // Stack of skip-tag names currently open
   const skipStack = [];
   // Shared continuation-ref context; reset at every block boundary
-  const ctxState = { lastCwms: null, lastChapter: null };
+  const ctxState = { lastCwms: null, lastChapter: null, translation: "ESV" };
   let lastIndex = 0;
 
   let m;
@@ -261,6 +299,7 @@ function linkBibleRefs(html) {
     if (tagName && BLOCK_TAGS.has(tagName)) {
       ctxState.lastCwms = null;
       ctxState.lastChapter = null;
+      ctxState.translation = "ESV";
     }
 
     // Update skip stack based on tag type
