@@ -3,6 +3,7 @@
   "NASB": "New American Standard Bible",
   "NKJV": "New King James Version",
   "KJV": "King James Version",
+  "LXX": "Septuagint",
   "MSS": "Manuscripts",
   "NIV": "New International Version",
   "NLT": "New Living Translation",
@@ -11,5 +12,8 @@
   "PCA": "Presbyterian Church in America",
   "PDA": "Personal Digital Assistant",
   "NT": "New Testament",
-  "UTC": "Coordinated Universal Time"
+  "UTC": "Coordinated Universal Time",
+  "cf.": "compare",
+  "e.g.": "for example",
+  "i.e.": "in other words"
 }
