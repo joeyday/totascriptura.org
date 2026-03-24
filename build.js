@@ -1,6 +1,247 @@
 import fs from "fs/promises";
 import path from "path";
 import matter from "gray-matter";
+
+// ─── Bible Reference Auto-Linker ──────────────────────────────────────────────
+
+const BIBLE_BOOKS = [
+  { names: ["Genesis", "Ge"], osis: "Gen" },
+  { names: ["Exodus", "Ex"], osis: "Exod" },
+  { names: ["Leviticus", "Lev"], osis: "Lev" },
+  { names: ["Numbers", "Nu"], osis: "Num" },
+  { names: ["Deuteronomy", "Dt"], osis: "Deut" },
+  { names: ["Joshua", "Jos"], osis: "Josh" },
+  { names: ["Judges", "Jdg"], osis: "Judg" },
+  { names: ["Ruth", "Ru"], osis: "Ruth" },
+  { names: ["1 Samuel", "1Samuel", "1Sa"], osis: "1Sam" },
+  { names: ["2 Samuel", "2Samuel", "2Sa"], osis: "2Sam" },
+  { names: ["1 Kings", "1Kings", "1Ki"], osis: "1Kgs" },
+  { names: ["2 Kings", "2Kings", "2Ki"], osis: "2Kgs" },
+  { names: ["1 Chronicles", "1Chronicles", "1Ch"], osis: "1Chr" },
+  { names: ["2 Chronicles", "2Chronicles", "2Ch"], osis: "2Chr" },
+  { names: ["Ezra", "Ezr"], osis: "Ezra" },
+  { names: ["Nehemiah", "Ne"], osis: "Neh" },
+  { names: ["Esther", "Est"], osis: "Esth" },
+  { names: ["Job"], osis: "Job" },
+  { names: ["Psalms", "Psalm", "Ps"], osis: "Ps" },
+  { names: ["Proverbs", "Pr"], osis: "Prov" },
+  { names: ["Ecclesiastes", "Ecc"], osis: "Eccl" },
+  { names: ["Song of Solomon", "Song of Songs", "SS"], osis: "Song" },
+  { names: ["Isaiah", "Isa"], osis: "Isa" },
+  { names: ["Jeremiah", "Jer"], osis: "Jer" },
+  { names: ["Lamentations", "La"], osis: "Lam" },
+  { names: ["Ezekiel", "Eze"], osis: "Ezek" },
+  { names: ["Daniel", "Da"], osis: "Dan" },
+  { names: ["Hosea", "Hos"], osis: "Hos" },
+  { names: ["Joel"], osis: "Joel" },
+  { names: ["Amos", "Am"], osis: "Amos" },
+  { names: ["Obadiah", "Ob"], osis: "Obad" },
+  { names: ["Jonah", "Jnh"], osis: "Jonah" },
+  { names: ["Micah", "Mic"], osis: "Mic" },
+  { names: ["Nahum", "Na"], osis: "Nah" },
+  { names: ["Habakkuk", "Hab"], osis: "Hab" },
+  { names: ["Zephaniah", "Zep"], osis: "Zeph" },
+  { names: ["Haggai", "Hag"], osis: "Hag" },
+  { names: ["Zechariah", "Zec"], osis: "Zech" },
+  { names: ["Malachi", "Mal"], osis: "Mal" },
+  { names: ["Matthew", "Mt"], osis: "Matt" },
+  { names: ["Mark", "Mk"], osis: "Mark" },
+  { names: ["Luke", "Lk"], osis: "Luke" },
+  { names: ["John", "Jn"], osis: "John" },
+  { names: ["Acts", "Ac"], osis: "Acts" },
+  { names: ["Romans", "Ro"], osis: "Rom" },
+  { names: ["1 Corinthians", "1Corinthians", "1Co"], osis: "1Cor" },
+  { names: ["2 Corinthians", "2Corinthians", "2Co"], osis: "2Cor" },
+  { names: ["Galatians", "Gal"], osis: "Gal" },
+  { names: ["Ephesians", "Eph"], osis: "Eph" },
+  { names: ["Philippians", "Php"], osis: "Phil" },
+  { names: ["Colossians", "Col"], osis: "Col" },
+  { names: ["1 Thessalonians", "1Thessalonians", "1Th"], osis: "1Thess" },
+  { names: ["2 Thessalonians", "2Thessalonians", "2Th"], osis: "2Thess" },
+  { names: ["1 Timothy", "1Timothy", "1Ti"], osis: "1Tim" },
+  { names: ["2 Timothy", "2Timothy", "2Ti"], osis: "2Tim" },
+  { names: ["Titus", "Tit"], osis: "Titus" },
+  { names: ["Philemon", "Phm"], osis: "Phlm" },
+  { names: ["Hebrews", "Heb"], osis: "Heb" },
+  { names: ["James", "Jas"], osis: "Jas" },
+  { names: ["1 Peter", "1Peter", "1Pe"], osis: "1Pet" },
+  { names: ["2 Peter", "2Peter", "2Pe"], osis: "2Pet" },
+  { names: ["1 John", "1John", "1Jn"], osis: "1John" },
+  { names: ["2 John", "2John", "2Jn"], osis: "2John" },
+  { names: ["3 John", "3John", "3Jn"], osis: "3John" },
+  { names: ["Jude"], osis: "Jude" },
+  { names: ["Revelation", "Rev"], osis: "Rev" },
+];
+
+// Build a map from lowercased name/abbreviation to CWMS abbreviation
+// The CWMS abbreviation is always the last element of each book's names array
+const _bookCwmsMap = new Map();
+for (const book of BIBLE_BOOKS) {
+  const cwms = book.names[book.names.length - 1];
+  for (const name of book.names) {
+    _bookCwmsMap.set(name.toLowerCase(), cwms);
+  }
+}
+
+// Build the reference regex
+// Sorted by length desc so longer matches win (e.g. "Song of Solomon" before "Song")
+const _allBookNames = BIBLE_BOOKS.flatMap((b) => b.names).sort(
+  (a, b) => b.length - a.length,
+);
+// Each book name pattern: allow optional \s* between words and between a leading
+// digit and the rest (so "1 Co" matches the abbreviation "1Co", etc.)
+const _bookPattern = _allBookNames
+  .map((n) => {
+    const escaped = n.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    // Allow flexible whitespace between words (including "Song of Solomon")
+    let pat = escaped.replace(/\\ /g, "\\s*").replace(/\s+/g, "\\s*");
+    // Also allow optional space between a leading digit and the following letters
+    // e.g. "1Co" becomes "1\\s*Co" so "1 Co" also matches
+    pat = pat.replace(/^([123])([A-Za-z])/, "$1\\s*$2");
+    return pat;
+  })
+  .join("|");
+
+// Matches:
+//   optional !opt-out
+//   book name or abbreviation (word-boundary anchored via (?<!\w) / (?!\w))
+//   whitespace
+//   chapter number
+//   optional :verseStart
+//   optional range: -endChapterOrVerse[:endVerse]
+//
+// Capture groups:
+//   1: bang ("!" or "")
+//   2: book name/abbr (matched text)
+//   3: chapter
+//   4: verseStart
+//   5: rangeVal  — endVerse (same-chapter) OR endChapter (cross-chapter)
+//   6: endVerse  — only present in cross-chapter range
+const BIBLE_REF_RE = new RegExp(
+  `(?<![\\w])(\\!?)(${_bookPattern})\\s+(\\d+)(?::(\\d+)(?:\\s*[-\u2013\u2014]\\s*(\\d+)(?::(\\d+))?)?)?(?![\\w])`,
+  "gi",
+);
+
+function buildReflyUrl(cwms, chapter, verseStart, rangeVal, endVerse) {
+  // rangeVal = endVerse (same-chapter) or endChapter (cross-chapter)
+  // endVerse = undefined (same-chapter) or the end verse (cross-chapter)
+  // URL format: https://ref.ly/{cwms}{chapter}[.{verse}[-{endVerse}|{endChapter}.{endVerse}]];ESV
+  let ref = `${cwms}${chapter}`;
+  if (verseStart) {
+    ref += `.${verseStart}`;
+    if (rangeVal) {
+      if (endVerse) {
+        // Cross-chapter: rangeVal is end chapter, endVerse is end verse
+        ref += `-${rangeVal}.${endVerse}`;
+      } else {
+        // Same-chapter: rangeVal is end verse
+        ref += `-${rangeVal}`;
+      }
+    }
+  }
+  return `https://ref.ly/${ref};ESV`;
+}
+
+function processPlainText(text) {
+  // Reset lastIndex before use
+  BIBLE_REF_RE.lastIndex = 0;
+  return text.replace(BIBLE_REF_RE, (match, bang, bookName, chapter, verseStart, rangeVal, endVerse) => {
+    if (bang === "!") {
+      // Opt-out: return raw text without the leading !
+      return match.slice(1);
+    }
+    const normalized = bookName.toLowerCase().replace(/\s+/g, " ").trim();
+    const cwms = _bookCwmsMap.get(normalized) || _bookCwmsMap.get(normalized.replace(/\s/g, ""));
+    if (!cwms) return match;
+    const url = buildReflyUrl(cwms, chapter, verseStart, rangeVal, endVerse);
+    // Replace spaces with non-breaking spaces; normalize hyphens/em-dashes in ranges to en-dash
+    let linkText = match.replace(/\s/g, "\u00a0");
+    linkText = linkText.replace(/(\d)\s*[-\u2014]\s*(\d)/g, "$1\u2013$2");
+    return `<a href="${url}" class="external bible-ref" target="_blank" rel="noopener noreferrer">${linkText}</a>`;
+  });
+}
+
+// Tags whose content we skip entirely
+const SKIP_TAGS = new Set(["a", "code", "pre", "script", "style"]);
+
+function linkBibleRefs(html) {
+  // Split HTML into raw-markup chunks and plain-text chunks.
+  // Use a stack to correctly track nested skip tags (e.g. <a><code>…</code></a>).
+  const result = [];
+  // Regex to find HTML tags (opening, closing, self-closing, comments, CDATA)
+  const TAG_RE = /<!--[\s\S]*?-->|<!\[CDATA\[[\s\S]*?\]\]>|<\/?([a-zA-Z][a-zA-Z0-9]*)[^>]*>/g;
+
+  // Stack of skip-tag names currently open
+  const skipStack = [];
+  let lastIndex = 0;
+
+  let m;
+  TAG_RE.lastIndex = 0;
+  while ((m = TAG_RE.exec(html)) !== null) {
+    const tagFull = m[0];
+    const tagName = m[1] ? m[1].toLowerCase() : null;
+    const before = html.slice(lastIndex, m.index);
+
+    // Handle text before this tag
+    if (before) {
+      if (skipStack.length === 0) {
+        result.push(processPlainText(before));
+      } else {
+        result.push(before);
+      }
+    }
+
+    // Update skip stack based on tag type
+    if (tagName && SKIP_TAGS.has(tagName)) {
+      if (tagFull.startsWith("</")) {
+        // Closing tag: pop matching tag from the stack top
+        if (skipStack.length > 0 && skipStack[skipStack.length - 1] === tagName) {
+          skipStack.pop();
+        }
+      } else if (!tagFull.endsWith("/>")) {
+        // Opening (non-self-closing) tag: push onto stack
+        skipStack.push(tagName);
+      }
+    }
+
+    result.push(tagFull);
+    lastIndex = m.index + tagFull.length;
+  }
+
+  // Handle trailing text
+  const tail = html.slice(lastIndex);
+  if (tail) {
+    if (skipStack.length === 0) {
+      result.push(processPlainText(tail));
+    } else {
+      result.push(tail);
+    }
+  }
+
+  return result.join("");
+}
+
+async function findHtmlFiles(dir) {
+  const results = [];
+  let entries;
+  try {
+    entries = await fs.readdir(dir, { withFileTypes: true });
+  } catch {
+    return results;
+  }
+  for (const entry of entries) {
+    const fullPath = path.join(dir, entry.name);
+    if (entry.isDirectory()) {
+      results.push(...(await findHtmlFiles(fullPath)));
+    } else if (entry.isFile() && entry.name.endsWith(".html")) {
+      results.push(fullPath);
+    }
+  }
+  return results;
+}
+
+// ─── End Bible Reference Auto-Linker ──────────────────────────────────────────
+
 import markdownIt from "markdown-it";
 import markdownItFootnote from "markdown-it-footnote";
 import markdownItMark from "markdown-it-mark";
@@ -824,6 +1065,21 @@ async function build() {
   console.log("Built: /search");
 
   await fs.writeFile(path.join(OUTPUT_DIR, ".nojekyll"), "");
+
+  // Post-process: link Bible references in all HTML files
+  const htmlFiles = await findHtmlFiles(OUTPUT_DIR);
+  let linkedCount = 0;
+  for (const htmlFile of htmlFiles) {
+    const raw = await fs.readFile(htmlFile, "utf-8");
+    const linked = linkBibleRefs(raw);
+    if (linked !== raw) {
+      await fs.writeFile(htmlFile, linked);
+      linkedCount++;
+    }
+  }
+  console.log(
+    `Bible ref linker: processed ${htmlFiles.length} HTML file(s), rewrote ${linkedCount}.`,
+  );
 }
 
 build().catch((err) => {
