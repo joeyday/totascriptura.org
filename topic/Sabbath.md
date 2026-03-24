@@ -5,6 +5,7 @@ categories:
   - "[[Moral theology]]"
 aliases:
   - Lord’s Day
+featured: true
 ---
 ### Institution of, instructions for, blessings for observance of
 

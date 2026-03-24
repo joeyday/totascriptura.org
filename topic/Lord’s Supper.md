@@ -5,7 +5,6 @@ aliases:
 categories:
   - "[[Ecclesiology]]"
   - "[[Sacramentology]]"
-notoc: true
 ---
 ### Institution of
 

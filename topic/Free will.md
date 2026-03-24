@@ -4,11 +4,14 @@ categories:
 featured: true
 featured with: "[[Providence]]"
 ---
+
 ![[Windmill.png|600]]
 
 ### Most explicit affirmations of
+
 Jer 7:24, 31; Eze 33:11; Hos 8:4; Lk 7:30; 1Co 7:37; 10:13
 ### “Freewill offering” ~(exhaustive)~
+
 Ex 35:29; 36:3; Lev 7:16; 22:18, 21, 23; 23:38; Nu 15:3; 29:39; Dt 12:6, 17; 16:10; 2Ch 31:14; 35:8; Ezr 1:4, 6; 3:5; 7:16; 8:28; Ps 119:108; Eze 46:12; Am 4:5
 ### “Free will”, “freewill” ~(exhaustive)~
 Lev 1:3 NKJV; Lev 19:5 NKJV; Lev 22:19, 29 NKJV; Ezr 7:13 KJV; 2Co 8:3 NLT; Phm 1:14 NASB; see also 2Co 8:17

@@ -1,7 +1,7 @@
 ---
-hidden: true
+unlisted: true
 ---
-Sorted by NT (sort by OT instead).
+Sorted by NT ([[OTNT|sort by OT instead]]).
 
 ## Matthew
 

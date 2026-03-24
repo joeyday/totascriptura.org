@@ -1,5 +1,14 @@
 views:
   - type: table
+    name: Featured
+    filters:
+      and:
+        - featured == true
+    order:
+      - file.name
+      - categories
+    sort: []
+  - type: table
     name: Drafts + Hidden
     filters:
       or:
@@ -25,8 +34,3 @@ views:
     sort:
       - property: file.name
         direction: ASC
-  - type: table
-    name: Featured
-    filters:
-      and:
-        - featured == true
