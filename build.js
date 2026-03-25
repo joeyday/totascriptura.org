@@ -743,6 +743,7 @@ const IMAGE_EXTENSIONS = new Set([
 const ASSET_EXTENSIONS = new Set([
   ...IMAGE_EXTENSIONS,
   ".css",
+  ".js",
   ".eot",
   ".otf",
   ".ttf",
@@ -800,12 +801,15 @@ function findMarkdownFiles(dir) {
   });
 }
 
+const ASSET_SKIP_FILES = new Set(["build.js"]);
+
 function findAssetFiles(dir) {
   return findFiles(dir, {
     skipDirs: ASSET_SKIP_DIRS,
     filter: (entry, fullPath) => {
       const ext = path.extname(entry.name).toLowerCase();
       if (!ASSET_EXTENSIONS.has(ext)) return null;
+      if (ASSET_SKIP_FILES.has(entry.name)) return null;
       return { filePath: fullPath, fileName: entry.name };
     },
   });
