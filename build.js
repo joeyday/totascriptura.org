@@ -193,10 +193,26 @@ function makeBibleRefLink(url, rawText) {
 
 // ctxState = { lastCwms, lastChapter, translation } — shared across processPlainText calls.
 // Apply continuation refs to a plain-text chunk using current context.
+//
+// Strict chaining rule: the gap between the end of one ref (or the start of the
+// text) and the opening separator of the next continuation ref must contain only
+// whitespace.  Any non-whitespace character breaks the chain immediately and all
+// remaining text is emitted unchanged.  This prevents distant numbers (e.g. a
+// year in a timestamp like ", 20 April 2013") from being picked up as verses.
 function applyContinuationRefs(text, ctxState) {
   if (!ctxState.lastCwms) return text;
   CONT_REF_RE.lastIndex = 0;
-  return text.replace(CONT_REF_RE, (match, sep, firstNum, verseStart, rangeVal, endVerse, bareRangeEnd) => {
+  let result = "";
+  let pos = 0;
+  let m;
+  while ((m = CONT_REF_RE.exec(text)) !== null) {
+    // If the gap between the current position and this match contains any
+    // non-whitespace characters, the continuation chain is broken — stop.
+    const gap = text.slice(pos, m.index);
+    if (/\S/.test(gap)) break;
+
+    result += gap;
+    const [match, sep, firstNum, verseStart, rangeVal, endVerse, bareRangeEnd] = m;
     let chapter, vs, rv, ev;
     if (verseStart !== undefined) {
       // Branch A: chapter:verse format — firstNum is the chapter
@@ -212,12 +228,19 @@ function applyContinuationRefs(text, ctxState) {
       rv = bareRangeEnd;
       ev = undefined;
     } else {
-      // No chapter context yet; can't resolve a bare verse
-      return match;
+      // No chapter context yet; can't resolve a bare verse — emit raw and continue
+      result += match;
+      pos = m.index + match.length;
+      continue;
     }
     const url = buildReflyUrl(ctxState.lastCwms, chapter, vs, rv, ev, ctxState.translation);
-    return sep + makeBibleRefLink(url, match.slice(sep.length));
-  });
+    result += sep + makeBibleRefLink(url, match.slice(sep.length));
+    pos = m.index + match.length;
+  }
+  // Append everything from pos onwards unchanged (covers both the normal
+  // end-of-loop case and the early-break case)
+  result += text.slice(pos);
+  return result;
 }
 
 // ctxState = { lastCwms, lastChapter, translation } — shared across calls within one
