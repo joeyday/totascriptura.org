@@ -8,6 +8,6 @@ aside of: "[[Providence]]"
 ## More passages
 Not sure where to put this, but these are passages given in chapter 16 of Grudem’s “Systematic Theology”. I might need a new page for Providence.
 ### God ordains evil
-Gen 45:5; 50:20; Jdg 9:23; 14:1–4; 1Sa 2:25; 16:14; 2Sa 12:11–12; 16:11; 1Ki 11:14, 23; 22:23; Job 1:21; Pr 16:4; Isa 45:7; Lam 3:38; Eze 14:9; Amos 3:6; 2Th 2:11–12; 1Pe 2:8 
+Ge 45:5; 50:20; Jdg 9:23; 14:1–4; 1Sa 2:25; 16:14; 2Sa 12:11–12; 16:11; 1Ki 11:14, 23; 22:23; Job 1:21; Pr 16:4; Isa 45:7; Lam 3:38; Eze 14:9; Amos 3:6; 2Th 2:11–12; 1Pe 2:8 
 ### God hardens hearts
 Ex 4:21 ~(cf. Ex 7:3; 9:12; 10:20, 27; 11:10; 14:4, 8)~; Ex 14:17; Jos 11:20; Ps 105:25; Isa 63:17; Ro 9:18

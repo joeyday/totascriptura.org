@@ -67,7 +67,7 @@ Ex 6:7; 7:17; 8:10, 22; 9:16; 10:2; 16:12; 29:44–46; 31:13; Dt 29:5–6; 1Ki 8
 
 ### God’s praise is the ultimate end of creation ~(¶¶ 219–225)~
 
-Gen 29:35; Ps 8:1–2; 30:9; 88:10; 103:19–22; 115:17–18; 145:5–10; 148:1–14; Isa 38:18–19; 48:9–11; 13:11; Jer 33:8–9; Mt 21:16; Eph 1:6, 12, 14; Php 1:11
+Ge 29:35; Ps 8:1–2; 30:9; 88:10; 103:19–22; 115:17–18; 145:5–10; 148:1–14; Isa 38:18–19; 48:9–11; 13:11; Jer 33:8–9; Mt 21:16; Eph 1:6, 12, 14; Php 1:11
 
 ## Places of Scripture from whence it may be argued that communication of good to the creature was one thing which God had in view as an ultimate end of the creation of the world
 

@@ -365,7 +365,7 @@ Is Social Trinitarianism basically tritheist or is there more nuance there?
 8. God anointed Jesus Christ - Acts 10:38; Heb. 1:9
 9. God honored, blessed and glorified Christ - Matt. 12:18; John 5:26; 12:23; 17:1,24; Acts 3:13; 5:30-31; 2 Pet. 1:17-18; Phil. 2:9
 10. Jesus was raised up by God - Acts 5:30-31; 1 Pet. 1:21
-11. God and Jesus are plural (we, our, us) - Gen. 1:26; Isa. 6:8; John 14:23; 17:11,22
+11. God and Jesus are plural (we, our, us) - Ge 1:26; Isa. 6:8; John 14:23; 17:11,22
 12. <s>God "sent" Christ to atone for us - Mark 9:37; John 3:16; 5:24; 6:38; 7:28-29; 8:42; 12:44-45; 17:3-4,6-10,18,25; 20:21; 1 Jn. 4:14</s>
 13. Christ asked men to pray to God in his name - Matt. 6:6; Col. 3:17; Heb. 7:25-26
 14. Christ spoke of his Father in heaven - Matt. 10:33; 16:15-19; John 14:12; 20:15-17.

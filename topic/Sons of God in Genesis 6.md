@@ -29,12 +29,12 @@ Ex 4:22–23; Dt 14:1-2; 32:8 ~(see ESV footnote)~; Isa 43:6; Jer 3:22; Hos 1:10
 
 ### Sethites were noted for devotion to God, walking with God
 
-Gen 4:26; 5:22–24; 5:29; 6:8–9; Heb 11:5
+Ge 4:26; 5:22–24; 5:29; 6:8–9; Heb 11:5
 
 ### Cainites were noted for rebellion, sin
 
-Gen 4:8; Gen 4:19; Gen 4:23–24
+Ge 4:8, 19, 23–24
 
 ### Mixed marriages are forbidden elsewhere in the writings of Moses
 
-Gen 24:3–4; 28:1; Ex 34:15–16; Dt 7:3
+Ge 24:3–4; 28:1; Ex 34:15–16; Dt 7:3
