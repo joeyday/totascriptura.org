@@ -7,7 +7,7 @@ categories:
 featured: true
 ---
 
-![[Hidden-waterfall.png|600]]
+![[Hidden-waterfall.png|500]]
 
 ## Institution, commandment of
 
@@ -91,6 +91,10 @@ Mt 26:28; 2Co 3:6; Heb 8:6–13; 10:15–18
 ### Christ’s atonement is the real cutting off of sin signified by circumcision and baptism
 
 Mk 10:38; Lk 12:50; Col 2:11
+
+### Sacramental metonymy[^1]
+
+Gal 3:26–27; 1Pe 3:21
 
 ## Administration of
 
@@ -215,3 +219,5 @@ Mt 3:11 ~(cf. Lk 3:16; Jn 1:32–33)~; Ac 19:1–6
 ## External links
 
 * [Baptism and John 3:5 ‹ Joey Day](http://joeyday.com/2004/09/14/baptism-and-john-35/)
+
+[^1]: Metonymy is a figure of speech where a concept is referred to by the name of something closely associated with it. In this context, baptism is a metonymy for the entire conversion experience or the spiritual realities it represents—such as faith, repentance, and union with Christ.
