@@ -11,12 +11,22 @@
  * each CSS Naked Day.
  */
 
-/**
- * Returns true if the current moment falls within CSS Naked Day,
- * which spans all time zones where it's April 9 somewhere in the world.
- */
-function isCSSNakedDay() {
-  const now = new Date()
+
+
+let cssNaked = false
+
+
+// Determine if the user has explicitly toggled CSS Naked on,
+// and, if so, store their preference
+let cssNakedPreference = window.localStorage.getItem('css-naked');
+if (new URLSearchParams(window.location.search).has('css-naked')) {
+  cssNakedPreference = true;
+  window.localStorage.setItem('css-naked', 'true');
+}
+
+// Determine if it is currently CSS Naked Day
+const isCSSNakedDay = (function (now) {
+
   const year = now.getUTCFullYear()
 
   // 00:00 Apr 9 in UTC+14:00 → Apr 8 10:00 UTC
@@ -25,27 +35,22 @@ function isCSSNakedDay() {
   const end = Date.UTC(year, 3, 10, 12, 0, 0)
 
   return now >= start && now < end
+
+})(new Date());
+
+// Determine whether the user has opted out of CSS Naked Day
+const cssNakedDayPreferenceKey = `css-naked-${new Date().getFullYear()}`
+let cssNakedDayPreference = window.localStorage.getItem(cssNakedDayPreferenceKey);
+
+if (isCSSNakedDay && cssNakedDayPreference === null) {
+	cssNakedDayPreference = 'true';
+	window.localStorage.setItem(cssNakedDayPreferenceKey, 'true');
 }
 
-const nakedDay = isCSSNakedDay()
-const params = new URLSearchParams(window.location.search)
-const storageKey = `css-naked-${new Date().getFullYear()}`
-const override = window.localStorage.getItem(storageKey)
-
-// Determine whether to go naked:
-//   - ?css-naked param forces it on and persists the preference.
-//   - On CSS Naked Day, default to naked unless the user explicitly opted out.
-//   - On a normal day, only go naked if the user previously opted in.
-let cssNaked = false
-
-if (params.has('css-naked')) {
-  cssNaked = true
-  window.localStorage.setItem(storageKey, 'true')
-} else if (override !== null) {
-  cssNaked = nakedDay && override === 'true'
-} else if (nakedDay) {
-  cssNaked = true
+if (cssNakedPreference === 'true' || isCSSNakedDay && cssNakedDayPreference === 'true') {
+  cssNaked = true;
 }
+
 
 if (cssNaked) {
   // Remove all styles from external stylesheets or embedded <style> tags
@@ -79,12 +84,13 @@ if (cssNaked) {
   `
   $alert.querySelector('#naked-css-toggle').addEventListener('click', (e) => {
     e.preventDefault()
-    window.localStorage.setItem(storageKey, 'false')
+    if (isCSSNakedDay) window.localStorage.setItem(cssNakedDayPreference, 'false')
+    else window.localStorage.setItem('css-naked', 'false')
     window.location.href = window.location.href.split('?')[0]
   })
   document.body.prepend($alert)
-} else if (nakedDay) {
-  // It's CSS Naked Day but the user opted to keep styles on —
+} else if (isCSSNakedDay) {
+  // It's CSS Naked Day but the user opted out —
   // show a banner so they can easily toggle back to naked mode.
   const $alert = document.createElement('div')
   $alert.innerHTML = [
@@ -96,8 +102,8 @@ if (cssNaked) {
 
   $alert.querySelector('#naked-css-toggle').addEventListener('click', (e) => {
     e.preventDefault()
-    window.localStorage.setItem(storageKey, 'true')
-    window.location.reload()
+    window.localStorage.setItem(cssNakedDayPreference, 'true')
+    window.location.href = window.location.href.split('?')[0]
   })
   document.querySelector('main').prepend($alert)
 }
