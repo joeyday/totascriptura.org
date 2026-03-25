@@ -82,7 +82,7 @@ if (cssNaked) {
     window.localStorage.setItem(storageKey, "false")
     window.location.href = window.location.href.split("?")[0]
   })
-  document.body.prepend($alert)
+  document.querySelector("main").prepend($alert)
 } else if (nakedDay) {
   // It's CSS Naked Day but the user opted to keep styles on —
   // show a banner so they can easily toggle back to naked mode.
