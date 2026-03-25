@@ -1118,6 +1118,7 @@ async function build() {
     ...aliasRedirects.map((r) => r.fromUrlPath),
     ...Object.values(imageMap),
     "/search",
+    "/random",
   ]);
   const draftUrls = new Set(draftPages.map((p) => p.url));
   const featuredUrls = new Set(featuredPages.map((p) => p.url));
@@ -1514,6 +1515,27 @@ async function build() {
   await ensureDir(searchOutDir);
   await fs.writeFile(path.join(searchOutDir, "index.html"), searchHtml);
   console.log("Built: /search");
+
+  // Randomizer page — picks a random content page and redirects immediately
+  const randomUrls = allPages
+    .filter((item) => item.url)   // exclude alias redirect stubs
+    .map((item) => item.url);
+  const randomContent = `<p>Taking you somewhere interesting…</p>
+<script>
+(function() {
+  var pages = ${JSON.stringify(randomUrls)};
+  if (!pages.length) { return; }
+  window.location.replace(pages[Math.floor(Math.random() * pages.length)]);
+})();
+<\/script>
+<noscript><p>JavaScript is required for this feature. <a href="/index/alphabetical">Browse the index</a> instead.</p></noscript>`;
+  const randomHtml = renderLayout(randomContent, {
+    frontmatter: { title: "Random page", permalink: "random" },
+  });
+  const randomOutDir = path.join(OUTPUT_DIR, "random");
+  await ensureDir(randomOutDir);
+  await fs.writeFile(path.join(randomOutDir, "index.html"), randomHtml);
+  console.log(`Built: /random (${randomUrls.length} page(s))`);
 
   await fs.writeFile(path.join(OUTPUT_DIR, ".nojekyll"), "");
 
