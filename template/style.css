@@ -400,7 +400,7 @@ main {
         }
         
         abbr {
-			font-variant-caps: all-small-caps;
+			font-variant-caps: small-caps;
 			-moz-font-feature-settings: "kern", "liga", "c2sc", "smcp";
 			-webkit-font-feature-settings: "kern", "liga", "c2sc", "smcp";
 			font-feature-settings: "kern", "liga", "c2sc", "smcp";
