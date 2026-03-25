@@ -72,6 +72,7 @@ if (cssNaked) {
     "Want to flip back to the normal view?",
     "<a href='./' id='naked-css-toggle'>Click here</a>.",
   ].join(" ")
+  $alert.className = `css-naked-alert`
   $alert.style.cssText = `
     background: lightyellow;
     padding: 5px;
@@ -92,6 +93,7 @@ if (cssNaked) {
     "Want to view this site without any CSS?",
     "<a href='./' id='naked-css-toggle'>Click here</a>.",
   ].join(" ")
+  $alert.className = `css-naked-alert`
   $alert.style.cssText = `
     background: lightyellow;
     padding: 5px;
