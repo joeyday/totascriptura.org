@@ -41,7 +41,7 @@ Ps 119:18; 1Co 2:1–16
 Ro 15:4; 2Ti 3:16–17
 ### He is sovereignly able to preserve it
 {{mt|Providence}}
-Ps 135:6; Dan 4:35; Ac 17:25–28; Eph 1:11; Heb 1:3
+Ps 135:6; Da 4:35; Ac 17:25–28; Eph 1:11; Heb 1:3
 ### God preserves his word
 Isa 40:8; 55:11; Mt 5:18; 24:35 ~(cf. Mk 13:31; Lk 21:33)~; Lk 16:17; Jn 10:35
 ## Divine qualities of

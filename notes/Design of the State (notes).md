@@ -6,7 +6,7 @@ hidden: true
 ## Passages in the screen shot
 
 Submission of king to God
-:   Dt 17:16-20; Pr 16:9-10; 21:1; Dan 2:21; Rom 9:17
+:   Dt 17:16-20; Pr 16:9-10; 21:1; Da 2:21; Rom 9:17
 
 <!-- -->
 

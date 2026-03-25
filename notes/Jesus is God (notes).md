@@ -69,7 +69,7 @@ Pr 8:35; Jn 1:4; 11:25; 14:6; Acts 5:20; 1 Jn 1:1–2; 5:11–13
 ### Light of the world
 Jn 8:12; Ps 27:1
 ### Jesus gives life
-Jn 5:21; ~(see Jn 5:19–29)~; Jn 5:40; 6:27; 6:51; 6:68; 8:12; 10:10; 10:28; 17:2–3; 20:31; Acts 3:14–15; Rom 5:17–21; 1 Cor 15:45; Col 3:4; 2 Tim 1:10; Rev 22:1 — ~*cf. Gen 2:7; 1 Sam 2:6; Job 33:4; Ps 36:9; 54:4; Pr 14:27; Rom 4:17; 1 Tim 6:13*~
+Jn 5:21; ~(see Jn 5:19–29)~; Jn 5:40; 6:27; 6:51; 6:68; 8:12; 10:10; 10:28; 17:2–3; 20:31; Acts 3:14–15; Rom 5:17–21; 1 Cor 15:45; Col 3:4; 2 Tim 1:10; Rev 22:1 — ~*cf. Ge 2:7; 1 Sam 2:6; Job 33:4; Ps 36:9; 54:4; Pr 14:27; Rom 4:17; 1 Tim 6:13*~
 ### “What man can live and never see death?”
 Jn 2:19–22; 10:17–18; Heb 7:16; Rev 1:17–18; 2:8 — ~*cf. Ps 89:48*~
 ### “A people for his own possession”
@@ -79,7 +79,7 @@ Titus 2:13–14 — ~*cf. Ex 19:5; Dt 7:6; 14:2; 26:18; 1 Sam 12:22; Ps 135:4; M
 ### Saved for later
 Isa 33:22
 ### Interesting observation
-Gen 32:29; Ex 6:3; Jdg 13:18
+Ge 32:29; Ex 6:3; Jdg 13:18
 ### “King of Kings”
 Rev 17:14; 19:16 ~— *cf. 1 Sam 12:12; Ps 95:3; 1 Tim 1:17; 6:15*~ — study [king god](http://www.biblegateway.com/keyword/index.php?search=king%20god&version1=ESV&searchtype=all&limit=none&wholewordsonly=no&startnumber=51), [king lord](http://www.biblegateway.com/keyword/?search=king+lord&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73)
 ### “High and lifted up”
@@ -141,7 +141,7 @@ Isa 2:17–18 ~(cf. 1Jn 5:20–21)~; Jer 23:6; Jn 14:11; 2Co 5:19; 2Co 5:20; Jud
 ## Jesus’ own claims about himself
 The following is from Ericksen’s <cite>Making Sense of the Trinity</cite>. Deleting as I go.
 
-The judgment scene of Mt 25:31–46 reflects the theophanic language of Dan 7:9–10, Joel 3:1–12, and Zec 14:5. In Matthew 19:28; 25:31–46, Jesus alludes to Dan 7. In Dan 7:9 the Ancient of Days sits on a throne. Jesus himself, however, takes the role of the Ancient of Days, sitting on his “glorious throne.”
+The judgment scene of Mt 25:31–46 reflects the theophanic language of Da 7:9–10, Joel 3:1–12, and Zec 14:5. In Matthew 19:28; 25:31–46, Jesus alludes to Da 7. In Da 7:9 the Ancient of Days sits on a throne. Jesus himself, however, takes the role of the Ancient of Days, sitting on his “glorious throne.”
 
 In Mt 21:16, Jesus applies Ps 8:1–2 to himself.
 

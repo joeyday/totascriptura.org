@@ -76,7 +76,7 @@ Mt 9:2–8; 12:1–8; 16:27; 24:29–31; 25:31–46; Mk 2:3–12, 23–28; 8:38;
 
 ### “God of gods” and “Lord of lords”
 
-Dt 10:17; Jos 22:22; Ps 136:2; Dan 2:47
+Dt 10:17; Jos 22:22; Ps 136:2; Da 2:47
 
 ### Men will sit on thrones, judge, rule
 

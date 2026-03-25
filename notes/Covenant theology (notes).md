@@ -2,22 +2,22 @@
 aside of: "[[Covenant theology]]"
 ---
 ## “They will be my people and I will be their God”
-> When God first entered into an everlasting covenant with Abraham, he promised to be God to him and to his seed after him (Gen. 17:7). This language is used of the covenant made at Sinai under Moses (Ex. 19:5; 20:1–2), of the covenant made on the Plains of Moab (Deut. 29:13), of the covenant with David (2 Sam. 7:14), and of the new covenant in Christ (Jer. 31:33; Heb. 8:10). In the description of the consummate state in Revelation 21:1-8, this language is also employed to describe the unbroken communion that God will enjoy with his people in the new heaven and new earth. All the blessings of life and fellowship with the triune God in the Old and New Testaments are summed up in the covenantal promise of union and communion with God.[^1]
+> When God first entered into an everlasting covenant with Abraham, he promised to be God to him and to his seed after him (Ge 17:7). This language is used of the covenant made at Sinai under Moses (Ex 19:5; 20:1–2), of the covenant made on the Plains of Moab (Dt 29:13), of the covenant with David (2Sa 7:14), and of the new covenant in Christ (Jer 31:33; Heb 8:10). In the description of the consummate state in Revelation 21:1-8, this language is also employed to describe the unbroken communion that God will enjoy with his people in the new heaven and new earth. All the blessings of life and fellowship with the triune God in the Old and New Testaments are summed up in the covenantal promise of union and communion with God.[^1]
 ## Lots of Scripture passages on national v. spiritual Israel
 * http://scripturetruths5.tripod.com/spiritualisrael.html
 * http://www.ecclesia.org/truth/chosen.html
 ## Good summary of Covenant of Redemption
 From [CARM: “What is the Eternal Covenant, also known as the Covenant of Redemption?”](http://carm.org/questions-eternal-covenant) by Matt Slick:
-> In this covenant God the Father and the Son made an agreement with regard to the elect.  This covenant was made before the universe was created and it consisted of the Father promising to bring to the Son all whom the Father had given Him (John 6:39;17:2,9,24), to send the Son to be the representative of the people (John 3:16; Rom. 5:18-19), to prepare a body for the Son (Col. 2:9; Heb. 10:5), and to give the Son all authority in heaven and earth (Matt. 28:18).
+> In this covenant God the Father and the Son made an agreement with regard to the elect.  This covenant was made before the universe was created and it consisted of the Father promising to bring to the Son all whom the Father had given Him (John 6:39;17:2,9,24), to send the Son to be the representative of the people (John 3:16; Rom. 5:18-19), to prepare a body for the Son (Col 2:9; Heb 10:5), and to give the Son all authority in heaven and earth (Mt 28:18).
 > 
-> The Son would become man (Col. 2:9; 1 Tim. 2:5), become for a while lower than the angels (Heb. 2:7), and be found under the Law (Gal. 4:4-5).  The Son would die for the sins of the world (1 John 2:2; 1 Pet. 2:24) and the Father would raise the Son from the Dead (Psalm 2).
+> The Son would become man (Col 2:9; 1Ti 2:5), become for a while lower than the angels (Heb 2:7), and be found under the Law (Gal 4:4-5).  The Son would die for the sins of the world (1Jn 2:2; 1Pe 2:24) and the Father would raise the Son from the Dead (Ps 2).
 > 
-> The Holy Spirit would empower Jesus to do the will of the Father and Christ's ministry on earth (Matt. 3:16; Luke 4:1,18; John 3:34), and to apply the redemptive work of Christ to Christians (John 14:16-17,26; Acts 1:8; 2:17-18).
+> The Holy Spirit would empower Jesus to do the will of the Father and Christ's ministry on earth (Mt 3:16; Lk 4:1,18; Jn 3:34), and to apply the redemptive work of Christ to Christians (Jn 14:16-17,26; Ac 1:8; 2:17-18).
 > 
 > Normally, covenants are made between those of different authority levels such as a king and a subject.  But in the Eternal Covenant, all the parties involved (the Father, the Son, and the Holy Spirit) are equals.
 
 ## Covenant renewed at Shechem
-Where does Joshua 24 fit in this topic, if anywhere? Is this a renewal of the Mosaic covenant?
+Where does Jos 24 fit in this topic, if anywhere? Is this a renewal of the Mosaic covenant?
 ## The Gospel and the Land Promise
 This looks like a site I should invest the time to read: http://tcc.customer.sentex.ca/VH/GLP-index.php?page=intro_glp.html
 ## OT prophecies that Israel will contain Gentiles at time of new covenant

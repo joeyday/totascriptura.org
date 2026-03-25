@@ -9,7 +9,7 @@ There are at least two theories as to the meaning of “sons of God” in Genesi
 
 ### “Sons of God” elsewhere, and possibly in Moses’ writings, refers to angels
 
-Dt 32:8 ~(but see ESV footnote)~; Job 1:6; 2:1; 38:7; Ps 29:1 ~(see ESV footnote)~; Ps 89:6 ~(see ESV footnote)~; Dan 3:25
+Dt 32:8 ~(but see ESV footnote)~; Job 1:6; 2:1; 38:7; Ps 29:1 ~(see ESV footnote)~; Ps 89:6 ~(see ESV footnote)~; Da 3:25
 
 ### Seems to find support in New Testament
 
@@ -29,12 +29,12 @@ Ex 4:22–23; Dt 14:1-2; 32:8 ~(see ESV footnote)~; Isa 43:6; Jer 3:22; Hos 1:10
 
 ### Sethites were noted for devotion to God, walking with God
 
-Gen 4:26; 5:22–24; 5:29; 6:8–9; Heb 11:5
+Ge 4:26; 5:22–24; 5:29; 6:8–9; Heb 11:5
 
 ### Cainites were noted for rebellion, sin
 
-Gen 4:8; Gen 4:19; Gen 4:23–24
+Ge 4:8, 19, 23–24
 
 ### Mixed marriages are forbidden elsewhere in the writings of Moses
 
-Gen 24:3–4; 28:1; Ex 34:15–16; Dt 7:3
+Ge 24:3–4; 28:1; Ex 34:15–16; Dt 7:3

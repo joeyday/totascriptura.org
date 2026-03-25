@@ -1,7 +1,6 @@
 ---
 categories:
   - "[[Christology]]"
-featured: true
 featured with: "[[Trinity]]"
 ---
 ![[Cobblestones-and-grass.png|600]]
@@ -26,7 +25,7 @@ Mt 3:3 ~(cites Isa 40:3)~; Mt 22:41–46 ~(cf. Mk 12:35–37; Lk 20:41–44; cit
 
 ### King of Kings, Lord of Lords
 
-Rev 17:14; 19:16 ~— *cf. Dt 10:17; Ps 136:2–3; Dan 4:37 LXX*~
+Rev 17:14; 19:16 ~— *cf. Dt 10:17; Ps 136:2–3; Da 4:37 LXX*~
 
 ### Alpha and omega, first and last
 
@@ -166,7 +165,7 @@ Ro 5:10–11; 8:34; 2Co 5:18–21; Eph 2:13–16; Col 1:19–22; 1Ti 2:5; Heb 2:
 
 ### “No man can ransom another”
 
-Isa 53:10; Dan 9:26; Mt 20:28 ~(cf. Mk 10:45)~; Jn 10:15; 11:51–52; Ro 4:25; Gal 1:4; 2:20; 1 Tim 2:6; Tit 2:14; Heb 9:15; 1Pe 1:18–19; Rev 5:9 ~— *cf. Job 35:7; 41:11; Ps 49:7–9; Mt 16:26; Ro 11:35*~ ~— *but see also Pr 21:18; Isa 43:3*~
+Isa 53:10; Da 9:26; Mt 20:28 ~(cf. Mk 10:45)~; Jn 10:15; 11:51–52; Ro 4:25; Gal 1:4; 2:20; 1 Tim 2:6; Tit 2:14; Heb 9:15; 1Pe 1:18–19; Rev 5:9 ~— *cf. Job 35:7; 41:11; Ps 49:7–9; Mt 16:26; Ro 11:35*~ ~— *but see also Pr 21:18; Isa 43:3*~
 
 ## Difficult passages
 

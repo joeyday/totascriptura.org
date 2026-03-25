@@ -17,7 +17,7 @@ Ge 17:7; Ac 2:38–39; Ro 4:11–12; 1Co 7:14; Gal 3:9, 14; Col 2:11–12
 
 ### Whole household circumcised, including infants
 
-Gen 17:12, 23 ~(cf. Ex 12:43–48)~
+Ge 17:12, 23 ~(cf. Ex 12:43–48)~
 
 ### Whole household baptized
 

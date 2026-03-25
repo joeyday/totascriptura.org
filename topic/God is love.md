@@ -66,7 +66,7 @@ Ge 32:10; 24:14, 27; 39:21; Ex 15:13; Dt 7:12; Ezr 3:11; 9:9; Ps 98:3; Isa 54:8,
 
 ### God’s “steadfast love” for those who love him, serve him, keep his commandments, etc.
 
-Ex 20:6; Dt 5:10; 7:9; 1Ki 8:23; 2Ch 6:14; Neh 1:5; Ps 25:10; 32:10; 36:10; 86:5; 103:11, 17; Dan 9:4
+Ex 20:6; Dt 5:10; 7:9; 1Ki 8:23; 2Ch 6:14; Neh 1:5; Ps 25:10; 32:10; 36:10; 86:5; 103:11, 17; Da 9:4
 
 ### God’s “steadfast love” for specific people
 

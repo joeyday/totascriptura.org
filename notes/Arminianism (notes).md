@@ -6,7 +6,7 @@ Yup, this is all the Scripture he cites in his whole 250-page book.
 
 | Scripture passage | Page number(s)                                                                               |
 |-------------------|----------------------------------------------------------------------------------------------|
-| Gen 50:20         | 100                                                                                          |
+| Ge 50:20          | 100                                                                                          |
 | Ex 3:14           | 114<span style="color: #D70060;">*</span>                                                    |
 | Job 14:5          | 191<span style="color: #D70060;">*</span>                                                    |
 | Mt 6:10           | 117                                                                                          |
@@ -172,7 +172,7 @@ Yup, this is all the Scripture he cites in his whole 250-page book.
 | Mt 6:10                                                       | endnote 109                                                                        |
 | Ge 31:3                                                       | endnote 126                                                                        |
 | Ge 32:28                                                      | endnote 128                                                                        |
-| Gen 32:31                                                     | endnote 129                                                                        |
+| Ge 32:31                                                      | endnote 129                                                                        |
 | Mt 4:17                                                       | endnote 147                                                                        |
 | Mk 10:35–45                                                   | endnote 148                                                                        |
 
