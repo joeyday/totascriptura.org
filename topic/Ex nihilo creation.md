@@ -3,7 +3,7 @@ categories:
   - "[[Cosmology]]"
 featured: true
 ---
-![[Work-table-2.png|600]]
+![[Work-table-2.png|320]]
 
 ### Creation from nothing ~(most explicit passages)~
 {{[[ex-nihilo]]}}

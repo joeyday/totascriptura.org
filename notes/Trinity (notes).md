@@ -1,7 +1,7 @@
 ---
 aside of: "[[Trinity]]"
 ---
-![[Trinity-diagram-3.png|600]]
+![[Trinity-diagram-3.png|320]]
 
 ## Todo
 

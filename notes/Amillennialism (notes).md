@@ -20,12 +20,12 @@ The table above is excerpted from *[A Case for Amillennialism: Understanding the
 
 I like these charts I got from Doug Cox’s *Creation Concept* blog on the various interpretations of the seventy weeks.
 
-![[Seventy-weeks-preterist.png]]
+![[Seventy-weeks-preterist.png|320]]
 
-![[Seventy-weeks-dispensational.png]]
+![[Seventy-weeks-dispensational.png|320]]
 
-![[Seventy-weeks-amillennial.png]]
+![[Seventy-weeks-amillennial.png|320]]
 
 I also like this chart from the ESV Study Bible.
 
-![[Seventy-weeks-esv-study-bible.png]]
+![[Seventy-weeks-esv-study-bible.png|320]]

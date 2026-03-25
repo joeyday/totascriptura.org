@@ -6,7 +6,7 @@ categories:
   - "[[Soteriology]]"
 featured: true
 ---
-![[Aspen-path.png|600]]
+![[Aspen-path.png|320]]
 
 ### Total depravity
 {{mt|[[Total depravity]]}}

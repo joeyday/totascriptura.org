@@ -1,7 +1,7 @@
 ---
 hidden: true
 ---
-![[Trinity-diagram-3.png]]
+![[Trinity-diagram-3.png|320]]
 
 ## Todo
 * Split apart references to the numerical oneness of the essence v. the oneness of mind, will, purpose among the persons
