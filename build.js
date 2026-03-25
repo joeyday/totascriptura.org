@@ -125,7 +125,15 @@ const BIBLE_REF_RE = new RegExp(
 // Supported translation abbreviations (case-sensitive, word-boundary matched).
 // When one of these follows the last ref in a citation group, all refs in that
 // group link to that translation instead of the default ESV.
-const TRANSLATIONS = new Set(["ESV", "KJV", "NASB", "NIV", "NKJV", "NLT", "NRSV"]);
+const TRANSLATIONS = new Set([
+  "ESV",
+  "KJV",
+  "NASB",
+  "NIV",
+  "NKJV",
+  "NLT",
+  "NRSV",
+]);
 const TRANS_RE = /\b(ESV|KJV|NASB|NIV|NKJV|NLT|NRSV)\b/g;
 
 // Pre-pass: build a map from each named-ref start index → translation abbreviation.
@@ -157,7 +165,14 @@ function buildTranslationMap(text) {
   return map;
 }
 
-function buildReflyUrl(cwms, chapter, verseStart, rangeVal, endVerse, translation = "ESV") {
+function buildReflyUrl(
+  cwms,
+  chapter,
+  verseStart,
+  rangeVal,
+  endVerse,
+  translation = "ESV",
+) {
   // rangeVal = endVerse (same-chapter) or endChapter (cross-chapter)
   // endVerse = undefined (same-chapter) or the end verse (cross-chapter)
   // URL: https://ref.ly/{cwms}{chapter}[.{verse}[-{endVerse}|{endChapter}.{endVerse}]];{translation}
@@ -183,7 +198,8 @@ function buildReflyUrl(cwms, chapter, verseStart, rangeVal, endVerse, translatio
 //   B) verse[-verse]         — no colon; requires ctxState.lastChapter to resolve
 //
 // Groups: 1=sep  2=firstNum  3=verseStart(A)  4=rangeVal(A)  5=endVerse(A cross-ch)  6=bareRangeEnd(B)
-const CONT_REF_RE = /([;,]\s*)(\d+)(?::(\d+)(?:\s*[-\u2013\u2014]\s*(\d+)(?::(\d+))?)?|(?:\s*[-\u2013\u2014]\s*(\d+))?)?(?![\w:])/g;
+const CONT_REF_RE =
+  /([;,]\s*)(\d+)(?::(\d+)(?:\s*[-\u2013\u2014]\s*(\d+)(?::(\d+))?)?|(?:\s*[-\u2013\u2014]\s*(\d+))?)?(?![\w:])/g;
 
 function makeBibleRefLink(url, rawText) {
   let lt = rawText.replace(/\s/g, "\u00a0");
@@ -212,7 +228,8 @@ function applyContinuationRefs(text, ctxState) {
     if (/\S/.test(gap)) break;
 
     result += gap;
-    const [match, sep, firstNum, verseStart, rangeVal, endVerse, bareRangeEnd] = m;
+    const [match, sep, firstNum, verseStart, rangeVal, endVerse, bareRangeEnd] =
+      m;
     let chapter, vs, rv, ev;
     if (verseStart !== undefined) {
       // Branch A: chapter:verse format — firstNum is the chapter
@@ -233,7 +250,14 @@ function applyContinuationRefs(text, ctxState) {
       pos = m.index + match.length;
       continue;
     }
-    const url = buildReflyUrl(ctxState.lastCwms, chapter, vs, rv, ev, ctxState.translation);
+    const url = buildReflyUrl(
+      ctxState.lastCwms,
+      chapter,
+      vs,
+      rv,
+      ev,
+      ctxState.translation,
+    );
     result += sep + makeBibleRefLink(url, match.slice(sep.length));
     pos = m.index + match.length;
   }
@@ -262,12 +286,21 @@ function processPlainText(text, ctxState) {
       result += match.slice(1);
     } else {
       const normalized = bookName.toLowerCase().replace(/\s+/g, " ").trim();
-      const cwms = _bookCwmsMap.get(normalized) || _bookCwmsMap.get(normalized.replace(/\s/g, ""));
+      const cwms =
+        _bookCwmsMap.get(normalized) ||
+        _bookCwmsMap.get(normalized.replace(/\s/g, ""));
       if (cwms) {
         ctxState.lastCwms = cwms;
         ctxState.lastChapter = chapter;
         ctxState.translation = transMap.get(m.index) || "ESV";
-        const url = buildReflyUrl(cwms, chapter, verseStart, rangeVal, endVerse, ctxState.translation);
+        const url = buildReflyUrl(
+          cwms,
+          chapter,
+          verseStart,
+          rangeVal,
+          endVerse,
+          ctxState.translation,
+        );
         result += makeBibleRefLink(url, match);
       } else {
         result += match;
@@ -279,7 +312,10 @@ function processPlainText(text, ctxState) {
   result += applyContinuationRefs(text.slice(lastIndex), ctxState);
   // Move each trailing translation abbreviation inside the preceding closing </a>
   // e.g. "3:1–4</a> KJV" → "3:1–4 KJV</a>"
-  result = result.replace(/(<\/a>)\s+(ESV|KJV|NASB|NIV|NKJV|NLT|NRSV)\b/g, " $2$1");
+  result = result.replace(
+    /(<\/a>)\s+(ESV|KJV|NASB|NIV|NKJV|NLT|NRSV)\b/g,
+    " $2$1",
+  );
   return result;
 }
 
@@ -288,8 +324,23 @@ const SKIP_TAGS = new Set(["a", "code", "pre", "script", "style"]);
 
 // Block-level tags that reset the continuation-ref context between paragraphs/items
 const BLOCK_TAGS = new Set([
-  "p", "li", "dd", "dt", "blockquote", "div", "section", "article",
-  "h1", "h2", "h3", "h4", "h5", "h6", "td", "th", "figcaption",
+  "p",
+  "li",
+  "dd",
+  "dt",
+  "blockquote",
+  "div",
+  "section",
+  "article",
+  "h1",
+  "h2",
+  "h3",
+  "h4",
+  "h5",
+  "h6",
+  "td",
+  "th",
+  "figcaption",
 ]);
 
 function linkBibleRefs(html) {
@@ -297,7 +348,8 @@ function linkBibleRefs(html) {
   // Use a stack to correctly track nested skip tags (e.g. <a><code>…</code></a>).
   const result = [];
   // Regex to find HTML tags (opening, closing, self-closing, comments, CDATA)
-  const TAG_RE = /<!--[\s\S]*?-->|<!\[CDATA\[[\s\S]*?\]\]>|<\/?([a-zA-Z][a-zA-Z0-9]*)[^>]*>/g;
+  const TAG_RE =
+    /<!--[\s\S]*?-->|<!\[CDATA\[[\s\S]*?\]\]>|<\/?([a-zA-Z][a-zA-Z0-9]*)[^>]*>/g;
 
   // Stack of skip-tag names currently open
   const skipStack = [];
@@ -332,7 +384,10 @@ function linkBibleRefs(html) {
     if (tagName && SKIP_TAGS.has(tagName)) {
       if (tagFull.startsWith("</")) {
         // Closing tag: pop matching tag from the stack top
-        if (skipStack.length > 0 && skipStack[skipStack.length - 1] === tagName) {
+        if (
+          skipStack.length > 0 &&
+          skipStack[skipStack.length - 1] === tagName
+        ) {
           skipStack.pop();
         }
       } else if (!tagFull.endsWith("/>")) {
@@ -387,18 +442,24 @@ async function loadAbbrMap() {
   try {
     raw = await fs.readFile(abbrFile, "utf-8");
   } catch {
-    console.log("Abbreviation expander: abbreviations.json not found, skipping.");
+    console.log(
+      "Abbreviation expander: abbreviations.json not found, skipping.",
+    );
     return null;
   }
   let data;
   try {
     data = JSON.parse(raw);
   } catch {
-    console.log("Abbreviation expander: abbreviations.json is not valid JSON, skipping.");
+    console.log(
+      "Abbreviation expander: abbreviations.json is not valid JSON, skipping.",
+    );
     return null;
   }
   if (!data || typeof data !== "object" || Array.isArray(data)) {
-    console.log("Abbreviation expander: abbreviations.json must be a JSON object, skipping.");
+    console.log(
+      "Abbreviation expander: abbreviations.json must be a JSON object, skipping.",
+    );
     return null;
   }
   return data;
@@ -425,7 +486,8 @@ function wrapAbbreviations(html, abbrMap) {
 
   // Split HTML into tag and text chunks, process only text nodes outside skip tags
   const result = [];
-  const TAG_RE = /<!--[\s\S]*?-->|<!\[CDATA\[[\s\S]*?\]\]>|<\/?([a-zA-Z][a-zA-Z0-9]*)[^>]*>/g;
+  const TAG_RE =
+    /<!--[\s\S]*?-->|<!\[CDATA\[[\s\S]*?\]\]>|<\/?([a-zA-Z][a-zA-Z0-9]*)[^>]*>/g;
   const skipStack = [];
   let lastIndex = 0;
 
@@ -438,12 +500,14 @@ function wrapAbbreviations(html, abbrMap) {
 
     if (before) {
       if (skipStack.length === 0) {
-        result.push(before.replace(combinedRe, (match) => {
-          const expansion = abbrMap[match];
-          return expansion != null
-            ? `<abbr title="${expansion}">${match}</abbr>`
-            : `<abbr>${match}</abbr>`;
-        }));
+        result.push(
+          before.replace(combinedRe, (match) => {
+            const expansion = abbrMap[match];
+            return expansion != null
+              ? `<abbr title="${expansion}">${match}</abbr>`
+              : `<abbr>${match}</abbr>`;
+          }),
+        );
       } else {
         result.push(before);
       }
@@ -451,7 +515,10 @@ function wrapAbbreviations(html, abbrMap) {
 
     if (tagName && ABBR_SKIP_TAGS.has(tagName)) {
       if (tagFull.startsWith("</")) {
-        if (skipStack.length > 0 && skipStack[skipStack.length - 1] === tagName) {
+        if (
+          skipStack.length > 0 &&
+          skipStack[skipStack.length - 1] === tagName
+        ) {
           skipStack.pop();
         }
       } else if (!tagFull.endsWith("/>")) {
@@ -466,12 +533,14 @@ function wrapAbbreviations(html, abbrMap) {
   const tail = html.slice(lastIndex);
   if (tail) {
     if (skipStack.length === 0) {
-      result.push(tail.replace(combinedRe, (match) => {
-        const expansion = abbrMap[match];
-        return expansion != null
-          ? `<abbr title="${expansion}">${match}</abbr>`
-          : `<abbr>${match}</abbr>`;
-      }));
+      result.push(
+        tail.replace(combinedRe, (match) => {
+          const expansion = abbrMap[match];
+          return expansion != null
+            ? `<abbr title="${expansion}">${match}</abbr>`
+            : `<abbr>${match}</abbr>`;
+        }),
+      );
     } else {
       result.push(tail);
     }
@@ -495,7 +564,7 @@ const ROMAN_RE_SRC =
   "M{0,3}(?:CM|CD|D?C{0,3})(?:XC|XL|L?X{0,3})(?:IX|IV|V?I{0,3})";
 const ROMAN_NUM_RE = new RegExp(
   `\\b(?=[MDCLXVI])${ROMAN_RE_SRC}\\.(?=[MDCLXVI])${ROMAN_RE_SRC}\\b` +
-  `|\\b(?=[MDCLXVI]{2})${ROMAN_RE_SRC}\\b`,
+    `|\\b(?=[MDCLXVI]{2})${ROMAN_RE_SRC}\\b`,
   "g",
 );
 
@@ -504,7 +573,8 @@ const ROMAN_SKIP_TAGS = new Set(["abbr", "code", "pre", "script", "style"]);
 
 function wrapRomanNumerals(html) {
   const result = [];
-  const TAG_RE = /<!--[\s\S]*?-->|<!\[CDATA\[[\s\S]*?\]\]>|<\/?([a-zA-Z][a-zA-Z0-9]*)[^>]*>/g;
+  const TAG_RE =
+    /<!--[\s\S]*?-->|<!\[CDATA\[[\s\S]*?\]\]>|<\/?([a-zA-Z][a-zA-Z0-9]*)[^>]*>/g;
   const skipStack = [];
   let lastIndex = 0;
 
@@ -517,7 +587,13 @@ function wrapRomanNumerals(html) {
 
     if (before) {
       if (skipStack.length === 0) {
-        result.push(before.replace(ROMAN_NUM_RE, (match) => match.length >= 2 ? `<span class="roman-num">${match}</span>` : match));
+        result.push(
+          before.replace(ROMAN_NUM_RE, (match) =>
+            match.length >= 2
+              ? `<span class="roman-num">${match}</span>`
+              : match,
+          ),
+        );
       } else {
         result.push(before);
       }
@@ -525,7 +601,10 @@ function wrapRomanNumerals(html) {
 
     if (tagName && ROMAN_SKIP_TAGS.has(tagName)) {
       if (tagFull.startsWith("</")) {
-        if (skipStack.length > 0 && skipStack[skipStack.length - 1] === tagName) {
+        if (
+          skipStack.length > 0 &&
+          skipStack[skipStack.length - 1] === tagName
+        ) {
           skipStack.pop();
         }
       } else if (!tagFull.endsWith("/>")) {
@@ -540,7 +619,11 @@ function wrapRomanNumerals(html) {
   const tail = html.slice(lastIndex);
   if (tail) {
     if (skipStack.length === 0) {
-      result.push(tail.replace(ROMAN_NUM_RE, (match) => match.length >= 2 ? `<span class="roman-num">${match}</span>` : match));
+      result.push(
+        tail.replace(ROMAN_NUM_RE, (match) =>
+          match.length >= 2 ? `<span class="roman-num">${match}</span>` : match,
+        ),
+      );
     } else {
       result.push(tail);
     }
@@ -904,6 +987,10 @@ async function build() {
     const rawCategories = getFrontmatterValue(parsed.data, "categories");
     const categories = parseCategoriesList(rawCategories);
     const featured = !!getFrontmatterValue(parsed.data, "featured");
+    const rawFeaturedWith = getFrontmatterValue(parsed.data, "featured with");
+    const featuredWith = rawFeaturedWith
+      ? stripBrackets(String(rawFeaturedWith))
+      : null;
     const draft = !!getFrontmatterValue(parsed.data, "draft");
 
     filesToProcess.push({
@@ -920,6 +1007,7 @@ async function build() {
       asideOf: asideOf ? stripBrackets(String(asideOf)) : null,
       categories,
       featured,
+      featuredWith,
       draft,
     });
   }
@@ -963,6 +1051,22 @@ async function build() {
   draftPages.sort((a, b) =>
     a.title.localeCompare(b.title, undefined, { sensitivity: "base" }),
   );
+
+  // Map from primary page URL → secondary pages that declare "featured with" pointing to it.
+  // Secondary pages appear alongside their primary on the featured topics index.
+  const featuredWithMap = {};
+  for (const fileInfo of filesToProcess) {
+    if (fileInfo.hidden) continue;
+    if (!fileInfo.featuredWith) continue;
+    const targetKey = resolveFileMapKey(fileInfo.featuredWith, fileMap);
+    const targetUrl = fileMap[targetKey];
+    if (!targetUrl) continue;
+    if (!featuredWithMap[targetUrl]) featuredWithMap[targetUrl] = [];
+    featuredWithMap[targetUrl].push({
+      title: fileInfo.title,
+      url: fileInfo.finalUrlPath,
+    });
+  }
 
   const asidesMap = {};
   for (const fileInfo of filesToProcess) {
@@ -1057,6 +1161,8 @@ async function build() {
         categories: locals.categories || [],
         subcategories: locals.subcategories || [],
         pages: locals.pages || [],
+        featuredWith: locals.featuredWith || null,
+        featured: locals.featured || false,
       }),
     );
   }
@@ -1069,7 +1175,11 @@ async function build() {
     const pageKey = fileInfo.baseName.toLowerCase().trim();
     if (membersMap[pageKey]) continue;
 
-    allPages.push({ title: fileInfo.title, url: fileInfo.finalUrlPath, featured: fileInfo.featured });
+    allPages.push({
+      title: fileInfo.title,
+      url: fileInfo.finalUrlPath,
+      featured: fileInfo.featured || !!fileInfo.featuredWith,
+    });
     for (const aliasName of fileInfo.aliases) {
       allPages.push({
         title: aliasName,
@@ -1204,6 +1314,8 @@ async function build() {
       categories: resolvedCategories,
       subcategories,
       pages,
+      featuredWith: fileInfo.featuredWith || null,
+      featured: fileInfo.featured || false,
     });
 
     const { outDirPath, outFilePath } = getOutputPaths(fileInfo.finalUrlPath);
@@ -1252,7 +1364,12 @@ async function build() {
   }
 
   const topLevelCategoryPages = Object.keys(membersMap)
-    .filter((key) => fileMap[key] && !pagesWithCategories.has(key) && !hiddenUrls.has(fileMap[key]))
+    .filter(
+      (key) =>
+        fileMap[key] &&
+        !pagesWithCategories.has(key) &&
+        !hiddenUrls.has(fileMap[key]),
+    )
     .map((key) => ({ title: titleMap[key] || key, url: fileMap[key] }))
     .sort((a, b) =>
       a.title.localeCompare(b.title, undefined, { sensitivity: "base" }),
@@ -1279,10 +1396,21 @@ async function build() {
         if (item.redirect) {
           listHtml += `  <li>${item.title} <small>(see <a href="${item.redirect.url}">${item.redirect.title}</a>)</small></li>\n`;
         } else {
-          const starHtml = indexPage.slug === "alphabetical" && item.featured
-            ? ' <span class="entypo-icon">★</span>'
-            : "";
-          listHtml += `  <li><a href="${item.url}">${item.title}</a>${starHtml}</li>\n`;
+          const starHtml =
+            indexPage.slug === "alphabetical" && item.featured
+              ? ' <span class="entypo-icon">&starf;</span>'
+              : "";
+          let withHtml = "";
+          if (indexPage.slug === "featured") {
+            const secondaries = featuredWithMap[item.url];
+            if (secondaries && secondaries.length > 0) {
+              const parts = secondaries.map(
+                (w) => `<a href="${w.url}">${w.title}</a>`,
+              );
+              withHtml = ` <small>(and ${parts.join(", ")})</small>`;
+            }
+          }
+          listHtml += `  <li><a href="${item.url}">${item.title}</a>${starHtml}${withHtml}</li>\n`;
         }
       }
       listHtml += "</ul>";

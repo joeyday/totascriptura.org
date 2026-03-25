@@ -1,7 +1,6 @@
 ---
 categories:
   - "[[Anthropology]]"
-featured: true
 featured with: "[[Providence]]"
 ---
 

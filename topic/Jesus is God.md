@@ -1,7 +1,6 @@
 ---
 categories:
   - "[[Christology]]"
-featured: true
 featured with: "[[Trinity]]"
 ---
 ![[Cobblestones-and-grass.png|600]]
