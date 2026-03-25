@@ -88,7 +88,7 @@ if (cssNaked) {
   // show a banner so they can easily toggle back to naked mode.
   const $alert = document.createElement('div')
   $alert.innerHTML = [
-    `It’s <a href='https://css-naked-day.org'><abbr title="Cascading Style Sheets">CSS</abbr> Naked Day</a>!`,
+    `It’s <a href="https://css-naked-day.org" class="external"><abbr title="Cascading Style Sheets">CSS</abbr> Naked Day</a>!`,
     `Want to view the site without any <abbr title="Cascading Style Sheets">CSS</abbr>?`,
     `<a href="./" id="naked-css-toggle" class="internal">Click here</a>.`,
   ].join(' ')
