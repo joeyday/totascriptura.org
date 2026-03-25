@@ -836,6 +836,7 @@ footer {
 	}
 
 	.entypo-icon {
+		color: var(--color-main-text);
 		font-size: 1.25rem;
 		vertical-align: baseline;
 	}
