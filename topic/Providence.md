@@ -8,7 +8,7 @@ featured: true
 ---
 ![[Pink-tree.png|600]]
 
-“God’s works of **providence** are, his most holy, wise, and powerful preserving and governing all his creatures, and all their actions.”[^1]
+God’s works of **providence** are, his most holy, wise, and powerful preserving and governing all his creatures, and all their actions.[^1]
 
 ### Preservation
 Ne 9:6; Job 33:4; 34:14–15; Ps 104:29; Ac 17:25, 28; Col 1:17; Heb 1:3; 2Pe 3:7
