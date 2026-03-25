@@ -26,7 +26,7 @@ Ge 12:1–9; 13:14–18; 15:1–21; 16:10; 17:1–27; 18:17–19; 22:15–18; 26
 {{[[mt]]|[[Mosaic covenant]]}}
 Ge 15:13–16; Ex 2:24; 6:2–8; 19:2–6 ~(cited at 1Pe 2:9)~; Ex 24:3–8; 34:10, 27–28
 ### Levitical covenant
-Ex 32:25–29; Num 25:10–13; Dt 33:8–10; Ne 13:29; Jer 33:20–21; Mal 2:4, 8
+Ex 32:25–29; Nu 25:10–13; Dt 33:8–10; Ne 13:29; Jer 33:20–21; Mal 2:4, 8
 ### Palestinian covenant
 Dt 29:1-29; 30:1–20
 ### Davidic covenant

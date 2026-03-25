@@ -55,7 +55,7 @@ Isa 9:6–7; Jn 2:19–22; 10:17–18; Heb 1:10–12; 7:3, 16, 24–25; Rev 1:17
 
 ### {{[[immutability-heading]]}}
 
-Mt 24:35; Heb 1:10–12 ~(cites Ps 102:25–27)~; Heb 7:3; 13:8 ~— *cf. Num 23:19; Ps 102:25–27; 119:89; Isa 40:8; Mal 3:6; Jas 1:17*~
+Mt 24:35; Heb 1:10–12 ~(cites Ps 102:25–27)~; Heb 7:3; 13:8 ~— *cf. Nu 23:19; Ps 102:25–27; 119:89; Isa 40:8; Mal 3:6; Jas 1:17*~
 
 ### {{[[impeccability-heading]]}}
 

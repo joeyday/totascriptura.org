@@ -70,7 +70,7 @@ From GreatTreasures.org, the Greek words for “choose” and their occurrences 
 * ἐκλεκτός (22x) adjective
 * ἐκλογή (7x) noun
 ## Counterfactual knowledge
-Num 22:33 — A counterfactual statement from an angel. Again, do angels know enough to make true statements of counterfactual knowledge, or is this conjecture? (Actually, the angel can state with relative confidence what he himself would have done in a hypothetical situation, so this may not qualify as a true counterfactual at all.)
+Nu 22:33 — A counterfactual statement from an angel. Again, do angels know enough to make true statements of counterfactual knowledge, or is this conjecture? (Actually, the angel can state with relative confidence what he himself would have done in a hypothetical situation, so this may not qualify as a true counterfactual at all.)
 ### Not so much counterfactuals of creaturely freedom, but explaining what God himself would do in different situations
 Ex 9:15; 33:5; Dt 28:15–68; Ps 50:12; Jer 18:7–10; 26:2–4; Eze 14:14, 16, 20; 33:1–9, 13–15; Mt 26:24 ~(cf. Mk 14:21)~; Mk 6:48–49; 9:42 ~(cf. Lk 17:2)~; Jn 8:55; 11:40; 14:2; 18:36
 ### Are these saying that if such-and-such has happened, God wouldn't hold people guilty for their sin, or that if such-and-such had happened the people wouldn’t have chosen to sin?
