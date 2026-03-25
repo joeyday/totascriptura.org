@@ -11,16 +11,13 @@
  * each CSS Naked Day.
  */
 
-
-
 let cssNaked = false
 
-
-// Determine if the user has explicitly toggled CSS Naked on,
-// and, if so, store their preference
+// Determine if the user has explicitly toggled CSS Naked on with
+// the css-naked parameter, and, if so, store their preference
 let cssNakedPreference = window.localStorage.getItem('css-naked');
 if (new URLSearchParams(window.location.search).has('css-naked')) {
-  cssNakedPreference = true;
+  cssNakedPreference = 'true'';
   window.localStorage.setItem('css-naked', 'true');
 }
 
