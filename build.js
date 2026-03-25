@@ -992,6 +992,7 @@ async function build() {
       ? stripBrackets(String(rawFeaturedWith))
       : null;
     const draft = !!getFrontmatterValue(parsed.data, "draft");
+    const unlisted = !!getFrontmatterValue(parsed.data, "unlisted");
 
     filesToProcess.push({
       relDir,
@@ -1009,6 +1010,7 @@ async function build() {
       featured,
       featuredWith,
       draft,
+      unlisted,
     });
   }
 
@@ -1037,6 +1039,7 @@ async function build() {
 
   for (const fileInfo of filesToProcess) {
     if (fileInfo.hidden) continue;
+    if (fileInfo.unlisted) continue;
     if (fileInfo.featured) {
       featuredPages.push({ title: fileInfo.title, url: fileInfo.finalUrlPath });
     }
@@ -1057,6 +1060,7 @@ async function build() {
   const featuredWithMap = {};
   for (const fileInfo of filesToProcess) {
     if (fileInfo.hidden) continue;
+    if (fileInfo.unlisted) continue;
     if (!fileInfo.featuredWith) continue;
     const targetKey = resolveFileMapKey(fileInfo.featuredWith, fileMap);
     const targetUrl = fileMap[targetKey];
@@ -1085,6 +1089,7 @@ async function build() {
   const membersMap = {};
   for (const fileInfo of filesToProcess) {
     if (fileInfo.hidden) continue;
+    if (fileInfo.unlisted) continue;
     for (const catName of fileInfo.categories) {
       const resolvedKey = resolveFileMapKey(catName, fileMap);
       if (!membersMap[resolvedKey]) {
@@ -1104,6 +1109,9 @@ async function build() {
 
   const hiddenUrls = new Set(
     filesToProcess.filter((f) => f.hidden).map((f) => f.finalUrlPath),
+  );
+  const unlistedUrls = new Set(
+    filesToProcess.filter((f) => f.unlisted).map((f) => f.finalUrlPath),
   );
   const allKnownUrls = new Set([
     ...Object.values(fileMap).filter((url) => !hiddenUrls.has(url)),
@@ -1170,8 +1178,8 @@ async function build() {
   const allPages = [];
   for (const fileInfo of filesToProcess) {
     if (fileInfo.asideOf) continue;
-    if (fileInfo.relDir === "") continue;
     if (fileInfo.hidden) continue;
+    if (fileInfo.unlisted) continue;
     const pageKey = fileInfo.baseName.toLowerCase().trim();
     if (membersMap[pageKey]) continue;
 
@@ -1325,16 +1333,18 @@ async function build() {
       `Built: ${fileInfo.filePath} -> ${outFilePath} (URL: ${fileInfo.finalUrlPath})`,
     );
 
-    const bodyText = htmlContent
-      .replace(/<[^>]*>/g, " ")
-      .replace(/\s+/g, " ")
-      .trim();
-    searchDocs.push({
-      id: fileInfo.finalUrlPath,
-      title: fileInfo.title,
-      url: fileInfo.finalUrlPath,
-      body: bodyText.slice(0, 5000),
-    });
+    if (!fileInfo.unlisted) {
+      const bodyText = htmlContent
+        .replace(/<[^>]*>/g, " ")
+        .replace(/\s+/g, " ")
+        .trim();
+      searchDocs.push({
+        id: fileInfo.finalUrlPath,
+        title: fileInfo.title,
+        url: fileInfo.finalUrlPath,
+        body: bodyText.slice(0, 5000),
+      });
+    }
   }
 
   for (const { fromUrlPath, toUrl, toTitle } of aliasRedirects) {
@@ -1368,7 +1378,8 @@ async function build() {
       (key) =>
         fileMap[key] &&
         !pagesWithCategories.has(key) &&
-        !hiddenUrls.has(fileMap[key]),
+        !hiddenUrls.has(fileMap[key]) &&
+        !unlistedUrls.has(fileMap[key]),
     )
     .map((key) => ({ title: titleMap[key] || key, url: fileMap[key] }))
     .sort((a, b) =>
