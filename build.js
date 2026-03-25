@@ -1520,7 +1520,7 @@ async function build() {
   const randomUrls = allPages
     .filter((item) => item.url) // exclude alias redirect stubs
     .map((item) => item.url);
-  const randomContent = `<div><p><em>The lot is cast into the lap, but its every decision is from the <abbr>LORD</abbr>.</em></p></div>
+  const randomContent = `<div><p><em>The lot is cast into the lap, but its every decision is from the <abbr>LORD</abbr>.<br><small>—Proverbs 16:33</small></em></p></div>
 <script>
 (function() {
   var pages = ${JSON.stringify(randomUrls)};
