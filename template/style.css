@@ -480,6 +480,9 @@ main {
         
         font-size: 0.857em; /* 14px·0.857=12px */
         font-style: italic;
+
+        text-align: center;
+        text-wrap: balance;
     }
 }
 
