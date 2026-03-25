@@ -478,7 +478,9 @@ main {
     .css-naked-alert {
         width: var(--main-width);
         margin: auto;
-        padding: 1.4em;
+        padding: 1em 1.4em;
+        
+        font-size: 0.857em; /* 14px·0.857=12px */
     
         color: var(--color-main-text);
         background-color: var(--color-main-background);
