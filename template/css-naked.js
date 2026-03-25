@@ -11,8 +11,6 @@
 * each CSS Naked Day.
 */
 
-let cssNaked = false
-
 // Determine if the user has explicitly toggled CSS Naked on with
 // the css-naked parameter, and, if so, store their preference
 let cssNakedPreference = window.localStorage.getItem('css-naked');
@@ -36,18 +34,12 @@ const isCSSNakedDay = (function (now) {
 // Determine whether the user has opted out of CSS Naked Day
 const cssNakedDayPreferenceKey = `css-naked-${new Date().getFullYear()}`
 let cssNakedDayPreference = window.localStorage.getItem(cssNakedDayPreferenceKey);
-
 if (isCSSNakedDay && cssNakedDayPreference === null) {
     cssNakedDayPreference = 'true';
     window.localStorage.setItem(cssNakedDayPreferenceKey, 'true');
 }
 
 if (cssNakedPreference === 'true' || isCSSNakedDay && cssNakedDayPreference === 'true') {
-    cssNaked = true;
-}
-
-
-if (cssNaked) {
     // Remove all styles from external stylesheets or embedded <style> tags
     Array.from(document.querySelectorAll('style,link[rel="stylesheet"]'))
         .forEach(($node) => { $node.remove() })
@@ -60,25 +52,21 @@ if (cssNaked) {
     const $alert = document.createElement('div')
     
     $alert.innerHTML = [
-        nakedDay
+        isCSSNakedDay
             ? `Happy <a href="https://css-naked-day.org"><abbr title="Cascading Style Sheets">CSS</abbr> Naked Day</a>!`
             : `You’re viewing the site with all <abbr title="Cascading Style Sheets">CSS</abbr> removed.`,
-        nakedDay
+        isCSSNakedDay
             ? `You’re viewing the site with all <abbr title="Cascading Style Sheets">CSS</abbr> removed.`
             : `Any day can be <a href="https://css-naked-day.org"><abbr title="Cascading Style Sheets">CSS</abbr> Naked Day</a>!`,
         `Want to flip back to the normal view?`,
         `<a href="./" id="naked-css-toggle">Click here</a>.`,
     ].join(' ')
 
-    $alert.style.cssText = `
-        background: lightyellow;
-        padding: 5px;
-        margin: 15px 0;
-    `
+    $alert.style.cssText = `background: lightyellow; padding: 5px; margin: 15px 0;`
     
     $alert.querySelector('#naked-css-toggle').addEventListener('click', (e) => {
         e.preventDefault()
-        if (isCSSNakedDay) window.localStorage.setItem(cssNakedDayPreference, 'false')
+        if (isCSSNakedDay) window.localStorage.setItem(cssNakedDayPreferenceKey, 'false')
         else window.localStorage.setItem('css-naked', 'false')
         window.location.href = window.location.href.split('?')[0]
     })
@@ -100,7 +88,7 @@ if (cssNaked) {
     
     $alert.querySelector('#naked-css-toggle').addEventListener('click', (e) => {
         e.preventDefault()
-        window.localStorage.setItem(cssNakedDayPreference, 'true')
+        window.localStorage.setItem(cssNakedDayPreferenceKey, 'true')
         window.location.href = window.location.href.split('?')[0]
     })
 
