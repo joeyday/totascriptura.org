@@ -474,6 +474,24 @@ main {
             }
         }
     }
+    
+    .css-naked-alert {
+        width: var(--main-width);
+        margin: auto;
+        padding: 1.4em;
+    
+        color: var(--color-main-text);
+        background-color: var(--color-main-background);
+        
+        text-align: center;
+        text-wrap: balance;
+        
+        font-style: italic;
+        
+        a {
+            color: var(--color-secondary);
+        }
+    }
 }
 
 header, nav, footer {
@@ -681,11 +699,7 @@ footer {
         
         min-height: 100svh; /* extend background to bottom of viewport */
     }
-    
-    .css-naked-alert {
-        grid-area: alert;
-    }
-    
+        
     main {
         grid-area: main;
         
