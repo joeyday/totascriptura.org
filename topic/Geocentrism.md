@@ -18,7 +18,7 @@ Ex 17:12; Jos 10:12–13; Ps 19:4–6; Ecc 1:5; Isa 38:8–9; Hab 3:11
 
 ### Sky is a rigid dome ~(or “firmament”)~
 
-Ge 1:6–8, 14–15, 17, 20; Job 37:18; Ps 19:1; 150:1; Pr 8:28; Eze 1:22–23, 25–26; 10:1; Dan 12:3
+Ge 1:6–8, 14–15, 17, 20; Job 37:18; Ps 19:1; 150:1; Pr 8:28; Eze 1:22–23, 25–26; 10:1; Da 12:3
 
 ### Windows in firmament let rain through
 

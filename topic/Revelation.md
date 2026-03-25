@@ -15,7 +15,7 @@ Jer 31:34 ~(cf. Heb 8:11)~; Mt 23:8-12; Jn 14:15-30; 1Jn 2:27
 
 {{[[mt]]|[[John the Baptist]]}}
 
-Dan 9:24; Mt 11:13 ~(cf. Lk 16:16)~; Lk 11:49-51; Heb 1:1-2
+Da 9:24; Mt 11:13 ~(cf. Lk 16:16)~; Lk 11:49-51; Heb 1:1-2
 
 ### God’s method hasn’t changed—Holy Spirit led prophets in former days
 

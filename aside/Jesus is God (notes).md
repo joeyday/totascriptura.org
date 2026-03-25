@@ -141,7 +141,7 @@ Isa 2:17–18 ~(cf. 1Jn 5:20–21)~; Jer 23:6; Jn 14:11; 2Co 5:19; 2Co 5:20; Jud
 ## Jesus’ own claims about himself
 The following is from Ericksen’s <cite>Making Sense of the Trinity</cite>. Deleting as I go.
 
-The judgment scene of Mt 25:31–46 reflects the theophanic language of Dan 7:9–10, Joel 3:1–12, and Zec 14:5. In Matthew 19:28; 25:31–46, Jesus alludes to Dan 7. In Dan 7:9 the Ancient of Days sits on a throne. Jesus himself, however, takes the role of the Ancient of Days, sitting on his “glorious throne.”
+The judgment scene of Mt 25:31–46 reflects the theophanic language of Da 7:9–10, Joel 3:1–12, and Zec 14:5. In Matthew 19:28; 25:31–46, Jesus alludes to Da 7. In Da 7:9 the Ancient of Days sits on a throne. Jesus himself, however, takes the role of the Ancient of Days, sitting on his “glorious throne.”
 
 In Mt 21:16, Jesus applies Ps 8:1–2 to himself.
 

@@ -25,7 +25,7 @@ Ex 20:4–6, 22–23; Dt 4:15–19; Isa 40:18–28
 
 ### Human body parts ascribed to God
 
-Ge 32:30; Ex 24:10; 31:18; 33:11, 20–23; Nu 12:8; Dan 7:9; Rev 1:12–16 {{[[s]]|see also Dt 4:28}}
+Ge 32:30; Ex 24:10; 31:18; 33:11, 20–23; Nu 12:8; Da 7:9; Rev 1:12–16 {{[[s]]|see also Dt 4:28}}
 
 ### But wings, womb also ascribed to God
 

@@ -69,7 +69,7 @@ P.S. Carson and Moo speculate that if we had the autographs we would idolize the
 ### Every occurence of γραφή ~\[*graphē*]~ ~(“writing” or “Scripture”)~
 Mt 21:42; 22:29; 26:54, 56; Mk 12:10, 24; 14:49; Lk 4:21; 24:27, 32, 45; Jn 2:22; 5:39; 7:38, 42; 10:35; 13:18; 17:12; 19:24, 28, 36–37; 20:9; Ac 1:16; 8:32, 35; 17:2, 11; 18:24, 28; Ro 1:2; 4:3; 9:17; 10:11; 11:2; 15:4; 16:26; 1Co 15:3–4; Gal 3:8, 22; 4:30; 1Ti 5:18; 2Ti 3:16; Jas 2:8, 23; 4:5; 1Pe 2:6; 2Pe 1:20; 3:16
 ### “God” or “Lord” within 2 words of “word”
-Nu 22:38; 24:4, 16; Dt 5:22; 1Sa 9:27; 2Sa 16:23; 22:1; 1Ki 12:22; 2Ki 6:9; Job 34:37; Ps 5:1; 56:4, 10; 107:11; 119:89; Pr 30:5; Ecc 5:2; Dan 10:12; Mt 15:6; Mk 7:13; Lk 3:2; 5:1; 8:11, 21; 11:28; 24:19; Jn 1:1; 3:34; 8:47; 10:35; Ac 4:31; 6:2, 7; 8:14; 11:1; 12:24; 13:5, 7, 46; 17:13; 18:11; Ro 9:6; 1Co 14:36; 2Co 2:17; 4:2; Eph 6:17; Col 1:25; 1Th 2:13; 1Ti 4:5; 2Ti 2:9; Titus 2:5; Heb 4:12; 6:5; 11:3; 13:7; 1Pe 1:23; 2Pe 3:5; 1Jn 2:14; Rev 1:2, 9; 6:9; 17:17; 19:9, 13; 20:4
+Nu 22:38; 24:4, 16; Dt 5:22; 1Sa 9:27; 2Sa 16:23; 22:1; 1Ki 12:22; 2Ki 6:9; Job 34:37; Ps 5:1; 56:4, 10; 107:11; 119:89; Pr 30:5; Ecc 5:2; Da 10:12; Mt 15:6; Mk 7:13; Lk 3:2; 5:1; 8:11, 21; 11:28; 24:19; Jn 1:1; 3:34; 8:47; 10:35; Ac 4:31; 6:2, 7; 8:14; 11:1; 12:24; 13:5, 7, 46; 17:13; 18:11; Ro 9:6; 1Co 14:36; 2Co 2:17; 4:2; Eph 6:17; Col 1:25; 1Th 2:13; 1Ti 4:5; 2Ti 2:9; Titus 2:5; Heb 4:12; 6:5; 11:3; 13:7; 1Pe 1:23; 2Pe 3:5; 1Jn 2:14; Rev 1:2, 9; 6:9; 17:17; 19:9, 13; 20:4
 ## Interesting article
 * [John Piper: *Thoughts on the Sufficiency of Scripture*](http://www.desiringgod.org/articles/thoughts-on-the-sufficiency-of-scripture)
 

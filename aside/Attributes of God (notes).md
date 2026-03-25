@@ -50,7 +50,7 @@ Steven J. Lawson gives the following verses in the truthfulness/veracity section
 29. Ac 17:24–25
 30. Job 22:2–3
 31. Ro 11:36
-32. Rev 4:11; 1Ti 6:15; Dan 4:25, 35
+32. Rev 4:11; 1Ti 6:15; Da 4:25, 35
 33. Heb 4:13
 34. Ro 11:33–34; Ps 147:5
 35. Ac 15:18; Eze 11:5

@@ -15,7 +15,7 @@ Ex 35:29; 36:3; Lev 7:16; 22:18, 21, 23; 23:38; Nu 15:3; 29:39; Dt 12:6, 17; 16:
 ### “Free will”, “freewill” ~(exhaustive)~
 Lev 1:3 NKJV; Lev 19:5 NKJV; Lev 22:19, 29 NKJV; Ezr 7:13 KJV; 2Co 8:3 NLT; Phm 1:14 NASB; see also 2Co 8:17
 ### “Will”, “willing” ~(not exhaustive)~
-Ge 49:6; Ex 21:14; 35:22; Jdg 5:2, 9; 2Sa 6:10; 1Ch 28:9; 29:5, 9, 14; 2Ch 29:31; 35:8; Ezr 7:16; Pr 31:13; Isa 1:19-20; 30:9, 15; Jer 16:12; Eze 3:7; 20:8; Dan 11:3, 16, 28, 36; Lk 13:34; 23:25; Jn 7:17; 8:43–44; 2Co 9:5
+Ge 49:6; Ex 21:14; 35:22; Jdg 5:2, 9; 2Sa 6:10; 1Ch 28:9; 29:5, 9, 14; 2Ch 29:31; 35:8; Ezr 7:16; Pr 31:13; Isa 1:19-20; 30:9, 15; Jer 16:12; Eze 3:7; 20:8; Da 11:3, 16, 28, 36; Lk 13:34; 23:25; Jn 7:17; 8:43–44; 2Co 9:5
 ### “Choose”, “chose” ~(not exhaustive)~
 Dt 30:19; Jos 24:15, 21–22; 2Sa 24:11–13 ~(cf. 1Ch 21:9–12)~; Ps 25:12; Pr 1:29; 3:31; Isa 7:15–16; 56:4; 65:12; 66:3–4
 ### God has true knowledge of counterfactuals of creaturely freedom

@@ -67,7 +67,7 @@ Job 38:41; Ps 25:8; 33:5; 34:8, 10; 37:23–25; 52:1; 73:3–12; 84:11; 86:5; 10
 
 ### {{[[omnipotence-heading]]}}
 
-Job 42:2; Ps 33:6; 102:25–27; 104:1–35; Isa 14:27; 40:28–31; 43:13; Jer 32:17; Dan 4:35; Mt 19:26 ~(cf. Mk 10:27)~; Eph 3:20–21; Php 4:13; 2Co 6:18; Rev 1:8; 4:8; 11:17; 15:3; 16:7, 14; 19:6, 15; 21:22 ~— *but he cannot act contrary to his other attributes, e.g. Tit 1:2; Heb 6:18*~
+Job 42:2; Ps 33:6; 102:25–27; 104:1–35; Isa 14:27; 40:28–31; 43:13; Jer 32:17; Da 4:35; Mt 19:26 ~(cf. Mk 10:27)~; Eph 3:20–21; Php 4:13; 2Co 6:18; Rev 1:8; 4:8; 11:17; 15:3; 16:7, 14; 19:6, 15; 21:22 ~— *but he cannot act contrary to his other attributes, e.g. Tit 1:2; Heb 6:18*~
 
 ### {{[[omnipresence-heading]]}}
 
