@@ -20,7 +20,7 @@ function isCSSNakedDay() {
   const year = now.getUTCFullYear()
 
   // 00:00 Apr 9 in UTC+14:00 → Apr 8 10:00 UTC
-  const start = Date.UTC(year, 2, 25, 10, 0, 0)
+  const start = Date.UTC(year, 2, 24, 10, 0, 0)
   // 00:00 Apr 10 in UTC-12:00 → Apr 10 12:00 UTC
   const end = Date.UTC(year, 2, 26, 12, 0, 0)
 
