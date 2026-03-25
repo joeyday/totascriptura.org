@@ -42,7 +42,7 @@ if (params.has('css-naked')) {
   cssNaked = true
   window.localStorage.setItem(storageKey, 'true')
 } else if (override !== null) {
-  cssNaked = override === 'true'
+  cssNaked = nakedDay && override === 'true'
 } else if (nakedDay) {
   cssNaked = true
 }
