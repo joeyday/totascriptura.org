@@ -20,9 +20,9 @@ function isCSSNakedDay() {
   const year = now.getUTCFullYear()
 
   // 00:00 Apr 9 in UTC+14:00 → Apr 8 10:00 UTC
-  const start = Date.UTC(year, 3, 8, 10, 0, 0)
+  const start = Date.UTC(year, 2, 25, 10, 0, 0)
   // 00:00 Apr 10 in UTC-12:00 → Apr 10 12:00 UTC
-  const end = Date.UTC(year, 3, 10, 12, 0, 0)
+  const end = Date.UTC(year, 2, 26, 12, 0, 0)
 
   return now >= start && now < end
 }
@@ -65,11 +65,10 @@ if (cssNaked) {
   $alert.innerHTML = [
     nakedDay
       ? "Happy <a href='https://css-naked-day.org'>CSS Naked Day</a>!"
-      : "",
-    "You are viewing this site with all CSS removed.",
-    !nakedDay
-      ? "Any day can be <a href='https://css-naked-day.org'>CSS Naked Day</a>!"
-      : "",
+      : "You are viewing this site with all CSS removed.",
+    nakedDay
+      ? "You are viewing this site with all CSS removed."
+      : "Any day can be <a href='https://css-naked-day.org'>CSS Naked Day</a>!",
     "Want to flip back to the normal view?",
     "<a href='./' id='naked-css-toggle'>Click here</a>.",
   ].join(" ")
@@ -82,6 +81,26 @@ if (cssNaked) {
     e.preventDefault()
     window.localStorage.setItem(storageKey, "false")
     window.location.href = window.location.href.split("?")[0]
+  })
+  document.body.prepend($alert)
+} else if (nakedDay) {
+  // It's CSS Naked Day but the user opted to keep styles on —
+  // show a banner so they can easily toggle back to naked mode.
+  const $alert = document.createElement("div")
+  $alert.innerHTML = [
+    "It's <a href='https://css-naked-day.github.io/'>CSS Naked Day</a>!",
+    "Want to view this site without any CSS?",
+    "<a href='./' id='naked-css-toggle'>Click here</a>.",
+  ].join(" ")
+  $alert.style.cssText = `
+    background: lightyellow;
+    padding: 5px;
+    margin: 15px 0;
+  `
+  $alert.querySelector("#naked-css-toggle").addEventListener("click", (e) => {
+    e.preventDefault()
+    window.localStorage.setItem(storageKey, "true")
+    window.location.reload()
   })
   document.body.prepend($alert)
 }
