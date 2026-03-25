@@ -399,7 +399,7 @@ main {
             background-color: var(--color-quinary);
         }
         
-        abbr {
+        abbr, .roman-num {
 			font-variant-caps: all-small-caps;
 			-moz-font-feature-settings: "kern", "liga", "c2sc", "smcp";
 			-webkit-font-feature-settings: "kern", "liga", "c2sc", "smcp";
