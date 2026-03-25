@@ -1046,7 +1046,7 @@ async function build() {
     const pageKey = fileInfo.baseName.toLowerCase().trim();
     if (membersMap[pageKey]) continue;
 
-    allPages.push({ title: fileInfo.title, url: fileInfo.finalUrlPath });
+    allPages.push({ title: fileInfo.title, url: fileInfo.finalUrlPath, featured: fileInfo.featured });
     for (const aliasName of fileInfo.aliases) {
       allPages.push({
         title: aliasName,
@@ -1256,7 +1256,10 @@ async function build() {
         if (item.redirect) {
           listHtml += `  <li>${item.title} <small>(see <a href="${item.redirect.url}">${item.redirect.title}</a>)</small></li>\n`;
         } else {
-          listHtml += `  <li><a href="${item.url}">${item.title}</a></li>\n`;
+          const starHtml = indexPage.slug === "alphabetical" && item.featured
+            ? ' <span class="entypo-icon">★</span>'
+            : "";
+          listHtml += `  <li><a href="${item.url}">${item.title}</a>${starHtml}</li>\n`;
         }
       }
       listHtml += "</ul>";
