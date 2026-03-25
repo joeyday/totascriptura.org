@@ -455,6 +455,64 @@ function wrapAbbreviations(html, abbrMap) {
 
 // ─── End Abbreviation Expansion ───────────────────────────────────────────────
 
+// ─── Roman Numeral Wrapping ───────────────────────────────────────────────────
+
+// Matches strictly valid Roman numerals (1–3999), uppercase only, minimum 2 characters.
+// Lookahead (?=[MDCLXVI]{2}) enforces the 2-char minimum before the structural match.
+const ROMAN_NUM_RE = /\b(?=[MDCLXVI]{2})M{0,3}(?:CM|CD|D?C{0,3})(?:XC|XL|L?X{0,3})(?:IX|IV|V?I{0,3})\b/g;
+
+// Tags whose content we skip entirely for Roman numeral wrapping
+const ROMAN_SKIP_TAGS = new Set(["abbr", "code", "pre", "script", "style"]);
+
+function wrapRomanNumerals(html) {
+  const result = [];
+  const TAG_RE = /<!--[\s\S]*?-->|<!\[CDATA\[[\s\S]*?\]\]>|<\/?([a-zA-Z][a-zA-Z0-9]*)[^>]*>/g;
+  const skipStack = [];
+  let lastIndex = 0;
+
+  let m;
+  TAG_RE.lastIndex = 0;
+  while ((m = TAG_RE.exec(html)) !== null) {
+    const tagFull = m[0];
+    const tagName = m[1] ? m[1].toLowerCase() : null;
+    const before = html.slice(lastIndex, m.index);
+
+    if (before) {
+      if (skipStack.length === 0) {
+        result.push(before.replace(ROMAN_NUM_RE, (match) => match.length >= 2 ? `<span class="roman-num">${match}</span>` : match));
+      } else {
+        result.push(before);
+      }
+    }
+
+    if (tagName && ROMAN_SKIP_TAGS.has(tagName)) {
+      if (tagFull.startsWith("</")) {
+        if (skipStack.length > 0 && skipStack[skipStack.length - 1] === tagName) {
+          skipStack.pop();
+        }
+      } else if (!tagFull.endsWith("/>")) {
+        skipStack.push(tagName);
+      }
+    }
+
+    result.push(tagFull);
+    lastIndex = m.index + tagFull.length;
+  }
+
+  const tail = html.slice(lastIndex);
+  if (tail) {
+    if (skipStack.length === 0) {
+      result.push(tail.replace(ROMAN_NUM_RE, (match) => match.length >= 2 ? `<span class="roman-num">${match}</span>` : match));
+    } else {
+      result.push(tail);
+    }
+  }
+
+  return result.join("");
+}
+
+// ─── End Roman Numeral Wrapping ───────────────────────────────────────────────
+
 import markdownIt from "markdown-it";
 import markdownItFootnote from "markdown-it-footnote";
 import markdownItMark from "markdown-it-mark";
@@ -1310,6 +1368,20 @@ async function build() {
       `Abbreviation expander: processed ${htmlFiles.length} HTML file(s), rewrote ${abbrCount}.`,
     );
   }
+
+  // Post-process: wrap Roman numerals in all HTML files
+  let romanCount = 0;
+  for (const htmlFile of htmlFiles) {
+    const raw = await fs.readFile(htmlFile, "utf-8");
+    const wrapped = wrapRomanNumerals(raw);
+    if (wrapped !== raw) {
+      await fs.writeFile(htmlFile, wrapped);
+      romanCount++;
+    }
+  }
+  console.log(
+    `Roman numeral wrapper: processed ${htmlFiles.length} HTML file(s), rewrote ${romanCount}.`,
+  );
 }
 
 build().catch((err) => {
