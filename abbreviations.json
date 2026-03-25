@@ -15,5 +15,9 @@
   "UTC": "Coordinated Universal Time",
   "cf.": "compare",
   "e.g.": "for example",
-  "i.e.": "in other words"
+  "i.e.": "in other words",
+  "A.D.": "Anno Domini (year of our Lord)",
+  "B.C.": "Before Christ",
+  "B.C.E.": "Before the Common Era",
+  "C.E.": "Common Era"
 }
