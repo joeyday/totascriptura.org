@@ -64,11 +64,11 @@ if (cssNaked) {
   const $alert = document.createElement("div")
   $alert.innerHTML = [
     nakedDay
-      ? "Happy <a href='https://css-naked-day.org'>CSS Naked Day</a>!"
-      : "You are viewing this site with all CSS removed.",
+      ? 'Happy <a href="https://css-naked-day.org"><abbr title="Cascading Style Sheets">CSS</abbr> Naked Day</a>!'
+      : 'You are viewing this site with all <abbr title="Cascading Style Sheets">CSS</abbr> removed.',
     nakedDay
-      ? "You are viewing this site with all CSS removed."
-      : "Any day can be <a href='https://css-naked-day.org'>CSS Naked Day</a>!",
+      ? 'You are viewing this site with all <abbr title="Cascading Style Sheets">CSS</abbr> removed.'
+      : 'Any day can be <a href="https://css-naked-day.org"><abbr title="Cascading Style Sheets">CSS</abbr> Naked Day</a>!',
     "Want to flip back to the normal view?",
     "<a href='./' id='naked-css-toggle'>Click here</a>.",
   ].join(" ")
@@ -82,7 +82,7 @@ if (cssNaked) {
     window.localStorage.setItem(storageKey, "false")
     window.location.href = window.location.href.split("?")[0]
   })
-  document.querySelector("main").prepend($alert)
+  document.body.prepend($alert)
 } else if (nakedDay) {
   // It's CSS Naked Day but the user opted to keep styles on —
   // show a banner so they can easily toggle back to naked mode.
