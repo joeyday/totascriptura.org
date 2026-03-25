@@ -17,11 +17,14 @@
 	"CA": "California",
 	"CE": "Common Era",
 	"CO": "Colorado",
+	"CSS": "Cascading Style Sheets",
 	"CT": "Connecticut",
 	"D.A.": null,
 	"DC": "District of Columbia",
 	"DE": "Delaware",
+	"EJS": "Embedded JavaScript Templates",
 	"ESV": "English Standard Version",
+	"FF": "FontFont",
 	"FL": "Florida",
 	"GA": "Georgia",
 	"G.R.": null,
@@ -93,5 +96,6 @@
 	"WCF": "Westminster Confession of Faith",
 	"WI": "Wisconsin",
 	"WV": "West Virginia",
-	"WY": "Wyoming"
+	"WY": "Wyoming",
+	"YAML": "Yet Another Markup Language"
 }
