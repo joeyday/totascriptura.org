@@ -38,11 +38,11 @@ const override = window.localStorage.getItem(storageKey)
 //   - On a normal day, only go naked if the user previously opted in.
 let cssNaked = false
 
-if (params.has("css-naked")) {
+if (params.has('css-naked')) {
   cssNaked = true
-  window.localStorage.setItem(storageKey, "true")
+  window.localStorage.setItem(storageKey, 'true')
 } else if (override !== null) {
-  cssNaked = override === "true"
+  cssNaked = override === 'true'
 } else if (nakedDay) {
   cssNaked = true
 }
@@ -56,48 +56,48 @@ if (cssNaked) {
   )
 
   // Remove all styles from inline attributes
-  Array.from(document.querySelectorAll("[style]")).forEach(($node) => {
-    $node.setAttribute("style", "")
+  Array.from(document.querySelectorAll('[style]')).forEach(($node) => {
+    $node.setAttribute('style', '')
   })
 
   // Embed a banner at the top indicating you are in "css-naked" mode
-  const $alert = document.createElement("div")
+  const $alert = document.createElement('div')
   $alert.innerHTML = [
     nakedDay
-      ? 'Happy <a href="https://css-naked-day.org"><abbr title="Cascading Style Sheets">CSS</abbr> Naked Day</a>!'
-      : 'You are viewing this site with all <abbr title="Cascading Style Sheets">CSS</abbr> removed.',
+      ? `Happy <a href="https://css-naked-day.org"><abbr title="Cascading Style Sheets">CSS</abbr> Naked Day</a>!`
+      : `You’re viewing this site with all <abbr title="Cascading Style Sheets">CSS</abbr> removed.`,
     nakedDay
-      ? 'You are viewing this site with all <abbr title="Cascading Style Sheets">CSS</abbr> removed.'
-      : 'Any day can be <a href="https://css-naked-day.org"><abbr title="Cascading Style Sheets">CSS</abbr> Naked Day</a>!',
-    "Want to flip back to the normal view?",
-    "<a href='./' id='naked-css-toggle'>Click here</a>.",
-  ].join(" ")
+      ? `You are viewing this site with all <abbr title="Cascading Style Sheets">CSS</abbr> removed.`
+      : `Any day can be <a href="https://css-naked-day.org"><abbr title="Cascading Style Sheets">CSS</abbr> Naked Day</a>!`,
+    `Want to flip back to the normal view?`,
+    `<a href="./" id="naked-css-toggle">Click here</a>.`,
+  ].join(' ')
   $alert.style.cssText = `
     background: lightyellow;
     padding: 5px;
     margin: 15px 0;
   `
-  $alert.querySelector("#naked-css-toggle").addEventListener("click", (e) => {
+  $alert.querySelector('#naked-css-toggle').addEventListener('click', (e) => {
     e.preventDefault()
-    window.localStorage.setItem(storageKey, "false")
-    window.location.href = window.location.href.split("?")[0]
+    window.localStorage.setItem(storageKey, 'false')
+    window.location.href = window.location.href.split('?')[0]
   })
   document.body.prepend($alert)
 } else if (nakedDay) {
   // It's CSS Naked Day but the user opted to keep styles on —
   // show a banner so they can easily toggle back to naked mode.
-  const $alert = document.createElement("div")
+  const $alert = document.createElement('div')
   $alert.innerHTML = [
-    "It's <a href='https://css-naked-day.github.io/'>CSS Naked Day</a>!",
-    "Want to view this site without any CSS?",
-    "<a href='./' id='naked-css-toggle'>Click here</a>.",
-  ].join(" ")
+    `It’s <a href='https://css-naked-day.org'><abbr title="Cascading Style Sheets">CSS</abbr> Naked Day</a>!`,
+    `Want to view the site without any <abbr title="Cascading Style Sheets">CSS</abbr>?`,
+    `<a href="./" id="naked-css-toggle" class="internal">Click here</a>.`,
+  ].join(' ')
   $alert.className = `css-naked-alert`
 
-  $alert.querySelector("#naked-css-toggle").addEventListener("click", (e) => {
+  $alert.querySelector('#naked-css-toggle').addEventListener('click', (e) => {
     e.preventDefault()
-    window.localStorage.setItem(storageKey, "true")
+    window.localStorage.setItem(storageKey, 'true')
     window.location.reload()
   })
-  document.querySelector("main").prepend($alert)
+  document.querySelector('main').prepend($alert)
 }
