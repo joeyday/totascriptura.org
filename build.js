@@ -1518,9 +1518,9 @@ async function build() {
 
   // Randomizer page — picks a random content page and redirects immediately
   const randomUrls = allPages
-    .filter((item) => item.url)   // exclude alias redirect stubs
+    .filter((item) => item.url) // exclude alias redirect stubs
     .map((item) => item.url);
-  const randomContent = `<p>Taking you somewhere interesting…</p>
+  const randomContent = `<div><p>The lot is cast into the lap, but its every decision is from the <abbr>LORD</abbr>.</p></div>
 <script>
 (function() {
   var pages = ${JSON.stringify(randomUrls)};
