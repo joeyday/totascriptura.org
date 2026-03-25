@@ -320,7 +320,7 @@ function processPlainText(text, ctxState) {
 }
 
 // Tags whose content we skip entirely (no Bible-ref linking inside these)
-const SKIP_TAGS = new Set(["a", "code", "pre", "script", "style"]);
+const SKIP_TAGS = new Set(["a", "code", "pre", "script", "style", "h1", "h2", "h3", "h4", "h5", "h6"]);
 
 // Block-level tags that reset the continuation-ref context between paragraphs/items
 const BLOCK_TAGS = new Set([
