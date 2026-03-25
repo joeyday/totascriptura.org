@@ -457,9 +457,20 @@ function wrapAbbreviations(html, abbrMap) {
 
 // ─── Roman Numeral Wrapping ───────────────────────────────────────────────────
 
-// Matches strictly valid Roman numerals (1–3999), uppercase only, minimum 2 characters.
-// Lookahead (?=[MDCLXVI]{2}) enforces the 2-char minimum before the structural match.
-const ROMAN_NUM_RE = /\b(?=[MDCLXVI]{2})M{0,3}(?:CM|CD|D?C{0,3})(?:XC|XL|L?X{0,3})(?:IX|IV|V?I{0,3})\b/g;
+// Matches strictly valid Roman numerals (1–3999), uppercase only.
+// Two branches:
+//   1. Dotted pair ROMAN.ROMAN — each half ≥ 1 char (e.g. X.III, I.I, XIV.II)
+//   2. Standalone — ≥ 2 chars (lookahead (?=[MDCLXVI]{2}) excludes bare I, V, X, etc.)
+// Dotted branch is listed first so it wins the longer match.
+// The match.length >= 2 guard in the replacement callback is a safety net against
+// empty matches that the all-optional structural pattern can produce at word boundaries.
+const ROMAN_RE_SRC =
+  "M{0,3}(?:CM|CD|D?C{0,3})(?:XC|XL|L?X{0,3})(?:IX|IV|V?I{0,3})";
+const ROMAN_NUM_RE = new RegExp(
+  `\\b(?=[MDCLXVI])${ROMAN_RE_SRC}\\.(?=[MDCLXVI])${ROMAN_RE_SRC}\\b` +
+  `|\\b(?=[MDCLXVI]{2})${ROMAN_RE_SRC}\\b`,
+  "g",
+);
 
 // Tags whose content we skip entirely for Roman numeral wrapping
 const ROMAN_SKIP_TAGS = new Set(["abbr", "code", "pre", "script", "style"]);
