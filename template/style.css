@@ -830,7 +830,13 @@ footer {
     }
 }
 
-.alphabetical .entypo-icon {
-	font-size: 1.25rem;
-	vertical-align: baseline;
+.alphabetical {
+	li {
+		color: var(--color-main-text-muted);
+	}
+
+	.entypo-icon {
+		font-size: 1.25rem;
+		vertical-align: baseline;
+	}
 }
