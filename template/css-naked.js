@@ -72,7 +72,6 @@ if (cssNaked) {
     "Want to flip back to the normal view?",
     "<a href='./' id='naked-css-toggle'>Click here</a>.",
   ].join(" ")
-  $alert.className = `css-naked-alert`
   $alert.style.cssText = `
     background: lightyellow;
     padding: 5px;
@@ -94,15 +93,11 @@ if (cssNaked) {
     "<a href='./' id='naked-css-toggle'>Click here</a>.",
   ].join(" ")
   $alert.className = `css-naked-alert`
-  $alert.style.cssText = `
-    background: lightyellow;
-    padding: 5px;
-    margin: 15px 0;
-  `
+
   $alert.querySelector("#naked-css-toggle").addEventListener("click", (e) => {
     e.preventDefault()
     window.localStorage.setItem(storageKey, "true")
     window.location.reload()
   })
-  document.body.prepend($alert)
+  document.querySelector("main").prepend($alert)
 }
