@@ -417,7 +417,9 @@ function wrapAbbreviations(html, abbrMap) {
       if (skipStack.length === 0) {
         result.push(before.replace(combinedRe, (match) => {
           const expansion = abbrMap[match];
-          return expansion ? `<abbr title="${expansion}">${match}</abbr>` : match;
+          return expansion != null
+            ? `<abbr title="${expansion}">${match}</abbr>`
+            : `<abbr>${match}</abbr>`;
         }));
       } else {
         result.push(before);
@@ -443,7 +445,9 @@ function wrapAbbreviations(html, abbrMap) {
     if (skipStack.length === 0) {
       result.push(tail.replace(combinedRe, (match) => {
         const expansion = abbrMap[match];
-        return expansion ? `<abbr title="${expansion}">${match}</abbr>` : match;
+        return expansion != null
+          ? `<abbr title="${expansion}">${match}</abbr>`
+          : `<abbr>${match}</abbr>`;
       }));
     } else {
       result.push(tail);
