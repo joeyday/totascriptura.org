@@ -5,7 +5,7 @@ categories:
   - "[[Soteriology]]"
 ---
 
-**Definite atonement** addresses the intent and scope of the atoning death of Christ. It maintains that Christ suffered for sin and secured redemption only for those elected by God to salvation. For a general overview of the atonement, see [[Atonement|atonement]].
+**Definite atonement** addresses the intent and scope of the atoning death of Christ. It maintains that Christ suffered for sin and secured redemption only for those elected by God to salvation. For a general overview of the atonement, see [[topic/Atonement|atonement]].
 
 ## Designed to secure salvation, not merely make it possible
 

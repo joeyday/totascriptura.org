@@ -46,7 +46,7 @@ Passages in this topic are grouped under each heading based on their indication,
 {{mt|[[Hypostatic union]]}}
 *Necessary:* 1Jn 4:2–3; 2Jn 1:7–11
 ### Christ died for our sins, was buried, was raised on the third day
-{{mt|[[Atonement]]}}
+{{mt|[[topic/Atonement]]}}
 *Sufficient:* 1Co 15:1–4
 ### Christ was raised ~(resurrection)~
 {{mt|[[Resurrection]]}}
