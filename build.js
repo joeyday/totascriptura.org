@@ -14,7 +14,7 @@ const BIBLE_BOOKS = [
   { names: ["Judges", "Jdg"], osis: "Judg" },
   { names: ["Ruth", "Ru"], osis: "Ruth" },
   { names: ["1 Samuel", "1Samuel", "1Sa"], osis: "1Sam" },
-  { names: ["2 Samuel", "2Samuel", "2Sa"], osis: "2Sam" },
+  { names: ["2 Samuel", "2Sraamuel", "2Sa"], osis: "2Sam" },
   { names: ["1 Kings", "1Kings", "1Ki"], osis: "1Kgs" },
   { names: ["2 Kings", "2Kings", "2Ki"], osis: "2Kgs" },
   { names: ["1 Chronicles", "1Chronicles", "1Ch"], osis: "1Chr" },
@@ -320,7 +320,19 @@ function processPlainText(text, ctxState) {
 }
 
 // Tags whose content we skip entirely (no Bible-ref linking inside these)
-const SKIP_TAGS = new Set(["a", "code", "pre", "script", "style", "h1", "h2", "h3", "h4", "h5", "h6"]);
+const SKIP_TAGS = new Set([
+  "a",
+  "code",
+  "pre",
+  "script",
+  "style",
+  "h1",
+  "h2",
+  "h3",
+  "h4",
+  "h5",
+  "h6",
+]);
 
 // Block-level tags that reset the continuation-ref context between paragraphs/items
 const BLOCK_TAGS = new Set([
@@ -633,6 +645,69 @@ function wrapRomanNumerals(html) {
 }
 
 // ─── End Roman Numeral Wrapping ───────────────────────────────────────────────
+
+// ─── Divine Name Wrapping ─────────────────────────────────────────────────────
+// LORD, GOD, YHWH (all-caps) → <span class="divine-name" data-name="…">LORD</span>
+// Text is kept uppercase; data-name carries the matched token for CSS/JS targeting.
+
+const DIVINE_NAME_RE = /\b(LORD|GOD|YHWH)\b/g;
+const DIVINE_NAME_SKIP_TAGS = new Set([
+  "abbr",
+  "code",
+  "pre",
+  "script",
+  "style",
+]);
+
+function wrapDivineNames(html) {
+  const result = [];
+  const TAG_RE =
+    /<!--[\s\S]*?-->|<!\[CDATA\[[\s\S]*?\]\]>|<\/?([a-zA-Z][a-zA-Z0-9]*)[^>]*>/g;
+  const skipStack = [];
+  let lastIndex = 0;
+
+  const replace = (text) =>
+    text.replace(DIVINE_NAME_RE, (match) => {
+      return `<span class="divine-name" data-name="${match}">${match}</span>`;
+    });
+
+  let m;
+  TAG_RE.lastIndex = 0;
+  while ((m = TAG_RE.exec(html)) !== null) {
+    const tagFull = m[0];
+    const tagName = m[1] ? m[1].toLowerCase() : null;
+    const before = html.slice(lastIndex, m.index);
+
+    if (before) {
+      result.push(skipStack.length === 0 ? replace(before) : before);
+    }
+
+    if (tagName && DIVINE_NAME_SKIP_TAGS.has(tagName)) {
+      if (tagFull.startsWith("</")) {
+        if (
+          skipStack.length > 0 &&
+          skipStack[skipStack.length - 1] === tagName
+        ) {
+          skipStack.pop();
+        }
+      } else if (!tagFull.endsWith("/>")) {
+        skipStack.push(tagName);
+      }
+    }
+
+    result.push(tagFull);
+    lastIndex = m.index + tagFull.length;
+  }
+
+  const tail = html.slice(lastIndex);
+  if (tail) {
+    result.push(skipStack.length === 0 ? replace(tail) : tail);
+  }
+
+  return result.join("");
+}
+
+// ─── End Divine Name Wrapping ─────────────────────────────────────────────────
 
 import markdownIt from "markdown-it";
 import markdownItFootnote from "markdown-it-footnote";
@@ -1525,14 +1600,14 @@ async function build() {
     .filter((item) => item.url) // exclude alias redirect stubs
     .map((item) => item.url);
   const randomContent = `<script>
-(function() {
-  var pages = ${JSON.stringify(randomUrls)};
-  if (!pages.length) { return; }
-  window.location.replace(pages[Math.floor(Math.random() * pages.length)]);
-})();
-<\/script>
-<div><p><em>The lot is cast into the lap, but its every decision is from the <abbr>LORD</abbr>.<br><small>—Proverbs 16:33</small></em></p></div>
-<noscript><div><p>JavaScript is required for this feature. <a href="/index/alphabetical">Browse the index</a> instead.</p></div></noscript>`;
+  (function() {
+    var pages = ${JSON.stringify(randomUrls)};
+    if (!pages.length) { return; }
+    window.location.replace(pages[Math.floor(Math.random() * pages.length)]);
+  })();
+  <\/script>
+  <div><p><em>The lot is cast into the lap, but its every decision is from the <abbr>LORD</abbr>.<br><small>—Proverbs 16:33</small></em></p></div>
+  <noscript><div><p>JavaScript is required for this feature. <a href="/index/alphabetical">Browse the index</a> instead.</p></div></noscript>`;
   const randomHtml = renderLayout(randomContent, {
     frontmatter: { title: "Random page", permalink: "random" },
   });
@@ -1587,6 +1662,20 @@ async function build() {
   }
   console.log(
     `Roman numeral wrapper: processed ${htmlFiles.length} HTML file(s), rewrote ${romanCount}.`,
+  );
+
+  // Post-process: wrap divine names (LORD, GOD, YHWH) in all HTML files
+  let divineCount = 0;
+  for (const htmlFile of htmlFiles) {
+    const raw = await fs.readFile(htmlFile, "utf-8");
+    const wrapped = wrapDivineNames(raw);
+    if (wrapped !== raw) {
+      await fs.writeFile(htmlFile, wrapped);
+      divineCount++;
+    }
+  }
+  console.log(
+    `Divine name wrapper: processed ${htmlFiles.length} HTML file(s), rewrote ${divineCount}.`,
   );
 }
 

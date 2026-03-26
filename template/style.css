@@ -398,18 +398,25 @@ main {
         background-color: var(--color-quinary);
     }
     
-    abbr,
-    .roman-num {
+    abbr {
         text-decoration: none;
     }
     
     abbr:not(h1 *, h2 *, th *, .footnotes-list *),
-    .roman-num:not(h1 *, h2 *, th *, .footnotes-list *) {
+    .roman-num:not(h1 *, h2 *, th *, .footnotes-list *),
+    .divine-name:not(h1 *, h2 *, th *, .footnotes-list *) {
         font-variant-caps: all-small-caps;
         -moz-font-feature-settings: "kern", "liga", "c2sc", "smcp";
         -webkit-font-feature-settings: "kern", "liga", "c2sc", "smcp";
         font-feature-settings: "kern", "liga", "c2sc", "smcp";
     }
+    
+    .divine-name[data-name="LORD"]::first-letter,
+    .divine-name[data-name="GOD"]::first-letter {
+		font-variant-caps: normal;
+    }
+    
+    .divine-name[data-name="LORD"],
 
     
     /* callout boxes */
