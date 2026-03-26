@@ -1524,14 +1524,14 @@ async function build() {
   const randomUrls = allPages
     .filter((item) => item.url) // exclude alias redirect stubs
     .map((item) => item.url);
-  const randomContent = `<div><p><em>The lot is cast into the lap, but its every decision is from the <abbr>LORD</abbr>.<br><small>—Proverbs 16:33</small></em></p></div>
-<script>
+  const randomContent = `<script>
 (function() {
   var pages = ${JSON.stringify(randomUrls)};
   if (!pages.length) { return; }
   window.location.replace(pages[Math.floor(Math.random() * pages.length)]);
 })();
 <\/script>
+<div><p><em>The lot is cast into the lap, but its every decision is from the <abbr>LORD</abbr>.<br><small>—Proverbs 16:33</small></em></p></div>
 <noscript><div><p>JavaScript is required for this feature. <a href="/index/alphabetical">Browse the index</a> instead.</p></div></noscript>`;
   const randomHtml = renderLayout(randomContent, {
     frontmatter: { title: "Random page", permalink: "random" },
