@@ -453,8 +453,6 @@ Is Social Trinitarianism basically tritheist or is there more nuance there?
 
 ## Why do modern translations prefer Lord over Yahweh or Jehovah?
 
-Note, I haven’t been consistent about keeping the small caps in these quotes, largely because I’ve copy/pasted this mostly on my phone. I need to come back (probably when I’m on my Mac), and clean this up a bit.
-
 Two interesting articles about this:
 
 - <https://www.thegospelcoalition.org/article/getting-gods-name-right/>
