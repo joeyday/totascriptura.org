@@ -36,11 +36,15 @@
     </header>
     <main>
         <article>
-            <h1>
-                <%= frontmatter.title %>
-                <% if (featured || featuredWith) { %><span class="featured-badge">&starf;</span><% } %>
-                <% if (frontmatter['quick nav']) { %><span class="quick-nav"><a class="internal" href="/index/featured">Featured</a> &middot; <a class="internal" href="/index/alphabetical">Index</a></span><% } %>
-            </h1>
+            <header>
+                <h1><%= frontmatter.title %></h1>
+                <% if (frontmatter['quick nav']) { %>
+                <nav class="quick-nav">
+                    <li><a class="internal" href="/index/featured">Featured</a></li>
+                    <li><a class="internal" href="/index/alphabetical">Index</a></li>
+                </nav>
+                <% } else if (featured || featuredWith) { %><span class="featured-badge">&starf;</span><% } %>
+            </header>
             
             <% if (frontmatter.draft) { %>
             <div class="message"><p><span>&#9998;</span> <em>Notice: this topic is a working draft.</em></p></div>

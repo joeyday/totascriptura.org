@@ -189,6 +189,17 @@ main {
         width: var(--main-width);
         margin: auto;
         padding: 1.4em;
+        
+        header:has(.featured-badge),
+        header:has(.quick-nav) {
+            display: flex;
+            align-items: center;
+        }
+        
+        header .featured-badge,
+        header .quick-nav {
+            margin-left: auto;
+        }
     }
       
     h1, h2, h3, h4, h5, h6 {
@@ -376,22 +387,6 @@ main {
         vertical-align: -0.1em;
         line-height: 1rem;
     }
-
-    h1:has(.featured-badge),
-    h1:has(.quick-nav) {
-        display: flex;
-        align-items: center;
-    }
-    
-    h1 .featured-badge {
-        margin-left: auto;
-    }
-    
-    h1 .quick-nav {
-        margin-left: auto;
-        font-size: 1rem;
-        font-family: var(--font-secondary);
-    }
     
     mark {
         color: var(--color-main-text);
@@ -439,6 +434,23 @@ main {
     div.indent-three-times,
     div.three-tabs {
         margin-left: 4.2rem;
+    }
+    
+    .quick-nav {
+        font-size: 1rem;
+        font-family: var(--font-secondary);
+        
+        li {
+            display: inline;
+            
+            &::after {
+                content: ' &middot; ';
+            }
+            
+            &:last-child::after {
+                content: '';
+            }
+        }
     }
 
     .message {
