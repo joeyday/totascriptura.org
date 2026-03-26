@@ -411,8 +411,8 @@ main {
         font-feature-settings: "kern", "liga", "c2sc", "smcp";
     }
     
-    .divine-name[data-name="LORD"]::first-letter,
-    .divine-name[data-name="GOD"]::first-letter {
+    .divine-name[data-name="LORD"] .divine-name-initial,
+    .divine-name[data-name="GOD"] .divine-name-initial {
 		font-variant-caps: normal;
     }
     

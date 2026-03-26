@@ -647,8 +647,12 @@ function wrapRomanNumerals(html) {
 // ─── End Roman Numeral Wrapping ───────────────────────────────────────────────
 
 // ─── Divine Name Wrapping ─────────────────────────────────────────────────────
-// LORD, GOD, YHWH (all-caps) → <span class="divine-name" data-name="…">LORD</span>
-// Text is kept uppercase; data-name carries the matched token for CSS/JS targeting.
+// LORD, GOD, YHWH (all-caps) →
+//   <span class="divine-name" data-name="…">
+//     <span class="divine-name-initial">L</span>ORD
+//   </span>
+// First letter wrapped in .divine-name-initial so it can be styled independently
+// of the remaining small-capped letters (::first-letter only works on block elements).
 
 const DIVINE_NAME_RE = /\b(LORD|GOD|YHWH)\b/g;
 const DIVINE_NAME_SKIP_TAGS = new Set([
@@ -668,7 +672,7 @@ function wrapDivineNames(html) {
 
   const replace = (text) =>
     text.replace(DIVINE_NAME_RE, (match) => {
-      return `<span class="divine-name" data-name="${match}">${match}</span>`;
+      return `<span class="divine-name" data-name="${match}"><span class="divine-name-initial">${match[0]}</span>${match.slice(1)}</span>`;
     });
 
   let m;
