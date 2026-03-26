@@ -723,7 +723,7 @@ footer {
         }
     }
     
-    header {
+    header:not(article *) {
         grid-area: header;
         width: 100%;
         
@@ -783,7 +783,8 @@ footer {
                 }
             }
         }    
-    }    
+    }
+    
     nav.sidebar {
         height: 100%; /* stretch to fill space */
         
