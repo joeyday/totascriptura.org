@@ -189,16 +189,20 @@ main {
         width: var(--main-width);
         margin: auto;
         padding: 1.4em;
-        
+
         header:has(.featured-badge),
         header:has(.quick-nav) {
             display: flex;
             align-items: center;
         }
-        
-        header .featured-badge,
-        header .quick-nav {
-            margin-left: auto;
+
+        header {
+            border-bottom: 1px solid var(--color-main-thin-stroke);
+            
+            .featured-badge,
+            .quick-nav {
+                margin-left: auto;
+            }
         }
     }
       
@@ -211,7 +215,6 @@ main {
         font-weight: normal;
         font-size: 1.571em; /* 14px·1.375=22px */
         margin: 0 0 0.255em; /* 1.571em·0.255=0.4em */
-        border-bottom: 1px solid var(--color-main-thin-stroke);
     }
     
     h2 {
@@ -723,8 +726,12 @@ footer {
     main {
         grid-area: main;
         
-        article h1 .quick-nav {
-            display: none;
+        article header {
+            display: initial;
+        
+            .quick-nav {
+                display: none;
+            }
         }
     }
     
