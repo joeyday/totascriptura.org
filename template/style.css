@@ -509,7 +509,7 @@ main {
     }
 }
 
-header, nav, footer {
+header:not(article *), nav, footer {
     width: calc(var(--main-width) - 2.8rem);
     margin: 1.4rem auto;
     padding: 0 1.4rem;
@@ -521,7 +521,7 @@ header, nav, footer {
     a { color: var(--color-nav-text); }
 }
 
-header {
+header:not(article *) {
     a {
         font-family: var(--font-primary);
         font-feature-settings: "smcp", "c2sc";
