@@ -916,7 +916,11 @@ function getFrontmatterValue(data, key) {
 
 function stripBrackets(value) {
   if (typeof value !== "string") return value;
-  return value.replace(/^\[\[/, "").replace(/\]\]$/, "").trim();
+  let v = value.replace(/^\[\[/, "").replace(/\]\]$/, "").trim();
+  // Strip Obsidian display-text suffix: [[Page|Display Text]] → Page
+  const pipeIdx = v.indexOf("|");
+  if (pipeIdx !== -1) v = v.slice(0, pipeIdx).trim();
+  return v;
 }
 
 function resolveFileMapKey(target, fileMap) {
