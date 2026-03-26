@@ -504,7 +504,7 @@ Two interesting articles about this:
 >
 > Third, consistent feedback from readers showed that the unfamiliarity of “Yahweh” was an obstacle to reading the HCSB. For example, many reported that they felt “Yahweh” was an innovation, and they misunderstood the intent behind using the formal name of God. A translation that values accuracy and readability was thereby limited by a translation choice that did not provide clarity to the reader.
 >
-> Fourth, ==when quoting Old Testament texts that include an occurrence of YHWH, the New Testament renders YHWH with the word kurios, which is a title (Lord) rather than a personal name. With this precedent in hand, most English translators have chosen to render YHWH as “LORD” rather than “Yahweh.”==
+> Fourth, ==when quoting Old Testament texts that include an occurrence of YHWH, the New Testament renders YHWH with the word *kurios*, which is a title (Lord) rather than a personal name. With this precedent in hand, most English translators have chosen to render YHWH as “LORD” rather than “Yahweh.”==
 >
 > For these reasons, CSB is in line with the majority of English translations in its rendering of YHWH as “LORD.” In places where God introduces or emphasizes his covenant name, CSB has a footnote, saying, “Lit. Yahweh.”[^32]
 
