@@ -15,7 +15,7 @@ Ge 1:1; 21:33; Job 36:26; Ps 90:2, 4; 93:2; 102:24; Isa 26:4; 40:28; 41:4; 44:6;
 
 ### Foreknowledge
 
-{{[[mt]]|[[Foreknowledge]]}}
+{{[[mt]]|[[topic/Foreknowledge|Foreknowledge]]}}
 
 {{[[foreknowledge-partial]]}}
 
@@ -33,7 +33,7 @@ Isa 57:15; Ac 17:27–28; Ro 10:8
 
 ### Impassibility ~(“without passions”, not given to mood swings nor able to suffer)~
 
-{{[[mt]]|[[Impassibility]]}}
+{{[[mt]]|[[topic/Impassibility|Impassibility]]}}
 
 1Sa 15:29; Ne 9:17; Ps 50:12–13; 103:8, 17; Lam 3:22; Hos 11:9; Ac 14:15; Ro 9:22; Jas 5:17
 
@@ -47,7 +47,7 @@ Isa 57:15; Ac 17:27–28; Ro 10:8
 
 ### Incorporeality ~(“without body”, immaterial, invisible, spirit)~
 
-{{[[mt]]|[[Incorporeality]]}}
+{{[[mt]]|[[topic/Incorporeality|Incorporeality]]}}
 
 {{[[incorporeality-partial]]}}
 
@@ -57,7 +57,7 @@ Isa 57:15; Ac 17:27–28; Ro 10:8
 
 ### Love
 
-{{[[mt]]|[[God is love]]}}
+{{[[mt]]|[[topic/God is love|God is love]]}}
 
 Dt 7:7–8; 30:9; Isa 64:4; Jer 31:3; 32:41; Zep 3:17; Lk 15:20; Jn 1:18; 3:16, 35; 5:20; 10:11, 17; 14:9–10, 31; 15:13; 17:23, 24, 26; Ro 5:8; Eph 1:4–5; 5:25; 1Jn 3:1; 4:8, 16, 19
 
@@ -86,17 +86,17 @@ Ps 103:6
 
 ### Simplicity ~(“without parts”, indivisible, neither compound nor composite)~
 
-{{[[mt]]|[[Simplicity]]}}
+{{[[mt]]|[[topic/Simplicity|Simplicity]]}}
 
 Dt 6:4–5; Jer 23:6; Mk 12:28–34 ~(cites Dt 6:4–5)~; Jn 1:4–5, 9; 3:33; 4:24; 14:6; Ro 3:30; 1Co 1:30; Gal 3:20; Jas 2:19; 1Jn 1:5; 4:8, 16; 5:6
 
 ### Sovereignty
 
-{{[[mt]]|[[Providence]]}}{{[[sovereignty]]}}
+{{[[mt]]|[[topic/Providence|Providence]]}}{{[[sovereignty]]}}
 
 ### Transcendence
 
-{{[[mt]]|[[Creator-creature distinction]]}}{{[[transcendence]]}}
+{{[[mt]]|[[topic/Creator-creature distinction|Creator-creature distinction]]}}{{[[transcendence]]}}
 
 ### {{[[veracity-heading]]}}
 

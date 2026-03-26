@@ -12,7 +12,7 @@ Ge 15:1 KJV; Ps 16; Ps 73:23–28; Eze 44:28; Rev 21:1–8
 
 ### We will inherit covenant promises
 
-{{[[mt]]|[[Covenant theology]]}}
+{{[[mt]]|[[topic/Covenant theology|Covenant theology]]}}
 Heb 6:12
 
 ### We will inherit salvation, eternal life
@@ -45,5 +45,5 @@ Ps 84:11; Ro 8:32
 
 ## See also
 
-- [[Covenant theology]]
-- [[Heaven]]
+- [[topic/Covenant theology|Covenant theology]]
+- [[topic/Heaven|Heaven]]

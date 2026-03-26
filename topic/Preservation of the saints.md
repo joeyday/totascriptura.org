@@ -58,4 +58,4 @@ Mt 10:22; Mt 24:13 ~(cf. Mk 13:13; Lk 21:19)~; Jn 8:31–32; Heb 3:14; 1Jn 2:19-
 
 ## See also
 
-- [[Doctrines of grace]]
+- [[topic/Doctrines of grace|Doctrines of grace]]

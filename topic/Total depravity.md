@@ -28,5 +28,5 @@ Jn 6:44, 65; 8:43; 10:26; 12:39–40 ~(cf. Mt 13:14–15; cites Isa 6:10)~; 1Co 
 ## See also
 
 - [[Fourfold state of man]]
-- [[Original sin]]
-- [[Doctrines of grace]]
+- [[topic/Original sin|Original sin]]
+- [[topic/Doctrines of grace|Doctrines of grace]]

@@ -14,7 +14,7 @@ aside of: "[[Home page]]"
 
 ## Todos
 
-- Find a place for the verses on this list: [1](http://learntheology.com/verses-used-to-support-arminianism.html) (used some of them in [[free will]]).
+- Find a place for the verses on this list: [1](http://learntheology.com/verses-used-to-support-arminianism.html) (used some of them in [[topic/Free will|Free will]]).
 - Look back through my emails to Dad and Steve.
 - Look through my posts on Beliefnet.
 - Look back through my blog posts.
@@ -22,7 +22,7 @@ aside of: "[[Home page]]"
 - Look back through documents on my documentation wiki.
 - Browse my NASB Study Bible for underlined passages and notes.
 - Browse my old LDS scriptures for underlines and notes.
-- Harmonize passage lists about divinity and humanity being necessary for the atonement on [[topic/Jesus is God]] (in the inferences section) and [[Hypostatic union]].
+- Harmonize passage lists about divinity and humanity being necessary for the atonement on [[topic/Jesus is God|Jesus is God]] (in the inferences section) and [[topic/Hypostatic union|Hypostatic union]].
 
 ## Thinking about prepositions and the Trinity
 
@@ -36,17 +36,17 @@ What if climate change is the next spectacular sin? God meant it for good but we
 
 ## Topic suggestions from Steve
 
-> What about verses for and against the possibility/necessity of continuing [[Revelation|revelation]], prophets, apostles, and [[Scripture]]? What about a list of verses for and against an [[Apostasy|apostasy]], a [[Restoration|restoration]]? What about a list of [[Unfulfilled prophecies|prophecies yet unfulfilled]] by Jesus when he came?
+> What about verses for and against the possibility/necessity of continuing [[topic/Revelation|revelation]], prophets, apostles, and [[topic/Scripture|Scripture]]? What about a list of verses for and against an [[Apostasy|apostasy]], a [[Restoration|restoration]]? What about a list of [[Unfulfilled prophecies|prophecies yet unfulfilled]] by Jesus when he came?
 
 ~(In the middle here I explained I don’t like having pages that focus too heavily on LDS doctrines.)~
 
-> OK, I understand. Still, it seems that to truly consider whether the canon is closed and the Bible is *tota* and *sola Scriptura*, you should examine all biblical references with regard to the Bible, [[Scripture]], [[Revelation|revelation]], [[Prophets|prophets]], etc. That’s not a Mormon topic. Perhaps you have?
+> OK, I understand. Still, it seems that to truly consider whether the canon is closed and the Bible is *tota* and *sola Scriptura*, you should examine all biblical references with regard to the Bible, [[topic/Scripture|Scripture]], [[topic/Revelation|revelation]], [[Prophets|prophets]], etc. That’s not a Mormon topic. Perhaps you have?
 
-> And a page considering whether their might be further prophets and a latter-day [[Restoration|restoration]] and [[Scattering and gathering of Israel|gathering]] with additional [[Scripture]]...
+> And a page considering whether their might be further prophets and a latter-day [[Restoration|restoration]] and [[topic/Scattering and gathering of Israel|gathering]] with additional [[topic/Scripture|Scripture]]...
 
 —**Joey** 18:04, 9 January 2015 (UTC)
 
-> As you mentioned yesterday, the [[Revelation|revelation]] page appears to be only one side of the issue. You might want to do an update and search for scriptures that support the opposite.
+> As you mentioned yesterday, the [[topic/Revelation|revelation]] page appears to be only one side of the issue. You might want to do an update and search for scriptures that support the opposite.
 
 —**Joey** 19:11, 9 January 2015 (UTC)
 
@@ -153,7 +153,7 @@ Where did Jesus’ genetic material come from? A female could conceivably give b
 
 ## What did Jesus actually teach?
 
-Mt 4:23; 9:35 say he was proclaiming the good news of the kingdom, but what does that mean? Was he teaching the Christian [[Gospel|gospel]] or some other good news? Analyze the content of Jesus’ parables and other teachings (big todo).
+Mt 4:23; 9:35 say he was proclaiming the good news of the kingdom, but what does that mean? Was he teaching the Christian [[topic/Gospel|gospel]] or some other good news? Analyze the content of Jesus’ parables and other teachings (big todo).
 
 ## In defense of proof texting
 

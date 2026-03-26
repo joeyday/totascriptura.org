@@ -5,4 +5,4 @@ draft: true
 ---
 ## See also
 
-- [[Covenant theology]]
+- [[topic/Covenant theology|Covenant theology]]

@@ -1,5 +1,5 @@
 ---
-aside of: "[[topic/Ex nihilo creation]]"
+aside of: "[[topic/Ex nihilo creation|Ex nihilo creation]]"
 ---
 ## Who denies *creatio ex nihilo*?
 * Plato

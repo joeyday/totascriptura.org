@@ -54,7 +54,7 @@ Ge 3:5, 22
 
 ### “Sons of God”
 
-{{[[mt]]|[[Sons of God in Genesis 6]]}}
+{{[[mt]]|[[topic/Sons of God in Genesis 6|Sons of God in Genesis 6]]}}
 Ge 6:2–4; Ps 82:1–8
 
 ### Adam as son of God
@@ -63,7 +63,7 @@ Lk 3:23, 38
 
 ### People as children of God
 
-{{[[mt]]|[[God the Father]]}}
+{{[[mt]]|[[topic/God the Father|God the Father]]}}
 Dt 14:1; Isa 63:16; 64:8; Mt 5:8–10; 6:9; Lk 11:2; Jn 1:11–13; 11:51–52; Ac 17:28–29; Ro 1:7; 8:9–32; 1Co 1:3; 4:14–17; 2Co 1:2; Gal 1:4–5; 3:26–28; 4:1–7; Eph 1:2; 4:4–6; Php 1:2; 1Th 1:1–4; 3:11–13; 2Th 1:1–2; 2:13–17; 1Ti 1:2; 1Jn 3:1–3, 9–10; 5:1–2, 18–21; Col 1:2
 
 ### Jesus as Son of God

@@ -40,4 +40,4 @@ Jn 6:44, 63–65 ~— *see also Jn 12:32*~
 
 ## See also
 
-- [[Doctrines of grace]]
+- [[topic/Doctrines of grace|Doctrines of grace]]

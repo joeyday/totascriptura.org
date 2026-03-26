@@ -1,6 +1,6 @@
 ---
 hidden: true
-aside of: "[[topic/Apostolicity]]"
+aside of: "[[topic/Apostolicity|Apostolicity]]"
 ---
 The Reformation redefined apostolicity or apostolic authority as following the teaching of the apostles rather than having authority delegated from the apostles (i.e. apostolic succession).
 

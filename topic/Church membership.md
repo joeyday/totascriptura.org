@@ -5,10 +5,10 @@ categories:
 ### Various records kept in the early church
 Ac 2:41, 47; 1Ti 5:3–16
 ### Church government implies membership
-{{mt|[[Church government]]}}
+{{mt|[[topic/Church government|Church government]]}}
 Ac 20:29–30; 1Ti 5:17; Heb 13:17; 1Pe 5:1–5
 ### Church discipline implies membership
-{{mt|[[Church discipline]]}}
+{{mt|[[topic/Church discipline|Church discipline]]}}
 Mt 18:15–18; 1Co 5:1–13
 ### Occurrences of “member”, “citizen”
 Ro 12:4–5; 1Co 6:15; 12:18–19, 25–27; Eph 2:19; 3:6; 4:25; 5:30

@@ -17,4 +17,4 @@ Ge 49:8–12; Dt 17:14–20; Jer 33:20–21
 
 ## See also
 
-- [[Covenant theology]]
+- [[topic/Covenant theology|Covenant theology]]

@@ -2,7 +2,7 @@
 categories:
   - "[[Soteriology]]"
 ---
-**Atonement** refers to the pardoning of sin and reconciliation with God through the death and resurrection of Christ. For the scope and intent of the atonement, see [[Definite atonement|definite atonement]].
+**Atonement** refers to the pardoning of sin and reconciliation with God through the death and resurrection of Christ. For the scope and intent of the atonement, see [[topic/Definite atonement|definite atonement]].
 ### God’s love redeems us
 Jn 3:16; 13:1; 15:13; Ro 5:8; Gal 2:20; Eph 1:4–5; 2:4
 ### Christ’s obedience redeems us
@@ -24,4 +24,4 @@ Isa 53:4–6, 8, 10–12; Ro 3:23–25; Heb 2:17; 1Jn 2:2; 4:10
 ### Alien imputed righteousness
 Isa 53:11; Ro 3:21–22; 5:18–19; 10:3; 1Co 1:30; Php 3:8–9
 ## See also
-* [[Definite atonement]]
+* [[topic/Definite atonement|Definite atonement]]

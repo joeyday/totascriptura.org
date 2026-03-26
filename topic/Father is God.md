@@ -12,7 +12,7 @@ Mt 2:15 ~(Hos 11:1)~; Mt 12:18–20 ~(Isa 42:1–3)~; Mt 22:44 ~(Ps 110:1)~; Mt 
 
 ## See also
 
-- [[God the Father]]
-- [[topic/Jesus is God]]
-- [[Holy Spirit is God]]
+- [[topic/God the Father|God the Father]]
+- [[topic/Jesus is God|Jesus is God]]
+- [[topic/Holy Spirit is God|Holy Spirit is God]]
 - [[topic/Trinity|Trinity]]

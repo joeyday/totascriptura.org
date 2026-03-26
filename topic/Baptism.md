@@ -54,7 +54,7 @@ Ex 4:25–26; Lev 17:11; Heb 9:18, 22
 
 ### Old and new covenants are essentially identical, continuous
 
-{{[[mt]]|[[Covenant theology]]}}
+{{[[mt]]|[[topic/Covenant theology|Covenant theology]]}}
 
 Ro 4:13–18; Gal 3; Heb 6:13–18
 
@@ -150,7 +150,7 @@ Ac 2:38; 8:16; 10:48; 19:5
 
 ## Subjects of
 
-{{[[mt]]|[[Subjects of baptism]]}}
+{{[[mt]]|[[topic/Subjects of baptism|Subjects of baptism]]}}
 
 ### Adults should be baptized only upon profession of faith
 
@@ -194,7 +194,7 @@ Isa 44:3–5; Eze 36:25–27; Jn 4:10, 14; 7:37–39; 1Co 12:13; Eph 5:25–27; 
 
 ### Salvation is not of works
 
-{{[[mt]]|[[Gospel]]}}
+{{[[mt]]|[[topic/Gospel|Gospel]]}}
 
 {{[[not-of-works]]}}
 

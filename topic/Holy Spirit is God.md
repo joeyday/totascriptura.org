@@ -13,7 +13,7 @@ Ac 28:25–27 ~(Isa 6:8–10)~; Heb 3:7–11 ~(Ps 95:6–11)~; Heb 10:15–17 ~(
 
 ## Holy Spirit has attributes of God
 
-{{[[mt]]|[[topic/Attributes of God]]}}
+{{[[mt]]|[[topic/Attributes of God|Attributes of God]]}}
 
 ### {{[[eternity-heading]]}}
 
@@ -58,6 +58,6 @@ Jn 16:13
 ## See also
 
 * [[Holy Spirit is a person]]
-* [[Father is God]]
-* [[topic/Jesus is God]]
-* [[topic/Trinity]]
+* [[topic/Father is God|Father is God]]
+* [[topic/Jesus is God|Jesus is God]]
+* [[topic/Trinity|Trinity]]

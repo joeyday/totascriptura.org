@@ -71,5 +71,5 @@ Mt 3:6–10; Ac 1:21–22; 10:34–37
 
 ## See also
 
-- [[topic/Baptism]]
-- [[Covenant theology]]
+- [[topic/Baptism|Baptism]]
+- [[topic/Covenant theology|Covenant theology]]

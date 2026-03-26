@@ -19,4 +19,4 @@ Ac 3:22; Ro 7:4–6; 8:2; 10:4; Gal 2:19; 3:13, 23–24; 4:1–7, 23–24; 5:18;
 
 ## See also
 
-- [[Covenant theology]]
+- [[topic/Covenant theology|Covenant theology]]

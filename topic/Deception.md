@@ -24,8 +24,8 @@ Jer 17:5, 9
 
 ## See also
 
-- [[Vain thoughts]]
-- [[Purpose of parables]]
+- [[topic/Vain thoughts|Vain thoughts]]
+- [[topic/Purpose of parables|Purpose of parables]]
 
 ## External links
 

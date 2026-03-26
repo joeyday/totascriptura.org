@@ -20,4 +20,4 @@ Ge 28:15; Dt 30:1–10; Neh 1:8–9 ~(cites Dt 30:2–3)~; Isa 11:10–16 ~(cite
 
 ## See also
 
-- [[Covenant theology]]
+- [[topic/Covenant theology|Covenant theology]]

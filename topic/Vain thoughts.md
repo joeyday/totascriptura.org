@@ -20,4 +20,4 @@ Jnh 2:8; Ac 14:15
 
 ## See also
 
-- [[Deception]]
+- [[topic/Deception|Deception]]

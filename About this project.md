@@ -24,7 +24,7 @@ But I’ve come to realize what I’m crafting here is more than just a concorda
 
 In recent years this has led me to more careful introspection about what exactly an ideal topic page should look like here. In the past I was content if a topic had maybe a dozen verses—enough to seem convincing—but lately I’ve made a more conscious effort to lay open “the whole counsel of God”[^acts]. I’m now aiming for completion, an exhaustive list of relevant Scripture passages for every topic I explore.
 
-For example, one of my favorite topics here is [[God the Father]], where I’ve cataloged the places in Scripture where God is called “Father” in one sense or another. This study has aided me immensely in understanding better the full nature of God the Father and how I relate to him both as part of his creation and as his adopted, spirit-born child.
+For example, one of my favorite topics here is [[topic/God the Father|God the Father]], where I’ve cataloged the places in Scripture where God is called “Father” in one sense or another. This study has aided me immensely in understanding better the full nature of God the Father and how I relate to him both as part of his creation and as his adopted, spirit-born child.
 ## The name
 This new emphasis on completion is why I chose **Tota Scriptura** as the title for the project. Fitting nicely with the more well-known principle of *sola Scriptura* (Scripture alone), the reformation doctrine of *tota Scriptura* (all of Scripture) is about “embracing the whole counsel of God as it is revealed in the entirety of sacred Scripture”[^sproul].
 

@@ -29,4 +29,4 @@ Ps 19:1–2; Ac 14:17; Ro 1:19–20
 
 ### Special revelation
 
-{{[[mt]]|[[God’s word]]}}
+{{[[mt]]|[[topic/God’s word|God’s word]]}}

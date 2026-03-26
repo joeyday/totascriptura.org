@@ -14,13 +14,13 @@ There is one and only one God. God is simple (not composed of parts) and stands 
 
 ### “God is one”, there is only one God
 
-{{[[mt]]|[[Monotheism]]|[[Simplicity]]}}
+{{[[mt]]|[[topic/Monotheism|Monotheism]]|[[topic/Simplicity|Simplicity]]}}
 
 {{[[monotheism-partial]]}}
 
 ### There is no one else like God
 
-{{[[mt]]|[[Creator-creature distinction]]}}
+{{[[mt]]|[[topic/Creator-creature distinction|Creator-creature distinction]]}}
 
 {{[[there-is-no-other-god]]}}
 
@@ -64,19 +64,19 @@ The three persons are co-essential, co-eternal, and co-equal in all attributes o
 
 ### Father is fully God
 
-{{[[mt]]|[[Father is God]]}}
+{{[[mt]]|[[topic/Father is God|Father is God]]}}
 
 Mt 6:26–30; Jn 20:17; Ro 1:7; 15:6; 1Co 1:3; 8:6; 15:24; 2Co 1:2–3; 11:31; Gal 1:1, 3–4; Eph 1:2–3, 17; 4:6; 5:20; 6:23; Php 1:2; 2:11; 4:20; Col 1:2–3; 3:17; 1Th 1:1, 3; 3:11, 13; 2Th 1:1–2; 2:16; 1Ti 1:2; 2Ti 1:2; Tit 1:4; Phm 3; Jas 1:27; 1Pe 1:2–3, 17; 2Jn 1:3; Jude 1:1; Rev 1:6
 
 ### Son is fully God
 
-{{[[mt]]|[[topic/Jesus is God]]}}
+{{[[mt]]|[[topic/Jesus is God|Jesus is God]]}}
 
 {{[[jesus-is-god-partial]]}}
 
 ### Holy Spirit is fully God
 
-{{[[mt]]|[[Holy Spirit is God]]}}
+{{[[mt]]|[[topic/Holy Spirit is God|Holy Spirit is God]]}}
 
 Ps 139:7–8; Jn 3:5–7 ~(cf. 1Jn 3:9)~; Ac 5:3–4; 1Co 2:10–11; 1Co 3:16; 2Co 3:17
 
@@ -100,7 +100,7 @@ Mt 19:17 ~(cf. Mk 10:18; Lk 18:19)~; Jn 14:28; 1 Cor 11:3; 15:27–28; 1 Jn 4:14
 
 ### Son eternally begotten of Father
 
-{{[[mt]]|[[Eternal generation]]}}
+{{[[mt]]|[[topic/Eternal generation|Eternal generation]]}}
 
 {{[[eternal-generation-partial]]}}
 

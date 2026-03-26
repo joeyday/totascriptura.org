@@ -66,4 +66,4 @@ Lk 12:32; Ac 18:9–10; Ro 8:28, 31–39; 1Co 1:8–9; Php 1:6; 1Th 5:23–24; 2
 
 ## See also
 
-- [[Doctrines of grace]]
+- [[topic/Doctrines of grace|Doctrines of grace]]

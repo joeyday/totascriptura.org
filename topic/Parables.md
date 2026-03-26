@@ -170,4 +170,4 @@ Mt 7:24–27; Lk 6:46–49
 
 ## See also
 
-- [[Purpose of parables]]
+- [[topic/Purpose of parables|Purpose of parables]]

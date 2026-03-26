@@ -22,4 +22,4 @@ Ge 1:1, 21, 27; 2:3–4; 5:1–2; 6:7; Ex 34:10; Nu 16:30; Dt 4:32; Ps 51:10; 89
 Ge 1:2; Ps 24:2; 136:6; 2Pe 3:5 ~— *but see Ps 148:4–5; Pr 8:23–24; Rev 14:7*~
 ## See also
 * [[Creation]]
-* [[Creator-creature distinction]]
+* [[topic/Creator-creature distinction|Creator-creature distinction]]

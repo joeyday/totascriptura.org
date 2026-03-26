@@ -9,5 +9,5 @@ Ps 19:1–2; Ac 14:17; Ro 1:19–20
 
 ## See also
 
-- [[Creationism]]
-- [[topic/Ex nihilo creation]]
+- [[topic/Creationism|Creationism]]
+- [[topic/Ex nihilo creation|Ex nihilo creation]]

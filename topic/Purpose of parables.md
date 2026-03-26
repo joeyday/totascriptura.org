@@ -16,6 +16,6 @@ Mk 9:30–32; Lk 9:43–45
 
 ## See also
 
-- [[Deception]]
+- [[topic/Deception|Deception]]
 - [[God’s thoughts are higher]]
-- [[Parables]]
+- [[topic/Parables|Parables]]

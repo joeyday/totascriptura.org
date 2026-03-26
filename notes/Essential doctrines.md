@@ -1,5 +1,5 @@
 ---
-aside of: "[[topic/Essential doctrines]]"
+aside of: "[[topic/Essential doctrines|Essential doctrines]]"
 ---
 
 I like the Scripture passages Greg Koukl cites in this article: *[Stand to Reason › Essential Christian Doctrines](http://www.str.org/articles/essential-christian-doctrines)*. In particular I like his clarification at the very end that sin is what sends you to hell, not unbelief. Believing can result in forgiveness of sin, but unbelief leaves you in your sin.
@@ -35,7 +35,7 @@ Todo:
 
 ## Unpardonable sin
 
-How does the [[Unpardonable sin]] in Mt 12:31–32 ~(cf. Mk 3:28–29; Lk 12:10)~ relate to essential doctrines (or [[Essential practices]])?
+How does the [[Unpardonable sin]] in Mt 12:31–32 ~(cf. Mk 3:28–29; Lk 12:10)~ relate to essential doctrines (or [[topic/Essential practices|Essential practices]])?
 
 ## The I AM statements
 

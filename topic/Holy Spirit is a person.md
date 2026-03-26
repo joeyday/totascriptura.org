@@ -8,5 +8,5 @@ Mt 28:19; Jn 14:16, 26; 15:26; 16:7, 13–14; Ac 13:2; 16:6–7; 8:29; 13:2; 15:
 
 ## See also
 
-- [[Holy Spirit is God]]
-- [[topic/Trinity]]
+- [[topic/Holy Spirit is God|Holy Spirit is God]]
+- [[topic/Trinity|Trinity]]

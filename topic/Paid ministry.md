@@ -24,4 +24,4 @@ Mt 10:9–13 ~(cf. Mk 6:8–10; Lk 9:3–4)~; Lk 10:4-7
 
 ## See also
 
-- [[Church government]]
+- [[topic/Church government|Church government]]

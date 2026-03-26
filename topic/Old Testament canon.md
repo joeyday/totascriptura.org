@@ -100,4 +100,4 @@ Heb 1:5
 
 ## See also
 
-- [[Scripture]]
+- [[topic/Scripture|Scripture]]

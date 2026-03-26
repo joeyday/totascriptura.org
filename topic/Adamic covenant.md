@@ -24,4 +24,4 @@ Jos 10:22–25; Ps 91:13; 110:6 KJV; Mt 12:29; Lk 10:17–19; Jn 12:31; 16:11; R
 
 ## See also
 
-- [[Covenant theology]]
+- [[topic/Covenant theology|Covenant theology]]

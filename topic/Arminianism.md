@@ -3,7 +3,7 @@ categories:
   - "[[Systematic theology]]"
   - "[[Soteriology]]"
 ---
-**Arminianism** is a branch of the Protestant Reformation based on the theological ideas of the Dutch Reformed theologian Jacobus Arminius (1560–1609) and his historic supporters known as the Remonstrants. Classical Arminianism largely mirrors [[Calvinism]] in matters such as [[Covenant theology|covenant theology]], but differs mainly in [[Soteriology|soteriology]].
+**Arminianism** is a branch of the Protestant Reformation based on the theological ideas of the Dutch Reformed theologian Jacobus Arminius (1560–1609) and his historic supporters known as the Remonstrants. Classical Arminianism largely mirrors [[Calvinism]] in matters such as [[topic/Covenant theology|covenant theology]], but differs mainly in [[Soteriology|soteriology]].
 ### God is love, desires salvation of all
 Eze 18:32; Ac 17:30; 1Ti 2:4; 2Pe 3:9; 1Jn 4:8
 ### Election is corporate
@@ -22,4 +22,4 @@ Mt 6:10
 {{[[god-does-not-sin]]}}
 ## See also
 * [[Calvinism]]
-* [[Free will]]
+* [[topic/Free will|Free will]]

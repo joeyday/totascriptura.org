@@ -79,4 +79,4 @@ Dt 4:2; 12:32; Pr 30:6; 1Co 4:6; Gal 1:6–9; 2Th 2:1–2; Jude 1:3; Rev 22:18�
 ### All Scripture is profitable ~(tota Scriptura)~
 Mt 28:19–20; Lk 24:27; Ac 20:26–27; 2Ti 3:16–17
 ## See also
-* [[God’s word]]
+* [[topic/God’s word|God’s word]]

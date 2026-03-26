@@ -1,5 +1,7 @@
 ---
-aside of: "[[topic/Jesus is God]]"
+aside of: "[[topic/Jesus is God|Jesus is God]]"
+aliases:
+  - Jesus is God (notes)
 ---
 ## Todo
 * [John Simpson&rsquo;s answer to my question on Quora](http://www.quora.com/The-Bible/In-the-Bible-what-are-some-characteristics-and-actions-uniquely-attributed-to-God-that-are-also-directly-or-indirectly-attributed-to-Christ/answer/John-Simpson-4)

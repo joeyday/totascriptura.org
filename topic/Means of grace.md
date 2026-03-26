@@ -11,15 +11,15 @@ categories:
 
 ### Baptism
 
-{{[[mt]]|[[topic/Baptism]]}}{{[[baptism-partial]]}}
+{{[[mt]]|[[topic/Baptism|Baptism]]}}{{[[baptism-partial]]}}
 
 ### The Lord’s Supper
 
-{{[[mt]]|[[Lord’s Supper]]}}{{[[lords-supper-partial]]}}
+{{[[mt]]|[[topic/Lord’s Supper|Lord’s Supper]]}}{{[[lords-supper-partial]]}}
 
 ### Prayer
 
-{{[[mt]]|[[Prayer]]}}
+{{[[mt]]|[[topic/Prayer|Prayer]]}}
 Ac 2:42; 4:24–31; 12:5; Eph 6:18; Heb 4:16; Jude 1:20
 
 ### Worship
@@ -28,8 +28,8 @@ Ac 2:42; 4:24–31; 12:5; Eph 6:18; Heb 4:16; Jude 1:20
 
 ### Church discipline
 
-{{[[mt]]|[[Church discipline]]}}{{[[church-discipline-partial]]}}
+{{[[mt]]|[[topic/Church discipline|Church discipline]]}}{{[[church-discipline-partial]]}}
 
 ## See also
 
-- [[Essential practices]]
+- [[topic/Essential practices|Essential practices]]

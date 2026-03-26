@@ -10,7 +10,7 @@ categories:
 
 ### Jesus is God
 
-{{[[mt]]|[[topic/Jesus is God]]}}{{[[jesus-is-god-partial]]}}
+{{[[mt]]|[[topic/Jesus is God|Jesus is God]]}}{{[[jesus-is-god-partial]]}}
 
 ### Divine nature necessary for atonement
 

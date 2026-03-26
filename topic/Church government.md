@@ -5,7 +5,7 @@ aliases:
 categories:
   - "[[Ecclesiology]]"
 ---
-**Church government** (or **ecclesiastical polity**) is the operational and governance structure of the [[Church|church]].
+**Church government** (or **ecclesiastical polity**) is the operational and governance structure of the [[topic/Church|church]].
 ## Christ
 ### Head of the church
 1Co 11:3; Eph 1:22–23; 4:15–16; 5:23–24; Col 1:18; 2:10
@@ -21,12 +21,12 @@ Ac 13:1; 1Co 12:28–29; Eph 2:19–20; 4:11–12; Php 1:1
 ### Whole church helps select officers
 Ac 1:15, 23; 6:3; 15:22; 2Co 8:19 — *~see also Mt 18:17; 1Co 5:4~*
 ### Officers ordained by laying on of hands
-{{mt|[[Ordination]]|[[Laying on of hands]]}}
+{{mt|[[Ordination]]|[[topic/Laying on of hands|Laying on of hands]]}}
 Ac 6:6; 13:2–3; 1Ti 5:22; 4:14; 2Ti 1:6
 ### Ordination ultimately from God
 Ac 20:28; 1Co 12:28; Eph 4:11
 ### Full-time officers can/should be compensated
-{{mt|[[Paid ministry]]}}
+{{mt|[[topic/Paid ministry|Paid ministry]]}}
 1Co 9:1-19; Php 4:10-20; 1Th 2:6; 2Th 3:9; 1Ti 5:17-18
 ## Apostle
 ### Apostle, qualifications for

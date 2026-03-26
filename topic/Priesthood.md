@@ -33,4 +33,4 @@ Ex 19:6; 1Pe 2:5, 9; Rev 1:6; 5:10; 20:6
 
 ## See also
 
-- [[Church government]]
+- [[topic/Church government|Church government]]

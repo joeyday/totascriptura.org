@@ -21,4 +21,4 @@ Isa 44:16–18; Hab 2:18–20; Ro 1:22-23
 
 ## See also
 
-- [[Monotheism]]
+- [[topic/Monotheism|Monotheism]]

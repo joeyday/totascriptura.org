@@ -20,4 +20,4 @@ Jos 1:14; 1Ti 2:12–14
 
 ## See also
 
-- [[Marriage]]
+- [[topic/Marriage|Marriage]]

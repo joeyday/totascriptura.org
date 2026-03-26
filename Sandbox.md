@@ -14,4 +14,4 @@ Alma 16:13; 23:2; 26:29; Hel 3:9; 3:14
 
 ## See also
 
-- [[Temple]]
+- [[topic/Temple|Temple]]

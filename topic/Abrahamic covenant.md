@@ -40,4 +40,4 @@ Dt 23:7-8; Isa 56:3, 6–7; Eze 47:22-23
 ### Not all are children of Abraham simply because they are his offspring
 Ge 21:12 ~(cited at Ro 9:7)~; Ge 25:23 ~(cited at Ro 9:12)~; Ex 33:19; Isa 28:22; Mal 1:2–3 ~(cited at Ro 9:13)~; Mt 3:8–9; Jn 8:33–34, 37–40; Ro 9:6–13 ~(cites Ge 21:12; 25:23; Mal 1:2–3)~
 ## See also
-* [[Covenant theology]]
+* [[topic/Covenant theology|Covenant theology]]

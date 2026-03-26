@@ -29,5 +29,5 @@ Eze 16:8; Mal 2:14
 ## See also
 
 - [[Complementarianism]]
-- [[Family]]
-- [[God the bridegroom]]
+- [[topic/Family|Family]]
+- [[topic/God the bridegroom|God the bridegroom]]

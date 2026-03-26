@@ -13,4 +13,4 @@ Eze 18:20
 
 ## See also
 
-- [[Total depravity]]
+- [[topic/Total depravity|Total depravity]]

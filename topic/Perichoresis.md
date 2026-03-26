@@ -7,11 +7,11 @@ categories:
 ---
 ### Of persons in the Trinity
 
-{{[[mt]]|[[topic/Trinity]]}}{{[[trinity-perichoresis]]}}
+{{[[mt]]|[[topic/Trinity|Trinity]]}}{{[[trinity-perichoresis]]}}
 
 ### Of Christ’s two natures
 
-{{[[mt]]|[[Hypostatic union]]}}
+{{[[mt]]|[[topic/Hypostatic union|Hypostatic union]]}}
 Jn 1:14; Ro 1:3–4; 8:3; Php 2:5–11
 
 ### Of God and creation, created beings?

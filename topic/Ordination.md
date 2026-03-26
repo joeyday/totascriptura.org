@@ -4,7 +4,7 @@ categories:
 ---
 ### By laying on of hands
 
-{{[[mt]]|[[Laying on of hands]]}}{{[[laying-on-hands-to-ordain]]}}
+{{[[mt]]|[[topic/Laying on of hands|Laying on of hands]]}}{{[[laying-on-hands-to-ordain]]}}
 
 ### Without mention of laying on hands
 

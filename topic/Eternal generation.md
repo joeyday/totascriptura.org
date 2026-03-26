@@ -25,5 +25,5 @@ Jn 1:1–3, 10; 5:19, 21; 14:6, 10; Ro 5:1, 11; 1Co 8:6; Eph 1:3–14; 2:18; 4:6
 
 ## See also
 
-- [[topic/Jesus is God]]
+- [[topic/Jesus is God|Jesus is God]]
 - [[topic/Trinity|Trinity]]

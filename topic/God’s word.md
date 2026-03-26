@@ -21,5 +21,5 @@ Dt 18:18–20; Jer 1:9; Eze 13:1–7 ~— *see also Ex 4:12; Nu 22:38; 1Sa 15:3,
 
 ### In written form ~(Scripture)~
 
-{{[[mt]]|[[Scripture]]}}
+{{[[mt]]|[[topic/Scripture|Scripture]]}}
 Ex 31:18; 32:16; 34:1, 28; Dt 31:9–13, 24–26; Jos 24:26; Isa 30:8; Jer 30:2 ~(cf. Jer 36:2–4, 27–31; 51:60)~; Jn 14:26 ~(cf. Jn 16:12–13)~; 1Co 14:37 ~(cf. 2Pe 3:2)~

@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Christology]]"
-featured with: "[[topic/Trinity]]"
+featured with: "[[topic/Trinity|Trinity]]"
 ---
 ![[Cobblestones-and-grass.png|320]]
 
@@ -33,13 +33,13 @@ Rev 1:17–18; 2:8; 22:12–13 ~— *cf. Isa 41:4; Isa 44:6; Isa 48:12; Rev 1:8;
 
 ### Bridegroom/husband
 
-{{[[mt]]|[[God the bridegroom]]}}
+{{[[mt]]|[[topic/God the bridegroom|God the bridegroom]]}}
 
 Mt 9:15 ~(cf. Mk 2:19–20; Lk 5:34–35)~; Mt 22:2; 25:1–13; Jn 3:28–30; Ro 7:1–4; 2Co 11:2; Eph 5:22–33; Rev 19:7, 9; 21:2, 9; 22:17 ~— *cf. Isa 54:5–6; 62:4–5; Jer 2:2, 20, 32; 3:1, 6–10, 20; 31:32; Eze 16; Hos 1–3*~
 
 ## Jesus has attributes of God
 
-{{[[mt]]|[[topic/Attributes of God]]}}
+{{[[mt]]|[[topic/Attributes of God|Attributes of God]]}}
 
 ### {{[[aseity-heading]]}}
 
@@ -135,7 +135,7 @@ Mt 7:24; 16:18; 1Co 3:11; 10:4 ~— *cf. 1Sa 2:2; Ps 18:31; Isa 44:8*~
 
 ### “I created alone, by myself”
 
-{{[[mt]]|[[Creator-creature distinction]]}}
+{{[[mt]]|[[topic/Creator-creature distinction|Creator-creature distinction]]}}
 
 Jn 1:3, 10; 1Co 8:6; Col 1:16; Heb 1:2, 10 ~— *cf. Ge 1:1; Isa 42:5; 44:24; 45:12, 18; Ne 9:6*~
 
@@ -207,11 +207,11 @@ Mt 4:1 ~(cf. Mk 1:13; Lk 4:1–2)~; Heb 2:18; 4:15 ~— *cf. Jas 1:13*~
 
 ## See also
 
-* [[Eternal generation]]
-* [[Hypostatic union]]
-* [[Father is God]]
-* [[Holy Spirit is God]]
-* [[topic/Trinity]]
-* [[topic/Attributes of God]]
+* [[topic/Eternal generation|Eternal generation]]
+* [[topic/Hypostatic union|Hypostatic union]]
+* [[topic/Father is God|Father is God]]
+* [[topic/Holy Spirit is God|Holy Spirit is God]]
+* [[topic/Trinity|Trinity]]
+* [[topic/Attributes of God|Attributes of God]]
 
 [^1]: Also see Jn 6:35, 41, 48, 51; 8:12; 10:7, 9, 11, 14; 11:25; 14:6; 15:1, 5.

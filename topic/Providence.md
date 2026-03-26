@@ -31,6 +31,6 @@ Ge 50:20 ~(cf. Ge 37:4–5, 8, 11; 45:5, 7–8)~; Ex 14:17; Dt 32:39; Jos 11:20;
 ### But God is not the author of sin
 {{mt|[[Theodicy]]}}{{[[god-does-not-sin]]}}
 ## See also
-* [[Free will]]
+* [[topic/Free will|Free will]]
 
 [^1]: *Westminster Shorter Catechism*, question 11.

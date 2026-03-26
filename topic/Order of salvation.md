@@ -9,12 +9,12 @@ draft: true
 
 ### Foreknown, predestined, elect from before the foundation of the world
 
-{{[[mt]]|[[Unconditional election]]}}
+{{[[mt]]|[[topic/Unconditional election|Unconditional election]]}}
 Mt 25:34; Ro 8:29–30; 11:2; Eph 1:4–5, 11; 1Pe 1:1–2; Rev 13:8; 17:8
 
 ### Calling linked to election, causes regeneration
 
-{{[[mt]]|[[Effectual grace]]}}
+{{[[mt]]|[[topic/Effectual grace|Effectual grace]]}}
 2Ti 1:9
 
 ### Regeneration produces faith, repentance
@@ -33,12 +33,12 @@ Jn 1:12; Gal 3:26
 
 ### Perseverance
 
-{{[[mt]]|[[Preservation of the saints]]}}
+{{[[mt]]|[[topic/Preservation of the saints|Preservation of the saints]]}}
 
 ### Glorification
 
 ## See also
 
-- [[Doctrines of grace]]
+- [[topic/Doctrines of grace|Doctrines of grace]]
 
 [^1]: Romans 8:29–30

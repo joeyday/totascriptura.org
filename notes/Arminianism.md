@@ -1,5 +1,5 @@
 ---
-aside of: "[[topic/Arminianism]]"
+aside of: "[[topic/Arminianism|Arminianism]]"
 ---
 ## Scripture index to Roger Olson’s *Arminian Theology*
 Yup, this is all the Scripture he cites in his whole 250-page book.

@@ -19,19 +19,19 @@ Ge 1:1; Ex 20:11; 31:17; Ne 9:6; Isa 29:16; 40:28; 42:5; 43:1, 15; 44:24; 45:12,
 Ge 1:27; 2:7, 21–22; 5:1–2; Heb 4:13; Jas 1:18
 ## Creator
 ### Only one God
-{{mt|[[Monotheism]]}}{{[[monotheism-partial]]}}
+{{mt|[[topic/Monotheism|Monotheism]]}}{{[[monotheism-partial]]}}
 ### No one else like God
 {{[[there-is-no-other-god]]}}
 ### God is uncreated, self-existent
 {{[[aseity]]}}
 ### God created everything from nothing
-{{mt|[[topic/Ex nihilo creation]]}}{{[[ex-nihilo]]}}
+{{mt|[[topic/Ex nihilo creation|Ex nihilo creation]]}}{{[[ex-nihilo]]}}
 ### Nothing exists God did not create
 {{[[nothing-exists-god-did-not-create]]}}
 ### God is transcendent over creation
 {{[[transcendence]]}}
 ### God is sovereign over creation
-{{mt|[[Providence]]}}{{[[sovereignty]]}}
+{{mt|[[topic/Providence|Providence]]}}{{[[sovereignty]]}}
 ### God is not a man
 {{[[god-is-not-a-man]]}}
 ### God’s thoughts are higher than our thoughts
@@ -52,7 +52,7 @@ Ac 27:23; Ro 1:6; 7:4; 1Co 6:19–20 ~(cf. 1Co 7:23)~; 1Co 15:23; Gal 5:24
 ### He is our God and we are his people
 {{[[i-will-be-their-god]]}}
 ### Worship of created things forbidden
-{{mt|[[Idolatry]]}}
+{{mt|[[topic/Idolatry|Idolatry]]}}
 Ex 20:4–6, 22–23; Dt 4:15–19; Isa 40:18–28; Ps 106:20; Jer 2:11; Ro 1:22–25
 ### Aspiring to become like God is sin
 Ge 3:4–5; Isa 14:12–15; Eze 28:2-10; 2Th 2:3–4

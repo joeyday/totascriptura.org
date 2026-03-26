@@ -13,4 +13,4 @@ Mt 10:34–39 ~(cf. Lk 12:49–53; 14:25–33)~; Mt 12:46–50 ~(cf. Mk 3:31–3
 
 ## See also
 
-- [[Marriage]]
+- [[topic/Marriage|Marriage]]

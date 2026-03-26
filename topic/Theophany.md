@@ -6,7 +6,7 @@ categories:
 
 ### Pure in heart will see God
 
-Job 19:25–27; Mt 5:8; 1Co 13:12; Heb 12:14; 1Jn 3:2; Rev 22:4 ~— *but see [[Incorporeality]]*~
+Job 19:25–27; Mt 5:8; 1Co 13:12; Heb 12:14; 1Jn 3:2; Rev 22:4 ~— *but see [[topic/Incorporeality|Incorporeality]]*~
 
 ### Possible appearances of God
 

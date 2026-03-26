@@ -16,7 +16,7 @@ Passages in this topic are grouped under each heading based on their indication,
 
 ### Faith, belief in essential doctrines
 
-{{[[mt]]|[[topic/Essential doctrines]]}}
+{{[[mt]]|[[topic/Essential doctrines|Essential doctrines]]}}
 
 *Necessary:* Jn 8:21–25 ~(cf. Jn 8:28, 58)~; Heb 11:6; 1Jn 1:8, 10; 2:22–23; 4:2–3; 5:5; 2Jn 1:7–10
 
@@ -28,13 +28,13 @@ Passages in this topic are grouped under each heading based on their indication,
 
 ### Baptism
 
-{{mt|[[topic/Baptism]]}}
+{{mt|[[topic/Baptism|Baptism]]}}
 
 *Sufficient:* Mk 16:16; Ac 2:37–38: 1Pe 3:21
 
 ### Lord’s Supper
 
-{{[[mt]]|[[Lord’s Supper]]}}
+{{[[mt]]|[[topic/Lord’s Supper|Lord’s Supper]]}}
 
 *Necessary and sufficient:* Jn 6:49–58
 
@@ -76,13 +76,13 @@ Passages in this topic are grouped under each heading based on their indication,
 
 ### Salvation is not of works
 
-{{[[mt]]|[[Gospel]]}}
+{{[[mt]]|[[topic/Gospel|Gospel]]}}
 
 {{[[not-of-works]]}}
 
 ### No one keeps the commandments
 
-{{[[mt]]|[[Total depravity]]}}
+{{[[mt]]|[[topic/Total depravity|Total depravity]]}}
 
 {{[[all-have-sinned]]}}
 

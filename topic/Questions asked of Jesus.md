@@ -22,7 +22,7 @@ Mt 12:38–42; 16:1–4; Mk 8:11–13; Lk 11:29–32
 
 ### “Why do you speak to them in parables?”
 
-{{[[mt]]|[[Purpose of parables]]}}
+{{[[mt]]|[[topic/Purpose of parables|Purpose of parables]]}}
 Mt 13:10–17
 
 ### “Why do your disciples break the tradition of the elders? For they do not wash their hands when they eat.”
@@ -52,7 +52,7 @@ Mt 21:23–27; Mk 11:27–33; Lk 20:1–8
 
 ### “Is it lawful to pay taxes to Caesar, or not?”
 
-{{[[mt]]|[[Citizenship]]}}
+{{[[mt]]|[[topic/Citizenship|Citizenship]]}}
 
 Mt 22:15–22; Mk 12:13–17; Lk 20:19–26
 

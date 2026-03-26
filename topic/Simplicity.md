@@ -10,7 +10,7 @@ The doctrine of divine simplicity denies any composition in God, including:
 ### Act-potency composition
 Job 22:2–3; 35:6–7; 41:11; Ps 102:25–27; Ro 11:33, 35; Heb 13:8; Jas 1:17; Rev 4:8
 ### Form-matter composition
-{{mt|[[Incorporeality]]}}{{[[incorporeality-partial]]}}
+{{mt|[[topic/Incorporeality|Incorporeality]]}}{{[[incorporeality-partial]]}}
 ### Essence-existence composition
 Ex 3:2–3, 14: Jn 5:26; Rev 4:8
 ### Nature-supposit composition

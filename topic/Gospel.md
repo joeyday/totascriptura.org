@@ -19,7 +19,7 @@ Neh 9:29; Eze 20:11, 13, 21; Mt 19:17; Lk 10:28; Ro 7:10; 10:5; Gal 3:12
 
 ### But no one “does the commandments”
 
-{{[[mt]]|[[Total depravity]]}}{{[[all-have-sinned]]}}
+{{[[mt]]|[[topic/Total depravity|Total depravity]]}}{{[[all-have-sinned]]}}
 
 ### Salvation is not of works
 
@@ -39,6 +39,6 @@ Mt 7:16–20; 12:33; Lk 6:43–45; Gal 5:22-23; Eph 2:8-10; Php 2:12-13; 2Th 2:1
 
 ## See also
 
-- [[Doctrines of grace]]
-- [[topic/Essential doctrines]]
-- [[Essential practices]]
+- [[topic/Doctrines of grace|Doctrines of grace]]
+- [[topic/Essential doctrines|Essential doctrines]]
+- [[topic/Essential practices|Essential practices]]
