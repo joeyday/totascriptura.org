@@ -39,7 +39,7 @@ if (isCSSNakedDay && cssNakedDayPreference === null) {
     window.localStorage.setItem(cssNakedDayPreferenceKey, 'true');
 }
 
-if (cssNakedPreference === 'true' || isCSSNakedDay && cssNakedDayPreference === 'true') {
+if (!isCSSNakedDay && cssNakedPreference === 'true' || isCSSNakedDay && cssNakedDayPreference === 'true') {
     // Remove all styles from external stylesheets or embedded <style> tags
     Array.from(document.querySelectorAll('style,link[rel="stylesheet"]'))
         .forEach(($node) => { $node.remove() })
