@@ -409,12 +409,15 @@ main {
         -moz-font-feature-settings: "kern", "liga", "c2sc", "smcp";
         -webkit-font-feature-settings: "kern", "liga", "c2sc", "smcp";
         font-feature-settings: "kern", "liga", "c2sc", "smcp";
-
-		&[data-name="LORD"] .divine-name-initial,
-		&[data-name="GOD"] .divine-name-initial {
-			font-variant-caps: normal !important;
-		}
     }
+
+	.divine-name[data-name="LORD"] .divine-name-initial,
+	.divine-name[data-name="GOD"] .divine-name-initial {
+		font-variant-caps: normal;
+		-moz-font-feature-settings: "kern", "liga", "onum";
+		-webkit-font-feature-settings: "kern", "liga", "onum";
+		font-feature-settings: "kern", "liga", "onum";
+	}
     
     /* callout boxes */
     div:not([class], [id], [style]) p {
