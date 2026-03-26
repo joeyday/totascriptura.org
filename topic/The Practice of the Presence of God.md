@@ -3,7 +3,8 @@ hidden: true
 stub: true
 draft: true
 ---
-*Seek the Lord and his strength; seek his presence continually!*[^1]
+
+*Seek the LORD and his strength; seek his presence continually!*[^1]
 
 ### Seek God’s presence
 
