@@ -971,6 +971,36 @@ function resolveLink(target, fileMap, filesToProcess) {
   return { ambiguous: true };
 }
 
+// Split an embed args string on | separators, but treat [[...]] as atomic
+// so pipes inside wikilinks (display text) are not treated as separators.
+// e.g. "[[topic/Trinity|Trinity]]|simple" → ["[[topic/Trinity|Trinity]]", "simple"]
+function splitEmbedArgs(argsStr) {
+  const args = [];
+  let current = "";
+  let depth = 0;
+  let i = 0;
+  while (i < argsStr.length) {
+    if (argsStr[i] === "[" && argsStr[i + 1] === "[") {
+      depth++;
+      current += "[[";
+      i += 2;
+    } else if (argsStr[i] === "]" && argsStr[i + 1] === "]") {
+      depth--;
+      current += "]]";
+      i += 2;
+    } else if (argsStr[i] === "|" && depth === 0) {
+      args.push(current.trim());
+      current = "";
+      i++;
+    } else {
+      current += argsStr[i];
+      i++;
+    }
+  }
+  args.push(current.trim());
+  return args;
+}
+
 function resolveEmbeds(
   text,
   contentMap,
@@ -1024,7 +1054,7 @@ function resolveEmbeds(
         embedContent = contentEntries[0];
       }
 
-      const args = argsStr ? argsStr.split("|").map((a) => a.trim()) : [];
+      const args = argsStr ? splitEmbedArgs(argsStr) : [];
 
       for (let i = 0; i < args.length; i++) {
         embedContent = embedContent.replace(
