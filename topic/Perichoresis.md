@@ -7,7 +7,7 @@ categories:
 ---
 ### Of persons in the Trinity
 
-{{[[mt]]|[[Trinity]]}}{{[[trinity-perichoresis]]}}
+{{[[mt]]|[[topic/Trinity]]}}{{[[trinity-perichoresis]]}}
 
 ### Of Christ’s two natures
 

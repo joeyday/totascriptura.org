@@ -40,5 +40,5 @@ Mt 7:16–20; 12:33; Lk 6:43–45; Gal 5:22-23; Eph 2:8-10; Php 2:12-13; 2Th 2:1
 ## See also
 
 - [[Doctrines of grace]]
-- [[Essential doctrines]]
+- [[topic/Essential doctrines]]
 - [[Essential practices]]

@@ -1,5 +1,5 @@
 ---
-aside of: "[[Essential doctrines]]"
+aside of: "[[topic/Essential doctrines]]"
 ---
 
 I like the Scripture passages Greg Koukl cites in this article: *[Stand to Reason › Essential Christian Doctrines](http://www.str.org/articles/essential-christian-doctrines)*. In particular I like his clarification at the very end that sin is what sends you to hell, not unbelief. Believing can result in forgiveness of sin, but unbelief leaves you in your sin.
@@ -18,7 +18,7 @@ See also <http://www.desiringgod.org/interviews/what-must-someone-believe-in-ord
 
 ## Biblical support for “damnatory clauses” in Athanasian Creed?
 
-*The main content of this topic originated as a note on [[Trinity (notes) (bad)]]. Here are the additional notes that came from there.*
+*The main content of this topic originated as a note on [[notes/Trinity]]. Here are the additional notes that came from there.*
 
 The Athanasian Creed states:
 

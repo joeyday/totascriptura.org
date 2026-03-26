@@ -13,14 +13,14 @@ Ps 2:7–9; 40:7–9; Jn 5:23, 36–37; 6:38–39, 44, 57; 8:16, 18; 10:17–18,
 Ge 1:28–30; 2:8–9, 15–17; 3:11, 16–19, 22–24; Hos 6:7 ~(cf. Job 31:33)~; Rom 5:12–21
 ## Covenant of Grace
 ### Adamic covenant
-{{[[mt]]|[[Adamic covenant]]}}
+{{[[mt]]|[[topic/Adamic covenant]]}}
 Ge 3:14–15, 21; Ro 16:20; Heb 2:14; Rev 20:1–3, 10
 ### Noahic covenant
 {{[[mt]]|[[Noahic covenant]]}}
 Ge 6:13–22; 8:20–22; 9:1–17; Ps 19:1–4; Hos 2:18; Ro 8:18–25; 2Pe 3:3–13
 
 ### Abrahamic covenant
-{{[[mt]]|[[Abrahamic covenant]]}}
+{{[[mt]]|[[topic/Abrahamic covenant]]}}
 Ge 12:1–9; 13:14–18; 15:1–21; 16:10; 17:1–27; 18:17–19; 22:15–18; 26:1–5; 28:10–17; Ex 2:24; 6:2–8
 ### Mosaic/Sinaitic covenant
 {{[[mt]]|[[Mosaic covenant]]}}

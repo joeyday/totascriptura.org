@@ -11,7 +11,7 @@ categories:
 
 ### Baptism
 
-{{[[mt]]|[[Baptism]]}}{{[[baptism-partial]]}}
+{{[[mt]]|[[topic/Baptism]]}}{{[[baptism-partial]]}}
 
 ### The Lord’s Supper
 

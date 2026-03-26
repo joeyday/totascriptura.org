@@ -1,5 +1,5 @@
 ---
-aside of: "[[Baptism]]"
+aside of: "[[topic/Baptism]]"
 ---
 
 ## Todo

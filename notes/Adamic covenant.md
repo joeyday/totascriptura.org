@@ -1,5 +1,5 @@
 ---
-aside of: "[[Adamic covenant]]"
+aside of: "[[topic/Adamic covenant]]"
 ---
 Is Hos 6:7 relevant to this page? I think I removed it because I had decided it's not, but is it still worth mentioning somewhere?
 

@@ -25,7 +25,7 @@ Ge 1:27; 2:7, 21–22; 5:1–2; Heb 4:13; Jas 1:18
 ### God is uncreated, self-existent
 {{[[aseity]]}}
 ### God created everything from nothing
-{{mt|[[Ex nihilo creation]]}}{{[[ex-nihilo]]}}
+{{mt|[[topic/Ex nihilo creation]]}}{{[[ex-nihilo]]}}
 ### Nothing exists God did not create
 {{[[nothing-exists-god-did-not-create]]}}
 ### God is transcendent over creation

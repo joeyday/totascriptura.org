@@ -3,5 +3,5 @@ disambiguation: true
 ---
 **Sacrament** may refer to:
 
-- [[Baptism]]
+- [[topic/Baptism]]
 - [[Lord’s Supper]]

@@ -1,5 +1,7 @@
 ---
-aside of: "[[Trinity]]"
+aside of: "[[topic/Trinity]]"
+aliases:
+  - Trinity (notes)
 ---
 ![[Trinity-diagram-3.png|320]]
 
@@ -17,7 +19,7 @@ aside of: "[[Trinity]]"
 - [*The Biblical Basis of the Doctrine of the Trinity*](http://irr.org/biblical-basis-of-doctrine-of-trinity) by Rob Bowman
 - [*FAQ about the Trinity*](http://bib.irr.org/category/trinity/faq-about-trinity) by Rob Bowman (see especially the great article here about how to defend anti-trinitarian theologies)
 - I have a commentary on the WCF by A.A. Hodge in my Logos base package. He gives several prooftexts for the Trinity in his comments on WCF 2.3.
-- Also see todos in [[Jesus is God (notes)]]
+- Also see todos in [[notes/Jesus is God]]
 
 ## Alternative outlines / definitions
 

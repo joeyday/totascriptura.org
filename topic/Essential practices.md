@@ -16,7 +16,7 @@ Passages in this topic are grouped under each heading based on their indication,
 
 ### Faith, belief in essential doctrines
 
-{{[[mt]]|[[Essential doctrines]]}}
+{{[[mt]]|[[topic/Essential doctrines]]}}
 
 *Necessary:* Jn 8:21–25 ~(cf. Jn 8:28, 58)~; Heb 11:6; 1Jn 1:8, 10; 2:22–23; 4:2–3; 5:5; 2Jn 1:7–10
 
@@ -28,7 +28,7 @@ Passages in this topic are grouped under each heading based on their indication,
 
 ### Baptism
 
-{{mt|[[Baptism]]}}
+{{mt|[[topic/Baptism]]}}
 
 *Sufficient:* Mk 16:16; Ac 2:37–38: 1Pe 3:21
 

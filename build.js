@@ -921,14 +921,57 @@ function stripBrackets(value) {
 
 function resolveFileMapKey(target, fileMap) {
   const raw = target.toLowerCase().trim();
-  if (fileMap[raw]) return raw;
+  if (fileMap[raw] && fileMap[raw].length > 0) return raw;
   for (const key of Object.keys(fileMap)) {
     if (key.replace(/-/g, " ") === raw) return key;
   }
   return raw;
 }
 
-function resolveEmbeds(text, contentMap, { seen = new Set() } = {}) {
+/**
+ * Resolve a wikilink/embed target to a single URL.
+ * Returns:
+ *   { url: string }        — exactly one match found
+ *   { ambiguous: true }    — two or more matches (bare name collision)
+ *   { notFound: true }     — no match at all
+ *
+ * If target contains "/" it is treated as path-qualified (e.g. "topic/Trinity")
+ * and resolved by matching folder prefix + bare name against filesToProcess.
+ */
+function resolveLink(target, fileMap, filesToProcess) {
+  const trimmed = target.trim();
+
+  if (trimmed.includes("/")) {
+    const lowerTarget = trimmed.toLowerCase();
+    const parts = lowerTarget.split("/");
+    const bareName = parts[parts.length - 1];
+    const folderPrefix = parts.slice(0, -1).join("/");
+    const matches = filesToProcess.filter((fi) => {
+      const fiBareName = path.basename(fi.fileName, ".md").toLowerCase().trim();
+      const fiDir = fi.relDir.toLowerCase();
+      return (
+        fiBareName === bareName &&
+        (fiDir === folderPrefix ||
+          fiDir.endsWith("/" + folderPrefix))
+      );
+    });
+    if (matches.length === 1) return { url: matches[0].finalUrlPath };
+    if (matches.length > 1) return { ambiguous: true };
+    return { notFound: true };
+  }
+
+  const key = resolveFileMapKey(trimmed, fileMap);
+  const urls = fileMap[key];
+  if (!urls || urls.length === 0) return { notFound: true };
+  if (urls.length === 1) return { url: urls[0] };
+  return { ambiguous: true };
+}
+
+function resolveEmbeds(
+  text,
+  contentMap,
+  { seen = new Set(), fileMap = null, filesToProcess = null, contentMapByUrl = null } = {},
+) {
   return text.replace(
     /\{\{([^}|]+?)(?:\|([^}]*))?\}\}/g,
     (match, name, argsStr) => {
@@ -943,10 +986,38 @@ function resolveEmbeds(text, contentMap, { seen = new Set() } = {}) {
         return `<!-- circular embed: ${name} -->`;
       }
 
-      let embedContent = contentMap[key];
-      if (embedContent === undefined || embedContent === null) {
-        console.warn(`Warning: Embed not found — "${name}"`);
-        return `<!-- embed not found: ${name} -->`;
+      let embedContent;
+
+      if (name.includes("/") && fileMap && filesToProcess && contentMapByUrl) {
+        const resolved = resolveLink(name, fileMap, filesToProcess);
+        if (resolved.url) {
+          embedContent = contentMapByUrl[resolved.url];
+          if (embedContent === undefined || embedContent === null) {
+            console.warn(`Warning: Embed not found — "${name}"`);
+            return `<!-- embed not found: ${name} -->`;
+          }
+        } else if (resolved.ambiguous) {
+          console.warn(
+            `Warning: Ambiguous embed — "${name}" matches multiple files`,
+          );
+          return `<!-- ambiguous embed: ${name} -->`;
+        } else {
+          console.warn(`Warning: Embed not found — "${name}"`);
+          return `<!-- embed not found: ${name} -->`;
+        }
+      } else {
+        const contentEntries = contentMap[key];
+        if (!contentEntries || contentEntries.length === 0) {
+          console.warn(`Warning: Embed not found — "${name}"`);
+          return `<!-- embed not found: ${name} -->`;
+        }
+        if (contentEntries.length > 1) {
+          console.warn(
+            `Warning: Ambiguous embed — "${name}" matches ${contentEntries.length} files`,
+          );
+          return `<!-- ambiguous embed: ${name} -->`;
+        }
+        embedContent = contentEntries[0];
       }
 
       const args = argsStr ? argsStr.split("|").map((a) => a.trim()) : [];
@@ -966,7 +1037,12 @@ function resolveEmbeds(text, contentMap, { seen = new Set() } = {}) {
 
       const newSeen = new Set(seen);
       newSeen.add(key);
-      return resolveEmbeds(embedContent, contentMap, { seen: newSeen });
+      return resolveEmbeds(embedContent, contentMap, {
+        seen: newSeen,
+        fileMap,
+        filesToProcess,
+        contentMapByUrl,
+      });
     },
   );
 }
@@ -1053,7 +1129,8 @@ async function build() {
     }
 
     const key = baseName.toLowerCase().trim();
-    fileMap[key] = finalUrlPath;
+    if (!fileMap[key]) fileMap[key] = [];
+    fileMap[key].push(finalUrlPath);
     parsed.data.permalink = permalink;
 
     const title = getFrontmatterValue(parsed.data, "title") || baseName;
@@ -1061,7 +1138,8 @@ async function build() {
       parsed.data.title = baseName;
     }
     titleMap[key] = title;
-    contentMap[key] = parsed.content;
+    if (!contentMap[key]) contentMap[key] = [];
+    contentMap[key].push(parsed.content);
 
     const hidden = !!getFrontmatterValue(parsed.data, "hidden");
     const rawAliases = getFrontmatterValue(parsed.data, "aliases");
@@ -1107,8 +1185,12 @@ async function build() {
           ? `/${aliasSlug}`
           : `/${fileInfo.relDir}/${aliasSlug}`;
       const aliasKey = aliasName.toLowerCase().trim();
-      if (!fileMap[aliasKey]) fileMap[aliasKey] = fileInfo.finalUrlPath;
-      if (!fileMap[aliasSlug]) fileMap[aliasSlug] = fileInfo.finalUrlPath;
+      if (!fileMap[aliasKey]) fileMap[aliasKey] = [];
+      if (!fileMap[aliasKey].includes(fileInfo.finalUrlPath))
+        fileMap[aliasKey].push(fileInfo.finalUrlPath);
+      if (!fileMap[aliasSlug]) fileMap[aliasSlug] = [];
+      if (!fileMap[aliasSlug].includes(fileInfo.finalUrlPath))
+        fileMap[aliasSlug].push(fileInfo.finalUrlPath);
       aliasRedirects.push({
         fromUrlPath: aliasUrlPath,
         toUrl: fileInfo.finalUrlPath,
@@ -1145,9 +1227,9 @@ async function build() {
     if (fileInfo.hidden) continue;
     if (fileInfo.unlisted) continue;
     if (!fileInfo.featuredWith) continue;
-    const targetKey = resolveFileMapKey(fileInfo.featuredWith, fileMap);
-    const targetUrl = fileMap[targetKey];
-    if (!targetUrl) continue;
+    const resolved = resolveLink(fileInfo.featuredWith, fileMap, filesToProcess);
+    if (!resolved.url) continue;
+    const targetUrl = resolved.url;
     if (!featuredWithMap[targetUrl]) featuredWithMap[targetUrl] = [];
     featuredWithMap[targetUrl].push({
       title: fileInfo.title,
@@ -1155,39 +1237,58 @@ async function build() {
     });
   }
 
+  // asidesMap: keyed by the URL of the primary page an aside belongs to.
   const asidesMap = {};
   for (const fileInfo of filesToProcess) {
     if (fileInfo.hidden) continue;
     if (!fileInfo.asideOf) continue;
-    const resolvedKey = resolveFileMapKey(fileInfo.asideOf, fileMap);
-    if (!asidesMap[resolvedKey]) {
-      asidesMap[resolvedKey] = [];
+    const resolved = resolveLink(fileInfo.asideOf, fileMap, filesToProcess);
+    if (!resolved.url) {
+      if (resolved.ambiguous) {
+        console.warn(
+          `Warning: Ambiguous "aside of" target — "${fileInfo.asideOf}" in "${fileInfo.filePath}"`,
+        );
+      }
+      continue;
     }
-    asidesMap[resolvedKey].push({
+    if (!asidesMap[resolved.url]) {
+      asidesMap[resolved.url] = [];
+    }
+    asidesMap[resolved.url].push({
       title: fileInfo.title,
       url: fileInfo.finalUrlPath,
     });
   }
 
+  // membersMap: keyed by the URL of the category page a file belongs to.
   const membersMap = {};
   for (const fileInfo of filesToProcess) {
     if (fileInfo.hidden) continue;
     if (fileInfo.unlisted) continue;
     for (const catName of fileInfo.categories) {
-      const resolvedKey = resolveFileMapKey(catName, fileMap);
-      if (!membersMap[resolvedKey]) {
-        membersMap[resolvedKey] = [];
+      const resolved = resolveLink(catName, fileMap, filesToProcess);
+      if (!resolved.url) {
+        if (resolved.ambiguous) {
+          console.warn(
+            `Warning: Ambiguous category target — "${catName}" in "${fileInfo.filePath}"`,
+          );
+        }
+        continue;
       }
-      membersMap[resolvedKey].push({
+      if (!membersMap[resolved.url]) {
+        membersMap[resolved.url] = [];
+      }
+      membersMap[resolved.url].push({
         title: fileInfo.title,
         url: fileInfo.finalUrlPath,
       });
     }
   }
 
-  const urlToKey = {};
-  for (const [key, url] of Object.entries(fileMap)) {
-    if (!urlToKey[url]) urlToKey[url] = key;
+  // Build a URL→fileInfo lookup for fast reverse lookups.
+  const urlToFileInfo = {};
+  for (const fi of filesToProcess) {
+    urlToFileInfo[fi.finalUrlPath] = fi;
   }
 
   const hiddenUrls = new Set(
@@ -1197,7 +1298,9 @@ async function build() {
     filesToProcess.filter((f) => f.unlisted).map((f) => f.finalUrlPath),
   );
   const allKnownUrls = new Set([
-    ...Object.values(fileMap).filter((url) => !hiddenUrls.has(url)),
+    ...Object.values(fileMap)
+      .flat()
+      .filter((url) => !hiddenUrls.has(url)),
     ...aliasRedirects.map((r) => r.fromUrlPath),
     ...Object.values(imageMap),
     "/search",
@@ -1205,10 +1308,8 @@ async function build() {
   ]);
   const draftUrls = new Set(draftPages.map((p) => p.url));
   const featuredUrls = new Set(featuredPages.map((p) => p.url));
-  const categoryUrls = new Set();
-  for (const key of Object.keys(membersMap)) {
-    if (fileMap[key]) categoryUrls.add(fileMap[key]);
-  }
+  // membersMap is now URL-keyed, so its keys are already the category page URLs.
+  const categoryUrls = new Set(Object.keys(membersMap));
   const asideUrls = new Set();
   for (const fileInfo of filesToProcess) {
     if (fileInfo.asideOf) {
@@ -1264,8 +1365,7 @@ async function build() {
     if (fileInfo.asideOf) continue;
     if (fileInfo.hidden) continue;
     if (fileInfo.unlisted) continue;
-    const pageKey = fileInfo.baseName.toLowerCase().trim();
-    if (membersMap[pageKey]) continue;
+    if (membersMap[fileInfo.finalUrlPath]) continue;
 
     allPages.push({
       title: fileInfo.title,
@@ -1283,12 +1383,21 @@ async function build() {
     a.title.localeCompare(b.title, undefined, { sensitivity: "base" }),
   );
 
+  const contentMapByUrl = {};
+  for (const fileInfo of filesToProcess) {
+    contentMapByUrl[fileInfo.finalUrlPath] = fileInfo.parsed.content;
+  }
+
   const searchDocs = [];
 
   for (const fileInfo of filesToProcess) {
     if (fileInfo.hidden) continue;
 
-    let markdownContent = resolveEmbeds(fileInfo.parsed.content, contentMap);
+    let markdownContent = resolveEmbeds(fileInfo.parsed.content, contentMap, {
+      fileMap,
+      filesToProcess,
+      contentMapByUrl,
+    });
 
     markdownContent = markdownContent.replace(
       /(!?)\[\[(.*?)\]\]/g,
@@ -1327,10 +1436,21 @@ async function build() {
           searchTarget = searchTarget.substring(0, searchTarget.length - 3);
         }
 
-        const linkUrl =
-          fileMap[searchTarget.toLowerCase()] ||
-          `/${slugify(target, { lower: true, strict: true })}`;
-        return `[${text}](${linkUrl})`;
+        const resolved = resolveLink(
+          searchTarget,
+          fileMap,
+          filesToProcess,
+        );
+        if (resolved.url) {
+          return `[${text}](${resolved.url})`;
+        }
+        if (resolved.ambiguous) {
+          console.warn(
+            `Warning: Ambiguous wikilink — "${searchTarget}" matches multiple files`,
+          );
+          return `<span class="broken">${text}</span>`;
+        }
+        return `<span class="broken">${text}</span>`;
       },
     );
 
@@ -1360,38 +1480,38 @@ async function build() {
 
     let asideOfResolved = null;
     if (fileInfo.asideOf) {
-      const resolvedKey = resolveFileMapKey(fileInfo.asideOf, fileMap);
-      if (fileMap[resolvedKey]) {
+      const resolved = resolveLink(fileInfo.asideOf, fileMap, filesToProcess);
+      if (resolved.url) {
+        const targetFi = urlToFileInfo[resolved.url];
         asideOfResolved = {
-          title: titleMap[resolvedKey],
-          url: fileMap[resolvedKey],
+          title: targetFi ? targetFi.title : resolved.url,
+          url: resolved.url,
         };
       }
     }
 
-    const pageKey = fileInfo.baseName.toLowerCase().trim();
-    const asides = asidesMap[pageKey] || [];
+    const asides = asidesMap[fileInfo.finalUrlPath] || [];
 
     const resolvedCategories = fileInfo.categories.map((catName) => {
-      const resolvedKey = resolveFileMapKey(catName, fileMap);
+      const resolved = resolveLink(catName, fileMap, filesToProcess);
+      if (resolved.url) {
+        const targetFi = urlToFileInfo[resolved.url];
+        return {
+          title: targetFi ? targetFi.title : catName,
+          url: resolved.url,
+        };
+      }
       return {
-        title: titleMap[resolvedKey] || catName,
-        url:
-          fileMap[resolvedKey] ||
-          `/${slugify(catName, { lower: true, strict: true })}`,
+        title: catName,
+        url: `/${slugify(catName, { lower: true, strict: true })}`,
       };
     });
 
-    const allMembers = membersMap[pageKey] || [];
+    const allMembers = membersMap[fileInfo.finalUrlPath] || [];
     const subcategories = [];
     const pages = [];
     for (const member of allMembers) {
-      const memberKey = urlToKey[member.url];
-      if (
-        memberKey &&
-        membersMap[memberKey] &&
-        membersMap[memberKey].length > 0
-      ) {
+      if (membersMap[member.url] && membersMap[member.url].length > 0) {
         subcategories.push(member);
       } else {
         pages.push(member);
@@ -1450,22 +1570,27 @@ async function build() {
     console.log(`Built (alias redirect): ${fromUrlPath} -> ${toUrl}`);
   }
 
+  // pagesWithCategories: URLs of pages that have categories themselves
+  // (i.e. they belong to a parent category, so they appear as subcategories).
   const pagesWithCategories = new Set();
   for (const fileInfo of filesToProcess) {
     if (fileInfo.categories.length > 0) {
-      pagesWithCategories.add(fileInfo.baseName.toLowerCase().trim());
+      pagesWithCategories.add(fileInfo.finalUrlPath);
     }
   }
 
+  // membersMap is URL-keyed; its keys are the category page URLs.
   const topLevelCategoryPages = Object.keys(membersMap)
     .filter(
-      (key) =>
-        fileMap[key] &&
-        !pagesWithCategories.has(key) &&
-        !hiddenUrls.has(fileMap[key]) &&
-        !unlistedUrls.has(fileMap[key]),
+      (url) =>
+        !pagesWithCategories.has(url) &&
+        !hiddenUrls.has(url) &&
+        !unlistedUrls.has(url),
     )
-    .map((key) => ({ title: titleMap[key] || key, url: fileMap[key] }))
+    .map((url) => {
+      const fi = urlToFileInfo[url];
+      return { title: fi ? fi.title : url, url };
+    })
     .sort((a, b) =>
       a.title.localeCompare(b.title, undefined, { sensitivity: "base" }),
     );

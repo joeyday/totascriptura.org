@@ -70,7 +70,7 @@ Mt 6:26–30; Jn 20:17; Ro 1:7; 15:6; 1Co 1:3; 8:6; 15:24; 2Co 1:2–3; 11:31; G
 
 ### Son is fully God
 
-{{[[mt]]|[[Jesus is God]]}}
+{{[[mt]]|[[topic/Jesus is God]]}}
 
 {{[[jesus-is-god-partial]]}}
 

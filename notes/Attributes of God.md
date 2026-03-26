@@ -1,5 +1,5 @@
 ---
-aside of: "[[Attributes of God]]"
+aside of: "[[topic/Attributes of God]]"
 ---
 ## Todo
 * Omnipotent (all-powerful)

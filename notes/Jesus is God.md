@@ -1,5 +1,5 @@
 ---
-aside of: "[[Jesus is God]]"
+aside of: "[[topic/Jesus is God|Jesus is God]]"
 ---
 ## Todo
 * [John Simpson&rsquo;s answer to my question on Quora](http://www.quora.com/The-Bible/In-the-Bible-what-are-some-characteristics-and-actions-uniquely-attributed-to-God-that-are-also-directly-or-indirectly-attributed-to-Christ/answer/John-Simpson-4)
@@ -22,7 +22,7 @@ aside of: "[[Jesus is God]]"
 * [Did Jesus ever claim to be God? Is the deity of Christ biblical?](http://www.compellingtruth.org/Jesus-claim-God-deity-biblical.html)
 * [Is Jesus God? Did Jesus ever claim to be God?](http://www.gotquestions.org/is-Jesus-God.html)
 * [Did Jesus Claim to be God? Miscellaneous Divine Claims of Jesus](http://www.tektonics.org/jesusclaims/miscclaims.html)
-* Also see todos in [[Trinity (notes) (bad)]]
+* Also see todos in [[notes/Trinity]]
 
 ## Where do these go now?
 After refactoring the page somewhat, it's unclear to me where I should put these. I feel like they could be divvied out to various sections of the page.

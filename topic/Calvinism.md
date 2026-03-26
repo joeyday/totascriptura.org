@@ -16,4 +16,4 @@ Some topics related to Calvinism include:
 * [[Subjects of baptism|Infant baptism]]
 
 ## See also
-* [[Arminianism]]
+* [[topic/Arminianism]]

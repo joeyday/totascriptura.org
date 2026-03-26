@@ -23,7 +23,7 @@ Go back through all the green highlights here:
 
 ## Unpardonable sin
 
-How does the [[Unpardonable sin]] in Mt 12:31–32 ~(cf. Mk 3:28–29; Lk 12:10)~ relate to essential practices (or [[Essential doctrines]])?
+How does the [[Unpardonable sin]] in Mt 12:31–32 ~(cf. Mk 3:28–29; Lk 12:10)~ relate to essential practices (or [[topic/Essential doctrines]])?
 
 ## Justify
 

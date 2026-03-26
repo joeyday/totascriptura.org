@@ -18,6 +18,6 @@ Ex 34:15–16; Lev 17:7; 20:5–6; Dt 31:16; Jdg 2:17; 8:33; 1Ch 5:25; Jer 2:20;
 ## See also
 
 - [[God the Father]]
-- [[Jesus is God]]
+- [[topic/Jesus is God]]
 - [[Marriage]]
 - [[Complementarianism]]

@@ -1,5 +1,5 @@
 ---
-aside of: "[[Assurance of salvation]]"
+aside of: "[[topic/Assurance of salvation]]"
 ---
 ## Prooftexts from WCF XVIII
 1. Job 8:13–14; Mic 3:11; Dt 29:19; Jn 8:41

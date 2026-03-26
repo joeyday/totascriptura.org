@@ -23,7 +23,7 @@ Passages in this topic are grouped under each heading based on their indication,
 ### Jesus ~(non-specific)~
 *Sufficient:* Jn 3:16–18, 36; 6:28–29, 40, 47; 11:25–27; Ac 4:12; 10:43; 11:17; 16:31; 26:18; Gal 2:16; 3:22; 1Jn 3:23
 ### Jesus is Lord, God ~(Yahweh)~
-{{mt|[[Jesus is God]]}}
+{{mt|[[topic/Jesus is God]]}}
 *Necessary:* Jn 5:22–23 ~(cf. Isa 8:13; 1Pe 3:15)~; Jn 8:21–25 ~(cf. Jn 8:28, 58)~; *Sufficient:* Ro 10:9, 13 ~(cites Joel 2:32)~ ~— *see also 1Co 12:3; 2Co 4:3–5*~
 ### Jesus is Christ, Son of God
 {{mt|[[Eternal generation]]}}

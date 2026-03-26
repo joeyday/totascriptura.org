@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Christology]]"
-featured with: "[[Trinity]]"
+featured with: "[[topic/Trinity]]"
 ---
 ![[Cobblestones-and-grass.png|320]]
 
@@ -39,7 +39,7 @@ Mt 9:15 ~(cf. Mk 2:19–20; Lk 5:34–35)~; Mt 22:2; 25:1–13; Jn 3:28–30; Ro
 
 ## Jesus has attributes of God
 
-{{[[mt]]|[[Attributes of God]]}}
+{{[[mt]]|[[topic/Attributes of God]]}}
 
 ### {{[[aseity-heading]]}}
 
@@ -211,7 +211,7 @@ Mt 4:1 ~(cf. Mk 1:13; Lk 4:1–2)~; Heb 2:18; 4:15 ~— *cf. Jas 1:13*~
 * [[Hypostatic union]]
 * [[Father is God]]
 * [[Holy Spirit is God]]
-* [[Trinity]]
-* [[Attributes of God]]
+* [[topic/Trinity]]
+* [[topic/Attributes of God]]
 
 [^1]: Also see Jn 6:35, 41, 48, 51; 8:12; 10:7, 9, 11, 14; 11:25; 14:6; 15:1, 5.
