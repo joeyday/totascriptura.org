@@ -1456,10 +1456,10 @@ async function build() {
             if (dimMatch) {
               attrs += ` width="${dimMatch[1]}"`;
               if (dimMatch[2]) attrs += ` height="${dimMatch[2]}"`;
-              return `<img src="${imgUrl}" alt="${searchTarget}"${attrs}>`;
+              return `<figure><img src="${imgUrl}" alt="${searchTarget}"${attrs}></figure>`;
             }
             const alt = text === inner ? searchTarget : text;
-            return `<img src="${imgUrl}" alt="${alt}">`;
+            return `<figure><img src="${imgUrl}" alt="${alt}"></figure>`;
           } else {
             const linkText = text === inner ? searchTarget : text;
             return `[${linkText}](${imgUrl})`;
