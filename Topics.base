@@ -18,6 +18,10 @@ views:
             - file.folder != "partial"
     order:
       - file.name
+      - draft
+      - hidden
+      - stub
+      - aside of
       - categories
   - type: table
     name: Uncategorized

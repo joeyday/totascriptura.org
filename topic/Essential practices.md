@@ -3,7 +3,7 @@ draft: true
 ---
 
 :::
-*To [God] is due from angels and men, and every other creature, whatsoever worship, service, or obedience he is pleased to require of them.*[^1]
+*To \[God\] is due from angels and men, and every other creature, whatsoever worship, service, or obedience he is pleased to require of them.*[^1]
 :::
 
 Passages in this topic are grouped under each heading based on their indication, grammatically, that observing a given practice is either **necessary** or **sufficient** for salvation.[^2]
@@ -28,7 +28,7 @@ Passages in this topic are grouped under each heading based on their indication,
 
 ### Baptism
 
-{{mt|[[topic/Baptism|Baptism]]}}
+{{[[mt]]|[[topic/Baptism|Baptism]]}}
 
 *Sufficient:* Mk 16:16; Ac 2:37–38: 1Pe 3:21
 
@@ -62,7 +62,7 @@ Passages in this topic are grouped under each heading based on their indication,
 
 ### Enduring to the end
 
-{{[[mt]]|[[Perseverance of the saints]]}}
+{{[[mt]]|[[topic/Preservation of the saints|Perseverance of the saints]]}}
 
 *Sufficient:* Mt 10:22; Mt 24:13 ~(cf. Mk 13:13; Lk 21:19)~; Jn 8:31–32; Heb 3:14; Rev 2:10; *Necessary:* 1Jn 2:19-20; 3:9
 
