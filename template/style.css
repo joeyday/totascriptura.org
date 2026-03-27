@@ -862,11 +862,14 @@ footer {
 
 
 /* Page-specific styles */
-.home article img {
+.home article figure {
     float: left;
     margin: 0.5em 0.75em 0.25em 0;
     width: 5em;
-    border-radius: 100%;
+    
+    img {
+        border-radius: 100%;
+    }
 }
 
 .colophon .bible-books {
