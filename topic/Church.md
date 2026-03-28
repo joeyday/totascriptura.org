@@ -2,7 +2,7 @@
 categories:
   - "[[Ecclesiology]]"
 ---
-![[Sandcastle.png|320]]
+![[Sandcastle.png|250]]
 
 The **church** is the community of all true believers for all time.[^1]
 ### Nature of

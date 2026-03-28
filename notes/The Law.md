@@ -4,7 +4,7 @@ aside of: "[[topic/The Law|The Law]]"
 ---
 ## Bryan’s illustration
 
-![[Law-illustration.png|320]]
+![[Law-illustration.png|250]]
 
 Bryan Lee, in a Sunday School lesson on [WCF XIX](http://papers.jday.co/view/wcf_xix), drew this on the whiteboard to illustrate the ceremonial, judicial, and moral law.
 
