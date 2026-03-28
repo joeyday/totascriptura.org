@@ -734,7 +734,7 @@ footer {
         grid-area: main;
         
         article header {
-            display: initial;
+            display: block;
         
             .quick-nav {
                 display: none;
