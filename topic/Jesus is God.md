@@ -3,7 +3,7 @@ categories:
   - "[[Christology]]"
 featured with: "[[topic/Trinity|Trinity]]"
 ---
-![[Cobblestones-and-grass.png|313]]
+![[Cobblestones-and-grass.png|300]]
 
 ### Jesus is Son of God
 

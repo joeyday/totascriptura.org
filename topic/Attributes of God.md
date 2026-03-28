@@ -3,7 +3,7 @@ categories:
   - "[[Theology (proper)]]"
 featured: true
 ---
-![[Rocks.png|313]]
+![[Rocks.png|300]]
 
 ### {{[[aseity-heading]]}}
 

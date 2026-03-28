@@ -3,7 +3,7 @@ permalink: about
 quick nav: true
 unlisted: true
 ---
-![[Autumn.png|313]]
+![[Autumn.png|300]]
 
 :::
 *Your word is a lamp to my feet and a light to my path.*[^psalms1]
