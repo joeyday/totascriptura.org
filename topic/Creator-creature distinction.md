@@ -7,7 +7,7 @@ categories:
   - "[[Anthropology]]"
 featured: true
 ---
-![[Turtle.png|250]]
+![[Turtle.png|313]]
 
 :::
 *For my thoughts are not your thoughts,\

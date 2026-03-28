@@ -8,7 +8,7 @@ categories:
   - "[[Prolegomena]]"
 featured: true
 ---
-![[Boardwalk.png|250]]
+![[Boardwalk.png|313]]
 
 ## Canon of
 ### Old Testament canon

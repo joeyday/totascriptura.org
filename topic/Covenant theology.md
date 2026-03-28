@@ -3,7 +3,7 @@ categories:
   - "[[Biblical theology]]"
 featured: true
 ---
-![[Autumn-chapel-ruins.png|250]]
+![[Autumn-chapel-ruins.png|313]]
 
 ## Covenant of Redemption
 ### Covenant of Redemption
