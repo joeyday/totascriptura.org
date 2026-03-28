@@ -895,6 +895,10 @@ function findAssetFiles(dir) {
 }
 
 function getOutputPaths(finalUrlPath) {
+  // GitHub Pages serves dist/404.html as the custom 404 page.
+  if (finalUrlPath === "/404") {
+    return { outDirPath: OUTPUT_DIR, outFilePath: path.join(OUTPUT_DIR, "404.html") };
+  }
   let outDirPath;
   if (finalUrlPath === "/") {
     outDirPath = OUTPUT_DIR;
