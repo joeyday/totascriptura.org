@@ -447,19 +447,23 @@ main {
         font-size: 1rem;
         font-family: var(--font-secondary);
         
-        li {
-            display: inline;
-            margin: 0;
-            padding: 0;
-            list-style-type: none;
-            
-            &::after {
-                content: ' · ';
-            }
-            
-            &:last-child::after {
-                content: '';
-            }
+        ul {
+        	margin: 0;
+        	
+			li {
+				display: inline;
+				margin: 0;
+				padding: 0;
+				list-style-type: none;
+				
+				&::after {
+					content: ' · ';
+				}
+				
+				&:last-child::after {
+					content: '';
+				}
+			}
         }
     }
 
