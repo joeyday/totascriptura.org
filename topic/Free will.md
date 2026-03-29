@@ -4,7 +4,7 @@ categories:
 featured with: "[[topic/Providence|Providence]]"
 ---
 
-![[Windmill.png|300]]
+![[Windmill.png|300x137]]
 
 ### Most explicit affirmations of
 

@@ -6,7 +6,7 @@ categories:
   - "[[Theology (proper)]]"
 featured: true
 ---
-![[Pink-tree.png|300]]
+![[Pink-tree.png|300x137]]
 
 God’s works of **providence** are, his most holy, wise, and powerful preserving and governing all his creatures, and all their actions.[^1]
 

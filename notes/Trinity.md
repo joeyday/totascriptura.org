@@ -3,7 +3,7 @@ aside of: "[[topic/Trinity|Trinity]]"
 aliases:
   - Trinity (notes)
 ---
-![[Trinity-diagram-3.png|300]]
+![[Trinity-diagram-3.png|300x216]]
 
 ## Todo
 

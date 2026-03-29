@@ -7,7 +7,7 @@ categories:
 featured: true
 ---
 
-![[Hidden-waterfall.png|300]]
+![[Hidden-waterfall.png|300x137]]
 
 ## Institution, commandment of
 
