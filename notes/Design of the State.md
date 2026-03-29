@@ -2,7 +2,7 @@
 hidden: true
 aside of: "[[topic/Design of the State|Design of the State]]"
 ---
-![[The Design of the State.jpg]]
+![[The Design of the State.jpg|300x225]]
 
 ## Passages in the screen shot
 

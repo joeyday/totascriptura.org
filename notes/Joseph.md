@@ -43,9 +43,9 @@ My follow-up questions:
 
 ## Maps
 
-![[Twelve tribes 3.png]]
+![[Twelve tribes 3.png|300x393]]
 
-![[Divided kingdom 3.png]]
+![[Divided kingdom 3.png|300x392]]
 
 ## Sticks of Judah and Ephraim
 
