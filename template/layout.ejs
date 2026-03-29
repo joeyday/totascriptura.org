@@ -40,8 +40,10 @@
                 <h1><%= frontmatter.title %></h1>
                 <% if (frontmatter['quick nav']) { %>
                 <nav class="quick-nav">
-                    <li><a href="/index/featured">Featured</a></li>
-                    <li><a href="/index/alphabetical">Index</a></li>
+                    <ul>
+                        <li><a href="/index/featured">Featured</a></li>
+                        <li><a href="/index/alphabetical">Index</a></li>
+                    </ul>
                 </nav>
                 <% } else if (featured || featuredWith) { %><span class="featured-badge">&starf;</span><% } %>
             </header>
