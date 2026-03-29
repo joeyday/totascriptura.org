@@ -45,7 +45,7 @@
                         <li><a href="/index/alphabetical">Index</a></li>
                     </ul>
                 </nav>
-                <% } else if (featured || featuredWith) { %><span class="featured-badge">&starf;</span><% } %>
+                <% } else if (featured || featuredWith) { %><span class="featured-badge" aria-hidden="true">&starf;</span><% } %>
             </header>
             
             <% if (frontmatter.draft) { %>
@@ -78,7 +78,7 @@
     
             <% if (categories.length) { %>
             <p class="categories">
-                <span class="entypo-icon">📁</span>
+                <span class="entypo-icon" aria-hidden="true">📁</span>
                 <a class="index-link" href="/index/categorical">Categories</a>:
                 <% categories.forEach(function(cat, i) { %>
                 <a href="<%= cat.url %>"><%= cat.title %></a><%= i < categories.length - 1 ? ', ' : '' %>
@@ -88,7 +88,8 @@
         </article>
     </main>
     
-    <nav class="tabs">
+    <h2 id="page-actions" class="visually-hidden">Page actions</h2>
+    <nav class="page-actions" aria-labelledby="page-actions">
         <ul>
             <% if (!isAside) { %>
             <li class="topic selected">Topic</li>
@@ -112,7 +113,8 @@
         </ul>
     </nav>
 
-    <nav class="sidebar">
+    <h2 id="site-navigation" class="visually-hidden">Site navigation</h2>
+    <nav class="site-navigation" aria-labelledby="site-navigation">
         <div>
             <ul>
                 <li><a href="/">Home page</a></li>
