@@ -43,6 +43,7 @@ q::before, q::after {
 img, picture, video, canvas, svg {
     display: block;
     width: 100%;
+    height: auto;
 }
 
 table {
