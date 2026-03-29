@@ -93,7 +93,7 @@ a {
        As it widens, the text grows with a kind of zooming effect
        The text grows to a max font size of 18px
        Font size stays static until wide enough for next breakpoint */
-    --main-width: clamp(0px, 100vw, var(--main-small-max-width)); /*
+    --main-width: clamp(0px, 100vw, var(--main-small-max-width));
 
     /* hardcoded fonts */
     --font-meta-serif: ff-meta-serif-web-pro, serif;
@@ -143,32 +143,33 @@ a {
     --color-nav-text: var(--color-white);
     --color-nav-text-muted: var(--color-light-gray);
     --color-nav-stroke: var(--color-light-gray);
-    
-    /* dark mode colors */
-    @media (prefers-color-scheme: dark) {
-        --color-main-background: var(--color-darker-gray);
-		--color-main-tint-background: oklch(from var(--color-main-background) calc(l + 0.05) c h);
-        --color-main-text: var(--color-white);
-        --color-main-text-muted: var(--color-lighter-gray);
-        --color-main-thick-stroke: var(--color-lighter-gray);
-        --color-main-stroke: var(--color-light-gray);
-        --color-main-thin-stroke: var(--color-neutral-gray);
-        --color-main-thinner-stroke: var(--color-dark-gray);
-
-        --color-primary: oklch(from var(--color-green) calc(l + 0.1) calc(c - 0.01) h);
-        --color-secondary: oklch(from var(--color-blue) calc(l + 0.1) calc(c - 0.01) h);
-        --color-tertiary: oklch(from var(--color-pink) calc(l + 0.1) calc(c - 0.01) h);
-        --color-quaternary: oklch(from var(--color-teal) calc(l + 0.1) calc(c - 0.01) h);
-        --color-quinary: oklch(from var(--color-orange) calc(l + 0.1) calc(c - 0.01) h / 0.3);
-        
-        --color-nav-background: var(--color-dark-gray);
-    }
 
     /* For mobile breakpoint, this actually colors the background
        For desktop breakpoint, this controls Safari window color (dumb) */
     background-color: var(--color-nav-background);
 }
-    
+
+/* dark mode colors */
+@media (prefers-color-scheme: dark) {
+	:root {
+		--color-main-background: var(--color-darker-gray);
+		--color-main-tint-background: oklch(from var(--color-main-background) calc(l + 0.05) c h);
+		--color-main-text: var(--color-white);
+		--color-main-text-muted: var(--color-lighter-gray);
+		--color-main-thick-stroke: var(--color-lighter-gray);
+		--color-main-stroke: var(--color-light-gray);
+		--color-main-thin-stroke: var(--color-neutral-gray);
+		--color-main-thinner-stroke: var(--color-dark-gray);
+	
+		--color-primary: oklch(from var(--color-green) calc(l + 0.1) calc(c - 0.01) h);
+		--color-secondary: oklch(from var(--color-blue) calc(l + 0.1) calc(c - 0.01) h);
+		--color-tertiary: oklch(from var(--color-pink) calc(l + 0.1) calc(c - 0.01) h);
+		--color-quaternary: oklch(from var(--color-teal) calc(l + 0.1) calc(c - 0.01) h);
+		--color-quinary: oklch(from var(--color-orange) calc(l + 0.1) calc(c - 0.01) h / 0.3);
+		
+		--color-nav-background: var(--color-dark-gray);
+	}
+}
 
 html {
     /* font size is a ratio of the main column width, 14px / 320px  = 0.04375 */
@@ -838,7 +839,7 @@ footer {
         background-color: var(--color-main-background);
         
         color: var(--color-main-text);
-        a { color: var(--color-main-text); }
+        a { color: var(--color-main-text) !important; }
         
         p {
             display: block;
