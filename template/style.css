@@ -839,7 +839,7 @@ footer {
         background-color: var(--color-main-background);
         
         color: var(--color-main-text);
-        a { color: var(--color-main-text) !important; }
+        a { color: var(--color-main-text) !important; } /* why does this need !important? */
         
         p {
             display: block;
