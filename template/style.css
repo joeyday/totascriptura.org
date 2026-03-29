@@ -289,11 +289,7 @@ main {
         -ms-hyphens: auto;
     }
     
-    p {
-        margin: 1rem 0;
-    }
-    
-    ul, ol {
+    p, figure, ul, ol, table {
         margin: 1rem 0;
     }
     
@@ -324,14 +320,14 @@ main {
     
     blockquote {
         font-size: 0.857em; /* 14px·0.857=12px */
-        margin: 1em 0.4em;
-        padding-left: 1em;
+        margin: 1rem 0.4rem;
+        padding-left: 1rem;
         border-left: 1px solid var(--color-quaternary);
     }
     
     table {
         font-size: 0.857em; /* 14px·0.857=12px */
-
+        
         border: 1px solid var(--color-main-stroke);
         width: 100%;
         
@@ -359,12 +355,12 @@ main {
         border: none;
         height: 1px;
         border-top: 1px dashed var(--color-main-thinner-stroke);
-        margin: 0.5em auto;
+        margin: 0.5rem auto;
         
         &.footnotes-sep {
             width: 50%;
             border-top: 1px solid var(--color-main-thick-stroke);
-            margin-top: 2em;
+            margin-top: 2rem;
             margin-left: 0;
         }
     }
