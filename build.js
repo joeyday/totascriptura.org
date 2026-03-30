@@ -14,7 +14,7 @@ const BIBLE_BOOKS = [
   { names: ["Judges", "Jdg"], osis: "Judg" },
   { names: ["Ruth", "Ru"], osis: "Ruth" },
   { names: ["1 Samuel", "1Samuel", "1Sa"], osis: "1Sam" },
-  { names: ["2 Samuel", "2Sraamuel", "2Sa"], osis: "2Sam" },
+  { names: ["2 Samuel", "2Samuel", "2Sa"], osis: "2Sam" },
   { names: ["1 Kings", "1Kings", "1Ki"], osis: "1Kgs" },
   { names: ["2 Kings", "2Kings", "2Ki"], osis: "2Kgs" },
   { names: ["1 Chronicles", "1Chronicles", "1Ch"], osis: "1Chr" },
