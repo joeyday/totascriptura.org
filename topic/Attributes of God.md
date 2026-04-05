@@ -35,7 +35,7 @@ Isa 57:15; Ac 17:27–28; Ro 10:8
 
 {{[[mt]]|[[topic/Impassibility|Impassibility]]}}
 
-1Sa 15:29; Ne 9:17; Ps 50:12–13; 103:8, 17; Lam 3:22; Hos 11:9; Ac 14:15; Ro 9:22; Jas 5:17
+1Sa 15:29; Ne 9:17; Ps 50:12–13; 103:8, 17; La 3:22; Hos 11:9; Ac 14:15; Ro 9:22; Jas 5:17
 
 ### {{[[impeccability-heading]]}}
 

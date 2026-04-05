@@ -73,7 +73,7 @@ Ge 29:35; Ps 8:1–2; 30:9; 88:10; 103:19–22; 115:17–18; 145:5–10; 148:1�
 
 ### Doing good to his creatures is pleasing to God in itself, while doing harm is pleasing only in relation to something else ~(¶¶ 226–227)~
 
-Dt 28:63; Ne 9:17; Ps 103:8; 145:8; Lam 3:33; Eze 5:13; 18:32; 33:11; Jon 4:2; Mic 7:18; 2Pe 3:9
+Dt 28:63; Ne 9:17; Ps 103:8; 145:8; La 3:33; Eze 5:13; 18:32; 33:11; Jon 4:2; Mic 7:18; 2Pe 3:9
 
 ### God delights in the saving work of Christ as an ultimate end of creation ~(¶¶ 228–230)~
 
