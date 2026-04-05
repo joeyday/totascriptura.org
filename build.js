@@ -83,6 +83,24 @@ for (const book of BIBLE_BOOKS) {
   }
 }
 
+// Map: CWMS abbreviation → { bookIndex, bookName, bookSlug }
+// Used by the Scripture index collector.
+// Populated lazily (after build() starts) to avoid calling slugify before
+// its module initializes. See _initBookCwmsToInfo() below.
+const _bookCwmsToInfo = new Map();
+function _initBookCwmsToInfo() {
+  if (_bookCwmsToInfo.size > 0) return;
+  for (let _i = 0; _i < BIBLE_BOOKS.length; _i++) {
+    const _book = BIBLE_BOOKS[_i];
+    const _cwms = _book.names[_book.names.length - 1];
+    _bookCwmsToInfo.set(_cwms, {
+      bookIndex: _i,
+      bookName: _book.names[0],
+      bookSlug: slugify(_book.names[0], { lower: true, strict: true }),
+    });
+  }
+}
+
 // Build the reference regex
 // Sorted by length desc so longer matches win (e.g. "Song of Solomon" before "Song")
 const _allBookNames = BIBLE_BOOKS.flatMap((b) => b.names).sort(
@@ -425,6 +443,271 @@ function linkBibleRefs(html) {
   return result.join("");
 }
 
+// ─── Scripture Index Collector ────────────────────────────────────────────────
+
+// Build the canonical short display form for a Bible ref (e.g. "3:16–17", "3").
+function buildDisplayShort(chapter, verseStart, rangeVal, endVerse) {
+  if (verseStart === undefined || verseStart === null) return String(chapter);
+  if (!rangeVal) return `${chapter}:${verseStart}`;
+  if (!endVerse) return `${chapter}:${verseStart}\u2013${rangeVal}`; // same-ch range
+  return `${chapter}:${verseStart}\u2013${rangeVal}:${endVerse}`; // cross-ch range
+}
+
+// Collect continuation refs from a plain-text chunk. Mirrors applyContinuationRefs
+// but records ref objects instead of emitting HTML.
+function collectContRefs(
+  text,
+  ctxState,
+  refs,
+  pageUrl,
+  pageTitle,
+  sectionId,
+  sectionTitle,
+) {
+  if (!ctxState.lastCwms) return;
+  const info = _bookCwmsToInfo.get(ctxState.lastCwms);
+  if (!info) return;
+
+  CONT_REF_RE.lastIndex = 0;
+  let pos = 0;
+  let m;
+  while ((m = CONT_REF_RE.exec(text)) !== null) {
+    // Strict chaining: gap between last position and this match must be whitespace only.
+    const gap = text.slice(pos, m.index);
+    if (/\S/.test(gap)) break;
+
+    const [, , firstNum, verseStartA, rangeValA, endVerseA, bareRangeEnd] = m;
+    let chapter, verseStart, rangeVal, endVerse;
+
+    if (verseStartA !== undefined) {
+      // Branch A: chapter:verse format
+      chapter = firstNum;
+      verseStart = verseStartA;
+      rangeVal = rangeValA;
+      endVerse = endVerseA;
+      ctxState.lastChapter = chapter;
+    } else if (ctxState.lastChapter) {
+      // Branch B: bare verse number in last known chapter
+      chapter = ctxState.lastChapter;
+      verseStart = firstNum;
+      rangeVal = bareRangeEnd;
+      endVerse = undefined;
+    } else {
+      pos = m.index + m[0].length;
+      continue;
+    }
+
+    refs.push({
+      bookIndex: info.bookIndex,
+      bookSlug: info.bookSlug,
+      bookName: info.bookName,
+      chapterNum: parseInt(chapter),
+      verseStart: parseInt(verseStart),
+      rangeVal: rangeVal || undefined,
+      endVerse: endVerse || undefined,
+      displayShort: buildDisplayShort(chapter, verseStart, rangeVal, endVerse),
+      pageUrl,
+      pageTitle,
+      sectionId,
+      sectionTitle,
+    });
+    pos = m.index + m[0].length;
+  }
+}
+
+// Collect named + continuation refs from a plain-text chunk.
+function collectTextRefs(
+  text,
+  ctxState,
+  refs,
+  pageUrl,
+  pageTitle,
+  sectionId,
+  sectionTitle,
+) {
+  BIBLE_REF_RE.lastIndex = 0;
+  let lastIndex = 0;
+  let m;
+  while ((m = BIBLE_REF_RE.exec(text)) !== null) {
+    const [match, bang, bookName, chapter, verseStart, rangeVal, endVerse] = m;
+    // Collect any continuation refs in the gap before this named ref
+    collectContRefs(
+      text.slice(lastIndex, m.index),
+      ctxState,
+      refs,
+      pageUrl,
+      pageTitle,
+      sectionId,
+      sectionTitle,
+    );
+    if (bang !== "!") {
+      const normalized = bookName.toLowerCase().replace(/\s+/g, " ").trim();
+      const cwms =
+        _bookCwmsMap.get(normalized) ||
+        _bookCwmsMap.get(normalized.replace(/\s/g, ""));
+      if (cwms) {
+        const info = _bookCwmsToInfo.get(cwms);
+        if (info) {
+          ctxState.lastCwms = cwms;
+          ctxState.lastChapter = chapter;
+          refs.push({
+            bookIndex: info.bookIndex,
+            bookSlug: info.bookSlug,
+            bookName: info.bookName,
+            chapterNum: parseInt(chapter),
+            verseStart:
+              verseStart !== undefined ? parseInt(verseStart) : undefined,
+            rangeVal: rangeVal || undefined,
+            endVerse: endVerse || undefined,
+            displayShort: buildDisplayShort(
+              chapter,
+              verseStart,
+              rangeVal,
+              endVerse,
+            ),
+            pageUrl,
+            pageTitle,
+            sectionId,
+            sectionTitle,
+          });
+        }
+      }
+    }
+    // opt-out refs (bang === "!") are not collected and do not update ctxState
+    lastIndex = m.index + match.length;
+  }
+  // Collect continuation refs in trailing text after last named ref
+  collectContRefs(
+    text.slice(lastIndex),
+    ctxState,
+    refs,
+    pageUrl,
+    pageTitle,
+    sectionId,
+    sectionTitle,
+  );
+}
+
+// Traverse rendered HTML tag-by-tag, tracking h2/h3 section context, and
+// collect all Bible references from text nodes outside skip-tag regions.
+// Returns an array of ref objects (may include duplicates; deduplication
+// happens during index generation).
+function collectBibleRefsFromHtml(html, pageUrl, pageTitle) {
+  const refs = [];
+  const TAG_RE =
+    /<!--[\s\S]*?-->|<!\[CDATA\[[\s\S]*?\]\]>|<\/?([a-zA-Z][a-zA-Z0-9]*)[^>]*>/g;
+  const skipStack = [];
+  const ctxState = { lastCwms: null, lastChapter: null };
+
+  // Heading accumulation state (tracks the h2/h3 we're currently inside)
+  let pendingHeadingTag = null;
+  let pendingHeadingId = null;
+  let pendingHeadingBuffer = [];
+
+  // The section in effect for refs collected at the current position
+  let currentSectionId = null;
+  let currentSectionTitle = null;
+
+  let lastIndex = 0;
+  let m;
+  TAG_RE.lastIndex = 0;
+
+  while ((m = TAG_RE.exec(html)) !== null) {
+    const tagFull = m[0];
+    const tagName = m[1] ? m[1].toLowerCase() : null;
+    const before = html.slice(lastIndex, m.index);
+
+    if (before) {
+      if (pendingHeadingTag) {
+        // Inside a heading: accumulate text for the section title
+        pendingHeadingBuffer.push(before);
+      }
+      if (skipStack.length === 0) {
+        // Outside any skip context: collect Bible refs
+        collectTextRefs(
+          before,
+          ctxState,
+          refs,
+          pageUrl,
+          pageTitle,
+          currentSectionId,
+          currentSectionTitle,
+        );
+      }
+    }
+
+    if (!tagName) {
+      // HTML comment or CDATA — advance and continue
+      lastIndex = m.index + tagFull.length;
+      continue;
+    }
+
+    const isClose = tagFull.startsWith("</");
+    const isSelfClose = tagFull.endsWith("/>");
+
+    // Track h2/h3 section headings to provide fragment context for refs
+    if ((tagName === "h2" || tagName === "h3") && !isSelfClose) {
+      if (!isClose) {
+        // Opening heading: start collecting its text content
+        const idM = tagFull.match(/\bid\s*=\s*["']?([^"'\s>]+)["']?/);
+        pendingHeadingTag = tagName;
+        pendingHeadingId = idM ? idM[1] : null;
+        pendingHeadingBuffer = [];
+      } else if (pendingHeadingTag === tagName) {
+        // Closing heading: finalise the section context
+        currentSectionId = pendingHeadingId;
+        currentSectionTitle = pendingHeadingBuffer
+          .join("")
+          .replace(/<[^>]*>/g, "")
+          .trim();
+        pendingHeadingTag = null;
+        pendingHeadingId = null;
+        pendingHeadingBuffer = [];
+      }
+    }
+
+    // Reset continuation-ref context at every block boundary (opening or closing)
+    if (BLOCK_TAGS.has(tagName)) {
+      ctxState.lastCwms = null;
+      ctxState.lastChapter = null;
+    }
+
+    // Maintain skip stack (prevents collecting refs inside <a>, <code>, etc.)
+    if (SKIP_TAGS.has(tagName)) {
+      if (isClose) {
+        if (
+          skipStack.length > 0 &&
+          skipStack[skipStack.length - 1] === tagName
+        ) {
+          skipStack.pop();
+        }
+      } else if (!isSelfClose) {
+        skipStack.push(tagName);
+      }
+    }
+
+    lastIndex = m.index + tagFull.length;
+  }
+
+  // Handle any trailing text after the last tag
+  const tail = html.slice(lastIndex);
+  if (tail && skipStack.length === 0) {
+    collectTextRefs(
+      tail,
+      ctxState,
+      refs,
+      pageUrl,
+      pageTitle,
+      currentSectionId,
+      currentSectionTitle,
+    );
+  }
+
+  return refs;
+}
+
+// ─── End Scripture Index Collector ───────────────────────────────────────────
+
 async function findHtmlFiles(dir) {
   const results = [];
   let entries;
@@ -712,6 +995,73 @@ function wrapDivineNames(html) {
 }
 
 // ─── End Divine Name Wrapping ─────────────────────────────────────────────────
+
+// ─── Heading ID Injection ─────────────────────────────────────────────────────
+// Adds id attributes to <h2> and <h3> elements that don't already have one.
+// IDs are generated by slugifying the element's plain-text content.
+// Duplicate IDs within the same page are disambiguated with -2, -3, etc.
+// Runs as the first post-processing step so all downstream passes and the
+// future Scripture index can rely on the IDs being present.
+
+function addHeadingIds(html) {
+  const usedIds = new Set();
+
+  // Alternation order matters: comments, CDATA, script blocks, and style
+  // blocks are matched and consumed first so we never accidentally process
+  // heading-like text that appears inside those contexts.
+  // Group 1 = full heading element, group 2 = tag name (h2|h3),
+  // group 3 = attribute string (may be empty).
+  // Backreference \2 ties the closing tag to the opening tag (h2↔h2, h3↔h3).
+  const H_RE =
+    /<!--[\s\S]*?-->|<!\[CDATA\[[\s\S]*?\]\]>|<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>|(<(h[23])(\s[^>]*)?>[\s\S]*?<\/\2>)/gi;
+
+  // First pass: pre-reserve all IDs that already exist on h2/h3 elements.
+  // This prevents generated IDs from colliding with explicit IDs that appear
+  // later in the document, regardless of source order.
+  let m;
+  H_RE.lastIndex = 0;
+  while ((m = H_RE.exec(html)) !== null) {
+    if (!m[2]) continue; // comment / CDATA / script / style — skip
+    const attrs = m[3] || "";
+    if (/\bid\s*=/.test(attrs)) {
+      const existing = attrs.match(/\bid\s*=\s*["']?([^"'\s>]+)["']?/);
+      if (existing) usedIds.add(existing[1]);
+    }
+  }
+
+  // Second pass: generate and inject IDs for headings that lack one.
+  H_RE.lastIndex = 0;
+  return html.replace(H_RE, (match, fullHeading, tag, attrs) => {
+    if (!tag) return match; // comment / CDATA / script / style — preserve
+
+    attrs = attrs || "";
+    // Already has an id — preserve it exactly as written
+    if (/\bid\s*=/.test(attrs)) return match;
+
+    // Extract plain text by stripping inner tags
+    const text = fullHeading.replace(/<[^>]*>/g, "").trim();
+
+    // Slugify; fall back to "section" for empty/symbol-only headings
+    let base = slugify(text, { lower: true, strict: true }) || "section";
+
+    // Deduplicate within this page
+    let slug = base;
+    if (usedIds.has(slug)) {
+      let n = 2;
+      while (usedIds.has(`${base}-${n}`)) n++;
+      slug = `${base}-${n}`;
+    }
+    usedIds.add(slug);
+
+    // Inject id into the opening tag
+    return fullHeading.replace(
+      new RegExp(`^<${tag}(\\s[^>]*)?>`, "i"),
+      (_, a) => `<${tag}${a || ""} id="${slug}">`,
+    );
+  });
+}
+
+// ─── End Heading ID Injection ─────────────────────────────────────────────────
 
 import markdownIt from "markdown-it";
 import markdownItFootnote from "markdown-it-footnote";
@@ -1094,6 +1444,10 @@ function parseCategoriesList(raw) {
 }
 
 async function build() {
+  // Initialise the CWMS→book-info map (requires slugify, called inside build()
+  // to guarantee slugify's module is fully initialised before first use).
+  _initBookCwmsToInfo();
+
   await ensureDir(OUTPUT_DIR);
   const layoutTemplate = await fs.readFile(TEMPLATE_PATH, "utf-8");
 
@@ -1365,11 +1719,13 @@ async function build() {
         } else {
           classes.push("internal");
           if (href.startsWith("/")) {
-            if (draftUrls.has(href)) classes.push("draft");
-            if (categoryUrls.has(href)) classes.push("category");
-            if (asideUrls.has(href)) classes.push("aside");
-            if (featuredUrls.has(href)) classes.push("featured");
-            if (!allKnownUrls.has(href) && !href.startsWith("/index/"))
+            // Strip fragment (#section) before checking URL sets
+            const baseHref = href.split("#")[0];
+            if (draftUrls.has(baseHref)) classes.push("draft");
+            if (categoryUrls.has(baseHref)) classes.push("category");
+            if (asideUrls.has(baseHref)) classes.push("aside");
+            if (featuredUrls.has(baseHref)) classes.push("featured");
+            if (!allKnownUrls.has(baseHref) && !baseHref.startsWith("/index/"))
               classes.push("broken");
           }
         }
@@ -1427,6 +1783,9 @@ async function build() {
   }
 
   const searchDocs = [];
+  // distFilePath → { url, title, unlisted } for Scripture ref collection
+  const pageRegistry = new Map();
+
 
   for (const fileInfo of filesToProcess) {
     if (fileInfo.hidden) continue;
@@ -1571,6 +1930,12 @@ async function build() {
     const { outDirPath, outFilePath } = getOutputPaths(fileInfo.finalUrlPath);
     await ensureDir(outDirPath);
     await fs.writeFile(outFilePath, finalHtml);
+    // Register for Scripture ref collection (non-hidden pages; unlisted flag preserved)
+    pageRegistry.set(outFilePath, {
+      url: fileInfo.finalUrlPath,
+      title: fileInfo.title,
+      unlisted: !!fileInfo.unlisted,
+    });
     console.log(
       `Built: ${fileInfo.filePath} -> ${outFilePath} (URL: ${fileInfo.finalUrlPath})`,
     );
@@ -1785,10 +2150,172 @@ async function build() {
 
   await fs.writeFile(path.join(OUTPUT_DIR, ".nojekyll"), "");
 
-  // Post-process: link Bible references in all HTML files
+  // Post-process: add id attributes to h2/h3 headings (must run first)
   const htmlFiles = await findHtmlFiles(OUTPUT_DIR);
-  let linkedCount = 0;
+  let headingCount = 0;
   for (const htmlFile of htmlFiles) {
+    const raw = await fs.readFile(htmlFile, "utf-8");
+    const withIds = addHeadingIds(raw);
+    if (withIds !== raw) {
+      await fs.writeFile(htmlFile, withIds);
+      headingCount++;
+    }
+  }
+  console.log(
+    `Heading IDs: processed ${htmlFiles.length} HTML file(s), rewrote ${headingCount}.`,
+  );
+
+  // ── Scripture Index ────────────────────────────────────────────────────────
+  // Collect Bible refs from every non-unlisted content page (headings IDs are
+  // now in place, so section fragment links will be accurate).
+  const allCollectedRefs = [];
+  for (const [htmlFile, pageInfo] of pageRegistry) {
+    if (pageInfo.unlisted) continue;
+    const html = await fs.readFile(htmlFile, "utf-8");
+    const pageRefs = collectBibleRefsFromHtml(html, pageInfo.url, pageInfo.title);
+    allCollectedRefs.push(...pageRefs);
+  }
+  console.log(
+    `Scripture collector: ${allCollectedRefs.length} ref(s) from ${pageRegistry.size} page(s).`,
+  );
+
+  // Group refs by book, then by canonical ref key (for deduplication).
+  // refsByBook: Map<bookIndex, { bookSlug, bookName, entryMap }>
+  // entryMap:   Map<entryKey, { chapterNum, verseStart, rangeVal, endVerse,
+  //                             displayShort, occMap }>
+  // occMap:     Map<occKey, { pageUrl, pageTitle, sectionId, sectionTitle }>
+  const refsByBook = new Map();
+  for (const ref of allCollectedRefs) {
+    let bookData = refsByBook.get(ref.bookIndex);
+    if (!bookData) {
+      bookData = {
+        bookSlug: ref.bookSlug,
+        bookName: ref.bookName,
+        entryMap: new Map(),
+      };
+      refsByBook.set(ref.bookIndex, bookData);
+    }
+    const entryKey = `${ref.chapterNum}|${ref.verseStart ?? ""}|${ref.rangeVal ?? ""}|${ref.endVerse ?? ""}`;
+    let entry = bookData.entryMap.get(entryKey);
+    if (!entry) {
+      entry = {
+        chapterNum: ref.chapterNum,
+        verseStart: ref.verseStart,
+        rangeVal: ref.rangeVal,
+        endVerse: ref.endVerse,
+        displayShort: ref.displayShort,
+        occMap: new Map(),
+      };
+      bookData.entryMap.set(entryKey, entry);
+    }
+    // Collapse multiple occurrences of the same ref on the same page+section
+    const occKey = `${ref.pageUrl}|${ref.sectionId ?? ""}`;
+    if (!entry.occMap.has(occKey)) {
+      entry.occMap.set(occKey, {
+        pageUrl: ref.pageUrl,
+        pageTitle: ref.pageTitle,
+        sectionId: ref.sectionId,
+        sectionTitle: ref.sectionTitle,
+      });
+    }
+  }
+
+  // Referenced books in canonical (Genesis → Revelation) order
+  const referencedBooks = [...refsByBook.entries()]
+    .sort((a, b) => a[0] - b[0])
+    .map(([, bookData]) => bookData);
+
+  const scriptureFiles = [];
+  const scriptureRootDir = path.join(OUTPUT_DIR, "index", "scripture");
+  await ensureDir(scriptureRootDir);
+
+  // Root page: /index/scripture — lists all referenced books
+  {
+    let listHtml =
+      referencedBooks.length === 0
+        ? "<p>No Scripture references found.</p>"
+        : "<ul>\n" +
+          referencedBooks
+            .map(
+              (b) =>
+                `  <li><a href="/index/scripture/${b.bookSlug}">${b.bookName}</a></li>`,
+            )
+            .join("\n") +
+          "\n</ul>";
+    const rootHtml = renderLayout(listHtml, {
+      frontmatter: { title: "Scripture index", permalink: "scripture" },
+    });
+    const rootFile = path.join(scriptureRootDir, "index.html");
+    await fs.writeFile(rootFile, rootHtml);
+    scriptureFiles.push(rootFile);
+    allKnownUrls.add("/index/scripture");
+    console.log("Built (index): /index/scripture");
+  }
+
+  // Per-book pages: /index/scripture/{book-slug}
+  for (const book of referencedBooks) {
+    const entries = [...book.entryMap.values()];
+    // Sort canonically: chapter → verse (chapter-only before verse) → range
+    entries.sort((a, b) => {
+      if (a.chapterNum !== b.chapterNum) return a.chapterNum - b.chapterNum;
+      const vsA = a.verseStart ?? -1;
+      const vsB = b.verseStart ?? -1;
+      if (vsA !== vsB) return vsA - vsB;
+      const rvA = a.rangeVal !== undefined ? parseInt(a.rangeVal) : -1;
+      const rvB = b.rangeVal !== undefined ? parseInt(b.rangeVal) : -1;
+      if (rvA !== rvB) return rvA - rvB;
+      const evA = a.endVerse !== undefined ? parseInt(a.endVerse) : -1;
+      const evB = b.endVerse !== undefined ? parseInt(b.endVerse) : -1;
+      return evA - evB;
+    });
+
+    let listHtml = "<ul>\n";
+    for (const entry of entries) {
+      const links = [...entry.occMap.values()]
+        .map((occ) => {
+          const href = occ.sectionId
+            ? `${occ.pageUrl}#${occ.sectionId}`
+            : occ.pageUrl;
+          const label =
+            occ.sectionId && occ.sectionTitle
+              ? `${occ.pageTitle} (§${occ.sectionTitle})`
+              : occ.pageTitle;
+          return `<a href="${href}">${label}</a>`;
+        })
+        .join(", ");
+      listHtml += `  <li>${entry.displayShort} \u2014 ${links}</li>\n`;
+    }
+    listHtml += "</ul>";
+
+    const bookHtml = renderLayout(listHtml, {
+      frontmatter: {
+        title: `Scripture index: ${book.bookName}`,
+        permalink: book.bookSlug,
+      },
+    });
+    const bookDir = path.join(scriptureRootDir, book.bookSlug);
+    await ensureDir(bookDir);
+    const bookFile = path.join(bookDir, "index.html");
+    await fs.writeFile(bookFile, bookHtml);
+    scriptureFiles.push(bookFile);
+    allKnownUrls.add(`/index/scripture/${book.bookSlug}`);
+    console.log(`Built (index): /index/scripture/${book.bookSlug}`);
+  }
+
+  // Run all post-processing passes on scripture files too (heading IDs first)
+  for (const f of scriptureFiles) {
+    const raw = await fs.readFile(f, "utf-8");
+    const withIds = addHeadingIds(raw);
+    if (withIds !== raw) await fs.writeFile(f, withIds);
+  }
+
+  // All HTML files to post-process: original content + scripture index pages
+  const allHtmlFiles = [...htmlFiles, ...scriptureFiles];
+  // ── End Scripture Index ────────────────────────────────────────────────────
+
+  // Post-process: link Bible references in all HTML files
+  let linkedCount = 0;
+  for (const htmlFile of allHtmlFiles) {
     const raw = await fs.readFile(htmlFile, "utf-8");
     const linked = linkBibleRefs(raw);
     if (linked !== raw) {
@@ -1797,14 +2324,14 @@ async function build() {
     }
   }
   console.log(
-    `Bible ref linker: processed ${htmlFiles.length} HTML file(s), rewrote ${linkedCount}.`,
+    `Bible ref linker: processed ${allHtmlFiles.length} HTML file(s), rewrote ${linkedCount}.`,
   );
 
   // Post-process: wrap abbreviations in all HTML files
   const abbrMap = await loadAbbrMap();
   if (abbrMap && Object.keys(abbrMap).length > 0) {
     let abbrCount = 0;
-    for (const htmlFile of htmlFiles) {
+    for (const htmlFile of allHtmlFiles) {
       const raw = await fs.readFile(htmlFile, "utf-8");
       const wrapped = wrapAbbreviations(raw, abbrMap);
       if (wrapped !== raw) {
@@ -1813,13 +2340,13 @@ async function build() {
       }
     }
     console.log(
-      `Abbreviation expander: processed ${htmlFiles.length} HTML file(s), rewrote ${abbrCount}.`,
+      `Abbreviation expander: processed ${allHtmlFiles.length} HTML file(s), rewrote ${abbrCount}.`,
     );
   }
 
   // Post-process: wrap Roman numerals in all HTML files
   let romanCount = 0;
-  for (const htmlFile of htmlFiles) {
+  for (const htmlFile of allHtmlFiles) {
     const raw = await fs.readFile(htmlFile, "utf-8");
     const wrapped = wrapRomanNumerals(raw);
     if (wrapped !== raw) {
@@ -1828,12 +2355,12 @@ async function build() {
     }
   }
   console.log(
-    `Roman numeral wrapper: processed ${htmlFiles.length} HTML file(s), rewrote ${romanCount}.`,
+    `Roman numeral wrapper: processed ${allHtmlFiles.length} HTML file(s), rewrote ${romanCount}.`,
   );
 
   // Post-process: wrap divine names (LORD, GOD, YHWH) in all HTML files
   let divineCount = 0;
-  for (const htmlFile of htmlFiles) {
+  for (const htmlFile of allHtmlFiles) {
     const raw = await fs.readFile(htmlFile, "utf-8");
     const wrapped = wrapDivineNames(raw);
     if (wrapped !== raw) {
@@ -1842,7 +2369,7 @@ async function build() {
     }
   }
   console.log(
-    `Divine name wrapper: processed ${htmlFiles.length} HTML file(s), rewrote ${divineCount}.`,
+    `Divine name wrapper: processed ${allHtmlFiles.length} HTML file(s), rewrote ${divineCount}.`,
   );
 }
 
