@@ -96,6 +96,7 @@ function _initBookCwmsToInfo() {
     _bookCwmsToInfo.set(_cwms, {
       bookIndex: _i,
       bookName: _book.names[0],
+      bookCwms: _cwms,
       bookSlug: slugify(_book.names[0], { lower: true, strict: true }),
     });
   }
@@ -501,6 +502,7 @@ function collectContRefs(
       bookIndex: info.bookIndex,
       bookSlug: info.bookSlug,
       bookName: info.bookName,
+      bookCwms: info.bookCwms,
       chapterNum: parseInt(chapter),
       verseStart: parseInt(verseStart),
       rangeVal: rangeVal || undefined,
@@ -554,6 +556,7 @@ function collectTextRefs(
             bookIndex: info.bookIndex,
             bookSlug: info.bookSlug,
             bookName: info.bookName,
+            bookCwms: info.bookCwms,
             chapterNum: parseInt(chapter),
             verseStart:
               verseStart !== undefined ? parseInt(verseStart) : undefined,
@@ -2171,6 +2174,8 @@ async function build() {
   const allCollectedRefs = [];
   for (const [htmlFile, pageInfo] of pageRegistry) {
     if (pageInfo.unlisted) continue;
+    if (categoryUrls.has(pageInfo.url)) continue;
+    if (asideUrls.has(pageInfo.url)) continue;
     const html = await fs.readFile(htmlFile, "utf-8");
     const pageRefs = collectBibleRefsFromHtml(html, pageInfo.url, pageInfo.title);
     allCollectedRefs.push(...pageRefs);
@@ -2191,6 +2196,7 @@ async function build() {
       bookData = {
         bookSlug: ref.bookSlug,
         bookName: ref.bookName,
+        bookCwms: ref.bookCwms,
         entryMap: new Map(),
       };
       refsByBook.set(ref.bookIndex, bookData);
@@ -2271,7 +2277,7 @@ async function build() {
 
     let listHtml = "<ul>\n";
     for (const entry of entries) {
-      const links = [...entry.occMap.values()]
+      const innerItems = [...entry.occMap.values()]
         .map((occ) => {
           const href = occ.sectionId
             ? `${occ.pageUrl}#${occ.sectionId}`
@@ -2280,10 +2286,10 @@ async function build() {
             occ.sectionId && occ.sectionTitle
               ? `${occ.pageTitle} (§${occ.sectionTitle})`
               : occ.pageTitle;
-          return `<a href="${href}">${label}</a>`;
+          return `    <li><a href="${href}">${label}</a></li>`;
         })
-        .join(", ");
-      listHtml += `  <li>${entry.displayShort} \u2014 ${links}</li>\n`;
+        .join("\n");
+      listHtml += `  <li>${book.bookCwms} ${entry.displayShort}\n    <ul>\n${innerItems}\n    </ul>\n  </li>\n`;
     }
     listHtml += "</ul>";
 
