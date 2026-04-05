@@ -217,7 +217,7 @@ Sorted by OT ([[NTOT|sort by NT instead]]).
 
 | Old Testament | New Testament |
 | ------------- | ------------- |
-| Neh 9:15      | Jn 6:31       |
+| Ne 9:15       | Jn 6:31       |
 
 ## Job
 

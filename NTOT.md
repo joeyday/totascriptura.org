@@ -153,7 +153,7 @@ Sorted by NT ([[OTNT|sort by OT instead]]).
 | Jn 2:17       | Ps 69:9       |
 | Jn 6:31       | Ex 16:4       |
 | Jn 6:31       | Ps 78:24      |
-| Jn 6:31       | Neh 9:15      |
+| Jn 6:31       | Ne 9:15       |
 | Jn 6:45       | Isa 54:13     |
 | Jn 10:34      | Ps 82:6       |
 | Jn 12:13      | Ps 118:25–26  |

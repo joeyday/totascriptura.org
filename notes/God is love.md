@@ -13,7 +13,7 @@ Ezr 7:27–28; Job 10:12; 37:13; Ps 6:7; 33:5; 37:28; Pr 16:6; Isa 61:8; Jer 16:
 
 ### Blessings or prayers for God’s love
 
-Ge 24:12; 1Sa 20:14–15; 2Sa 2:6; 15:20; Ps 51:1; Neh 13:22; 1Co 16:24; 2Co 13:14; Eph 6:23
+Ge 24:12; 1Sa 20:14–15; 2Sa 2:6; 15:20; Ps 51:1; Ne 13:22; 1Co 16:24; 2Co 13:14; Eph 6:23
 
 ### God hates
 

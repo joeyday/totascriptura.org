@@ -19,7 +19,7 @@ Da 9:24; Mt 11:13 ~(cf. Lk 16:16)~; Lk 11:49-51; Heb 1:1-2
 
 ### God’s method hasn’t changed—Holy Spirit led prophets in former days
 
-Nu 11:25-26, 29; Neh 9:30; Ac 4:25; 28:25; Heb 10:15; 2Pe 1:21
+Nu 11:25-26, 29; Ne 9:30; Ac 4:25; 28:25; Heb 10:15; 2Pe 1:21
 
 ### General revelation
 

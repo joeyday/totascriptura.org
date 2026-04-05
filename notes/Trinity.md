@@ -222,7 +222,7 @@ Can trinitarianism be expressed using biblical terms instead of the extra-biblic
 
 ## More revelant oneness passages?
 
-Are Neh 9:6; Jn 8:41; 10:16; Heb 2:11 relevant to God’s oneness?
+Are Ne 9:6; Jn 8:41; 10:16; Heb 2:11 relevant to God’s oneness?
 
 ## Abstract oneness vs. literal numerical oneness
 

@@ -43,7 +43,7 @@ Heb 11:21–22, 39–40
 
 ### Abraham’s descendants were in number like the stars of heaven or the sands of the seashore
 
-Dt 1:10; 10:22; 28:62; Neh 9:23; Heb 11:12
+Dt 1:10; 10:22; 28:62; Ne 9:23; Heb 11:12
 
 ### Ephraimites and Manassites specifically were numerous
 

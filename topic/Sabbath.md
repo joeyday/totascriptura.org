@@ -8,7 +8,7 @@ aliases:
 ---
 ### Institution of, instructions for, blessings for observance of
 
-Ge 2:2–3; Ex 16:23–30; 20:8–11; 23:12; 31:12–17; 34:21; 35:2–3; Lev 23:3; Dt 5:12–15; Neh 9:13–14; 13:15–22; Isa 56:2–7; 58:13–14; Jer 17:19–27
+Ge 2:2–3; Ex 16:23–30; 20:8–11; 23:12; 31:12–17; 34:21; 35:2–3; Lev 23:3; Dt 5:12–15; Ne 9:13–14; 13:15–22; Isa 56:2–7; 58:13–14; Jer 17:19–27
 
 ### Type, shadow of already but not yet eschatalogical reality
 
