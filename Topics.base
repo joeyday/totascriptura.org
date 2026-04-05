@@ -38,3 +38,15 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: Unlisted
+    filters:
+      or:
+        - unlisted == true
+    order:
+      - file.name
+      - draft
+      - hidden
+      - stub
+      - aside of
+      - categories
