@@ -1250,7 +1250,10 @@ function findAssetFiles(dir) {
 function getOutputPaths(finalUrlPath) {
   // GitHub Pages serves dist/404.html as the custom 404 page.
   if (finalUrlPath === "/404") {
-    return { outDirPath: OUTPUT_DIR, outFilePath: path.join(OUTPUT_DIR, "404.html") };
+    return {
+      outDirPath: OUTPUT_DIR,
+      outFilePath: path.join(OUTPUT_DIR, "404.html"),
+    };
   }
   let outDirPath;
   if (finalUrlPath === "/") {
@@ -1312,8 +1315,7 @@ function resolveLink(target, fileMap, filesToProcess) {
       const fiDir = fi.relDir.toLowerCase();
       return (
         fiBareName === bareName &&
-        (fiDir === folderPrefix ||
-          fiDir.endsWith("/" + folderPrefix))
+        (fiDir === folderPrefix || fiDir.endsWith("/" + folderPrefix))
       );
     });
     if (matches.length === 1) return { url: matches[0].finalUrlPath };
@@ -1361,7 +1363,12 @@ function splitEmbedArgs(argsStr) {
 function resolveEmbeds(
   text,
   contentMap,
-  { seen = new Set(), fileMap = null, filesToProcess = null, contentMapByUrl = null } = {},
+  {
+    seen = new Set(),
+    fileMap = null,
+    filesToProcess = null,
+    contentMapByUrl = null,
+  } = {},
 ) {
   return text.replace(
     /\{\{([^}|]+?)(?:\|([^}]*))?\}\}/g,
@@ -1622,7 +1629,11 @@ async function build() {
     if (fileInfo.hidden) continue;
     if (fileInfo.unlisted) continue;
     if (!fileInfo.featuredWith) continue;
-    const resolved = resolveLink(fileInfo.featuredWith, fileMap, filesToProcess);
+    const resolved = resolveLink(
+      fileInfo.featuredWith,
+      fileMap,
+      filesToProcess,
+    );
     if (!resolved.url) continue;
     const targetUrl = resolved.url;
     if (!featuredWithMap[targetUrl]) featuredWithMap[targetUrl] = [];
@@ -1789,7 +1800,6 @@ async function build() {
   // distFilePath → { url, title, unlisted } for Scripture ref collection
   const pageRegistry = new Map();
 
-
   for (const fileInfo of filesToProcess) {
     if (fileInfo.hidden) continue;
 
@@ -1836,11 +1846,7 @@ async function build() {
           searchTarget = searchTarget.substring(0, searchTarget.length - 3);
         }
 
-        const resolved = resolveLink(
-          searchTarget,
-          fileMap,
-          filesToProcess,
-        );
+        const resolved = resolveLink(searchTarget, fileMap, filesToProcess);
         if (resolved.url) {
           return `[${text}](${resolved.url})`;
         }
@@ -2177,7 +2183,11 @@ async function build() {
     if (categoryUrls.has(pageInfo.url)) continue;
     if (asideUrls.has(pageInfo.url)) continue;
     const html = await fs.readFile(htmlFile, "utf-8");
-    const pageRefs = collectBibleRefsFromHtml(html, pageInfo.url, pageInfo.title);
+    const pageRefs = collectBibleRefsFromHtml(
+      html,
+      pageInfo.url,
+      pageInfo.title,
+    );
     allCollectedRefs.push(...pageRefs);
   }
   console.log(
@@ -2284,7 +2294,7 @@ async function build() {
             : occ.pageUrl;
           const label =
             occ.sectionId && occ.sectionTitle
-              ? `${occ.pageTitle} (§${occ.sectionTitle})`
+              ? `${occ.pageTitle} &rsaquo; ${occ.sectionTitle}`
               : occ.pageTitle;
           return `    <li><a href="${href}">${label}</a></li>`;
         })
