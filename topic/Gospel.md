@@ -15,7 +15,7 @@ Ac 3:17–26; 10:34–43; 13:26–39; Ro 1–4; 1Co 15:1–11; Gal 2:15–21; 3:
 
 ### “He who does the commandments shall live by them”
 
-Neh 9:29; Eze 20:11, 13, 21; Mt 19:17; Lk 10:28; Ro 7:10; 10:5; Gal 3:12
+Ne 9:29; Eze 20:11, 13, 21; Mt 19:17; Lk 10:28; Ro 7:10; 10:5; Gal 3:12
 
 ### But no one “does the commandments”
 
