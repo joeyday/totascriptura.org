@@ -42,7 +42,7 @@ Steven J. Lawson gives the following verses in the truthfulness/veracity section
 21. Heb 11:6
 22. Ne 9:32–33
 23. Ps 5:5–6
-24. Nah 1:2–3; Ex 34:7
+24. Na 1:2–3; Ex 34:7
 25. Jn 5:26
 26. Ac 7:2
 27. Ps 119:68

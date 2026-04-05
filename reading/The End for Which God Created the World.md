@@ -123,7 +123,7 @@ Nu 21:5; Jdg 9:4; 1Sa 18:23; 2Sa 19:43; Da 5:27; Zep 3:4 ~(See also: Ex 16:7; 28
 
 ### Great possessions are sometimes called a person’s glory ~(¶¶ 245–246)~
 
-Ge 31:1; 45:13; Est 5:11; Job 19:9; Ps 49:16–17; Isa 10:3, 16; 17:3–4; 21:16; 61:6; 66:11–12; Hos 9:11; Nah 2:9; Mt 4:8; Lk 24:26; Jn 17:22; Ro 2:7, 10; 3:23; 5:2; 8:18; 9:23; 1Co 2:7; 2Co 4:17; Eph 1:18; 1Pe 1:8; 4:13 ~(See also Ps 73:24; 149:5; Isa 6:10; Col 1:27; 3:4; 1Th 2:12; 2Th 2:14; 1Ti 3:16; 2Ti 2:10; He 2:10; 1Pe 1:11, 21; 5:10; 2Pe 1:3; Rev 21:24, 26)~
+Ge 31:1; 45:13; Est 5:11; Job 19:9; Ps 49:16–17; Isa 10:3, 16; 17:3–4; 21:16; 61:6; 66:11–12; Hos 9:11; Na 2:9; Mt 4:8; Lk 24:26; Jn 17:22; Ro 2:7, 10; 3:23; 5:2; 8:18; 9:23; 1Co 2:7; 2Co 4:17; Eph 1:18; 1Pe 1:8; 4:13 ~(See also Ps 73:24; 149:5; Isa 6:10; Col 1:27; 3:4; 1Th 2:12; 2Th 2:14; 1Ti 3:16; 2Ti 2:10; He 2:10; 1Pe 1:11, 21; 5:10; 2Pe 1:3; Rev 21:24, 26)~
 
 ### Glory is also the outshining of the internal greatness or excellence ~(¶¶ 247–248)~
 
