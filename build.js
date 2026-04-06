@@ -2309,7 +2309,7 @@ async function build() {
             : occ.pageUrl;
           const label =
             occ.sectionId && occ.sectionTitle
-              ? `<span class="page-title">${occ.pageTitle}</span> &rsaquo; <span class="section-title">${occ.sectionTitle}</span>`
+              ? `<span class="page-title">${occ.pageTitle}</span>&nbsp;&rsaquo; <span class="section-title">${occ.sectionTitle}</span>`
               : `<span class="page-title">${occ.pageTitle}</span>`;
           return `    <li><a href="${href}">${label}</a></li>`;
         })
