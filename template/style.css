@@ -935,7 +935,7 @@ footer {
             text-wrap: balance;
 
             li::before {
-                content: "&rarr;&nbsp;";
+                content: "→ ";
             }
 		}
 
