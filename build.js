@@ -1752,9 +1752,12 @@ async function build() {
   }
 
   function renderLayout(content, locals = {}) {
+    const fm = locals.frontmatter || {};
+    const defaultClasses = fm.permalink ? [fm.permalink] : [];
     return classifyLinks(
       ejs.render(layoutTemplate, {
-        frontmatter: locals.frontmatter || {},
+        frontmatter: fm,
+        bodyClasses: locals.bodyClasses || defaultClasses,
         content,
         asideOf: locals.asideOf || null,
         isAside: locals.isAside || false,
@@ -2308,6 +2311,7 @@ async function build() {
         title: `Scripture index: ${book.bookName}`,
         permalink: book.bookSlug,
       },
+      bodyClasses: ["scripture", book.bookSlug],
     });
     const bookDir = path.join(scriptureRootDir, book.bookSlug);
     await ensureDir(bookDir);
