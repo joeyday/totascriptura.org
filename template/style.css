@@ -931,11 +931,12 @@ footer {
 		
 		ul {
             margin-left: 1.5rem;
-			text-align: right;
+			text-align: left;
             text-wrap: balance;
 
-            li::before {
-                content: "→ ";
+            li {
+                margin-left: 2em;
+                list-style-type: disc;
             }
 		}
 
