@@ -888,7 +888,7 @@ footer {
     }
 }
 
-.colophon .bible-books {
+.colophon article .bible-books {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1rem;
@@ -902,7 +902,7 @@ footer {
     }
 }
 
-.index.alphabetical {
+.index.alphabetical article {
 	li {
 		color: var(--color-main-text-muted);
 	}
@@ -914,13 +914,13 @@ footer {
 	}
 }
 
-[class="index scripture"] {
+[class="index scripture"] article {
     ul {
         columns: 2;
     }
 }
 
-.index.scripture:not([class="index scripture"]) {
+.index.scripture:not([class="index scripture"]) article {
     ul {
         font-size: 0.857rem;
     }
