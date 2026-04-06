@@ -931,16 +931,16 @@ footer {
 		
         a:not(li li *) {
             text-align: right;
+            margin-right: 1em;
         }
 	
 		ul {
-            margin-left: 1rem;
+            margin-left: 2rem;
 			text-align: left;
             text-wrap: balance;
 
             li {
-                margin-left: 2em;
-                list-style-type: "•";
+                list-style-type: "·";
             }
 		}
 
