@@ -935,6 +935,8 @@ footer {
 }
 
 .index.scripture:not([class="index scripture"]) article {
+    color: var(--color-main-text-muted);
+
 	li:not(li *) {
 		list-style-type: none;
 		margin: 0;
@@ -957,8 +959,12 @@ footer {
             text-wrap: balance;
 
             li {
-                margin-left: 1.05rem;
-                list-style-type: "  ·  ";
+                margin-left: 0.7rem;
+                list-style-type: "› ";
+                
+                &::marker {
+                    font-size: 0.857rem;
+                }
             }
 		}
 
