@@ -939,7 +939,7 @@ footer {
             text-wrap: balance;
 
             li {
-                margin-left: 1.1rem;
+                margin-left: 1rem;
                 list-style-type: "  ·  ";
             }
 		}
