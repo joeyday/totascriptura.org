@@ -1751,13 +1751,21 @@ async function build() {
     );
   }
 
+  // Split a URL path into its non-empty segments to use as body classes.
+  // e.g. "/index/scripture/romans" → ["index", "scripture", "romans"]
+  function urlBodyClasses(url) {
+    if (url === "/") return ["home"];
+    return (url || "").split("/").filter(Boolean);
+  }
+
   function renderLayout(content, locals = {}) {
     const fm = locals.frontmatter || {};
-    const defaultClasses = fm.permalink ? [fm.permalink] : [];
+    const bodyClasses =
+      locals.bodyClasses || urlBodyClasses(locals.url) || [];
     return classifyLinks(
       ejs.render(layoutTemplate, {
         frontmatter: fm,
-        bodyClasses: locals.bodyClasses || defaultClasses,
+        bodyClasses,
         content,
         asideOf: locals.asideOf || null,
         isAside: locals.isAside || false,
@@ -1928,6 +1936,7 @@ async function build() {
     }
 
     const finalHtml = renderLayout(htmlContent, {
+      url: fileInfo.finalUrlPath,
       frontmatter: fileInfo.parsed.data,
       asideOf: asideOfResolved,
       isAside: !!fileInfo.asideOf,
@@ -2052,6 +2061,7 @@ async function build() {
     }
 
     const html = renderLayout(listHtml, {
+      url: `/index/${indexPage.slug}`,
       frontmatter: { title: indexPage.title, permalink: indexPage.slug },
     });
 
@@ -2131,6 +2141,7 @@ async function build() {
 <script src="/search.js"><\/script>`;
 
   const searchHtml = renderLayout(searchContent, {
+    url: "/search",
     frontmatter: { title: "Search", permalink: "search" },
   });
 
@@ -2153,6 +2164,7 @@ async function build() {
   <div><p><em>The lot is cast into the lap, but its every decision is from the <abbr>LORD</abbr>.<br><small>—Proverbs 16:33</small></em></p></div>
   <noscript><div><p>JavaScript is required for this feature. <a href="/index/alphabetical">Browse the index</a> instead.</p></div></noscript>`;
   const randomHtml = renderLayout(randomContent, {
+    url: "/random",
     frontmatter: { title: "Random page", permalink: "random" },
   });
   const randomOutDir = path.join(OUTPUT_DIR, "random");
@@ -2262,6 +2274,7 @@ async function build() {
             .join("\n") +
           "\n</ul>";
     const rootHtml = renderLayout(listHtml, {
+      url: "/index/scripture",
       frontmatter: { title: "Scripture index", permalink: "scripture" },
     });
     const rootFile = path.join(scriptureRootDir, "index.html");
@@ -2307,11 +2320,11 @@ async function build() {
     listHtml += "</ul>";
 
     const bookHtml = renderLayout(listHtml, {
+      url: `/index/scripture/${book.bookSlug}`,
       frontmatter: {
         title: `Scripture index: ${book.bookName}`,
         permalink: book.bookSlug,
       },
-      bodyClasses: ["scripture", book.bookSlug],
     });
     const bookDir = path.join(scriptureRootDir, book.bookSlug);
     await ensureDir(bookDir);
