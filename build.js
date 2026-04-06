@@ -121,23 +121,21 @@ const _bookPattern = _allBookNames
   })
   .join("|");
 
-// Matches:
-//   optional !opt-out
-//   book name or abbreviation (word-boundary anchored via (?<!\w) / (?!\w))
-//   whitespace
-//   chapter number
-//   optional :verseStart
-//   optional range: -endChapterOrVerse[:endVerse]
+// Matches: optional !opt-out, book name/abbr, chapter, optional verse+range.
+// Word-boundary anchored via (?<!\w) / (?!\w).
 //
 // Capture groups:
 //   1: bang ("!" or "")
-//   2: book name/abbr (matched text)
+//   2: book name/abbr
 //   3: chapter
+//   — colon branch (verse ref):
 //   4: verseStart
-//   5: rangeVal  — endVerse (same-chapter) OR endChapter (cross-chapter)
+//   5: rangeVal  — end verse (same-ch) OR end chapter (cross-ch)
 //   6: endVerse  — only present in cross-chapter range
+//   — dash branch (chapter-only range, no colon):
+//   7: endChapter  — e.g. "2" in "Romans 1–2"
 const BIBLE_REF_RE = new RegExp(
-  `(?<![\\w])(\\!?)(${_bookPattern})\\s+(\\d+)(?::(\\d+)(?:\\s*[-\u2013\u2014]\\s*(\\d+)(?::(\\d+))?)?)?(?![\\w])`,
+  `(?<![\\w])(\\!?)(${_bookPattern})\\s+(\\d+)(?::(\\d+)(?:\\s*[-\u2013\u2014]\\s*(\\d+)(?::(\\d+))?)?|\\s*[-\u2013\u2014]\\s*(\\d+))?(?![\\w])`,
   "gi",
 );
 
@@ -190,11 +188,13 @@ function buildReflyUrl(
   verseStart,
   rangeVal,
   endVerse,
+  endChapter,
   translation = "ESV",
 ) {
-  // rangeVal = endVerse (same-chapter) or endChapter (cross-chapter)
+  // rangeVal = endVerse (same-chapter) or endChapter (cross-chapter verse ref)
   // endVerse = undefined (same-chapter) or the end verse (cross-chapter)
-  // URL: https://ref.ly/{cwms}{chapter}[.{verse}[-{endVerse}|{endChapter}.{endVerse}]];{translation}
+  // endChapter = end chapter for chapter-only ranges (no verse)
+  // URL: https://ref.ly/{cwms}{chapter}[.{verse}[-{endVerse}|{endChapter}.{endVerse}]|[-{endChapter}]];{translation}
   let ref = `${cwms}${chapter}`;
   if (verseStart) {
     ref += `.${verseStart}`;
@@ -207,6 +207,9 @@ function buildReflyUrl(
         ref += `-${rangeVal}`;
       }
     }
+  } else if (endChapter) {
+    // Chapter-only range, e.g. "Romans 1–2" → Ro1-2
+    ref += `-${endChapter}`;
   }
   return `https://ref.ly/${ref};${translation}`;
 }
@@ -297,7 +300,7 @@ function processPlainText(text, ctxState) {
   let lastIndex = 0;
   let m;
   while ((m = BIBLE_REF_RE.exec(text)) !== null) {
-    const [match, bang, bookName, chapter, verseStart, rangeVal, endVerse] = m;
+    const [match, bang, bookName, chapter, verseStart, rangeVal, endVerse, endChapter] = m;
     // Apply continuation refs to the gap before this named ref
     result += applyContinuationRefs(text.slice(lastIndex, m.index), ctxState);
     if (bang === "!") {
@@ -318,6 +321,7 @@ function processPlainText(text, ctxState) {
           verseStart,
           rangeVal,
           endVerse,
+          endChapter,
           ctxState.translation,
         );
         result += makeBibleRefLink(url, match);
@@ -447,8 +451,11 @@ function linkBibleRefs(html) {
 // ─── Scripture Index Collector ────────────────────────────────────────────────
 
 // Build the canonical short display form for a Bible ref (e.g. "3:16–17", "3").
-function buildDisplayShort(chapter, verseStart, rangeVal, endVerse) {
-  if (verseStart === undefined || verseStart === null) return String(chapter);
+function buildDisplayShort(chapter, verseStart, rangeVal, endVerse, endChapter) {
+  if (verseStart === undefined || verseStart === null) {
+    if (endChapter) return `${chapter}\u2013${endChapter}`; // chapter-only range
+    return String(chapter);
+  }
   if (!rangeVal) return `${chapter}:${verseStart}`;
   if (!endVerse) return `${chapter}:${verseStart}\u2013${rangeVal}`; // same-ch range
   return `${chapter}:${verseStart}\u2013${rangeVal}:${endVerse}`; // cross-ch range
@@ -531,7 +538,7 @@ function collectTextRefs(
   let lastIndex = 0;
   let m;
   while ((m = BIBLE_REF_RE.exec(text)) !== null) {
-    const [match, bang, bookName, chapter, verseStart, rangeVal, endVerse] = m;
+    const [match, bang, bookName, chapter, verseStart, rangeVal, endVerse, endChapter] = m;
     // Collect any continuation refs in the gap before this named ref
     collectContRefs(
       text.slice(lastIndex, m.index),
@@ -562,11 +569,13 @@ function collectTextRefs(
               verseStart !== undefined ? parseInt(verseStart) : undefined,
             rangeVal: rangeVal || undefined,
             endVerse: endVerse || undefined,
+            endChapter: endChapter || undefined,
             displayShort: buildDisplayShort(
               chapter,
               verseStart,
               rangeVal,
               endVerse,
+              endChapter,
             ),
             pageUrl,
             pageTitle,
@@ -2225,7 +2234,7 @@ async function build() {
       };
       refsByBook.set(ref.bookIndex, bookData);
     }
-    const entryKey = `${ref.chapterNum}|${ref.verseStart ?? ""}|${ref.rangeVal ?? ""}|${ref.endVerse ?? ""}`;
+    const entryKey = `${ref.chapterNum}|${ref.verseStart ?? ""}|${ref.rangeVal ?? ""}|${ref.endVerse ?? ""}|${ref.endChapter ?? ""}`;
     let entry = bookData.entryMap.get(entryKey);
     if (!entry) {
       entry = {
