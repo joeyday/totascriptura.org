@@ -928,8 +928,13 @@ footer {
 		grid-template-columns: auto auto;
 		
 		ul {
+            margin-left: 1.5rem;
 			text-align: right;
             text-wrap: pretty;
+
+            &::before {
+                content: ". . . ";
+            }
 		}
 
         .section-title {
