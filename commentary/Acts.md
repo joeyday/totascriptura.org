@@ -3,7 +3,7 @@ categories:
   - "[[Commentary]]"
 unlisted: true
 ---
-### Acts 1
+## Acts 1
 
 Ac 1:1 **In my first book**. Luke’s earlier book is of course the Gospel of Luke.
 
