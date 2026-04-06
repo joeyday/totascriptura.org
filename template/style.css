@@ -930,5 +930,11 @@ footer {
 		ul {
 			text-align: right;
 		}
+
+        .section-title {
+            -webkit-font-feature-settings: "kern", "liga", "c2sc", "smcp";
+            -moz-font-feature-settings: "kern", "liga", "c2sc", "smcp";
+            font-feature-settings: "kern", "liga", "c2sc", "smcp";
+        }
 	}
 }

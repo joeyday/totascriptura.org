@@ -1760,8 +1760,7 @@ async function build() {
 
   function renderLayout(content, locals = {}) {
     const fm = locals.frontmatter || {};
-    const bodyClasses =
-      locals.bodyClasses || urlBodyClasses(locals.url) || [];
+    const bodyClasses = locals.bodyClasses || urlBodyClasses(locals.url) || [];
     return classifyLinks(
       ejs.render(layoutTemplate, {
         frontmatter: fm,
@@ -2310,8 +2309,8 @@ async function build() {
             : occ.pageUrl;
           const label =
             occ.sectionId && occ.sectionTitle
-              ? `${occ.pageTitle} &rsaquo; ${occ.sectionTitle}`
-              : occ.pageTitle;
+              ? `<span class="page-title">${occ.pageTitle}</span> &rsaquo; <span class="section-title">${occ.sectionTitle}</span>`
+              : `<span class="page-title">${occ.pageTitle}</span>`;
           return `    <li><a href="${href}">${label}</a></li>`;
         })
         .join("\n");
