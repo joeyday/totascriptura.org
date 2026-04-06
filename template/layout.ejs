@@ -30,7 +30,7 @@
     <meta name="format-detection" content="telephone=no">
     
 </head>
-<body class="<%= frontmatter.permalink %>">
+<body<% if (bodyClasses.length) { %> class="<%= bodyClasses.join(' ') %>"<% } %>>
     <header>
         <a href="/">Tota Scriptura</a>
     </header>
