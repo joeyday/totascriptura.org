@@ -932,7 +932,7 @@ footer {
 			text-align: right;
             text-wrap: pretty;
 
-            &::before {
+            li::before {
                 content: ". . . ";
             }
 		}
