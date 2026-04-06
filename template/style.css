@@ -915,7 +915,9 @@ footer {
 }
 
 .index.scripture {
-	font-size: 0.857em; /* 14px·0.857=12px */
+    ul {
+        font-size: 0.857em; /* em is important, not rem; the inner ul should get even smaller */
+    }
 	
 	li {
 		list-style-type: none;
