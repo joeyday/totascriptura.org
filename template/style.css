@@ -935,7 +935,9 @@ footer {
 }
 
 .index.scripture:not([class="index scripture"]) article {
-    color: var(--color-main-text-muted);
+    ul {
+        color: var(--color-main-text-muted);
+    }
 
 	li:not(li *) {
 		list-style-type: none;
