@@ -914,6 +914,12 @@ footer {
 	}
 }
 
+[class="index scripture"] {
+    ul {
+        columns: 2;
+    }
+}
+
 .index.scripture:not([class="index scripture"]) {
     ul {
         font-size: 0.857rem;
@@ -929,7 +935,7 @@ footer {
 		display: grid;
 		grid-template-columns: 25% auto;
 		
-        a:not(li li *) {
+        .scripture-reference {
             text-align: right;
         }
 	
