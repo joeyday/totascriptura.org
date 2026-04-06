@@ -933,6 +933,10 @@ footer {
             margin-left: 1.5rem;
 			text-align: right;
             text-wrap: balance;
+
+            li::before {
+                content: "&rarr;&nbsp;";
+            }
 		}
 
         .section-title {
