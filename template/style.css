@@ -902,7 +902,7 @@ footer {
     }
 }
 
-.alphabetical {
+.index.alphabetical {
 	li {
 		color: var(--color-main-text-muted);
 	}
@@ -911,5 +911,24 @@ footer {
 		color: var(--color-main-text);
 		font-size: 1.25rem;
 		vertical-align: baseline;
+	}
+}
+
+.index.scripture {
+	font-size: 0.857em; /* 14px·0.857=12px */
+	
+	li {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+	}
+	
+	li:has(ul) {
+		display: grid;
+		grid-template-columns: auto auto;
+		
+		ul {
+			text-align: right;
+		}
 	}
 }
