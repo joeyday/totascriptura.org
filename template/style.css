@@ -924,11 +924,15 @@ footer {
 		margin: 0;
 		padding: 0;
 	}
-	
+
 	li:has(ul) {
 		display: grid;
-		grid-template-columns: auto auto;
+		grid-template-columns: 33% auto;
 		
+        a:not(li li *) {
+            text-align: right;
+        }
+	
 		ul {
             margin-left: 1.5rem;
 			text-align: left;
