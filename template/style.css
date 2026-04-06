@@ -916,7 +916,7 @@ footer {
 
 .index.scripture {
     ul {
-        font-size: 0.857em; /* em is important, not rem; the inner ul should get even smaller */
+        font-size: 0.857rem;
     }
 	
 	li {
@@ -932,11 +932,7 @@ footer {
 		ul {
             margin-left: 1.5rem;
 			text-align: right;
-            text-wrap: pretty;
-
-            li::before {
-                content: ". . . ";
-            }
+            text-wrap: balance;
 		}
 
         .section-title {
