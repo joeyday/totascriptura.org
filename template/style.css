@@ -914,7 +914,7 @@ footer {
 	}
 }
 
-.index.scripture {
+.index.scripture:not([class="index scripture"]) {
     ul {
         font-size: 0.857rem;
     }
@@ -931,7 +931,6 @@ footer {
 		
         a:not(li li *) {
             text-align: right;
-            height: min-content;
         }
 	
 		ul {

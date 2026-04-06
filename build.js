@@ -2314,7 +2314,7 @@ async function build() {
           return `    <li><a href="${href}">${label}</a></li>`;
         })
         .join("\n");
-      listHtml += `  <li>${book.bookCwms} ${entry.displayShort}\n    <ul>\n${innerItems}\n    </ul>\n  </li>\n`;
+      listHtml += `  <li><span class="scripture-reference">${book.bookCwms} ${entry.displayShort}</span>\n    <ul>\n${innerItems}\n    </ul>\n  </li>\n`;
     }
     listHtml += "</ul>";
 
