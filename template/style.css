@@ -935,10 +935,6 @@ footer {
 }
 
 .index.scripture:not([class="index scripture"]) article {
-    ul {
-        font-size: 0.857rem;
-    }
-	
 	li:not(li *) {
 		list-style-type: none;
 		margin: 0;
@@ -947,13 +943,16 @@ footer {
 
 	li:has(ul) {
 		display: grid;
-		grid-template-columns: 25% auto;
+		grid-template-columns: 27% auto;
 		
         .scripture-reference {
             text-align: right;
         }
 	
 		ul {
+            font-size: 0.857rem;
+            margin-top: 0.143rem;
+            
 			text-align: left;
             text-wrap: balance;
 
