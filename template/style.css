@@ -927,7 +927,7 @@ footer {
 
 	li:has(ul) {
 		display: grid;
-		grid-template-columns: 30% auto;
+		grid-template-columns: 25% auto;
 		
         a:not(li li *) {
             text-align: right;
