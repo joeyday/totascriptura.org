@@ -927,20 +927,20 @@ footer {
 
 	li:has(ul) {
 		display: grid;
-		grid-template-columns: 33% auto;
+		grid-template-columns: 25% auto;
 		
         a:not(li li *) {
             text-align: right;
         }
 	
 		ul {
-            margin-left: 1.5rem;
+            margin-left: 1rem;
 			text-align: left;
             text-wrap: balance;
 
             li {
                 margin-left: 2em;
-                list-style-type: disc;
+                list-style-type: "•";
             }
 		}
 
