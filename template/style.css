@@ -929,6 +929,7 @@ footer {
 		
 		ul {
 			text-align: right;
+            text-wrap: pretty;
 		}
 
         .section-title {
