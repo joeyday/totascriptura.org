@@ -919,7 +919,7 @@ footer {
         font-size: 0.857rem;
     }
 	
-	li {
+	li:not(li *) {
 		list-style-type: none;
 		margin: 0;
 		padding: 0;
