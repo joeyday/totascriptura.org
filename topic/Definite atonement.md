@@ -47,7 +47,7 @@ Ro 5:18; 1Co 15:22; 2Co 5:14–15; 1Ti 2:5–6; 4:10; Tit 2:11; Heb 2:9
 
 ### God desires salvation of all
 
-1Ti 2:3–4; 2Pe 3:9
+1Ti 2:4; 2Pe 3:9
 
 ### Some for whom Christ died may not ultimately be saved
 
