@@ -15,7 +15,7 @@ Jn 1:29; 3:16; 4:42; 6:51; Ro 5:18; 11:32; 2Co 5:19; 1Ti 4:10; Tit 2:11; Heb 2:9
 ### Prevenient grace
 Lk 24:45; Jn 1:9; 6:44; 12:32; 16:8; Ac 16:14; Ro 2:4; Tit 2:11; 1Jn 4:19
 ### Grace is resistible
-Isa 5:4; Mt 23:37; Lk 7:30; Ac 7:51; Eph 4:30; 1Th 5:19
+Ps 81:8, 11–13; Isa 5:4; Mt 23:37; Lk 7:30; Ac 7:51; Eph 4:30; 1Th 5:19
 ### God’s sovereignty is *de jure*, not *de facto*
 Mt 6:10
 ### God is not the author of sin
