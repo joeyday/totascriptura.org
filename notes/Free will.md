@@ -115,6 +115,10 @@ Nu 14:11; Hos 8:5
 ### God speaks of what may, may not happen
 Ex 3:18–22; 4:1–9; 13:17; Jer 38:17–18, 20–21, 23; Eze 12:1–3
 
+## From Jacob Hansen vs. James White debate
+
+I already had most of the passages Hansen cited in various places around the site, I added a few of the ones I didn’t already have, but I’m having a hard time placing Genesis 4:6–7 and Zechariah 1:3. They both imply free will, so I think they belong here, but they don’t fit neatly under any of the headings I already have. Where do they go?
+
 [^1]: John Calvin (2011). *Institutes of the Christian Religion*. (F. L. Battles, Trans., J. T. McNeill, Ed.) (Vol. 1, p. 266). Louisville, KY: Westminster John Knox Press.
 [^2]: Malcolm MacColl (1872). *[The “Damnatory Clauses” of the Athanasian Creed Rationally Explained](http://anglicanhistory.org/scotland/maccoll/athanasian1872.html)*.
 [^3]: Grudem, *Systematic Theology*.
