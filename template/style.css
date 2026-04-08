@@ -554,21 +554,11 @@ footer {
 
 header:not(article *) {
     a {
-        .fa-feather-pointed {
-            display: inline-block;
-            text-decoration: none !important;
-            text-indent: 0;
-            vertical-align: -0.166rem !important;
-            font-size: 200%;
-            padding-right: 0.1em;
-        }
-
         .site-title {
 			font-family: var(--font-primary);
 			font-feature-settings: "smcp", "c2sc";
 			font-weight: normal;
 			text-decoration: none;
-					
 			text-align: center;
         }
     }
@@ -763,7 +753,7 @@ footer {
         margin: 4rem auto 0;
         padding: 0;
         
-        a::before {
+        .fa-feather-pointed {
             display: block;
             width: fit-content;
             margin: 0 auto;
