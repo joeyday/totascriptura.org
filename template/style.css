@@ -982,9 +982,9 @@ footer {
 }
 
 a[href*="mastodon.social"] {
-    color: #563acc;
+    color: #563acc !important;
 }
 
 a[href*="facebook.com"] {
-    color: #2d65f6;
+    color: #2d65f6 !important;
 }
