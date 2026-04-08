@@ -389,11 +389,7 @@ main {
 
     .entypo-icon,
     .featured-badge {
-        font-family: Entypo;
-        font-size: 2rem;
         cursor: default;
-        vertical-align: -0.1em;
-        line-height: 1rem;
     }
     
     mark {
