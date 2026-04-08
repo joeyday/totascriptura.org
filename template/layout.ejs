@@ -79,7 +79,7 @@
     
             <% if (categories.length) { %>
             <p class="categories">
-                <span class="categories-icon fa-sharp-duotone fa-solid fa-tags"></span>
+                <span class="categories-icon fa-sharp-duotone fa-solid fa-tags fa-flip-x"></span>
                 <a class="index-link" href="/index/categorical">Categories</a>:
                 <% categories.forEach(function(cat, i) { %>
                 <a href="<%= cat.url %>"><%= cat.title %></a><%= i < categories.length - 1 ? ', ' : '' %>
