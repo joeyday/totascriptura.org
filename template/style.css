@@ -554,6 +554,13 @@ footer {
 
 header:not(article *) {
     a {
+    	display: flex;
+    	align-items: center;
+    
+    	.fa-feather-pointed {
+    		font-size: 120%;
+    	}
+    
         .site-title {
 			font-family: var(--font-primary);
 			font-feature-settings: "smcp", "c2sc";
