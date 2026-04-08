@@ -757,22 +757,29 @@ footer {
     }
     
     header:not(article *) {
-    	display: block;
-    	
         grid-area: header;
         width: 100%;
         
         margin: 4rem auto 0;
         padding: 0;
         
-        .fa-feather-pointed {
-            display: block;
-            width: fit-content;
-            margin: 0 auto;
-            padding-right: 0;
-            padding-bottom: 0.05em;
-            font-size: 250%;
-        }
+		a {
+			display: block;
+
+			.fa-feather-pointed {
+				display: block;
+				width: fit-content;
+				margin: 0 auto;
+				padding-right: 0;
+				padding-bottom: 0.05em;
+				font-size: 250%;
+			}
+			
+			.site-title {
+				display: block;
+				margin: 0 auto;
+			}
+		}
         
         a:hover {
             text-decoration: none;
