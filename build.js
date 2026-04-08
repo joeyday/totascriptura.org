@@ -2050,7 +2050,7 @@ async function build() {
         } else {
           const starHtml =
             indexPage.slug === "alphabetical" && item.featured
-              ? ' <span class="entypo-icon">&starf;</span>'
+              ? ' <span class=fa-sharp-duotone fa-solid fa-circle-star">'
               : "";
           let withHtml = "";
           if (indexPage.slug === "featured") {
