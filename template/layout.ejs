@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="/asset/style.css?<%= Math.floor(Date.now() / 1000) %>">
     
     <link rel="stylesheet" href="https://use.typekit.net/exn2xvh.css">
+    <link rel="stylesheet" href="https://kit.fontawesome.com/4a9f54cbf1.css" crossorigin="anonymous">
     
     <link rel="apple-touch-icon" sizes="57x57" href="/asset/apple-touch-icon-57x57.png?v=<%= Math.floor(Date.now() / 1000) %>">
     <link rel="apple-touch-icon" sizes="60x60" href="/asset/apple-touch-icon-60x60.png?v=<%= Math.floor(Date.now() / 1000) %>">
@@ -32,7 +33,7 @@
 </head>
 <body<% if (bodyClasses.length) { %> class="<%= bodyClasses.join(' ') %>"<% } %>>
     <header>
-        <a href="/">Tota Scriptura</a>
+        <a href="/"><span class="fa-sharp-duotone fa-solid fa-feather-pointed"></span> <span class="site-title">Tota Scriptura</span></a>
     </header>
     <main>
         <article>
@@ -78,7 +79,7 @@
     
             <% if (categories.length) { %>
             <p class="categories">
-                <span class="entypo-icon" aria-hidden="true">📁</span>
+                <span class="fa-sharp-duotone fa-solid fa-tags"></span>
                 <a class="index-link" href="/index/categorical">Categories</a>:
                 <% categories.forEach(function(cat, i) { %>
                 <a href="<%= cat.url %>"><%= cat.title %></a><%= i < categories.length - 1 ? ', ' : '' %>
