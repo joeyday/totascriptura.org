@@ -2050,7 +2050,7 @@ async function build() {
         } else {
           const starHtml =
             indexPage.slug === "alphabetical" && item.featured
-              ? ' <span class=fa-sharp-duotone fa-solid fa-circle-star">'
+              ? ' <span class="fa-sharp-duotone fa-solid fa-circle-star"></span>'
               : "";
           let withHtml = "";
           if (indexPage.slug === "featured") {
