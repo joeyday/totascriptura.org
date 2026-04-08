@@ -554,9 +554,12 @@ footer {
 
 header:not(article *) {
     a {
-    	display: flex;
-    	align-items: center;
-    
+		display: flex;
+        width: fit-content;
+        margin: 0 auto;
+        align-items: center;
+        gap: 0.2em;
+            
     	.fa-feather-pointed {
     		font-size: 120%;
     	}
@@ -754,6 +757,8 @@ footer {
     }
     
     header:not(article *) {
+    	display: block;
+    	
         grid-area: header;
         width: 100%;
         
@@ -766,7 +771,7 @@ footer {
             margin: 0 auto;
             padding-right: 0;
             padding-bottom: 0.05em;
-            font-size: 300%;
+            font-size: 250%;
         }
         
         a:hover {
