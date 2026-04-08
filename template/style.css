@@ -122,6 +122,10 @@ a {
     --color-blue: oklch(0.6594 0.1248 224.89);
     --color-teal: oklch(0.6508 0.111 194.77);
     --color-pink: oklch(0.5643 0.2263 6.46);
+    
+    /* brand colors */
+    --color-mastodon-purple: oklch(0.5928 0.2243 276.82);
+    --color-facebook-blue: oklch(0.5613 0.225 264.2);
         
     /* semantic colors */
     --color-main-background: var(--color-white);
@@ -143,6 +147,9 @@ a {
     --color-nav-text: var(--color-white);
     --color-nav-text-muted: var(--color-light-gray);
     --color-nav-stroke: var(--color-light-gray);
+    
+    --color-link-mastodon: var(--color-mastodon-purple);
+    --color-link-facebook: var(--color-facebook-blue);
 
     /* For mobile breakpoint, this actually colors the background
        For desktop breakpoint, this controls Safari window color (dumb) */
@@ -168,6 +175,9 @@ a {
 		--color-quinary: oklch(from var(--color-orange) calc(l + 0.1) calc(c - 0.01) h / 0.3);
 		
 		--color-nav-background: var(--color-dark-gray);
+		
+		--color-link-mastodon: oklch(from var(--color-mastodon-purple) calc(l + 0.1) calc(c - 0.01) h);
+		--color-link-facebook: oklch(from var(--color-facebook-blue) calc(l + 0.1) calc(c - 0.01) h);
 	}
 }
 
@@ -982,9 +992,9 @@ footer {
 }
 
 a[href*="mastodon.social"] {
-    color: #6364ff !important;
+    color: var(--color-link-mastodon) !important;
 }
 
 a[href*="facebook.com"] {
-    color: #2d65f6 !important;
+    color: var(--color-link-facebook) !important;
 }
