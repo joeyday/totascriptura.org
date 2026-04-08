@@ -771,8 +771,8 @@ footer {
 				width: fit-content;
 				margin: 0 auto;
 				padding-right: 0;
-				padding-bottom: 0.05em;
-				font-size: 250%;
+				padding-bottom: 0.15em;
+				font-size: 300%;
 			}
 			
 			.site-title {
