@@ -33,7 +33,7 @@
 </head>
 <body<% if (bodyClasses.length) { %> class="<%= bodyClasses.join(' ') %>"<% } %>>
     <header>
-        <a href="/"><span class="fa-sharp-duotone fa-solid fa-feather-pointed"></span> <span class="site-title">Tota Scriptura</span></a>
+        <a href="/"><span class="site-logo fa-sharp-duotone fa-solid fa-feather-pointed"></span> <span class="site-title">Tota Scriptura</span></a>
     </header>
     <main>
         <article>
@@ -46,7 +46,7 @@
                         <li><a href="/index/alphabetical">Alphabetical<span> index</span></a></li>
                     </ul>
                 </nav>
-                <% } else if (featured || featuredWith) { %><i class="fa-sharp-duotone fa-solid fa-star"></i><% } %>
+                <% } else if (featured || featuredWith) { %><span class="featured-badge fa-sharp-duotone fa-solid fa-star"></span><% } %>
             </header>
             
             <% if (frontmatter.draft) { %>
@@ -79,7 +79,7 @@
     
             <% if (categories.length) { %>
             <p class="categories">
-                <span class="fa-sharp-duotone fa-solid fa-tags"></span>
+                <span class="categories-icon fa-sharp-duotone fa-solid fa-tags"></span>
                 <a class="index-link" href="/index/categorical">Categories</a>:
                 <% categories.forEach(function(cat, i) { %>
                 <a href="<%= cat.url %>"><%= cat.title %></a><%= i < categories.length - 1 ? ', ' : '' %>

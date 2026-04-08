@@ -560,7 +560,7 @@ header:not(article *) {
         align-items: center;
         gap: 0.2em;
             
-    	.fa-feather-pointed {
+    	.site-logo {
     		font-size: 120%;
     	}
     
@@ -766,7 +766,7 @@ footer {
 		a {
 			display: block;
 
-			.fa-feather-pointed {
+			.site-logo {
 				display: block;
 				width: fit-content;
 				margin: 0 auto;
