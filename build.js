@@ -1566,6 +1566,17 @@ async function build() {
     const key = baseName.toLowerCase().trim();
     if (!fileMap[key]) fileMap[key] = [];
     fileMap[key].push(finalUrlPath);
+
+    // Also index by permalink slug so wikilinks / aside-of can use the
+    // permalink as the target (e.g. [[home]] finding "Home page.md" whose
+    // permalink is "home").
+    const permKey = permalink.toLowerCase().trim();
+    if (permKey && permKey !== key) {
+      if (!fileMap[permKey]) fileMap[permKey] = [];
+      if (!fileMap[permKey].includes(finalUrlPath))
+        fileMap[permKey].push(finalUrlPath);
+    }
+
     parsed.data.permalink = permalink;
 
     const title = getFrontmatterValue(parsed.data, "title") || baseName;
@@ -1686,6 +1697,10 @@ async function build() {
       if (resolved.ambiguous) {
         console.warn(
           `Warning: Ambiguous "aside of" target — "${fileInfo.asideOf}" in "${fileInfo.filePath}"`,
+        );
+      } else {
+        console.warn(
+          `Warning: Could not find "aside of" target — "${fileInfo.asideOf}" in "${fileInfo.filePath}"`,
         );
       }
       continue;
@@ -2074,7 +2089,7 @@ async function build() {
         } else {
           const starHtml =
             indexPage.slug === "alphabetical" && item.featured
-              ? ' <span class="fa-sharp fa-solid fa-star"></span>'
+              ? ' <span class="featured-badge fa-sharp fa-solid fa-star"></span>'
               : "";
           let withHtml = "";
           if (indexPage.slug === "featured") {
