@@ -300,7 +300,16 @@ function processPlainText(text, ctxState) {
   let lastIndex = 0;
   let m;
   while ((m = BIBLE_REF_RE.exec(text)) !== null) {
-    const [match, bang, bookName, chapter, verseStart, rangeVal, endVerse, endChapter] = m;
+    const [
+      match,
+      bang,
+      bookName,
+      chapter,
+      verseStart,
+      rangeVal,
+      endVerse,
+      endChapter,
+    ] = m;
     // Apply continuation refs to the gap before this named ref
     result += applyContinuationRefs(text.slice(lastIndex, m.index), ctxState);
     if (bang === "!") {
@@ -451,7 +460,13 @@ function linkBibleRefs(html) {
 // ─── Scripture Index Collector ────────────────────────────────────────────────
 
 // Build the canonical short display form for a Bible ref (e.g. "3:16–17", "3").
-function buildDisplayShort(chapter, verseStart, rangeVal, endVerse, endChapter) {
+function buildDisplayShort(
+  chapter,
+  verseStart,
+  rangeVal,
+  endVerse,
+  endChapter,
+) {
   if (verseStart === undefined || verseStart === null) {
     if (endChapter) return `${chapter}\u2013${endChapter}`; // chapter-only range
     return String(chapter);
@@ -538,7 +553,16 @@ function collectTextRefs(
   let lastIndex = 0;
   let m;
   while ((m = BIBLE_REF_RE.exec(text)) !== null) {
-    const [match, bang, bookName, chapter, verseStart, rangeVal, endVerse, endChapter] = m;
+    const [
+      match,
+      bang,
+      bookName,
+      chapter,
+      verseStart,
+      rangeVal,
+      endVerse,
+      endChapter,
+    ] = m;
     // Collect any continuation refs in the gap before this named ref
     collectContRefs(
       text.slice(lastIndex, m.index),
@@ -2050,7 +2074,7 @@ async function build() {
         } else {
           const starHtml =
             indexPage.slug === "alphabetical" && item.featured
-              ? ' <span class="fa-sharp-duotone fa-solid fa-circle-star"></span>'
+              ? ' <span class="fa-sharp fa-solid fa-star"></span>'
               : "";
           let withHtml = "";
           if (indexPage.slug === "featured") {
@@ -2273,14 +2297,14 @@ async function build() {
     let listHtml =
       referencedBooks.length === 0
         ? "<p>No Scripture references found.</p>"
-        : "<ul>\n" +
+        : "<dl>\n" +
           referencedBooks
             .map(
               (b) =>
-                `  <li><a href="/index/scripture/${b.bookSlug}">${b.bookName}</a></li>`,
+                `  <dt><a href="/index/scripture/${b.bookSlug}">${b.bookName}</a></li>`,
             )
             .join("\n") +
-          "\n</ul>";
+          "\n</dt>";
     const rootHtml = renderLayout(listHtml, {
       url: "/index/scripture",
       frontmatter: { title: "Scripture index", permalink: "scripture" },
@@ -2309,7 +2333,7 @@ async function build() {
       return evA - evB;
     });
 
-    let listHtml = "<ul>\n";
+    let listHtml = "<dd>\n<ul>\n";
     for (const entry of entries) {
       const innerItems = [...entry.occMap.values()]
         .map((occ) => {
@@ -2320,12 +2344,12 @@ async function build() {
             occ.sectionId && occ.sectionTitle
               ? `<span class="page-title">${occ.pageTitle}</span>&nbsp;&rsaquo; <span class="section-title">${occ.sectionTitle}</span>`
               : `<span class="page-title">${occ.pageTitle}</span>`;
-          return `    <li><a href="${href}">${label}</a></li>`;
+          return `<li><a href="${href}">${label}</a></li>`;
         })
         .join("\n");
-      listHtml += `  <li><span class="scripture-reference">${book.bookCwms} ${entry.displayShort}</span>\n    <ul>\n${innerItems}\n    </ul>\n  </li>\n`;
+      listHtml += `<li><span class="scripture-reference">${book.bookCwms} ${entry.displayShort}</span>\n<ul>\n${innerItems}\n</ul>\n</dd>\</li>\n`;
     }
-    listHtml += "</ul>";
+    listHtml += "</dl>";
 
     const bookHtml = renderLayout(listHtml, {
       url: `/index/scripture/${book.bookSlug}`,
