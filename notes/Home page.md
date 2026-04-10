@@ -1,4 +1,5 @@
 ---
+permalink: home
 aside of: "[[Home page]]"
 ---
 ## Topic ideas
