@@ -26,7 +26,7 @@ There is one and only one God. God is simple (not composed of parts) and stands 
 
 ### Inseparable operations
 
-1Co 12:6
+Ps 33:6; 1Co 12:6
 
 ## Threeness
 
