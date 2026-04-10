@@ -934,10 +934,9 @@ footer {
 		color: var(--color-main-text-muted);
 	}
 
-	.entypo-icon {
+	.featured-badge:not(header *) {
 		color: var(--color-main-text);
-		font-size: 1.25rem;
-		vertical-align: baseline;
+		font-size: 75%;
 	}
 }
 
