@@ -21,11 +21,8 @@ R. Scott Clark in his Heidelcast refers to this as the “Categorical Distinctio
 
 Blake Ostler and Jacob Hansen discount all of God’s “there is no other God” statements with an appeal to an inscription by the Persian King Xerxes on a foundation stone at Persepolis. I’m having trouble chasing down the original because the few times I’ve heard them mention it they don’t cite their source.
 
-<<<<<<< Updated upstream
-=======
 Sam Baird helped me find two verses of Scripture: Isa 47:7; Zep 2:15. I’ve added them to the relevant pages.
 
->>>>>>> Stashed changes
 <cite>A New Inscription of Xerxes from Persepolis</cite> by Ernst E. Herzfeld[^1] gives this translation:
 
 > § 1. A great god (is) Ahuramazdâ, who created this earth, who created yonder heaven, who created man, who created peace for man, who made Xerxes king, one (as) king of many, one (as) lord of many.
@@ -34,11 +31,6 @@ Sam Baird helped me find two verses of Scripture: Isa 47:7; Zep 2:15. I’ve add
 > 
 > . . .
 
-<<<<<<< Updated upstream
-Sam helped me find two verses of Scripture: Isa 47:7; Zep 2:15
-
-[^1]: Found this online [here](https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/saoc5.pdf)
-=======
 I found this in a commentary on Esther. I’m not sure if it’s a different translation from the same inscription, or could be a different inscription:
 
 > I am Xerxes, the great king. The only king, the king of (all) countries (which speak) all kinds of languages, the king of this (entire) big and far-reaching earth—the son of King Darius, the Achaemenian, a Persian, son of a Persian, an Aryan of Aryan descent.[^2]
@@ -46,4 +38,3 @@ I found this in a commentary on Esther. I’m not sure if it’s a different tra
 [^1]: Found this online [here](https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/saoc5.pdf)
 
 [^2]: Breneman, Mervin (1993). <cite>Ezra, Nehemiah, Esther</cite> (electronic ed., Vol. 10, p. 279). Broadman & Holman Publishers.
->>>>>>> Stashed changes
