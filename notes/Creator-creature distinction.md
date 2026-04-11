@@ -35,6 +35,8 @@ I found this in a commentary on Esther. I’m not sure if it’s a different tra
 
 > I am Xerxes, the great king. The only king, the king of (all) countries (which speak) all kinds of languages, the king of this (entire) big and far-reaching earth—the son of King Darius, the Achaemenian, a Persian, son of a Persian, an Aryan of Aryan descent.[^2]
 
+I also found an article in Sunstone by Ostler where he talked about the way ancient kings would exaggerate their conquests and military might and he specifically mentioned Xerxes boasting about his army being 1.7 million people when it was likely closer to a hundred thousand, which seems related to the kind of hyperbole we’re talking about, but not the same thing.
+
 [^1]: Found this online [here](https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/saoc5.pdf)
 
 [^2]: Breneman, Mervin (1993). <cite>Ezra, Nehemiah, Esther</cite> (electronic ed., Vol. 10, p. 279). Broadman & Holman Publishers.
