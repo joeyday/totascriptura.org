@@ -16,3 +16,19 @@ Rev 5:11–14 probably belongs on this page because it distinguishes Jesus from 
 Dane Ortlund in his book *Gentle and Lowly*, chapter 17, cites passages like Isa 55:8 (in context!) to compare and contrast God’s nature and human nature. It’s a good reminder: God is not only wholly different from us; he’s infinitely more good than we are.
 ## Categorical Distinction
 R. Scott Clark in his Heidelcast refers to this as the “Categorical Distinction”.
+
+## King Xerxes of Persia
+
+Blake Ostler and Jacob Hansen discount all of God’s “there is no other God” statements with an appeal to an inscription by the Persian King Xerxes on a foundation stone at Persepolis. I’m having trouble chasing down the original because the few times I’ve heard them mention it they don’t cite their source.
+
+<cite>A New Inscription of Xerxes from Persepolis</cite> by Ernst E. Herzfeld[^1] gives this translation:
+
+> § 1. A great god (is) Ahuramazdâ, who created this earth, who created yonder heaven, who created man, who created peace for man, who made Xerxes king, one (as) king of many, one (as) lord of many.
+> 
+> § 2. I, Xerxes the great king, king of kings, king of the lands with many kinds of people, king on this earth far and wide, son of Darius the king, the Achaemenid (had this made).
+> 
+> . . .
+
+Sam helped me find two verses of Scripture: Isa 47:7; Zep 2:15
+
+[^1]: Found this online [here](https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/saoc5.pdf)
