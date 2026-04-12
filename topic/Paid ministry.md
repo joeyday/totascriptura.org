@@ -12,7 +12,7 @@ Mt 10:9–13 ~(cf. Mk 6:8–10; Lk 9:3–4)~; Lk 10:4-7
 
 ### Paul’s defense of paid ministry
 
-1Co 9:1-19 ~(cites Dt 25:4)~; Php 4:10-20; 1Th 2:6; 2Th 3:9; 1Ti 5:17-18 ~(cites Dt 25:4; Lk 10:7)~ ~— *Paul accepted support at least once: 2Co 11:7–9*~
+1Co 9:1-19 ~(cites Dt 25:4)~; Gal 6:6, 10; Php 4:10-20; 1Th 2:6; 2Th 3:9; 1Ti 5:17-18 ~(cites Dt 25:4; Lk 10:7)~ ~— *Paul accepted support at least once: 2Co 11:7–9*~
 
 ### Ministers should not be greedy
 
