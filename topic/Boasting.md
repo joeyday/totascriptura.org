@@ -23,4 +23,4 @@ Eph 2:9
 
 ### Boasting in oneself encouraged?
 
-Gal 1:4; Php 2:16
+Gal 6:4; Php 2:16
