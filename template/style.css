@@ -941,52 +941,50 @@ footer {
 }
 
 [class="index scripture"] article {
-    dl {
+    ul {
         columns: 2;
     }
 }
 
 .index.scripture:not([class="index scripture"]) article {
-    ul {
+    dl {
         color: var(--color-main-text-muted);
-    }
 
-	li:not(li *) {
-		list-style-type: none;
-		margin: 0;
-		padding: 0;
-	}
-
-	li:has(ul) {
 		display: grid;
 		grid-template-columns: 27% auto;
-		
-        .scripture-reference {
+
+		dt {
+			margin: 0;
+			padding: 0;
+
             text-align: right;
-        }
-	
-		ul {
-            font-size: 0.857rem;
-            margin-top: 0.143rem;
-            
-			text-align: left;
-            text-wrap: balance;
-
-            li {
-                margin-left: 0.7rem;
-                list-style-type: "› ";
-                
-                &::marker {
-                    font-size: 0.857rem;
-                }
-            }
 		}
-
-        .section-title {
-            -webkit-font-feature-settings: "kern", "liga", "c2sc", "smcp";
-            -moz-font-feature-settings: "kern", "liga", "c2sc", "smcp";
-            font-feature-settings: "kern", "liga", "c2sc", "smcp";
+		
+		dd {
+			ul {
+				font-size: 0.857rem;
+				margin-top: 0.143rem;
+				
+				text-align: left;
+				text-wrap: balance;
+	
+				li {
+					margin-left: 0.7rem;
+					list-style-type: "› ";
+					
+					&::marker {
+						font-size: 0.857rem;
+					}
+				}
+			}
+	
+			.section-title {
+				-webkit-font-feature-settings: "kern", "liga", "c2sc", "smcp";
+				-moz-font-feature-settings: "kern", "liga", "c2sc", "smcp";
+				font-feature-settings: "kern", "liga", "c2sc", "smcp";
+			}
         }
+
 	}
 }
 
