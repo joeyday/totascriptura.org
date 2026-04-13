@@ -28,7 +28,7 @@ Ro 5:3; 2Co 11:16–18, 21, 29–30; 12:1–10; Jas 1:10
 
 ### Christians boast in one another
 
-1Co 15:31; 2Co 1:14; 5:12; 7:4, 13–16; 9:1–3; Php 1:26
+1Co 15:31; 2Co 1:14; 5:12; 7:4, 13–16; 8:24; 9:1–3; Php 1:26; 1Th 2:19–20
 
 ### Sincere, valid boasting in oneself?
 
