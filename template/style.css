@@ -952,6 +952,8 @@ footer {
 
 		display: grid;
 		grid-template-columns: 27% auto;
+		
+		align-items: baseline;
 
 		dt {
 			margin: 0;
@@ -963,7 +965,7 @@ footer {
 		dd {
 			ul {
 				font-size: 0.857rem;
-				margin-top: 0.143rem;
+				margin-bottom: 0.5rem;
 				
 				text-align: left;
 				text-wrap: balance;
