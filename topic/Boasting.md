@@ -15,6 +15,8 @@ Isa 47:8; Zep 2:15; 1Co 5:6; 2Co 5:12; 11:12–13; Gal 6:13; Jas 4:16
 Ro 2:17–24
 ### Boasting ruled out by grace
 
+{{[[mt]]|[[topic/Gospel|Gospel]]}}
+
 Ro 3:27; 4:2–3; 1Co 1:28–29; 3:21–23; 4:7; Eph 2:9
 
 ### Boasting in God, Christ, salvation
