@@ -941,7 +941,7 @@ footer {
 }
 
 [class="index scripture"] article {
-    ul {
+    dl {
         columns: 2;
     }
 }

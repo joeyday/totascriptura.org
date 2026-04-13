@@ -2312,14 +2312,14 @@ async function build() {
     let listHtml =
       referencedBooks.length === 0
         ? "<p>No Scripture references found.</p>"
-        : "<dl>\n" +
+        : "<ul>\n" +
           referencedBooks
             .map(
               (b) =>
-                `  <dt><a href="/index/scripture/${b.bookSlug}">${b.bookName}</a></li>`,
+                `  <li><a href="/index/scripture/${b.bookSlug}">${b.bookName}</a></li>`,
             )
             .join("\n") +
-          "\n</dt>";
+          "\n</ul>";
     const rootHtml = renderLayout(listHtml, {
       url: "/index/scripture",
       frontmatter: { title: "Scripture index", permalink: "scripture" },
@@ -2348,7 +2348,7 @@ async function build() {
       return evA - evB;
     });
 
-    let listHtml = "<dd>\n<ul>\n";
+    let listHtml = "<dl>\n";
     for (const entry of entries) {
       const innerItems = [...entry.occMap.values()]
         .map((occ) => {
@@ -2362,7 +2362,7 @@ async function build() {
           return `<li><a href="${href}">${label}</a></li>`;
         })
         .join("\n");
-      listHtml += `<li><span class="scripture-reference">${book.bookCwms} ${entry.displayShort}</span>\n<ul>\n${innerItems}\n</ul>\n</dd>\</li>\n`;
+      listHtml += `<dd class="scripture-reference">${book.bookCwms} ${entry.displayShort}</dd>\n<dt>\n<ul>\n${innerItems}\n</ul>\n</dt>\n`;
     }
     listHtml += "</dl>";
 
