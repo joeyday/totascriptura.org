@@ -9,7 +9,7 @@ draft: true
 
 Isa 47:8; Zep 2:15; 1Co 5:6; 2Co 5:12; Gal 6:13; Jas 4:16
 
-## Boasting ruled out by sin
+### Boasting ruled out by sin
 
 {{[[mt]]|[[topic/Total depravity|Total depravity]]}}
 
