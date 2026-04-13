@@ -11,3 +11,7 @@ Ro 2:17, 23; 5:2–3, 11; 1Co 1:29, 31; 3:21; 4:7; 2Co 5:12; 7:14; 9:2; 10:8, 13
 ### Every instance of kauchēsis (n. boasting)
 
 Ro 3:27; 15:17; 1Co 15:31; 2Co 1:12; 7:4, 14; 8:24; 11:10, 17; 1Th 2:19; Jas 4:16
+
+## Paul boasted that he wasn’t paid to minister the gospel
+
+1 Corinthians 9:15–18 is an interesting passage. Paul says he can’t boast that he preaches the gospel, since he’s duty-bound to do that, so if he’s to have any boast at all it must be in sharing the gospel without receiving any wages for doing it (though he doesn’t judge other ministers who get paid and in fact insists that ministers of the gospel should be paid). Does this go under the boasting in oneself heading?

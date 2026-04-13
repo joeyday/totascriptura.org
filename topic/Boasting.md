@@ -11,7 +11,7 @@ Isa 47:8; Zep 2:15; 1Co 5:6; Gal 6:13; Jas 4:16
 
 ### Boasting ruled out by grace
 
-Eph 2:9
+Ro 4:2–3; Eph 2:9
 
 ### Boasting in suffering, weakness
 
