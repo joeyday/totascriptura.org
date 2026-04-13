@@ -19,3 +19,11 @@ Ro 3:27; 15:17; 1Co 15:31; 2Co 1:12; 7:4, 14; 8:24; 11:10, 17; 1Th 2:19; Jas 4:1
 ## Old Testament
 
 The topic is fairly top-heavy with only New Testament passages. Need to study the relevant Hebrew words and pull OT passages as well. What other Greek and Hebrew words should I also mine for content, besides the literal words for “boasting”?
+
+## All proper boasting is God-centered
+
+I am convinced that even when the Scriptures speak of faithful believers glorying and boasting in one another or their own works, behind that boast is always the recognition that Christians are what they are because of the gospel, because of grace, because of Christ. This is brought out most clearly in passages like 1Co 15:31, where Paul says his pride in the Corinthian believers is only something he has “in Christ Jesus our Lord”; Php 1:26, where Paul tells the Philippian believers that in him, because of his coming to them again, they have “ample cause to glory in Christ Jesus”; and in Romans 15:17–18, where Paul says he has reason to be proud of his own work “in Christ Jesus”.
+
+## <cite>Practicing Affirmation</cite>
+
+The basic thesis of Sam Crabtree’s book, <cite>Practicing Affirmation</cite>, is how even when we build others up we should never fuel their pride but always honor God.
