@@ -14,4 +14,8 @@ Ro 3:27; 15:17; 1Co 15:31; 2Co 1:12; 7:4, 14; 8:24; 11:10, 17; 1Th 2:19; Jas 4:1
 
 ## Paul boasted that he wasn’t paid to minister the gospel
 
-1 Corinthians 9:15–18 is an interesting passage. Paul says he can’t boast that he preaches the gospel, since he’s duty-bound to do that, so if he’s to have any boast at all it must be in sharing the gospel without receiving any wages for doing it (though he doesn’t judge other ministers who get paid and in fact insists that ministers of the gospel should be paid). Does this go under the “boasting in oneself” heading?
+1 Corinthians 9:15–18 and 2 Corinthians 11:7–10 are interesting passages. Paul says he can’t boast that he preaches the gospel, since he’s duty-bound to do that, so if he’s to have any boast at all it must be in sharing the gospel without receiving any wages for doing it (though he doesn’t judge other ministers who get paid and in fact insists that ministers of the gospel should be paid). Does this go under the “boasting in oneself” heading?
+
+## Old Testament
+
+The topic is fairly top-heavy with only New Testament passages. Need to study the relevant Hebrew words and pull OT passages as well. What other Greek and Hebrew words should I also mine for content, besides the literal words for “boasting”?

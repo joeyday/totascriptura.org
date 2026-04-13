@@ -3,7 +3,6 @@ categories:
   - "[[Moral theology]]"
   - "[[Anthropology]]"
   - "[[Hamartiology]]"
-draft: true
 ---
 ### Sinful pride and boasting
 
