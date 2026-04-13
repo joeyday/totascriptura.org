@@ -21,7 +21,7 @@ Ro 3:27; 4:2–3; 1Co 1:28–29; 3:21–23; 4:7; Eph 2:9
 
 ### Boasting in God, Christ, salvation
 
-Ro 5:2, 11; 15:17–18; 1Co 1:31; 2Co 1:12; 10:7–18; Gal 6:14; Php 3:3; Heb 3:6; Jas 1:9
+Jer 9:23–24; Ro 5:2, 11; 15:17–18; 1Co 1:31; 2Co 1:12; 10:7–18; Gal 6:14; Php 3:3; Heb 3:6; Jas 1:9
 
 ### Boasting in suffering, weakness, humiliation
 
