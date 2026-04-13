@@ -33,4 +33,4 @@ Ro 5:3; 2Co 11:16–18, 21, 29–30; 12:1–10; Jas 1:10
 
 ### Sincere, valid boasting in oneself?
 
-Gal 6:4; Php 2:16 *— ~but see Ro 15:17–18; 1Co 15:10; 2Co 1:12~*
+Gal 6:4; Php 2:16 *— ~but see Ro 15:17–18; 1Co 15:10; 2Co 1:12; Php 2:13~*
