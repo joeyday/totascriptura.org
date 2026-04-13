@@ -542,6 +542,10 @@ My definition is still incomplete since it has no mention of inseparable operati
 
 I guess inseparable operations should be included either in the oneness section or the equality section and appropriation should go in the distinction section.
 
+## John Philoponus, the first tritheist
+
+In the 6th century a philosopher named John Philoponus advocated a view that the one *ousia* of God was an abstract nature like human nature and the three *hypostases* were instances or supposits of that nature. He won over at least two bishops, Conon of Tarsus and Eugenius of Seleucia. Unfortunately I’m having trouble finding any of his own publications. I’ve found lots of people online filtering/interpreting his thought, but no original sources. Though tritheism was known very early as a hypothetical heresy and people were accused of it who probably didn’t actually believe it, Philoponus may be tritheism’s first honest-to-goodness advocate. We could call tritheism “Philoponianism”, though to my knowledge no one does. Tritheitism would be another name since this was known historically as the Tritheite controversy.
+
 [^1]: Ryken, Philip Graham; LeFebvre, Michael. *Our Triune God: Living in the Love of the Three-in-One* (p. 20). Crossway. Kindle Edition.
 
 [^2]: <http://www.desiringgod.org/articles/what-is-the-doctrine-of-the-trinity>
