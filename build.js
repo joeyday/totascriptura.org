@@ -992,7 +992,11 @@ function wrapDivineNames(html) {
 
   const replace = (text) =>
     text.replace(DIVINE_NAME_RE, (match) => {
-      return `<span class="divine-name" data-name="${match}"><span class="divine-name-initial">${match[0]}</span>${match.slice(1)}</span>`;
+      const newMatch = match.replace(
+        /\b(G|L|I\b)/g,
+        `<span class="divine-name-initial">$1</span>`,
+      );
+      return `<span class="divine-name" data-name="${match}">${newMatch}</span>`;
     });
 
   let m;
