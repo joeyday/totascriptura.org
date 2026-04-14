@@ -966,14 +966,15 @@ function wrapRomanNumerals(html) {
 // ─── End Roman Numeral Wrapping ───────────────────────────────────────────────
 
 // ─── Divine Name Wrapping ─────────────────────────────────────────────────────
-// LORD, GOD, YHWH (all-caps) →
+// LORD, GOD, YHWH, I AM, etc. (all-caps) →
 //   <span class="divine-name" data-name="…">
 //     <span class="divine-name-initial">L</span>ORD
 //   </span>
 // First letter wrapped in .divine-name-initial so it can be styled independently
 // of the remaining small-capped letters (::first-letter only works on block elements).
 
-const DIVINE_NAME_RE = /\b(LORD|GOD|YHWH)\b/g;
+const DIVINE_NAME_RE =
+  /\b(LORD|GOD|YHWH|I AM( THAT I AM| WHAT I AM| WHO I AM)?|I WILL BE( THAT I WILL BE| WHAT I WILL BE| WHO I WILL BE)?)\b/g;
 const DIVINE_NAME_SKIP_TAGS = new Set([
   "abbr",
   "code",
@@ -2438,7 +2439,7 @@ async function build() {
     `Roman numeral wrapper: processed ${allHtmlFiles.length} HTML file(s), rewrote ${romanCount}.`,
   );
 
-  // Post-process: wrap divine names (LORD, GOD, YHWH) in all HTML files
+  // Post-process: wrap divine names (LORD, GOD, YHWH, etc.) in all HTML files
   let divineCount = 0;
   for (const htmlFile of allHtmlFiles) {
     const raw = await fs.readFile(htmlFile, "utf-8");
