@@ -55,3 +55,7 @@ Mt 26:64 ~(cf. Mk 14:62; Lk 22:69-70)~; Mt 28:9; Lk 24:39-43; Jn 20:20, 27-28; A
 ### *Communicatio idiomatum*
 
 Ac 20:28; Jn 3:13; 1Jn 3:16 KJV
+
+### The *extra Calvinisticum*
+
+Col 1:15–17; Heb 1:1–3
