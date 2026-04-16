@@ -1339,8 +1339,16 @@ function resolveFileMapKey(target, fileMap) {
  *
  * If target contains "/" it is treated as path-qualified (e.g. "topic/Trinity")
  * and resolved by matching folder prefix + bare name against filesToProcess.
+ *
+ * excludeUrl — optional URL to remove from candidates before resolution.
+ * Used when resolving "aside of" so a page is never considered an aside of itself.
+ *
+ * Root-file tiebreaker: when multiple candidates remain after self-exclusion,
+ * if exactly one lives at the filesystem root (relDir === ""), it wins — because
+ * a bare [[Name]] link is the only way to reference a root-level file and is
+ * therefore as unambiguous as it can be.
  */
-function resolveLink(target, fileMap, filesToProcess) {
+function resolveLink(target, fileMap, filesToProcess, excludeUrl = null) {
   const trimmed = target.trim();
 
   if (trimmed.includes("/")) {
@@ -1362,9 +1370,21 @@ function resolveLink(target, fileMap, filesToProcess) {
   }
 
   const key = resolveFileMapKey(trimmed, fileMap);
-  const urls = fileMap[key];
+  let urls = fileMap[key];
   if (!urls || urls.length === 0) return { notFound: true };
+
+  if (excludeUrl) urls = urls.filter((u) => u !== excludeUrl);
+  if (urls.length === 0) return { notFound: true };
   if (urls.length === 1) return { url: urls[0] };
+
+  // Root-file tiebreaker: prefer the single candidate that lives at the
+  // filesystem root (relDir === ""), since a bare link is the only way to
+  // reference it and is therefore unambiguous by definition.
+  const rootCandidates = urls.filter((url) =>
+    filesToProcess.some((fi) => fi.finalUrlPath === url && fi.relDir === ""),
+  );
+  if (rootCandidates.length === 1) return { url: rootCandidates[0] };
+
   return { ambiguous: true };
 }
 
@@ -1697,7 +1717,7 @@ async function build() {
   for (const fileInfo of filesToProcess) {
     if (fileInfo.hidden) continue;
     if (!fileInfo.asideOf) continue;
-    const resolved = resolveLink(fileInfo.asideOf, fileMap, filesToProcess);
+    const resolved = resolveLink(fileInfo.asideOf, fileMap, filesToProcess, fileInfo.finalUrlPath);
     if (!resolved.url) {
       if (resolved.ambiguous) {
         console.warn(
@@ -1949,7 +1969,7 @@ async function build() {
 
     let asideOfResolved = null;
     if (fileInfo.asideOf) {
-      const resolved = resolveLink(fileInfo.asideOf, fileMap, filesToProcess);
+      const resolved = resolveLink(fileInfo.asideOf, fileMap, filesToProcess, fileInfo.finalUrlPath);
       if (resolved.url) {
         const targetFi = urlToFileInfo[resolved.url];
         asideOfResolved = {
