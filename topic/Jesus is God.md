@@ -17,7 +17,7 @@ Mk 13:31 ~(Isa 40:8)~; Lk 19:10 ~(Eze 34:16, 22)~; Jn 12:41 ~(Isa 6:1, 5)~; Jn 1
 
 ### God
 
-{{[[jesus-is-god-partial]]}} ~— *see also Mt 1:23 <small>(cites Isa 7:14)</small>; Ac 20:28 <small>(but see translators’ note)</small>; 1Jn 5:20*~
+{{[[jesus-is-god-partial]]}} ~— *see also Mt 1:23 <small>(cites Isa 7:14)</small>; Ac 20:28 <small>(but see ESV translators’ note and see Ac 20:28 NRSV)</small>; 1Jn 5:20*~
 
 ### Lord
 
