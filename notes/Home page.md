@@ -181,6 +181,10 @@ In an e-mail on July 25, 2016:
 
 > I suggest adding a page that addresses the biblical role of works/deeds/obedience etc. in salvation, reviewing both the Old and New Testaments. This is an important topic that, I think, many people (Evangelical and LDS alike) misunderstand. I would (of course) recommend taking a look at my “How to Be Saved?” page on everyverse.org. <http://everyverse.org/salvation/> :)
 
+## Here’s an update
+
+Here’s an update to the home page notes page.
+
 [^1]: Grudem, Wayne (2009). *Systematic Theology: An Introduction to Biblical Doctrine* (p. 24). Zondervan. Kindle Edition.
 
 [^2]: Ibid., p. 28.
