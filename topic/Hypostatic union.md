@@ -59,3 +59,7 @@ Ac 20:28; Jn 3:13; 1Jn 3:16 KJV
 ### The *extra Calvinisticum*
 
 Col 1:15–17; Heb 1:1–3
+
+### Two wills, divine and human ~(dyothelitism)~
+
+Lk 22:42
