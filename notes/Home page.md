@@ -183,7 +183,7 @@ In an e-mail on July 25, 2016:
 
 ## Here’s an update
 
-Here’s an update to the home page notes page.
+Here’s an update to the home page notes page. Here’s another update, blah blah blah.
 
 [^1]: Grudem, Wayne (2009). *Systematic Theology: An Introduction to Biblical Doctrine* (p. 24). Zondervan. Kindle Edition.
 
