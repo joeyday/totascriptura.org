@@ -406,6 +406,10 @@ main {
             margin: 0;
         }
     }
+    
+    a.footnote-backref {
+    	text-decoration: none;
+    }
 
     .entypo-icon,
     .featured-badge {
