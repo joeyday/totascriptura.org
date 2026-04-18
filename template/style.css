@@ -113,8 +113,8 @@ a {
     --color-dark-gray: oklch(0.38 0 0);
     --color-darker-gray: oklch(0.2 0 0);
     --color-black: oklch(0 0 0);
-    --l: 0.555;
-    --c: 0.333;
+    --l: 0.6;
+    --c: 0.3;
     --color-pink: oklch(var(--l) var(--c) 0);
     --color-red: oklch(var(--l) var(--c) 45);
     --color-yellow: oklch(var(--l) var(--c) 90);
@@ -130,7 +130,7 @@ a {
         
     /* semantic colors */
     --color-main-background: var(--color-white);
-    --color-main-tint-background: oklch(from var(--color-main-background) calc(l - 0.02) c h);
+    --color-main-tint-background: oklch(from var(--color-main-background) calc(l - 0.05) c h);
     --color-main-text: var(--color-black);
     --color-main-text-muted: var(--color-light-gray);
     --color-main-thick-stroke: var(--color-dark-gray);
@@ -169,8 +169,8 @@ a {
 		--color-main-thin-stroke: var(--color-neutral-gray);
 		--color-main-thinner-stroke: var(--color-dark-gray);
 	
-        --l: 0.655;
-        --c: 0.233;
+        --l: 0.7;
+        --c: 0.2;
         		
 		--color-nav-background: var(--color-dark-gray);
 		
