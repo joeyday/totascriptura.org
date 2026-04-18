@@ -566,6 +566,7 @@ header:not(article *) {
         margin: 0 auto;
         align-items: center;
         gap: 0.2em;
+        text-decoration: none;
             
     	.site-logo {
     		font-size: 120%;
@@ -575,8 +576,12 @@ header:not(article *) {
 			font-family: var(--font-primary);
 			font-feature-settings: "smcp", "c2sc";
 			font-weight: normal;
-			text-decoration: none;
 			text-align: center;
+        }
+        
+        &:hover {
+        	text-decoration: none;
+        	border-bottom: 1px solid var(--color-nav-text);
         }
     }
 }
@@ -791,11 +796,6 @@ footer {
 				margin: 0 auto;
 			}
 		}
-        
-        a:hover {
-            text-decoration: none;
-            border-bottom: 1px solid #fff;
-        }
     }
     
     nav.page-actions {
