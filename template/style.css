@@ -113,15 +113,16 @@ a {
     --color-dark-gray: oklch(0.38 0 0);
     --color-darker-gray: oklch(0.2 0 0);
     --color-black: oklch(0 0 0);
-    --color-red: oklch(0.6132 0.2053 31.39);
-    --color-orange: oklch(0.7341 0.1671 62.6);
-    --color-dark-green: oklch(0.4989 0.1256 142);
-    --color-green: oklch(0.6753 0.1822 135);
-    --color-light-green: oklch(0.8323 0.1816 110.12);
-    --color-dark-blue: oklch(0.3872 0.1375 260.38);
-    --color-blue: oklch(0.6594 0.1248 224.89);
-    --color-teal: oklch(0.6508 0.111 194.77);
-    --color-pink: oklch(0.5643 0.2263 6.46);
+    --l: 0.505;
+    --c: 0.333;
+    --color-pink: oklch(var(--l) var(--c) 0);
+    --color-red: oklch(var(--l) var(--c) 45);
+    --color-yellow: oklch(var(--l) var(--c) 90);
+    --color-green: oklch(var(--l) var(--c) 135);
+    --color-teal: oklch(var(--l) var(--c) 180);
+    --color-blue: oklch(var(--l) var(--c) 225);
+    --color-indigo: oklch(var(--l) var(--c) 270);
+    --color-violet: oklch(var(--l) var(--c) 315);
     
     /* brand colors */
     --color-mastodon-purple: oklch(0.5928 0.2243 276.82);
@@ -141,7 +142,7 @@ a {
     --color-secondary: var(--color-blue);
     --color-tertiary: var(--color-pink);
     --color-quaternary: var(--color-teal);
-    --color-quinary: oklch(from var(--color-orange) l c h / 0.3);
+    --color-quinary: oklch(from var(--color-yellow) l c h / 0.3);
 
     --color-nav-background: var(--color-neutral-gray);
     --color-nav-text: var(--color-white);
@@ -168,16 +169,13 @@ a {
 		--color-main-thin-stroke: var(--color-neutral-gray);
 		--color-main-thinner-stroke: var(--color-dark-gray);
 	
-		--color-primary: oklch(from var(--color-green) calc(l + 0.1) calc(c - 0.01) h);
-		--color-secondary: oklch(from var(--color-blue) calc(l + 0.1) calc(c - 0.01) h);
-		--color-tertiary: oklch(from var(--color-pink) calc(l + 0.1) calc(c - 0.01) h);
-		--color-quaternary: oklch(from var(--color-teal) calc(l + 0.1) calc(c - 0.01) h);
-		--color-quinary: oklch(from var(--color-orange) calc(l + 0.1) calc(c - 0.01) h / 0.3);
-		
+        --l: 0.735;
+        --c: 0.250;
+        		
 		--color-nav-background: var(--color-dark-gray);
 		
-		--color-link-mastodon: oklch(from var(--color-mastodon-purple) calc(l + 0.1) calc(c - 0.01) h);
-		--color-link-facebook: oklch(from var(--color-facebook-blue) calc(l + 0.1) calc(c - 0.01) h);
+		--color-link-mastodon: oklch(from var(--color-mastodon-purple) calc(l + 0.23) calc(c - 0.08) h);
+		--color-link-facebook: oklch(from var(--color-facebook-blue) calc(l + 0.23) calc(c - 0.08) h);
 	}
 }
 
