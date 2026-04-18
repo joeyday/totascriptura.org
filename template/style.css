@@ -56,11 +56,8 @@ input, button, textarea, select {
 }
 
 a {
-    text-decoration: none;
-    
-    &:hover {
-        text-decoration: underline;
-    }
+    text-decoration: underline;
+    text-decoration-thickness: from-font;
 }
 
 /* End CSS reset */
@@ -556,7 +553,15 @@ footer {
 
     font-family: var(--font-secondary);
     color: var(--color-nav-text);
-    a { color: var(--color-nav-text); }
+    a {
+    	color: var(--color-nav-text);
+    	text-decoration: none;
+    	
+    	&:hover {
+    		text-decoration: underline;
+    		text-decoration-thickness: from-font;
+    	}
+    }
 }
 
 header:not(article *) {
@@ -567,7 +572,8 @@ header:not(article *) {
         align-items: center;
         gap: 0.2em;
         text-decoration: none;
-            
+        border-bottom: 1px solid transparent;
+        
     	.site-logo {
     		font-size: 120%;
     	}
