@@ -401,6 +401,7 @@ main {
     }
     
     mark {
+    	color: inherit;
         background-color: oklch(from var(--color-quinary) 0.95 0.075 h);
     }
     
