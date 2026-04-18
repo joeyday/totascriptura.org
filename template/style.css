@@ -401,7 +401,6 @@ main {
     }
     
     mark {
-        color: var(--color-main-text);
         background-color: oklch(from var(--color-quinary) 0.95 0.075 h);
     }
     
@@ -756,6 +755,10 @@ footer {
             .quick-nav {
                 display: none;
             }
+        }
+        
+        mark {
+			oklch(from var(--color-quinary) 0.475 0.15 h);
         }
     }
     
