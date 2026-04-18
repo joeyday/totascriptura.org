@@ -267,6 +267,14 @@ main {
         p {
             margin: 0;
         }
+        
+        a {
+        	text-decoration: none;
+        	
+        	&:hover {
+        		text-decoration: underline;
+        	}
+        }
     }
     
     h2 + .main-topic {
