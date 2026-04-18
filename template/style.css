@@ -115,14 +115,18 @@ a {
     --color-black: oklch(0 0 0);
     --l: 0.6;
     --c: 0.3;
-    --color-pink: oklch(var(--l) var(--c) 0);
-    --color-red: oklch(var(--l) var(--c) 45);
-    --color-yellow: oklch(var(--l) var(--c) 90);
-    --color-green: oklch(var(--l) var(--c) 135);
-    --color-teal: oklch(var(--l) var(--c) 180);
-    --color-blue: oklch(var(--l) var(--c) 225);
-    --color-indigo: oklch(var(--l) var(--c) 270);
-    --color-violet: oklch(var(--l) var(--c) 315);
+    --color-pink: oklch(var(--l) var(--c) 5);
+    --color-red: oklch(var(--l) var(--c) 35);
+    --color-orange: oklch(var(--l) var(--c) 60);
+    --color-yellow: oklch(var(--l) var(--c) 95);
+    --color-puke: oklch(var(--l) var(--c) 125);
+    --color-green: oklch(var(--l) var(--c) 155);
+    --color-whatisit: oklch(var(--l) var(--c) 185);
+    --color-idontknow: oklch(var(--l) var(--c) 215);
+    --color-blue: oklch(var(--l) var(--c) 245);
+    --color-indigo: oklch(var(--l) var(--c) 275);
+    --color-violet: oklch(var(--l) var(--c) 305);
+    --color-magenta: oklch(var(--l) var(--c) 335);
     
     /* brand colors */
     --color-mastodon-purple: oklch(0.5928 0.2243 276.82);
@@ -141,7 +145,7 @@ a {
     --color-primary: var(--color-green);
     --color-secondary: var(--color-blue);
     --color-tertiary: var(--color-pink);
-    --color-quaternary: var(--color-teal);
+    --color-quaternary: var(--color-violet);
     --color-quinary: var(--color-yellow);
 
     --color-nav-background: var(--color-neutral-gray);
