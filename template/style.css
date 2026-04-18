@@ -142,7 +142,7 @@ a {
     --color-secondary: var(--color-blue);
     --color-tertiary: var(--color-pink);
     --color-quaternary: var(--color-teal);
-    --color-quinary: oklch(from var(--color-yellow) l c h / 0.3);
+    --color-quinary: var(--color-yellow);
 
     --color-nav-background: var(--color-neutral-gray);
     --color-nav-text: var(--color-white);
@@ -402,7 +402,7 @@ main {
     
     mark {
         color: var(--color-main-text);
-        background-color: var(--color-quinary);
+        background-color: oklch(from var(--color-quinary) 0.98 c h);
     }
     
     abbr {
