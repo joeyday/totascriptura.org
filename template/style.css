@@ -402,7 +402,7 @@ main {
     
     mark {
         color: var(--color-main-text);
-        background-color: oklch(from var(--color-quinary) 0.98 c h);
+        background-color: oklch(from var(--color-quinary) 0.95 0.075 h);
     }
     
     abbr {
