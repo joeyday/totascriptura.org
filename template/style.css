@@ -107,10 +107,10 @@ a {
 
     /* hardcoded colors */
     --color-white: oklch(1 0 0);
-    --color-lighter-gray: oklch(0.655 0 0);
-    --color-light-gray: oklch(0.555 0 0);
+    --color-lighter-gray: oklch(0.7 0 0);
+    --color-light-gray: oklch(0.6 0 0);
     --color-neutral-gray: oklch(0.5 0 0);
-    --color-dark-gray: oklch(0.38 0 0);
+    --color-dark-gray: oklch(0.4 0 0);
     --color-darker-gray: oklch(0.2 0 0);
     --color-black: oklch(0 0 0);
     --l: 0.6;
