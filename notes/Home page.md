@@ -3,14 +3,14 @@ aside of: "[[Home page]]"
 ---
 ## Topic ideas
 
-- {{[[idea]]|Amillennialism}}
-- {{[[idea]]|Design of the state}}
-- {{[[idea]]|Doubt}}
-- {{[[idea]]|Fasting}}
-- {{[[idea]]|Lust}}
-- {{[[idea]]|Premillennialism}}
-- {{[[idea]]|Two resurrections}}
-- {{[[idea]]|Worship}}
+- [[topic/Amillennialism|Amillennialism]] ([[notes/Amillenialism|notes]])
+- [[topic/Design of the state|Design of the state]] ([[notes/Design of the state|notes]])
+- [[topic/Doubt|Doubt]] ([[notes/Doubt|notes]])
+- [[topic/Fasting|Fasting]] ([[notes/Fasting|notes]])
+- [[topic/Lust|Lust]] ([[notes/Lust|notes]])
+- [[topic/Premillennialism|Premillennialism]] ([[notes/Premillennialism|notes]])
+- [[topic/Two resurrections|Two resurrections]] ([[notes/Two resurrections|notes]])
+- [[topic/Worship|Worship]] ([[notes/Worship|notes]])
 
 ## Todos
 
