@@ -140,8 +140,8 @@ footer a,
     --color-red: oklch(var(--l) var(--c) 35);
     --color-orange: oklch(var(--l) var(--c) 65);
     --color-yellow: oklch(var(--l) var(--c) 95);
-    --color-green: oklch(var(--l) var(--c) 125);
-    --color-whatisit: oklch(var(--l) var(--c) 155);
+    --color-puke: oklch(var(--l) var(--c) 125);
+    --color-green: oklch(var(--l) var(--c) 155);
     --color-teal: oklch(var(--l) var(--c) 185);
     --color-slate: oklch(var(--l) var(--c) 215);
     --color-blue: oklch(var(--l) var(--c) 245);
