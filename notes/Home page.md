@@ -177,9 +177,9 @@ So, I make the same appeal as Allen and Swain: assume good faith. Assume I've do
 
 Under the first point about theologians accepting the burden of proof that they’re using the Bible well, the authors make two sub-points:
 
-> There are two ways in which to promote a biblically saturated culture among evangelical systematic theologians. First, engage in writing theological commentary (whether of whole books of the Bible or simply of particular passages in journal articles). . . . Second, enrich dogmatic arguments with a great deal of exegetical excurses and engagement with works of exegetical and biblical-theological rigor.[^9]
+> There are two ways in which to promote a biblically saturated culture among evangelical systematic theologians. First, ==engage in writing theological commentary== (whether of whole books of the Bible or simply of particular passages in journal articles). . . . Second, enrich dogmatic arguments with a great deal of exegetical excurses and engagement with works of exegetical and biblical-theological rigor.[^9]
 
-I’ve been slow in starting it, but this is why I want to do dedicate a new section of the site to Bible commentary.
+I’ve been slow in starting it, but this is why I want to dedicate a new section of the site to Bible commentary.
 
 ## Suggestion from Jonathan
 
