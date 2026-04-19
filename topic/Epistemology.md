@@ -2,7 +2,7 @@
 categories:
 - "[[Prolegomena]]"
 ---
-**Epistemology** (from Greek ἐπιστήμη - episteme-, “knowledge, science” + λόγος, “logos”) is the branch of philosophy concerned with the nature and scope of knowledge. [^1]
+**Epistemology** (from Greek *episteme-*, “knowledge, science” + *logos*) is the branch of philosophy concerned with the nature and scope of knowledge.[^1]
 
 ### Fear of God is knowledge, wisdom
 
