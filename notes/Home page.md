@@ -159,7 +159,7 @@ Mt 4:23; 9:35 say he was proclaiming the good news of the kingdom, but what does
 
 From Michael Allen and Scott R. Swain’s *Reformed Catholicity*, first, a caution:
 
-> All of the charges brought against proof texting in Christian theology could be lodged against the Bible’s own use of the Bible. . . . \[P\]roof texting (as a citation technique) has biblical precedent and therefore should not be too hastily dismissed.[^5]
+> All of the charges brought against proof texting in Christian theology could be lodged against the Bible’s own use of the Bible. . . Indeed, if there is an immediate lesson to be drawn, it is this: proof texting (as a citation technique) has biblical precedent and therefore should not be too hastily dismissed.[^5]
 
 Next, two examples of theologians who used proof texting responsibly:
 
@@ -174,6 +174,12 @@ Finally, appeals to both systematic and Biblical theologians on how to think abo
 The main reason I proof text without any commentary is that I worry my commentary might be interpreted as adding to or taking away from, or otherwise twisting, the Scriptures. Wherever possible I’ve done due diligence to make sure the passages I quote really do say what I claim they say about a given topic when considered exegetically in their proper context. Further, I’m confident enough in the clarity and convincing power of Scripture that I don’t feel the need to add my own comments (anything I could say will pale in comparison to what the Scriptures say). I’m confident anyone who reads those passages and takes the time to study them carefully for themselves will come to the same conclusions I have.
 
 So, I make the same appeal as Allen and Swain: assume good faith. Assume I've done my homework and am responsibly citing Scriptures that really do say what I claim they say. Check them out for yourself. If you find one I've cited irresponsibly, by all means engage me thoughtfully, but don't write me off simply because I'm “proof texting”.
+
+Under the first point about theologians accepting the burden of proof that they’re using the Bible well, the authors make two sub-points:
+
+> There are two ways in which to promote a biblically saturated culture among evangelical systematic theologians. First, engage in writing theological commentary (whether of whole books of the Bible or simply of particular passages in journal articles). . . . Second, enrich dogmatic arguments with a great deal of exegetical excurses and engagement with works of exegetical and biblical-theological rigor.[^9]
+
+I’ve been slow in starting it, but this is why I want to do dedicate a new section of the site to Bible commentary.
 
 ## Suggestion from Jonathan
 
@@ -196,3 +202,5 @@ In an e-mail on July 25, 2016:
 [^7]: Ibid., p. 137.
 
 [^8]: Ibid., p. 139.
+
+[^9]: Ibid., p. 137.
