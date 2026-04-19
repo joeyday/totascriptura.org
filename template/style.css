@@ -201,7 +201,7 @@ footer a,
         		
 		--color-nav-background: var(--color-dark-gray);
 		
-		--color-main-text-mark-background: oklch(from var(--color-quinary) 0.475 0.15 h);
+		--color-main-text-mark-background: oklch(from var(--color-quinary) 0.4 0.1 h);
 
 		--color-link-mastodon: oklch(from var(--color-mastodon-purple) calc(l + 0.15) calc(c - 0.08) h);
 		--color-link-facebook: oklch(from var(--color-facebook-blue) calc(l + 0.15) calc(c - 0.08) h);
