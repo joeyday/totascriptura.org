@@ -63,7 +63,8 @@ main .quick-nav a:hover,
 .categories a:hover,
 header:not(article *) a:hover,
 nav:not(article *) a:hover,
-footer a:hover {
+footer a:hover,
+.index a:hover {
     text-decoration: underline;
 	text-decoration-thickness: 0.075rem;
 }
@@ -75,7 +76,8 @@ main .quick-nav a,
 .categories a,
 header:not(article *) a,
 nav:not(article *) a,
-footer a {
+footer a,
+.index a {
 	text-decoration: none;
 }
 
