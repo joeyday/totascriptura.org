@@ -57,6 +57,7 @@ input, button, textarea, select {
 
 a {
     text-decoration: underline;
+	text-decoration-thickness: 1.5px;
 }
 
 /* End CSS reset */
@@ -273,6 +274,7 @@ main {
         	
         	&:hover {
         		text-decoration: underline;
+        		text-decoration-thickness: 1.5px;
         	}
         }
     }
@@ -291,6 +293,7 @@ main {
         	
         	&:hover {
         		text-decoration: underline;
+        		text-decoration-thickness: 1.5px;
         	}
         }
     }
@@ -582,6 +585,7 @@ footer {
     	
     	&:hover {
     		text-decoration: underline;
+			text-decoration-thickness: 1.5px;
     	}
     }
 }
