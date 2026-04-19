@@ -173,7 +173,7 @@ footer a,
     --color-nav-text-muted: var(--color-light-gray);
     --color-nav-stroke: var(--color-light-gray);
     
-    --color-main-text-mark-background: oklch(from var(--color-quinary) 0.95 0.075 h)
+    --color-main-text-mark-background: oklch(from var(--color-quinary) 0.95 0.075 h);
     
     --color-link-mastodon: var(--color-mastodon-purple);
     --color-link-facebook: var(--color-facebook-blue);
