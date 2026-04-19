@@ -173,6 +173,8 @@ footer a,
     --color-nav-text-muted: var(--color-light-gray);
     --color-nav-stroke: var(--color-light-gray);
     
+    --color-main-text-mark-background: oklch(from var(--color-quinary) 0.95 0.075 h)
+    
     --color-link-mastodon: var(--color-mastodon-purple);
     --color-link-facebook: var(--color-facebook-blue);
 
@@ -198,6 +200,8 @@ footer a,
         		
 		--color-nav-background: var(--color-dark-gray);
 		
+		--color-main-text-mark-background: oklch(from var(--color-quinary) 0.475 0.15 h);
+
 		--color-link-mastodon: oklch(from var(--color-mastodon-purple) calc(l + 0.15) calc(c - 0.08) h);
 		--color-link-facebook: oklch(from var(--color-facebook-blue) calc(l + 0.15) calc(c - 0.08) h);
 	}
@@ -434,7 +438,7 @@ main {
     
     mark {
     	color: inherit;
-        background-color: oklch(from var(--color-quinary) 0.95 0.075 h);
+        background-color: var(--color-main-text-mark-background);
     }
     
     abbr {
@@ -797,10 +801,6 @@ footer {
             .quick-nav {
                 display: none;
             }
-        }
-        
-        mark {
-			background-color: oklch(from var(--color-quinary) 0.475 0.15 h);
         }
     }
     
