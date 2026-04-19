@@ -426,30 +426,30 @@ Is Social Trinitarianism basically tritheist or is there more nuance there?
 
 ## More distinction verses
 
-1.  ~~God spoke from heaven while Christ was on the earth - Matt. 3:17; 17:5; Mark 1:11; Luke 3:22; John 12:28-30~~
-2.  ~~God is a separate witness of Christ - John 5:36-37; 8:17-18~~
-3.  ~~Christ was "with" God in the beginning - John 1:1-3,10,14; 6:38; 16:28; 17:3,52; 20:21; 1 Jn. 4:14; Eph. 3:9~~
-4.  ~~Christ is God's Son - Mark 9:7; John 3:16; 9:35-37; 17:1; 20:17,21,31; Eph. 3:14; Heb. 1:6; 5:5~~
-5.  ~~Christ prayed to his Father - Matt. 6:6-9; 26:39; 27:46; Luke 23:34; John 12:27-28; 16:26; 17:10-11~~
-6.  Christ was seen standing at the right hand of God - Mark 16:19; Luke 22:69; Acts 2:33; 7:55-56; Rom. 8:34; Eph. 1:20; Col. 3:1; Heb. 1:3; 10:12; 1 Pet. 3:22; Rev. 3:21
-7.  The Father committed all judgment unto the Son - John 5:17-20,22-23; Rom. 2:16; 2 Tim. 4:1
-8.  God anointed Jesus Christ - Acts 10:38; Heb. 1:9
-9.  God honored, blessed and glorified Christ - Matt. 12:18; John 5:26; 12:23; 17:1,24; Acts 3:13; 5:30-31; 2 Pet. 1:17-18; Phil. 2:9
-10. Jesus was raised up by God - Acts 5:30-31; 1 Pet. 1:21
-11. God and Jesus are plural (we, our, us) - Gen. 1:26; Isa. 6:8; John 14:23; 17:11,22
-12. ~~God "sent" Christ to atone for us - Mark 9:37; John 3:16; 5:24; 6:38; 7:28-29; 8:42; 12:44-45; 17:3-4,6-10,18,25; 20:21; 1 Jn. 4:14~~
-13. Christ asked men to pray to God in his name - Matt. 6:6; Col. 3:17; Heb. 7:25-26
-14. Christ spoke of his Father in heaven - Matt. 10:33; 16:15-19; John 14:12; 20:15-17.
-15. Only God knew the exact time of the end; Christ did not then know - Mark 13:32; Matt. 24:36
-16. God the Father is Christ's God - Mark 15:34; John 20:17; Eph. 1:17; 1 Pet. 1:3
-17. Christ's will and doctrine were separate from God's - Matt. 26:39-42; Luke 22:41-42; John 5:30; 7:16-17; 14:10
-18. Christ did his Father's not his own work - Luke 2:49-50; John 17:3-4
-19. Christ came in his Father's name - John 5:43
-20. Christ came from and returned to God - John 14:12; 16:27-28,30; 1 Pet. 3:21-22
-21. The Father was "greater than" the Son - John 10:29; 14:28; 1 Cor. 15:28
-22. We come to the Father only by the Son - John 14:6
-23. Christ will deliver up the kingdom to God - 1 Cor. 15:24
-24. Christ is mediator between God and men - 1 Tim. 2:5; Heb. 8:6; 9:5; 12:24
+1.  ~~God spoke from heaven while Christ was on the earth: Mt 3:17; 17:5; Mk 1:11; Lk 3:22; Jn 12:28-30~~
+2.  ~~God is a separate witness of Christ: Jn 5:36-37; 8:17-18~~
+3.  ~~Christ was “with” God in the beginning: Jn 1:1-3,10,14; 6:38; 16:28; 17:3,52; 20:21; 1Jn 4:14; Eph 3:9~~
+4.  ~~Christ is God’s Son: Mk 9:7; Jn 3:16; 9:35-37; 17:1; 20:17,21,31; Eph 3:14; Heb 1:6; 5:5~~
+5.  ~~Christ prayed to his Father: Mt 6:6-9; 26:39; 27:46; Lk 23:34; Jn 12:27-28; 16:26; 17:10-11~~
+6.  Christ was seen standing at the right hand of God: Mk 16:19; Lk 22:69; Ac 2:33; 7:55-56; Ro 8:34; Eph 1:20; Col 3:1; Heb 1:3; 10:12; 1Pe 3:22; Rev 3:21
+7.  The Father committed all judgment unto the Son: Jn 5:17-20,22-23; Ro 2:16; 2Ti 4:1
+8.  God anointed Jesus Christ: Ac 10:38; Heb 1:9
+9.  God honored, blessed and glorified Christ: Mt 12:18; Jn 5:26; 12:23; 17:1,24; Ac 3:13; 5:30-31; 2Pe 1:17-18; Php 2:9
+10. Jesus was raised up by God: Ac 5:30-31; 1Pe 1:21
+11. God and Jesus are plural (we, our, us): Ge 1:26; Isa 6:8; Jn 14:23; 17:11,22
+12. ~~God "sent" Christ to atone for us: Mk 9:37; Jn 3:16; 5:24; 6:38; 7:28-29; 8:42; 12:44-45; 17:3-4,6-10,18,25; 20:21; 1Jn 4:14~~
+13. Christ asked men to pray to God in his name: Mt 6:6; Col 3:17; Heb 7:25-26
+14. Christ spoke of his Father in heaven: Mt 10:33; 16:15-19; Jn 14:12; 20:15-17
+15. Only God knew the exact time of the end; Christ did not then know: Mk 13:32; Mt 24:36
+16. God the Father is Christ's God: Mk 15:34; Jn 20:17; Eph 1:17; 1Pe 1:3
+17. Christ's will and doctrine were separate from God's: Mt 26:39-42; Lk 22:41-42; Jn 5:30; 7:16-17; 14:10
+18. Christ did his Father's not his own work: Lk 2:49-50; Jn 17:3-4
+19. Christ came in his Father's name: Jn 5:43
+20. Christ came from and returned to God: Jn 14:12; 16:27-28,30; 1Pe 3:21-22
+21. The Father was "greater than" the Son: Jn 10:29; 14:28; 1Co 15:28
+22. We come to the Father only by the Son: Jn 14:6
+23. Christ will deliver up the kingdom to God: 1Co 15:24
+24. Christ is mediator between God and men: 1Ti 2:5; Heb 8:6; 9:5; 12:24
 
 *This list came from [FairMormon › Mormons, polytheism and the Nicene Creed](https://www.fairmormon.org/answers/Mormonism_and_the_nature_of_God/Polytheism).*
 
