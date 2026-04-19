@@ -55,7 +55,7 @@ input, button, textarea, select {
     font: inherit;
 }
 
-a,
+a:hover,
 main .main-topic a:hover,
 main h3 + p a:hover,
 main h3 + .main-topic + p a:hover,
@@ -69,6 +69,7 @@ footer a:hover,
 	text-decoration-thickness: 0.075rem;
 }
 
+a,
 main .main-topic a,
 main h3 + p a,
 main h3 + .main-topic + p a,
