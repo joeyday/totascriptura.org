@@ -57,7 +57,7 @@ input, button, textarea, select {
 
 a {
     text-decoration: underline;
-	text-decoration-thickness: 1.5px;
+	text-decoration-thickness: 0.075rem;
 }
 
 /* End CSS reset */
@@ -274,7 +274,7 @@ main {
         	
         	&:hover {
         		text-decoration: underline;
-        		text-decoration-thickness: 1.5px;
+        		text-decoration-thickness: 0.075rem;
         	}
         }
     }
@@ -293,7 +293,7 @@ main {
         	
         	&:hover {
         		text-decoration: underline;
-        		text-decoration-thickness: 1.5px;
+        		text-decoration-thickness: 0.075rem;
         	}
         }
     }
@@ -585,7 +585,7 @@ footer {
     	
     	&:hover {
     		text-decoration: underline;
-			text-decoration-thickness: 1.5px;
+			text-decoration-thickness: 0.075rem;
     	}
     }
 }
@@ -598,7 +598,7 @@ header:not(article *) {
         align-items: center;
         gap: 0.2em;
         text-decoration: none;
-        border-bottom: 1.5px solid transparent;
+        border-bottom: 0.075rem solid transparent;
         
     	.site-logo {
     		font-size: 120%;
@@ -613,7 +613,7 @@ header:not(article *) {
         
         &:hover {
         	text-decoration: none;
-        	border-bottom: 1.5px solid var(--color-nav-text);
+        	border-bottom: 0.075rem solid var(--color-nav-text);
         }
     }
 }
