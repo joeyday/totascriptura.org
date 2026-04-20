@@ -28,15 +28,15 @@ For example, one of my favorite topics here is [[topic/God the Father|God the Fa
 This new emphasis on completion is why I chose **Tota Scriptura** as the title for the project. Fitting nicely with the more well-known principle of *sola Scriptura* (Scripture alone), the reformation doctrine of *tota Scriptura* (all of Scripture) is about “embracing the whole counsel of God as it is revealed in the entirety of sacred Scripture”[^sproul].
 
 :::
-*. . . he ~[Jesus]~ interpreted to them **in all the Scriptures** the things concerning himself.*[^luke]
+*. . . he ~[Jesus]~ interpreted to them **in all the Scriptures** the things concerning himself.*[^luke]
 :::
 
 :::
-*. . . for I ~[Paul]~ did not shrink from declaring to you **the whole counsel of God**.*[^acts]
+*. . . for I ~[Paul]~ did not shrink from declaring to you **the whole counsel of God**.*[^acts]
 :::
 
 :::
-***All Scripture** is breathed out by God and profitable . . .*[^timothy]
+***All Scripture** is breathed out by God and profitable . . .*[^timothy]
 :::
 
 ## The inspiration
@@ -44,13 +44,13 @@ Great encouragement for this project is found in the opening chapter of Wayne Gr
 
 > A good theological analysis must find and treat fairly all the relevant Bible passages for each particular topic, not just some or a few of the relevant passages.[^grudem24]
 
-> It would be a tremendous help to the church if Christians generally would give much more time to searching out topics in Scripture for themselves and drawing conclusions . . .[^grudem37]
+> It would be a tremendous help to the church if Christians generally would give much more time to searching out topics in Scripture for themselves and drawing conclusions . . .[^grudem37]
 
 I’ve drawn real and important conclusions from the study I’ve done here, and through it God’s Word and Spirit have informed—even intruded into—my worldview and my practical life.
 
 Grudem says this better than I can:
 
-> The study of theology is not merely a theoretical exercise of the intellect. It is a study of the living God, and of the wonders of all his works in creation and redemption. We cannot study this subject dispassionately! . . . In the study of the teachings of God’s Word, it should not surprise us if we often find our hearts spontaneously breaking forth in expressions of praise and delight . . .[^grudem37]
+> The study of theology is not merely a theoretical exercise of the intellect. It is a study of the living God, and of the wonders of all his works in creation and redemption. We cannot study this subject dispassionately! . . . In the study of the teachings of God’s Word, it should not surprise us if we often find our hearts spontaneously breaking forth in expressions of praise and delight . . .[^grudem37]
 
 My prayer as you browse these pages is that you, like me, will be “confronted with the total weight of the teaching of Scripture,”[^grudem28] and that you would join me in rejoicing over God’s word “like one who finds great spoil.”[^psalms2]
 

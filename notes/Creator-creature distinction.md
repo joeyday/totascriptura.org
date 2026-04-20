@@ -29,7 +29,7 @@ Sam Baird helped me find two verses of Scripture: Isa 47:7; Zep 2:15. I’ve add
 > 
 > § 2. I, Xerxes the great king, king of kings, king of the lands with many kinds of people, king on this earth far and wide, son of Darius the king, the Achaemenid (had this made).
 > 
-> . . .
+> . . .
 
 I found this in a commentary on Esther. I’m not sure if it’s a different translation from the same inscription, or could be a different inscription:
 
