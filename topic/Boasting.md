@@ -12,7 +12,7 @@ Isa 47:8; Zep 2:15; 1Co 5:6; 2Co 5:12; 11:12–13; Gal 6:13; Jas 4:16
 
 {{[[mt]]|[[topic/Total depravity|Total depravity]]}}
 
-Ro 2:17–24
+Ro 2:17–24; Gal 6:3
 ### Boasting ruled out by grace
 
 {{[[mt]]|[[topic/Gospel|Gospel]]}}
