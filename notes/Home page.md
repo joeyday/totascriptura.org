@@ -119,6 +119,10 @@ Consider using symlinks from the Skinny folder under db.jday.us over to the Skin
 - [Colour Lovers](http://www.colourlovers.com/business/trends/branding/7880/Papeterie_Haute-Ville_Logo)
 - [Colorpeek](http://colorpeek.com/#113f8c,01a4a4,00a1cb,61ae24,d0d102,32742c,d70060,e54028,f18d05,616161)
 
+## New new project color scheme
+
+- [Colorpeek](https://colorpeek.com/#oklch(0.5_0.25_5),oklch(0.5_0.25_35),oklch(0.5_0.25_65),oklch(0.5_0.25_95),oklch(0.5_0.25_125),oklch(0.5_0.25_155),oklch(0.5_0.25_185),oklch(0.5_0.25_215),oklch(0.5_0.25_245),oklch(0.5_0.25_275),oklch(0.5_0.25_305),oklch(0.5_0.25_335))
+
 ## Interesting verse
 
 “It is beyond dispute that the inferior is blessed by the superior.” —Heb 7:7
