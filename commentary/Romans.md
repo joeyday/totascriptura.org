@@ -17,4 +17,4 @@ unlisted: true
 
 ## Romans 1
 
-**Ro 1:8** **I thank my God**. Paul thanks God for the faith of the church in Rome. This only makes sense if faith is a gift from God in the first place (see [[topic/Effectual grace|Effectual grace]]).
+**Ro 1:8** ***I thank my God***. Paul thanks God for the faith of the church in Rome. This only makes sense if faith is a gift from God in the first place (see [[topic/Effectual grace|Effectual grace]]).
