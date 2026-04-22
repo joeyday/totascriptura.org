@@ -26,7 +26,7 @@ There is one and only one God. God is simple (not composed of parts) and stands 
 
 ### Inseparable operations
 
-Ps 33:6; 1Co 12:6
+*Creation:* Ge 1:1–3; Ps 33:6; Jn 1:1–3; Col 1:15–17; *Incarnation:* Lk 1:34–35; Jn 3:16–17; 5:23–24; 37–39; *Atonement:* Heb 9:14; *Resurrection:* Ro 8:10–11; *Redemption considered broadly:* Gal 4:4–6; Eph 1:3–14
 
 ## Threeness
 
