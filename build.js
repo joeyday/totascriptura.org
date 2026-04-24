@@ -796,6 +796,62 @@ async function loadAbbrMap() {
   return data;
 }
 
+// ─── Alt Text Map ─────────────────────────────────────────────────────────────
+
+async function loadAltTextMap() {
+  const altFile = "alt-text.json";
+  let raw;
+  try {
+    raw = await fs.readFile(altFile, "utf-8");
+  } catch {
+    console.log("Alt text injector: alt-text.json not found, skipping.");
+    return null;
+  }
+  let data;
+  try {
+    data = JSON.parse(raw);
+  } catch {
+    console.log(
+      "Alt text injector: alt-text.json is not valid JSON, skipping.",
+    );
+    return null;
+  }
+  if (!data || typeof data !== "object" || Array.isArray(data)) {
+    console.log(
+      "Alt text injector: alt-text.json must be a JSON object, skipping.",
+    );
+    return null;
+  }
+  return data;
+}
+
+// Adds or replaces the alt attribute on any <img> whose src basename matches
+// a key in altMap.  Matching is case-sensitive and against the filename only
+// (no directory path, no query string).  Values containing double-quotes are
+// automatically escaped as &quot;.
+function applyAltText(html, altMap) {
+  return html.replace(/<img\s[^>]*>/g, (tag) => {
+    const srcMatch = tag.match(/\bsrc=(["'])([^"']+)\1/);
+    if (!srcMatch) return tag;
+
+    const src = srcMatch[2];
+    // Strip any query/hash, then take the last path segment
+    const basename = src.split("/").pop().split(/[?#]/)[0];
+    if (!Object.prototype.hasOwnProperty.call(altMap, basename)) return tag;
+
+    const altText = String(altMap[basename]).replace(/"/g, "&quot;");
+
+    if (/\balt=/.test(tag)) {
+      // Replace existing alt value (handles both quote styles)
+      return tag.replace(/\balt=(["'])[^"']*\1/, `alt="${altText}"`);
+    }
+    // Insert alt before the closing > or />
+    return tag.replace(/(\s?\/?>)$/, ` alt="${altText}"$1`);
+  });
+}
+
+// ─── End Alt Text Map ─────────────────────────────────────────────────────────
+
 // Tags whose content we skip entirely for abbreviation wrapping
 const ABBR_SKIP_TAGS = new Set(["abbr", "code", "pre", "script", "style"]);
 
@@ -881,6 +937,83 @@ function wrapAbbreviations(html, abbrMap) {
 }
 
 // ─── End Abbreviation Expansion ───────────────────────────────────────────────
+
+// ─── Initials Wrapping ────────────────────────────────────────────────────────
+
+// Matches two or more consecutive "UppercaseLetter + period" groups, e.g.
+// "D.A.", "R.C.", "J.R.R.", "U.S.A."  Single-letter abbreviations like "Dr."
+// are intentionally excluded (they require two or more such groups).
+const INITIALS_RE = /\b([A-Z]\.){2,}/g;
+
+// Same skip-set as abbreviations: never wrap inside existing <abbr>, code, etc.
+const INITIALS_SKIP_TAGS = new Set(["abbr", "code", "pre", "script", "style"]);
+
+function wrapInitials(html) {
+  const result = [];
+  const TAG_RE =
+    /<!--[\s\S]*?-->|<!\[CDATA\[[\s\S]*?\]\]>|<\/?([a-zA-Z][a-zA-Z0-9]*)[^>]*>/g;
+  const skipStack = [];
+  let lastIndex = 0;
+
+  let m;
+  TAG_RE.lastIndex = 0;
+  while ((m = TAG_RE.exec(html)) !== null) {
+    const tagFull = m[0];
+    const tagName = m[1] ? m[1].toLowerCase() : null;
+    const before = html.slice(lastIndex, m.index);
+
+    if (before) {
+      result.push(
+        skipStack.length === 0
+          ? before.replace(INITIALS_RE, "<abbr>$&</abbr>")
+          : before,
+      );
+    }
+
+    if (tagName && INITIALS_SKIP_TAGS.has(tagName)) {
+      if (tagFull.startsWith("</")) {
+        if (
+          skipStack.length > 0 &&
+          skipStack[skipStack.length - 1] === tagName
+        ) {
+          skipStack.pop();
+        }
+      } else if (!tagFull.endsWith("/>")) {
+        skipStack.push(tagName);
+      }
+    }
+
+    result.push(tagFull);
+    lastIndex = m.index + tagFull.length;
+  }
+
+  const tail = html.slice(lastIndex);
+  if (tail) {
+    result.push(
+      skipStack.length === 0
+        ? tail.replace(INITIALS_RE, "<abbr>$&</abbr>")
+        : tail,
+    );
+  }
+
+  return result.join("");
+}
+
+// ─── End Initials Wrapping ────────────────────────────────────────────────────
+
+// ─── Spaced Ellipsis Normalisation ───────────────────────────────────────────
+
+// Converts spaced ellipses (". . ." with any whitespace, including U+00A0) to
+// the typographically correct form with non-breaking spaces as HTML entities.
+// The longer pattern (leading space) is applied first so it is not partially
+// consumed by the shorter one.
+function fixSpacedEllipses(html) {
+  return html
+    .replace(/\s\.\s\.\s\./g, "&nbsp;.&nbsp;.&nbsp;.")
+    .replace(/\.\s\.\s\./g, ".&nbsp;.&nbsp;.");
+}
+
+// ─── End Spaced Ellipsis Normalisation ───────────────────────────────────────
 
 // ─── Roman Numeral Wrapping ───────────────────────────────────────────────────
 
@@ -2449,6 +2582,20 @@ async function build() {
     );
   }
 
+  // Post-process: wrap initials (e.g. D.A., J.R.R.) in all HTML files
+  let initialsCount = 0;
+  for (const htmlFile of allHtmlFiles) {
+    const raw = await fs.readFile(htmlFile, "utf-8");
+    const wrapped = wrapInitials(raw);
+    if (wrapped !== raw) {
+      await fs.writeFile(htmlFile, wrapped);
+      initialsCount++;
+    }
+  }
+  console.log(
+    `Initials wrapper: processed ${allHtmlFiles.length} HTML file(s), rewrote ${initialsCount}.`,
+  );
+
   // Post-process: wrap Roman numerals in all HTML files
   let romanCount = 0;
   for (const htmlFile of allHtmlFiles) {
@@ -2476,6 +2623,37 @@ async function build() {
   console.log(
     `Divine name wrapper: processed ${allHtmlFiles.length} HTML file(s), rewrote ${divineCount}.`,
   );
+
+  // Post-process: normalise spaced ellipses (". . ." → "&nbsp;.&nbsp;.&nbsp;.")
+  let ellipsisCount = 0;
+  for (const htmlFile of allHtmlFiles) {
+    const raw = await fs.readFile(htmlFile, "utf-8");
+    const fixed = fixSpacedEllipses(raw);
+    if (fixed !== raw) {
+      await fs.writeFile(htmlFile, fixed);
+      ellipsisCount++;
+    }
+  }
+  console.log(
+    `Ellipsis normaliser: processed ${allHtmlFiles.length} HTML file(s), rewrote ${ellipsisCount}.`,
+  );
+
+  // Post-process: inject alt text on images from alt-text.json
+  const altMap = await loadAltTextMap();
+  if (altMap && Object.keys(altMap).length > 0) {
+    let altCount = 0;
+    for (const htmlFile of allHtmlFiles) {
+      const raw = await fs.readFile(htmlFile, "utf-8");
+      const patched = applyAltText(raw, altMap);
+      if (patched !== raw) {
+        await fs.writeFile(htmlFile, patched);
+        altCount++;
+      }
+    }
+    console.log(
+      `Alt text injector: processed ${allHtmlFiles.length} HTML file(s), rewrote ${altCount}.`,
+    );
+  }
 }
 
 build().catch((err) => {
