@@ -3,7 +3,7 @@ permalink: home
 quick nav: true
 unlisted: true
 ---
-![[avatar.jpeg|100x100]]
+![[avatar.png|100x100]]
 
 Hi, I’m Joey. This project is my small contribution to Christian systematic theology. I’m endeavoring to bring “the total weight of the teaching of Scripture”[^grudem] to bear on many important topics here. For more on how and why the site came to be, read [[About|about this project]].
 
