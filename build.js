@@ -1918,6 +1918,15 @@ async function build() {
     "/search",
     "/random",
   ]);
+
+  // Register every non-hidden page's backlinks URL so classifyLinks never
+  // marks a link to it as broken (e.g. the footer link added by the template).
+  for (const fi of filesToProcess) {
+    if (fi.hidden) continue;
+    allKnownUrls.add(
+      fi.finalUrlPath === "/" ? "/backlinks" : `${fi.finalUrlPath}/backlinks`,
+    );
+  }
   const draftUrls = new Set(draftPages.map((p) => p.url));
   const featuredUrls = new Set(featuredPages.map((p) => p.url));
   // membersMap is now URL-keyed, so its keys are already the category page URLs.
@@ -1980,6 +1989,8 @@ async function build() {
         pages: locals.pages || [],
         featuredWith: locals.featuredWith || null,
         featured: locals.featured || false,
+        backlinkUrl: locals.backlinkUrl || null,
+        backlinkCount: locals.backlinkCount ?? 0,
       }),
     );
   }
@@ -2011,6 +2022,60 @@ async function build() {
   for (const fileInfo of filesToProcess) {
     contentMapByUrl[fileInfo.finalUrlPath] = fileInfo.parsed.content;
   }
+
+  // ── Backlinks pre-pass ───────────────────────────────────────────────────────
+  // Scan every non-hidden page's wikilinks (after embed resolution, matching the
+  // same resolveLink logic used in the main loop) and build a map of
+  //   targetUrl → [{title, url}]   (sorted alphabetically by title)
+  // This must run BEFORE the main render loop so each page can receive its
+  // backlinkCount for the footer link.
+
+  const backlinksMap = {}; // targetUrl → [{title, url}]
+
+  for (const fileInfo of filesToProcess) {
+    if (fileInfo.hidden) continue;
+    const sourceUrl = fileInfo.finalUrlPath;
+
+    const fullMarkdown = resolveEmbeds(fileInfo.parsed.content, contentMap, {
+      fileMap,
+      filesToProcess,
+      contentMapByUrl,
+    });
+
+    fullMarkdown.replace(/(?:!?)\[\[(.*?)\]\]/g, (_match, inner) => {
+      let target = inner;
+      if (inner.includes("|")) {
+        target = inner.split("|")[0];
+      }
+      let searchTarget = target.trim();
+      const ext = path.extname(searchTarget).toLowerCase();
+      if (IMAGE_EXTENSIONS.has(ext)) return _match;
+      if (searchTarget.toLowerCase().endsWith(".md")) {
+        searchTarget = searchTarget.slice(0, -3);
+      }
+      const resolved = resolveLink(searchTarget, fileMap, filesToProcess);
+      if (resolved.url) {
+        if (!backlinksMap[resolved.url]) backlinksMap[resolved.url] = [];
+        // Avoid duplicates (same source linking to same target multiple times)
+        if (!backlinksMap[resolved.url].some((e) => e.url === sourceUrl)) {
+          backlinksMap[resolved.url].push({
+            title: fileInfo.title,
+            url: sourceUrl,
+          });
+        }
+      }
+      return _match;
+    });
+  }
+
+  // Sort each backlinks list alphabetically by title
+  for (const arr of Object.values(backlinksMap)) {
+    arr.sort((a, b) =>
+      a.title.localeCompare(b.title, undefined, { sensitivity: "base" }),
+    );
+  }
+
+  // ── End Backlinks pre-pass ───────────────────────────────────────────────────
 
   const searchDocs = [];
   // distFilePath → { url, title, unlisted } for Scripture ref collection
@@ -2140,6 +2205,12 @@ async function build() {
       }
     }
 
+    const backlinkUrl =
+      fileInfo.finalUrlPath === "/"
+        ? "/backlinks"
+        : `${fileInfo.finalUrlPath}/backlinks`;
+    const backlinkCount = (backlinksMap[fileInfo.finalUrlPath] || []).length;
+
     const finalHtml = renderLayout(htmlContent, {
       url: fileInfo.finalUrlPath,
       frontmatter: fileInfo.parsed.data,
@@ -2151,6 +2222,8 @@ async function build() {
       pages,
       featuredWith: fileInfo.featuredWith || null,
       featured: fileInfo.featured || false,
+      backlinkUrl,
+      backlinkCount,
     });
 
     const { outDirPath, outFilePath } = getOutputPaths(fileInfo.finalUrlPath);
@@ -2198,6 +2271,57 @@ async function build() {
     await fs.writeFile(outFilePath, redirectHtml);
     console.log(`Built (alias redirect): ${fromUrlPath} -> ${toUrl}`);
   }
+
+  // ── Backlinks sub-pages ──────────────────────────────────────────────────────
+  // Generate a /pageurl/backlinks page for every non-hidden content page.
+
+  // Minimal HTML escaper for inline text/attribute interpolation.
+  const escHtml = (s) =>
+    String(s)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;");
+
+  let backlinksPageCount = 0;
+  for (const fileInfo of filesToProcess) {
+    if (fileInfo.hidden) continue;
+
+    const pageUrl = fileInfo.finalUrlPath;
+    const blUrl = pageUrl === "/" ? "/backlinks" : `${pageUrl}/backlinks`;
+    const inbound = backlinksMap[pageUrl] || [];
+
+    let listHtml;
+    if (inbound.length === 0) {
+      listHtml = "<p>No pages link to this page.</p>";
+    } else {
+      listHtml =
+        "<ul>\n" +
+        inbound
+          .map(
+            (b) => `  <li><a href="${escHtml(b.url)}">${escHtml(b.title)}</a></li>`,
+          )
+          .join("\n") +
+        "\n</ul>";
+    }
+
+    const blHtml = renderLayout(listHtml, {
+      url: blUrl,
+      frontmatter: {
+        title: `Backlinks \u2014 ${fileInfo.title}`,
+        permalink: blUrl.replace(/^\//, ""),
+      },
+    });
+
+    const { outDirPath, outFilePath } = getOutputPaths(blUrl);
+    await ensureDir(outDirPath);
+    await fs.writeFile(outFilePath, blHtml);
+    backlinksPageCount++;
+  }
+  console.log(
+    `Backlinks pages: generated ${backlinksPageCount} page(s) (${Object.values(backlinksMap).reduce((s, a) => s + a.length, 0)} total inbound link(s) recorded).`,
+  );
+  // ── End Backlinks sub-pages ──────────────────────────────────────────────────
 
   // pagesWithCategories: URLs of pages that have categories themselves
   // (i.e. they belong to a parent category, so they appear as subcategories).
