@@ -37,3 +37,7 @@ Mt 1:19; 3:15; 5:6, 10, 20, 45; 6:1, 33; 9:13; 10:41; 11:19; 12:37; 13:17, 43, 4
 
 Mt 7:21; Ro 2:13; 1Co 6:9, 15:2; Heb 9:5; 10:26
 
+### Suggestions from @rconger24
+
+*Comment on Sam’s temple recommend interview YouTube video:* Mt 7:24 ~(cf. Lk 6:46)~; Jn 14:15, 21, 23, 24; 15:10, 14; 1Jn 2:3–5; 5:3; Jas 1:22
+

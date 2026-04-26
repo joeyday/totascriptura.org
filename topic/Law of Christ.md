@@ -1,6 +1,6 @@
 ---
-hidden: true
-stub: true
+hidden: false
+stub: false
 draft: true
 ---
 ### The law of Christ
