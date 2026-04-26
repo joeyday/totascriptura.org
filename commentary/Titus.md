@@ -5,7 +5,7 @@ unlisted: true
 ---
 **Tit 1:1** ***Paul***. Authorship of the epistle to Titus is disputed by modern critical scholarship. To take the text at face value we must at least assume it was written after the events of Acts, i.e. late 60’s AD, since Paul leaving Titus in Crete is never mentioned in the Acts narrative.
 
-***Servant of God***. Literally, slave of God.
+***Servant of God***. Literally, slave of God. It’s controversial, but I find slavery to be a very fruitful metaphor for our relationships both to sin and to God.
 
 ***Apostle of Jesus Christ***. Paul was directly commissioned by the Lord (on the Damascus road) just as the other apostles were, and in that sense he was a special messenger/ambassador of Christ. I personally find difficulty with this since (1) the apostles were originally twelve in number and meant to represent/judge the twelve tribes of Israel \[citation needed\] and (2) the replacement of Judas with Matthias seems to have been an isolated event necessitated by Judas’s failure to uphold his office \[citation needed\]. Are the twelve apostles such in an official/technical sense and Paul only in an unofficial/general sense (he does elsewhere refer to the other apostles as “super-apostles” \[citation needed\])?
 
