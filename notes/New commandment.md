@@ -12,7 +12,11 @@ Are these related to the new commandment?
 
 ### The (second) greatest commandment
 
-Mt 22:37–40 ~(cf. Mk 12:29–31; Lk 10:27–28)~
+Mt 22:37–40 ~(cf. Mk 12:29–31; Lk 10:27–28)~; Ro 13:8–10; Gal 5:14
+
+### The golden rule
+
+Mt 7:12 ~(cf. Lk 6:31)~
 
 ### Love your enemies
 
