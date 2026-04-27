@@ -30,3 +30,8 @@ Jas 1:25; 2:12
 
 Ro 8:2
 
+## Romans 13:8–10
+
+### Where does this go?
+
+Ro 13:8–10
