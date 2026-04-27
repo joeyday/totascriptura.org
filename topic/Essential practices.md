@@ -54,6 +54,8 @@ Passages in this topic are grouped under each heading based on their indication,
 
 ### Loving one another
 
+{{[[mt]]|[[topic/New commandment|New commandment]]}}
+
 *Sufficient:* Jn 13:34–35; 1Jn 3:14–19; 4:16–21
 
 ### Providing for one’s relatives and household
