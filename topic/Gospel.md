@@ -11,7 +11,7 @@ Ac 3:17–26; 10:34–43; 13:26–39; Ro 1–4; 1Co 15:1–11; Gal 2:15–21; 3:
 
 ### The gospel is most important
 
-1Co 15:3; 2Co 2:1–2
+1Co 2:1–2; 15:3
 
 ### “He who does the commandments shall live by them”
 
