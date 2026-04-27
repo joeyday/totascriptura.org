@@ -9,7 +9,7 @@ Mt 15:9 ~(cf. Mk 7:7)~; Ro 16:17; 2Co 11:4; Gal 1:6–9; 1Ti 1:3–7, 15, 19; 6:
 
 Ac 3:17–26; 10:34–43; 13:26–39; Ro 1–4; 1Co 15:1–11; Gal 2:15–21; 3:1–14
 
-### The gospel is most important
+### The gospel is of first importance
 
 1Co 2:1–2; 15:3
 
