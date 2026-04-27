@@ -1644,6 +1644,21 @@ function parseCategoriesList(raw) {
   return [stripBrackets(String(raw))];
 }
 
+// ─── Article-aware title helpers ─────────────────────────────────────────────
+
+// English articles stripped from the front of a title before alphabetic
+// comparison.  Matching is case-insensitive; "A", "An", and "The" are the
+// only English articles; "An" is tested before "A" to avoid a prefix match.
+const ARTICLE_RE = /^(the|an|a)\s+/i;
+
+// Returns the sort key for a title: leading article moved to end.
+// "The law of Christ" → "law of Christ" (used only for comparisons)
+function sortableTitle(title) {
+  return title.replace(ARTICLE_RE, "").trim();
+}
+
+// ─── End Article-aware title helpers ─────────────────────────────────────────
+
 async function build() {
   // Initialise the CWMS→book-info map (requires slugify, called inside build()
   // to guarantee slugify's module is fully initialised before first use).
@@ -1818,10 +1833,18 @@ async function build() {
   }
 
   featuredPages.sort((a, b) =>
-    a.title.localeCompare(b.title, undefined, { sensitivity: "base" }),
+    sortableTitle(a.title).localeCompare(
+      sortableTitle(b.title),
+      undefined,
+      { sensitivity: "base" },
+    ),
   );
   draftPages.sort((a, b) =>
-    a.title.localeCompare(b.title, undefined, { sensitivity: "base" }),
+    sortableTitle(a.title).localeCompare(
+      sortableTitle(b.title),
+      undefined,
+      { sensitivity: "base" },
+    ),
   );
 
   // Map from primary page URL → secondary pages that declare "featured with" pointing to it.
@@ -1895,6 +1918,19 @@ async function build() {
         url: fileInfo.finalUrlPath,
       });
     }
+  }
+
+  // Sort each category's member list article-aware alphabetically so category
+  // pages and subcategory pages render in consistent order regardless of file
+  // discovery order.
+  for (const arr of Object.values(membersMap)) {
+    arr.sort((a, b) =>
+      sortableTitle(a.title).localeCompare(
+        sortableTitle(b.title),
+        undefined,
+        { sensitivity: "base" },
+      ),
+    );
   }
 
   // Build a URL→fileInfo lookup for fast reverse lookups.
@@ -2015,7 +2051,11 @@ async function build() {
     }
   }
   allPages.sort((a, b) =>
-    a.title.localeCompare(b.title, undefined, { sensitivity: "base" }),
+    sortableTitle(a.title).localeCompare(
+      sortableTitle(b.title),
+      undefined,
+      { sensitivity: "base" },
+    ),
   );
 
   const contentMapByUrl = {};
@@ -2068,10 +2108,14 @@ async function build() {
     });
   }
 
-  // Sort each backlinks list alphabetically by title
+  // Sort each backlinks list article-aware alphabetically by title
   for (const arr of Object.values(backlinksMap)) {
     arr.sort((a, b) =>
-      a.title.localeCompare(b.title, undefined, { sensitivity: "base" }),
+      sortableTitle(a.title).localeCompare(
+        sortableTitle(b.title),
+        undefined,
+        { sensitivity: "base" },
+      ),
     );
   }
 
@@ -2345,7 +2389,11 @@ async function build() {
       return { title: fi ? fi.title : url, url };
     })
     .sort((a, b) =>
-      a.title.localeCompare(b.title, undefined, { sensitivity: "base" }),
+      sortableTitle(a.title).localeCompare(
+        sortableTitle(b.title),
+        undefined,
+        { sensitivity: "base" },
+      ),
     );
 
   const indexPages = [

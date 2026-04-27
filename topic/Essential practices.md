@@ -48,7 +48,11 @@ Passages in this topic are grouped under each heading based on their indication,
 
 *Sufficient:* Mt 19:27–29
 
-### Loving God and one another
+### Loving God
+
+*Sufficient:* Jas 1:12
+
+### Loving one another
 
 *Sufficient:* Jn 13:34–35; 1Jn 3:14–19; 4:16–21
 
@@ -64,7 +68,7 @@ Passages in this topic are grouped under each heading based on their indication,
 
 {{[[mt]]|[[topic/Preservation of the saints|Perseverance of the saints]]}}
 
-*Sufficient:* Mt 10:22; Mt 24:13 ~(cf. Mk 13:13; Lk 21:19)~; Jn 8:31–32; Heb 3:14; Rev 2:10; *Necessary:* 1Jn 2:19-20; 3:9
+*Sufficient:* Mt 10:22; Mt 24:13 ~(cf. Mk 13:13; Lk 21:19)~; Jn 8:31–32; Heb 3:14; Jas 1:12; Rev 2:10; *Necessary:* 1Jn 2:19-20; 3:9
 
 ## Warnings against sin
 
