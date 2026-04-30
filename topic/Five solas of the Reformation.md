@@ -13,7 +13,7 @@ Ro 3:26–28
 
 ### Sola gratia
 
-{{[[mt]]|[[topic/Gospel|Gospel]]}}
+{{[[mt]]|[[topic/Sola gratia|Sola gratia]]|[[topic/Gospel|Gospel]]}}
 
 Ro 6:23; 11:6; Eph 2:8–9
 

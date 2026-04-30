@@ -24,6 +24,10 @@ Passages in this topic are grouped under each heading based on their indication,
 
 *Sufficient:* Isa 1:27; 59:20; Eze 18:32; 33:11; Ac 2:37–38; 3:19; 11:18; 2Co 7:10; Jas 4:7–8
 
+### Regeneration, being born again
+
+*Necessary:* Jn 3:3, 5; *Sufficient:* Tit 3:5; Heb 10:19–23
+
 ## Sacraments
 
 ### Baptism
