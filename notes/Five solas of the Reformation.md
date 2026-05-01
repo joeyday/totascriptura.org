@@ -1,5 +1,5 @@
 ---
-hidden: true
+hidden: false
 aside of: "[[topic/Five solas of the Reformation|Five solas of the Reformation]]"
 ---
 ## What the five solas were reacting against
