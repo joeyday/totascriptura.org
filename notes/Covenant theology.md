@@ -54,4 +54,8 @@ Episode 128 of the heidelcast has lots of great scripture proofs for the pactum 
 ## Ancient Near East covenant cutting
 Jer 34:18 ~(retrieved from [Meredith Kline](https://meredithkline.com/klines-works/articles-and-essays/oath-and-ordeal-signs-part-1/))~ and of course Ge 15.
 
+## 1 Samuel 12:22
+
+Does 1 Samuel 12:22 belong in the list of “I will be you God and you will be my people” verses? Need to review those and see if any others of them show only one side of the saying. (1 Samuel 12:22 only says we will be his people, not that he will also be our God. I may have found it when I compiled the list and excluded it on purpose.)
+
 [^1]: <cite>Case for Covenantal Infant Baptism, The</cite> (Kindle Locations 2322-2326). Kindle Edition.
