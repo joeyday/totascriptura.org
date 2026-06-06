@@ -7,7 +7,7 @@ draft: true
 ---
 Places in Scripture where anything is called “eternal”, “everlasting”, or “forever”.
 
-## God
+### God
 
 Ge 21:33; 
 
@@ -15,10 +15,10 @@ Ge 21:33;
 
 Ex 3:15; 15:18; 
 
-## God’s covenant
+### God’s covenant
 
 Ge 9:12, 16; 13:15; 17:7–8, 13, 19; 48:4; Ex 32:13; 
 
-## Mountains or hills
+### Mountains or hills
 
 Ge 49:26; 
