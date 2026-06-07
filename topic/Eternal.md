@@ -11,9 +11,9 @@ Places in Scripture where anything is called “eternal”, “everlasting”, o
 
 Ge 21:33; Dt 32:40; 
 
-### God’s name, reign, power, divinity
+### God’s name, reign, power, divinity, ways
 
-Ex 3:15; 15:18; Dt 33:27; Ro 1:20
+Ex 3:15; 15:18; Dt 33:27; Hab 3:6; Ro 1:20
 
 ### God’s covenants
 
