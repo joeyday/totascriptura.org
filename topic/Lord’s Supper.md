@@ -12,7 +12,7 @@ Mt 26:26–29; Mk 14:22–25; Lk 22:14–20; 1Co 11:23–26
 
 ### General statements about
 
-1Co 10:16–17, 21; 1Co 12:12–13
+Jn 6:49–1Co 10:16–17, 21; 1Co 12:12–13
 
 ### Recurrence, frequency of
 
