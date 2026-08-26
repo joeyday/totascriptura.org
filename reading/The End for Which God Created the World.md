@@ -155,8 +155,9 @@ Ex 29:43; 33:19; 34:5–7; Dt 12:11; Ps 74:7; Isa 60:7; Jer 14:21
 
 ## Showing that the ultimate end of the creation of the world is but one, and what that one end is
 
-The glory of God is reflected mainly in man’s two faculties: knowing and willing ~(¶ 270)~
-:   Jn 1:14
+### The glory of God is reflected mainly in man’s two faculties: knowing and willing ~(¶ 270)~
+
+Jn 1:14
 
 ### The glory of God is compared to the emanation of light from a luminary ~(¶ 271)~
 

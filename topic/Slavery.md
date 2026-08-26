@@ -52,7 +52,7 @@ John 8:34; Ro 6:16; Tit 3:3; 2Pe 2:19
 
 ### Covenant people are slaves to God
 
-Ex 4:22–23; Lev 25:42, 55; Ro 1:1; 6:16–22; 1Co 7:23 ~(see also 1Co 6:20)~; Gal 1:10; Php 1:1; 2Pe 2:1
+Ex 4:22–23; Lev 25:42, 55; Mal 1:6; Ro 1:1; 6:16–22; 1Co 7:23 ~(see also 1Co 6:20)~; Gal 1:10; Php 1:1; 2Pe 2:1
 
 ### Christians are to serve one another
 

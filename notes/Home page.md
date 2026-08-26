@@ -191,6 +191,10 @@ In an e-mail on July 25, 2016:
 
 > I suggest adding a page that addresses the biblical role of works/deeds/obedience etc. in salvation, reviewing both the Old and New Testaments. This is an important topic that, I think, many people (Evangelical and LDS alike) misunderstand. I would (of course) recommend taking a look at my “How to Be Saved?” page on everyverse.org. <http://everyverse.org/salvation/> :)
 
+## When does life begin in the womb?
+
+Ecc 11:5 says we don’t know “how the spirit comes to the bones in the womb of a woman with child”. It seems to leave open-ended the possibility that life does or doesn’t begin immediately at conception.
+
 [^1]: Grudem, Wayne (2009). *Systematic Theology: An Introduction to Biblical Doctrine* (p. 24). Zondervan. Kindle Edition.
 
 [^2]: Ibid., p. 28.
