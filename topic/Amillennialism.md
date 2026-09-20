@@ -4,9 +4,9 @@ categories:
 draft: true
 ---
 
-### “Thousand years” appears only once in Scripture
+### “Thousand years” appears in only one pericope
 
-Rev 20:2–3
+Rev 20:1–6
 
 ### Prince in Daniel is Messiah, not antichrist
 
