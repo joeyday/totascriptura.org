@@ -13,6 +13,8 @@ Genus-species composition is the idea that every type of nature can be categoriz
 
 This also means God is beyond all categorization and definitions. For instance, when we talk of the Creator-creature distinction, though “creature” is certainly a category or genus in which humans belong together with all other creatures, it would be a mistake to say that “Creator” is a category or genus in which God belongs. Creator is just what he is, not a way of categorizing or classifying him. You literally cannot put God in a box.
 
+(And Incidentally, given that God doesn’t fit in any category, it should not surprise us that there are no good analogies for the Trinity. It’s also why we can’t speak univocally of God.)
+
 > Thomas is aware that denying the conceptual composition of genus and specific difference in God places him beyond all definition. But any being that is “pure act” or “being itself” must be the principle of all being whatsoever and so cannot be reduced to some specific class of being. As the source of all genera God cannot be contracted into a particular genus by some specific difference. His absolute being transcends all such definitional composition. In this vein, Herman Bavinck aptly remarks: “For precisely because God is pure being—the absolute, perfect, unique, and simple being—we cannot give a definition to him. There is no genus to which he belongs as a member, and there are no specific marks of distinction whereby we can distinguish him from other beings in this genus. Even the being he has, so to speak, in common with all creatures does not pertain to him in the same sense as it does to them (univocally), but only analogically and proportionately.”[^1]
 
 ## Nicaea and Its Legacy
