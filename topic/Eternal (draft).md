@@ -9,7 +9,7 @@ Places in Scripture that say something is or will be “eternal”, “everlasti
 
 ### God
 
-Ge 21:33; Dt 32:40; 33:27; Ps 9:7; 90:2; 93:2; 102:24, 27 ~(cited at Heb 1:12)~; Isa 26:4; 40:28; 57:15; Jer 10:10; Da 4:34; 6:26; 12:7 ~(cited at Rev 10:5–6)~; Hab 1:12; Ro 16:26; 1Ti 1:17; Rev 4:9 ~(cites Da 4:34; 12:7)~; Rev 4:10 ~(cites Da 4:34)~; Rev 10:6 ~(cites Da 12:7; Dt 32:40)~; Rev 15:7
+Ge 21:33; Dt 32:40; 33:27; Ps 9:7; 90:2; 93:2; 102:24, 27 ~(cited at Heb 1:12)~; Isa 26:4; 40:28; 57:15; Jer 10:10; Da 4:34; 6:26; 12:7; Hab 1:12; Ro 16:26; 1Ti 1:17; Rev 4:9; Rev 4:10; Rev 10:6; Rev 15:7
 
 ### God’s name, reign, power, divinity, ways, steadfast love, blessedness
 
