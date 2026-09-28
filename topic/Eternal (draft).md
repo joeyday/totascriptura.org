@@ -26,7 +26,7 @@ Ex 3:15; 15:18; Dt 33:27; 2Sa 7:26; 1Ki 10:9 ~(cf. 2Ch 9:8)~; 1Ch 16:41; 17:24; 
 
 ### God’s word, law, gospel
 
-%% Dt 29:29; revealed things belong to Israel forever %%%% Ps 19:9; fear of the Lord endures forever %%111:7–8; 119:89, 144, 151–152; Isa 30:8; 40:8 ~(cited at 1Pe 1:24–25)~; Mt 24:35 ~(cf. Mk 13:31; Lk 21:33)~; 1Pe 1:23–25 ~(cites Isa 40:8)~; 2Jn 1:2; Rev 14:6
+%% Dt 29:29; revealed things belong to Israel forever %%%% Ps 19:9; fear of the Lord endures forever %%Ps 111:7–8; 119:89, 144, 151–152; Isa 30:8; 40:8 ~(cited at 1Pe 1:24–25)~; Mt 24:35 ~(cf. Mk 13:31; Lk 21:33)~; 1Pe 1:23–25 ~(cites Isa 40:8)~; 2Jn 1:2; Rev 14:6
 
 ### God’s covenants
 
