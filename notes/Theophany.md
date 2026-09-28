@@ -3,7 +3,7 @@ aside of: "[[topic/Theophany|Theophany]]"
 ---
 I don’t think these descriptions of God are literal, but they may still be relevant to this topic: Dt 33:2; Hab 3:3–6; Isa 19:1; Ps 18:7–15.
 
-## See also:
+## See also
 
 - [LDS TG: Face](https://www.lds.org/scriptures/tg/face?lang=eng)
 - [LDS TG: God, Body of, Corporeal Nature](https://www.lds.org/scriptures/tg/god-body-of-corporeal-nature?lang=eng)

@@ -11,7 +11,7 @@ featured: true
 
 ### {{[[eternity-heading]]}}
 
-{{[[god-eternity]]}}
+{{[[god-eternity]]}} ~— *see also [[topic/Eternal|Eternal]]*~
 
 ### Foreknowledge
 

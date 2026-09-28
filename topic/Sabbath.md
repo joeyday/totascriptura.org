@@ -20,7 +20,7 @@ Ex 31:16–17; Mt 5:17–18
 
 ### Ceremonial aspects done away in Christ
 
-Ro 14:5–10; Col 2:16–23 ~— *see also: Jn 4:21–24*~
+Ro 14:5–10; Col 2:16–23 ~— *see also Jn 4:21–24*~
 
 ### Jesus, Son of Man is Lord of Sabbath
 

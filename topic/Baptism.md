@@ -162,7 +162,7 @@ Ge 17:7, 12, 23; Mt 19:13; Mk 10:13–16; Lk 18:15–17; Ac 2:38–39; 16:31; Ro
 
 ### Household baptisms
 
-Ac 10:24, 44, 47–48; 16:14–15, 31–34; 18:8; 1Co 1:16 ~— *see also: Ge 17:23–27; Ex 12; 20:5–6; Jos 2:13, 18; 6:23–25; 24:15; Mt 10:12–14; Lk 19:9; Jn 4:53; 2Ti 1:16; Heb 11:7–9*~
+Ac 10:24, 44, 47–48; 16:14–15, 31–34; 18:8; 1Co 1:16 ~— *see also Ge 17:23–27; Ex 12; 20:5–6; Jos 2:13, 18; 6:23–25; 24:15; Mt 10:12–14; Lk 19:9; Jn 4:53; 2Ti 1:16; Heb 11:7–9*~
 
 ### Children included in visible church, new covenant community
 
