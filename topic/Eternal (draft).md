@@ -22,11 +22,11 @@ Ps 45:2%% new (medium): The royal bridegroom, read messianically (Heb 1:8-9 appl
 
 ### God’s name, kingdom, works
 
-Ex 3:15; 15:18; Dt 33:27; 2Sa 7:26; 1Ki 10:9 ~(cf. 2Ch 9:8)~; 1Ch 16:41; 17:24; 29:10; 2Ch 5:13; 7:3, 6; 20:21; Ezr 3:11; Ps 10:16; 25:6; 29:10; 33:11; 55:19; 66:7;%% Ps 89:1; the psalmist says they will sing forever; I think this belongs more properly under life of believers and/or believers, the righteous %% 89:2;%% Ps 90:1; I don’t know where this one belongs, honestly %% 92:8; 100:5; 102:12; 103:17 ~(cited at Lk 1:50)~; Ps 106:1; Ps 107:1; 111:3, 10; 117:2; 118:1–4, 29; 119:90, 142, 160; 135:13; 136:1–26; 138:8;%% Ps 139:24; new (low): 'The way everlasting' is God's enduring way contrasted with the offensive way; it could alternatively be read as the believer's path to life (Life of believers), or as 'the ancient way' (Jer 6:16). %% 145:13; 146:6, 10; Ecc 3:14; Isa 45:17; 51:6, 8; 54:8;%% Isa 55:13; new (medium): The transformed creation makes a name for the LORD, an everlasting sign never destroyed; it memorializes God's name. Alternative: Earth, created order, since the sign is the renewed vegetation. %% 63:12, 16; Jer 31:3; 33:11; La 5:19; Da 2:44; 4:3, 34; 6:26; 7:27; 9:24; Mic 4:7; Hab 3:6; Lk 1:50 ~(cites Ps 103:17)~; Ro 1:20, 25; 2Co 11:31; Eph 3:11; 2Ti 1:9; Heb 5:9; 9:12; 1Pe 4:11; Rev 11:15
+Ex 3:15; 15:18; Dt 33:27; 2Sa 7:26; 1Ch 17:24; 29:10; Ps 10:16; 29:10; 33:11; 55:19; 66:7;%% Ps 89:1; the psalmist says they will sing forever; I think this belongs more properly under life of believers and/or believers, the righteous %%%% Ps 90:1; I don’t know where this one belongs, honestly %% 92:8; 102:12; 111:3, 10; 119:142; 135:13;%% Ps 139:24; new (low): 'The way everlasting' is God's enduring way contrasted with the offensive way; it could alternatively be read as the believer's path to life (Life of believers), or as 'the ancient way' (Jer 6:16). %% 145:13; 146:10; Ecc 3:14; Isa 45:17; 51:6, 8;%% Isa 55:13; new (medium): The transformed creation makes a name for the LORD, an everlasting sign never destroyed; it memorializes God's name. Alternative: Earth, created order, since the sign is the renewed vegetation. %% 63:12, 16; La 5:19; Da 2:44; 4:3, 34; 6:26; 7:27; 9:24; Mic 4:7; Hab 3:6; Ro 1:20, 25; 2Co 11:31; Eph 3:11; 2Ti 1:9; Heb 5:9; 9:12; 1Pe 4:11; Rev 11:15
 
 ### God’s word, law, gospel
 
-%% Dt 29:29; revealed things belong to Israel forever %%%% Ps 19:9; fear of the Lord endures forever %%Ps 111:7–8; 119:89, 144, 151–152; Isa 30:8; 40:8 ~(cited at 1Pe 1:24–25)~; Mt 24:35 ~(cf. Mk 13:31; Lk 21:33)~; 1Pe 1:23–25 ~(cites Isa 40:8)~; 2Jn 1:2; Rev 14:6
+%% Dt 29:29; revealed things belong to Israel forever %%%% Ps 19:9; fear of the Lord endures forever %%Ps 111:7–8; 119:89, 144, 151–152, 160; Isa 30:8; 40:8 ~(cited at 1Pe 1:24–25)~; Mt 24:35 ~(cf. Mk 13:31; Lk 21:33)~; 1Pe 1:23–25 ~(cites Isa 40:8)~; 2Jn 1:2; Rev 14:6
 
 ### God’s covenants
 
@@ -34,7 +34,7 @@ Ge 9:12, 16; 13:15; 17:7–8, 13, 19; 48:4; Ex 32:13; Lev 24:8; Nu 18:19; 25:13;
 
 ### God’s steadfast love, mercy, faithfulness
 
-
+1Ki 10:9 ~(cf. 2Ch 9:8)~; 1Ch 16:41; 2Ch 5:13; 7:3, 6; 20:21; Ezr 3:11; Ps 25:6; 89:2; 100:5; 103:17 ~(cited at Lk 1:50)~; Ps 106:1; 107:1; 117:2; 118:1–4, 29; 119:90; 136:1–26; 138:8; 146:6; Isa 54:8; Jer 31:3; 33:11; Lk 1:50 ~(cites Ps 103:17)~
 
 ### God’s anger, wrath
 
