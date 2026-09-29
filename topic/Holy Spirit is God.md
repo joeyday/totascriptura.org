@@ -17,7 +17,7 @@ Ac 28:25–27 ~(Isa 6:8–10)~; Heb 3:7–11 ~(Ps 95:6–11)~; Heb 10:15–17 ~(
 
 ### {{[[eternity-heading]]}}
 
-{{[[spirit-eternity]]}}
+{{[[spirit-eternity]]}} ~— *see also [[topic/Eternal|Eternal]]*~
 
 ### {{[[omnipotence-heading]]}}
 
