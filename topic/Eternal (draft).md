@@ -75,7 +75,7 @@ Ge 43:9%% new (medium): Judah's pledge to bear guilt 'all my life' (literally 'a
 
 ## The world, created order
 
-### Earth, heavens, mountains, seasons, created order
+### Earth, heavens, mountains, seasons
 
 Ge 8:22; 49:26; Dt 33:15; Ps 104:5; 148:6; Ecc 1:4; Jer 5:22; Eze 36:2; Hab 3:6
 
