@@ -5,7 +5,7 @@ categories:
   - "[[Topical studies]]"
 draft: true
 ---
-Places in Scripture that say something is or will be “eternal”, “everlasting”, or “forever”. Excludes commands or vows to do things forever, prayers or desires that things would be forever, and other speculative, conditional, and counterfactual statements.
+Places in Scripture that say something is (or will be) “eternal”, “everlasting”, or “forever”. Excludes commands or vows to do things forever, prayers or desires that things would be forever, and other speculative, conditional, and counterfactual statements.
 
 ## God, things of God
 ### God
@@ -28,9 +28,9 @@ Ex 3:15; 15:18; Dt 33:27; 2Sa 7:26; 1Ch 17:24; 29:10; Ps 10:16; 29:10; 33:11; 55
 
 Dt 29:29;%% Ps 19:9; fear of the Lord endures forever %% Ps 111:7–8; 119:89, 144, 151–152, 160; Isa 30:8; 40:8 ~(cited at 1Pe 1:24–25)~; Mt 24:35 ~(cf. Mk 13:31; Lk 21:33)~; 1Pe 1:23–25 ~(cites Isa 40:8)~; 2Jn 1:2; Rev 14:6
 
-### God’s covenants, promises %% not checked %%
+### God’s covenants, promises %% needs double-check %%
 
-Ge 9:12, 16; 13:15; 17:7–8, 13, 19; 48:4; Ex 32:13; Lev 24:8; Nu 18:19; 25:13; Jos 14:9; Jdg 2:1; 2Sa 7:13, 16, 24–25, 29; 22:51; 23:5; 1Ki 2:33, 45; 9:5; 1Ch 16:17; 17:12, 14, 22–23, 27; 22:10; 28:4, 7–8; 2Ch 13:5; 20:7; Ezr 9:12; Ps 89:28–29, 36–37; 105:8–10%% new (high): The Abrahamic covenant confirmed to Israel is called an everlasting covenant; the land promise follows in v11, but the covenant is the subject. %%; 111:5, 9; Isa 24:5; 55:3 ~(cited at Ac 13:34)~; Isa 59:21 ~(cited at Ro 11:27)~%% new (medium): Framed as 'My covenant with them': Spirit and words will not depart forevermore; could also fit The Spirit or God's word, but the covenant is the governing subject. %%; Isa 60:21; 61:8; Jer 7:7; 25:5; 31:36; 32:40; 50:5; Eze 16:60; Eze 37:25–26; Hos 2:19; Lk 1:55 ~(cites Ge 17:7; Mic 7:20)~%% new (medium): God's promised mercy to Abraham and his descendants forever recalls the Abrahamic covenant; alternatively 'Israel and the land' or God's steadfast love. %%; Heb 13:20 ~(cites Isa 55:3; Jer 32:40; Eze 37:26; Zec 9:11)~
+Ge 9:12, 16; 13:15; 17:7–8, 13, 19; 48:4; Ex 32:13; Lev 24:8; Nu 18:19; 25:13; Jos 14:9; Jdg 2:1; 2Sa 7:13, 16, 24–25, 29; 22:51; 23:5; 1Ki 2:33, 45; 9:5; 1Ch 16:17; 17:12, 14, 22–23, 27; 22:10; 28:4, 7–8; 2Ch 13:5; 20:7; Ezr 9:12; Ps 89:28–29, 36–37; 105:8–10; 111:5, 9; Isa 24:5; 55:3 ~(cited at Ac 13:34)~; Isa 59:21 ~(cited at Ro 11:27)~; Isa 60:21; 61:8; Jer 7:7; 25:5; 31:36; 32:40; 50:5; Eze 16:60; Eze 37:25–26; Hos 2:19; Lk 1:55 ~(cites Ge 17:7; Mic 7:20)~; Heb 13:20 ~(cites Isa 55:3; Jer 32:40; Eze 37:26; Zec 9:11)~
 
 ### God’s steadfast love, mercy, faithfulness
 
