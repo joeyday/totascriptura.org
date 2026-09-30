@@ -30,7 +30,7 @@ Dt 29:29;%% Ps 19:9; fear of the Lord endures forever %% Ps 111:7–8; 119:89, 1
 
 ### God’s covenants, promises %% needs double-check %%
 
-*Noahic:* Ge 9:12, 16; *Abrahamic:* Ge 13:15; 17:7–8, 13, 19; 48:4; Ex 32:13; *Mosaic:* Lev 24:8; Nu 18:19; 25:13; Jos 14:9; Jdg 2:1; *Davidic:* 2Sa 7:13, 16; 22:51 ~(cites Ps 18:50)~; 2Sa 23:5; 1Ki 2:33, 45; 9:5; 11:36; 2Ki 8:19; 1Ch 17:12, 14, 27; 22:10; 28:4, 7; 2Ch 7:18; 13:5; 21:7; Ps 18:50 ~(cited at 2Sa 22:51)~; Ps 21:4, 6; 89:3–4, 28–29, 36–37; 132:12; *New:* Isa 55:3; 59:21; 60:21; 61:8; *Left off sub-categorizing here:* Jer 7:7; 25:5; 31:36; 32:40; 50:5; Eze 16:60; Eze 37:25–26; Hos 2:19; Lk 1:55; Heb 13:20; *Need to carefully consider these ones:* 2Sa 7:24–25; 1Ch 16:17; 1Ch 17:22; 28:8; 2Ch 20:7; Ezr 9:12; Ps 105:8–10; 111:5, 9; Isa 24:5
+*Noahic:* Ge 9:12, 16; Isa 24:5; *Abrahamic:* Ge 13:15; 17:7–8, 13, 19; 48:4; Ex 32:13; 1Ch 16:17; 17:22; 2Ch 20:7; Ps 105:8–10; Jer 7:7; 25:5; Lk 1:55; *Mosaic:* Lev 24:8; Nu 18:19; 25:13; Jos 14:9; Jdg 2:1; 2Sa 7:24; 1Ch 28:8; Ezr 9:12; Ps 111:5, 9; *Davidic:* 2Sa 7:13, 16, 25; 22:51 ~(cites Ps 18:50)~; 2Sa 23:5; 1Ki 2:33, 45; 9:5; 11:36; 2Ki 8:19; 1Ch 17:12, 14, 27; 22:10; 28:4, 7; 2Ch 7:18; 13:5; 21:7; Ps 18:50 ~(cited at 2Sa 22:51)~; Ps 21:4, 6; 89:3–4, 28–29, 36–37; 132:12; *New:* Isa 55:3; 59:21; 60:21; 61:8; Jer 31:36; 32:40; 50:5; Eze 16:60; 37:25–26; Hos 2:19; Heb 13:20
 
 ### God’s steadfast love, mercy, faithfulness
 
