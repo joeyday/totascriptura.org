@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Paterology]]"
-featured: true
+featured: false
 ---
 ![[Monastery.png|300x137]]
 
