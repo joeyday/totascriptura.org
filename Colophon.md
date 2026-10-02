@@ -17,11 +17,11 @@ Images used throughout the site are screenshots from my favorite video game, [�
 
 ## Icons
 
-Pictograms used throughout the interface are from the attractive and versatile [Font Awesome Pro](https://fontawesome.com/) icon library by [Fonticons, Inc.](https://fontawesome.com/). They are used under the [Font Awesome Pro License](https://fontawesome.com/license).
+Pictograms used throughout the interface are from the attractive and versatile [Font Awesome Pro](https://fontawesome.com/) icon library by Fonticons, Inc. They are used under the [Font Awesome Pro License](https://fontawesome.com/license).
 
 ## Bible passages
 
-Scripture references throughout **Tota Scriptura** are linked to the matchless [Logos Bible Software](https://www.logos.com/). Links will open in the Logos  native application if you have it installed or the web app in your browser if you don’t.
+Scripture references throughout **Tota Scriptura** are linked to the matchless [Logos Bible Software](https://www.logos.com/). Links should open in the native application if you have it installed or the web app in your browser if you don’t.
 
 Scripture quotations are from the ESV&reg; Bible (The Holy Bible, [English Standard Version&reg;](https://esv.org/about)), &copy; 2001 by [Crossway](https://www.crossway.org/), a publishing ministry of Good News Publishers. ESV Text Edition: 2025. The ESV text may not be quoted in any publication made available to the public by a Creative Commons license. The ESV may not be translated in whole or in part into any other language. Used by permission. All rights reserved.
 
