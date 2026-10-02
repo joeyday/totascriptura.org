@@ -1,7 +1,6 @@
 ---
 permalink: home
 quick nav: true
-unlisted: true
 ---
 ![[avatar.png|100x100]]
 

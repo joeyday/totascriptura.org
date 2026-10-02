@@ -1,6 +1,5 @@
 ---
 quick nav: true
-unlisted: true
 ---
 Except as otherwise stated below, all content on **Tota Scriptura** is copyright &copy; 2009–<%= new Date().getFullYear() %> by Joey Day.
 ## Software

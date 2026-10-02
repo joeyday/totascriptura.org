@@ -1,7 +1,6 @@
 ---
 categories:
   - "[[Commentary]]"
-unlisted: true
 ---
 **Gal 6:3** ***If anyone thinks he is something, when he is nothing, he deceives himself***. Boasting is ruled out by total depravity. “When he is nothing” could be seen as a condition, leaving open the possibility that some people aren’t nothing and, if so, this wouldn’t apply to them, but Paul elsewhere considers himself nothing (2Co 12:11). If Paul can’t deny this statement applies to him, I don’t think anyone can.
 

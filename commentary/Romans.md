@@ -1,7 +1,6 @@
 ---
 categories:
   - "[[Commentary]]"
-unlisted: true
 ---
 ## Outline
 

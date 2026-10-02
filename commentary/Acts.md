@@ -1,7 +1,6 @@
 ---
 categories:
   - "[[Commentary]]"
-unlisted: true
 ---
 ## Acts 1
 

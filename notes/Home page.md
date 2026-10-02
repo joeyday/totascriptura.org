@@ -1,11 +1,8 @@
----
-aside of: "[[Home page]]"
----
 ## Topic ideas
 
 - [[topic/Amillennialism|Amillennialism]] ([[notes/Amillenialism|notes]])
-- [[topic/Design of the state|Design of the state]] ([[notes/Design of the state|notes]])
-- [[topic/Doubt|Doubt]] ([[notes/Doubt|notes]])
+- [[topic/Design of the state|Design of the state]] ([[topic/notes/Design of the State|notes]])
+- [[topic/Doubt|Doubt]] ([[topic/notes/Doubt|notes]])
 - [[topic/Fasting|Fasting]] ([[notes/Fasting|notes]])
 - [[topic/Lust|Lust]] ([[notes/Lust|notes]])
 - [[topic/Premillennialism|Premillennialism]] ([[notes/Premillennialism|notes]])

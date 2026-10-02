@@ -1,6 +1,5 @@
 ---
 quick nav: true
-unlisted: true
 ---
 ![[Autumn.png|300x137]]
 

@@ -1,6 +1,5 @@
 ---
 hidden: true
-aside of: "[[Sandbox]]"
 ---
 ## Grudem Systematic Theology
 

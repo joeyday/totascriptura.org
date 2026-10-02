@@ -1,6 +1,3 @@
----
-unlisted: true
----
 Sorted by OT ([[NTOT|sort by NT instead]]).
 
 ## Genesis
