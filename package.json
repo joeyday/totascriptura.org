@@ -2,9 +2,9 @@
   "name": "totascriptura.org",
   "private": true,
   "scripts": {
-    "build": "press"
+    "build": "tsgen"
   },
   "devDependencies": {
-    "press": "github:joeyday/press#v0.3.2"
+    "tsgen": "github:joeyday/tota-scriptura-static-site-generator#v0.3.3"
   }
 }
