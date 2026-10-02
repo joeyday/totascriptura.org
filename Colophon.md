@@ -2,23 +2,35 @@
 quick nav: true
 ---
 Except as otherwise stated below, all content on **Tota Scriptura** is copyright &copy; 2009–<%= new Date().getFullYear() %> by Joey Day.
+
 ## Software
+
 **Tota Scriptura** is powered by a bespoke artisanal handcrafted static site generator written in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), executed in the [Node.js](https://nodejs.org) runtime, and built and deployed to [GitHub Pages](https://docs.github.com/en/pages) via [GitHub Actions](https://github.com/features/actions). Node package dependencies include [markdown-it](https://www.npmjs.com/package/markdown-it) for [Markdown](https://daringfireball.net/projects/markdown) parsing, [gray-matter](https://www.npmjs.com/package/gray-matter) for [YAML](https://yaml.org) front-matter extraction, and [EJS](https://www.npmjs.com/package/ejs) for templating.
+
 ## Typeface and typography
-**Tota Scripura** is presented in Erik Spiekermann’s distinguished humanist typefaces [FF Meta Serif](https://fonts.adobe.com/fonts/ff-meta-serif) and [FF Meta](https://fonts.adobe.com/fonts/ff-meta), courtesy of the awesome [Adobe Fonts](https://fonts.adobe.com/) web font service. Through the wonders of modern CSS and OpenType, it’s got old style numbers, ligatures, and real small caps. [Butterick](https://practicaltypography.com) would be proud.
+
+**Tota Scriptura** is presented in Erik Spiekermann’s distinguished humanist typefaces [FF Meta Serif](https://fonts.adobe.com/fonts/ff-meta-serif) and [FF Meta](https://fonts.adobe.com/fonts/ff-meta), courtesy of the awesome [Adobe Fonts](https://fonts.adobe.com/) web font service. Through the wonders of modern CSS and OpenType, it’s got old style numbers, ligatures, and real small caps. [Butterick](https://practicaltypography.com) would be proud.
+
 ## Images
+
 Images used throughout the site are screenshots from my favorite video game, [“The Witness”](https://en.wikipedia.org/wiki/The_Witness_(2016_video_game)), by Thekla, Inc.
+
 ## Icons
-Pictograms used throughout the interface are from the attractive and versatile [Entypo](https://entypo.com/) icon font by [Daniel Bruce](https://www.danielbruce.se/). They are distributed under the [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/) and the [SIL Open Font License](http://scripts.sil.org/OFL).
+
+Pictograms used throughout the interface are from the attractive and versatile [Font Awesome Pro](https://fontawesome.com/) icon library by [Fonticons, Inc.](https://fontawesome.com/). They are used under the [Font Awesome Pro License](https://fontawesome.com/license).
+
 ## Bible passages
-**Tota Scriptura** uses the [Biblia](https://biblia.com/) web service from [Logos Bible Software](https://www.logos.com/). Scripture references are magically auto-hyperlinked by the amazing [Logos Reftagger](https://www.logos.com/reftagger).
+
+Scripture references throughout **Tota Scriptura** are linked to the matchless [Logos Bible Software](https://www.logos.com/). Links will open in the Logos  native application if you have it installed or the web app in your browser if you don’t.
 
 Scripture quotations are from the ESV&reg; Bible (The Holy Bible, [English Standard Version&reg;](https://esv.org/about)), &copy; 2001 by [Crossway](https://www.crossway.org/), a publishing ministry of Good News Publishers. ESV Text Edition: 2025. The ESV text may not be quoted in any publication made available to the public by a Creative Commons license. The ESV may not be translated in whole or in part into any other language. Used by permission. All rights reserved.
 
 Scripture quotations taken from the (NASB&reg;) [New American Standard Bible&reg;](https://www.lockman.org/new-american-standard-bible-nasb), Copyright &copy; 1960, 1971, 1977, 1995, 2020 by [The Lockman Foundation](https://www.lockman.org). Used by permission. All rights reserved.
 
 Scripture quotations taken from The Holy Bible, [New International Version&reg;](https://www.thenivbible.com) NIV&reg;. Copyright &copy; 1973, 1978, 1984, 2011 by [Biblica, Inc](https://www.biblica.com). Used with permission. All rights reserved worldwide.
+
 ## Abbreviations
+
 **Tota Scriptura** uses the NIV-style Bible book abbreviations found in <cite>The Christian Writer’s Manual of Style: 4th Edition</cite>:
 
 ::: bible-books

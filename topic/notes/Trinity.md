@@ -1,7 +1,3 @@
----
-aliases:
-  - Trinity (notes)
----
 ![[Trinity-diagram-3.png|300x216]]
 
 ## Todo
