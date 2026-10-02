@@ -5,6 +5,6 @@
     "build": "press"
   },
   "devDependencies": {
-    "press": "github:joeyday/press#v0.3.0"
+    "press": "github:joeyday/press#v0.3.1"
   }
 }
