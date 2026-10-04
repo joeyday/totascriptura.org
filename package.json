@@ -5,6 +5,6 @@
     "build": "tsgen"
   },
   "devDependencies": {
-    "tsgen": "github:joeyday/tota-scriptura-static-site-generator#v0.5.0"
+    "tsgen": "github:joeyday/tota-scriptura-static-site-generator#v0.5.1"
   }
 }
