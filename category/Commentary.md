@@ -1,1 +1,0 @@
-This category contains my personal Bible **commentary**.

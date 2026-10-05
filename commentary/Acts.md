@@ -1,6 +1,6 @@
 ---
 categories:
-  - "[[Commentary]]"
+  - "[[Commentaries]]"
 ---
 ## Acts 1
 
