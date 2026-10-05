@@ -1,5 +1,5 @@
 ---
-hidden: true
+hidden: false
 categories:
   - "[[Article summaries]]"
 ---

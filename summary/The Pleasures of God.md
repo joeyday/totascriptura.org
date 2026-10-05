@@ -1,5 +1,5 @@
 ---
-hidden: true
+hidden: false
 draft: true
 categories:
   - "[[Book summaries]]"
