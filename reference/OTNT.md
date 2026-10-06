@@ -1,4 +1,7 @@
-Sorted by OT ([[NTOT|sort by NT instead]]).
+---
+title: New Testament use of the Old Testament (sorted by OT)
+---
+([[NTOT|Sort by NT instead]])
 
 ## Genesis
 

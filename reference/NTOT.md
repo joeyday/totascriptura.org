@@ -1,4 +1,7 @@
-Sorted by NT ([[OTNT|sort by OT instead]]).
+---
+title: New Testament use of the Old Testament (sorted by NT)
+---
+([[OTNT|Sort by OT instead]])
 
 ## Matthew
 
