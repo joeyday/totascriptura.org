@@ -1,8 +1,7 @@
 ---
-hidden: false
-draft: true
 categories:
   - "[[Book summaries]]"
+draft: true
 ---
 
 This topic comprises my notes while reading John Piper’s book, *The Pleasures of God: Meditations on God’s Delight in Being God*.

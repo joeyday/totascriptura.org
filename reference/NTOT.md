@@ -1,5 +1,7 @@
 ---
-title: New Testament use of the Old Testament (sorted by NT)
+title: NT use of the OT (sorted by NT)
+categories:
+  - "[[Reference material]]"
 ---
 ([[OTNT|Sort by OT instead]])
 

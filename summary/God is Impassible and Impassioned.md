@@ -1,5 +1,4 @@
 ---
-hidden: false
 categories:
   - "[[Book summaries]]"
 ---

@@ -15,7 +15,7 @@ See also <http://www.desiringgod.org/interviews/what-must-someone-believe-in-ord
 
 ## Biblical support for “damnatory clauses” in Athanasian Creed?
 
-*The main content of this topic originated as a note on [[topic/notes/Trinity|notes/Trinity]]. Here are the additional notes that came from there.*
+*The main content of this topic originated as a note on [[topic/notes/Trinity|Trinity notes]]. Here are the additional notes that came from there.*
 
 The Athanasian Creed states:
 

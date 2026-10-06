@@ -94,7 +94,7 @@ Some notable quotes from the video (these have not been transcribed necessarily 
 ## Genesis 3:15
 There are implications here from Ge 3:15, which speaks of the offspring of the woman and the “offspring” of the serpent or the devil. —**Joey** 18:57, 19 February 2012 (UTC)
 ## Definition of “sons”
-From *[The Meaning of “Sons of God” in Genesis 6:1–4](http://www.apologeticspress.org/rr/reprints/Sons-of-God-in-Genesis-6.pdf)* by Trevor Major ~(copied over here from [[topic/notes/Sons of God in Genesis 6|notes/Sons of God in Genesis 6]])~:
+From *[The Meaning of “Sons of God” in Genesis 6:1–4](http://www.apologeticspress.org/rr/reprints/Sons-of-God-in-Genesis-6.pdf)* by Trevor Major ~(copied over here from [[topic/notes/Sons of God in Genesis 6|Sons of God in Genesis 6 notes]])~:
 > The word “son” (ben) has a far wider meaning in Hebrew than it does in contemporary English use, and occurs some 4,850 times in the Hebrew Bible. The most common meaning is of a son, as in the male offspring of his parents (e.g., Genesis 5:4), but in general terms the word refers to a variety of rela-tionships in which a person or object belongs to, or is influenced by, someone or something. A son could be a citizen of a city (Psalm 147:13), a student (Proverbs 1:10), or an arrow (Job 41:28). The expression “sons of God” refers to some entity somehow connected or related to God, but whether by birth, creation, ownership, or characteristic, it is impossible to say from the phrase alone. The only way to examine the issue further is to study the use of the phrase in Scripture and other literature sources.
 
 —**Joey** 16:01, 5 July 2012 (UTC)

@@ -1,6 +1,3 @@
----
-hidden: true
----
 ## Title
 
 Does this topic need a shorter title? —Joey 15:20, 10 September 2009 (UTC)
