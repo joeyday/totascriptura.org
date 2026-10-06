@@ -1,6 +1,6 @@
 ## Todo
 
-[[Project:Sandbox]] —**Joey** 17:16, 10 October 2012 (UTC)
+Project:Sandbox —**Joey** 17:16, 10 October 2012 (UTC)
 
 ## ??
 

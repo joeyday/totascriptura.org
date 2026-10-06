@@ -351,7 +351,7 @@ There are four relations of origin in the Trinity. The Father’s is **paternity
 
 ## Trinity in the Book of Mormon?
 
-See *[[bom:Trinity?|Experiment › Trinity?]]*.
+See *Experiment › Trinity?*.
 
 ## References from *The Ology*
 

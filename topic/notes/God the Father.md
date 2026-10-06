@@ -23,7 +23,7 @@ I think James 1:18 is relevant to this topic, but what kind of search keyword(s)
 ### Cited in [Preach My Gospel](http://lds.org/library/display/0,4945,8057-1-4424-1,00.html)
 Ac 17:29 ~(variously cited as Ac 17:29; 17:27–29; 17:16–34)~; Ro 8:16; Heb 12:9
 
-### Cited in [[lds:tg/man-a-spirit-child-of-heavenly-father?lang=eng|LDS Topical Guide › Man, a Spirit Child of Heavenly Father]]
+### Cited in [LDS Topical Guide › Man, a Spirit Child of Heavenly Father](https://www.churchofjesuschrist.org/study/scriptures/tg/man-a-spirit-child-of-heavenly-father?lang=eng)
 Nu 16:22; Dt 14:1; Job 32:8; Job 33:4; Ps 82:6; Ecc 12:7; Isa 42:5; Hos 1:10; Mal. 2:10; Mt 5:48; Mt 6:9; Ac 17:29; Ro 8:16; Eph 4:6; Heb 12:9
 
 —**Joey** 04:29, 21 August 2010 (UTC)
@@ -54,7 +54,7 @@ This article was helpful to me in discovering this: [Michael D. Marlowe &rsaquo;
 Note that (and I haven’t decided how I feel about this) the ESV translators chose not to translate the word μονογενής as “only begotten”, but simply as “only”. Compare the verses given above in NASB, NKJV or KJV. —**Joey** 02:02, 29 March 2011 (UTC)
 
 ::: one-tab
-It just occurred to me the phrase “Son of God” would probably have been interpreted in light of old testament passages that call the King of Israel the son of God. So that phrase can be taken metaphorically. If there’s any phrase that makes it sound more like we’re talking about God’s literal son, it’s “Only Begotten Son”, but if, as I’ve postulated above, that statement is also meant to be taken metaphorically, then what are we left with? Clearly I (along with the earliest Trinitarians) believe that Jesus proceeds from the Father in some way, so there must be at least some kind of face value literal meaning to these phrases, but I think we can safely reject the very literal Mormon interpretation that Jesus and God are material beings and that Jesus is literally God’s son in the same sense that I am my father’s son. — [[File:Avatar.png|link=User:Joey]] [[User:Joey|Joey]] 05:10, 28 June 2011 (UTC)
+It just occurred to me the phrase “Son of God” would probably have been interpreted in light of old testament passages that call the King of Israel the son of God. So that phrase can be taken metaphorically. If there’s any phrase that makes it sound more like we’re talking about God’s literal son, it’s “Only Begotten Son”, but if, as I’ve postulated above, that statement is also meant to be taken metaphorically, then what are we left with? Clearly I (along with the earliest Trinitarians) believe that Jesus proceeds from the Father in some way, so there must be at least some kind of face value literal meaning to these phrases, but I think we can safely reject the very literal Mormon interpretation that Jesus and God are material beings and that Jesus is literally God’s son in the same sense that I am my father’s son. — **Joey** 05:10, 28 June 2011 (UTC)
 :::
 
 ::: two-tabs
@@ -103,7 +103,7 @@ From *[The Meaning of “Sons of God” in Genesis 6:1–4](http://www.apologeti
 ## Why this page is arranged in the order it's in (don't rearrange it!)
 > Scripture, by contrast, points to something very specific and much less sentimental when it calls God “the Father.” It points to the fact that within the life of the one God, there is an eternal relationship of fatherhood and sonship. The first person is Father for Trinitarian reasons first of all. He is the Father of the Son by definition. That is who he is. Consequent to that is what he does: he acts to become the Father of those whom he predestined for adoption as sons (Eph. 1:5). Finally, in an extended or poetic sense, it may sometimes be appropriate to depict God’s general love and care for all his creatures by using a parenting metaphor. <mark>But to start with cosmic fatherhood is exactly backwards.</mark> God did not have the world as his son; he so loved the world that he gave his only Son (John 3:16).[^1]
 ## God the Father in the Book of Mormon
-*See [[bom:God the Father|Experiment › God the Father]].*
+*See Experiment › God the Father.*
 ## Book of Mormon searches
 I’ve already searched for “father”, “son”, “child”, “daughter”, “adopt”, “offspring”, “born”, “firstborn”, “birth”, “begotten”, “seed”, “family”, “parent”. Other search terms?
 ## Mormon doctrinal exposition “The Father and the Son”

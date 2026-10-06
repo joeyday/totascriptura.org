@@ -10,7 +10,7 @@
 
 ## Quora question
 
-I floated this question out on Quora: [http://www.quora.com/Free-Will/What-support-can-be-found-in-the-Christian-scriptures-for-libertarian-free-will] — [[File:Avatar.png|link=User:Joey]] [[User:Joey|Joey]] 04:27, 7 May 2012 (UTC)
+I floated this question out on Quora: [http://www.quora.com/Free-Will/What-support-can-be-found-in-the-Christian-scriptures-for-libertarian-free-will] — **Joey** 04:27, 7 May 2012 (UTC)
 
 ## Todo
 

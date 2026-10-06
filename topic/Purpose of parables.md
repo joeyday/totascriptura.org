@@ -17,5 +17,5 @@ Mk 9:30–32; Lk 9:43–45
 ## See also
 
 - [[topic/Deception|Deception]]
-- [[God’s thoughts are higher]]
 - [[topic/Parables|Parables]]
+- [[topic/Creator-creature distinction|Creator-creature distinction]]

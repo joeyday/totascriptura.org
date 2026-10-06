@@ -1,13 +1,12 @@
 ## Topic ideas
 
-- [[topic/Amillennialism|Amillennialism]] ([[notes/Amillenialism|notes]])
-- [[topic/Design of the state|Design of the state]] ([[topic/notes/Design of the State|notes]])
+- [[topic/Amillennialism|Amillennialism]]
 - [[topic/Doubt|Doubt]] ([[topic/notes/Doubt|notes]])
-- [[topic/Fasting|Fasting]] ([[notes/Fasting|notes]])
-- [[topic/Lust|Lust]] ([[notes/Lust|notes]])
-- [[topic/Premillennialism|Premillennialism]] ([[notes/Premillennialism|notes]])
-- [[topic/Two resurrections|Two resurrections]] ([[notes/Two resurrections|notes]])
-- [[topic/Worship|Worship]] ([[notes/Worship|notes]])
+- Fasting
+- Lust
+- [[topic/Premillennialism|Premillennialism]]
+- Two resurrections
+- Worship
 
 ## Todos
 
@@ -33,13 +32,13 @@ What if climate change is the next spectacular sin? God meant it for good but we
 
 ## Topic suggestions from Steve
 
-> What about verses for and against the possibility/necessity of continuing [[topic/Revelation|revelation]], prophets, apostles, and [[topic/Scripture|Scripture]]? What about a list of verses for and against an [[Apostasy|apostasy]], a [[Restoration|restoration]]? What about a list of [[Unfulfilled prophecies|prophecies yet unfulfilled]] by Jesus when he came?
+> What about verses for and against the possibility/necessity of continuing [[topic/Revelation|revelation]], prophets, apostles, and [[topic/Scripture|Scripture]]? What about a list of verses for and against an apostasy, a restoration? What about a list of prophecies yet unfulfilled by Jesus when he came?
 
 ~(In the middle here I explained I don’t like having pages that focus too heavily on LDS doctrines.)~
 
-> OK, I understand. Still, it seems that to truly consider whether the canon is closed and the Bible is *tota* and *sola Scriptura*, you should examine all biblical references with regard to the Bible, [[topic/Scripture|Scripture]], [[topic/Revelation|revelation]], [[Prophets|prophets]], etc. That’s not a Mormon topic. Perhaps you have?
+> OK, I understand. Still, it seems that to truly consider whether the canon is closed and the Bible is *tota* and *sola Scriptura*, you should examine all biblical references with regard to the Bible, [[topic/Scripture|Scripture]], [[topic/Revelation|revelation]], prophets, etc. That’s not a Mormon topic. Perhaps you have?
 
-> And a page considering whether their might be further prophets and a latter-day [[Restoration|restoration]] and [[topic/Scattering and gathering of Israel|gathering]] with additional [[topic/Scripture|Scripture]]...
+> And a page considering whether their might be further prophets and a latter-day restoration and [[topic/Scattering and gathering of Israel|gathering]] with additional [[topic/Scripture|Scripture]]...
 
 —**Joey** 18:04, 9 January 2015 (UTC)
 
@@ -53,11 +52,11 @@ What if climate change is the next spectacular sin? God meant it for good but we
 
 ## Anal retentive todo
 
-Turn all the straight quotes in [[Special:Allmessages|system messages]] to curly quotes. (But only if I’m really bored.) —**Joey** 01:52, 18 August 2009 (UTC)
+Turn all the straight quotes in system messages to curly quotes. (But only if I’m really bored.) —**Joey** 01:52, 18 August 2009 (UTC)
 
 ## Image copyright tags
 
-Need to copy more of the [[w:Wikipedia:Image copyright tags|image copyright tags]] over from Wikipedia. —**Joey** 04:20, 20 August 2009 (UTC)
+Need to copy more of the image copyright tags over from Wikipedia. —**Joey** 04:20, 20 August 2009 (UTC)
 
 ## Helpful encouragement from Grudem
 

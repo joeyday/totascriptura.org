@@ -30,8 +30,6 @@ Nu 12:14; 1Sa 23:10–13; Jer 37:9–10; 38:17–18; Eze 3:4–6; Hos 8:7; Mic 2
 Ps 37:23; Pr 16:1, 9; 20:24; 21:1; Jer 10:23; 13:23; Ro 9:16
 ### Will is determined by heart nature
 
-{{[[mt]]|[[Heart]]}}
-
 1Ki 11:6, 9; Ecc 10:2; Jer 7:24; 13:23; Mt 12:34–35 ~(cf. Lk 6:45)~; Mt 15:18–19 ~(cf. Mk 7:21–22)~
 ## See also
 * [[topic/Arminianism|Arminianism]]

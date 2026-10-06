@@ -20,4 +20,4 @@ Jos 7:8–9; Ps 25:11; 79:9; 109:21; Jer 14:7; Da 9:19
 
 ## See also
 
-- [[Reading:The End for Which God Created the World|Reading notes for The End for Which God Created the World]]
+- [[summary/The End for Which God Created the World|The End for Which God Created the World]]
