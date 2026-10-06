@@ -50,3 +50,8 @@ views:
       - stub
       - aside of
       - categories
+  - type: table
+    name: Disambig
+    filters:
+      and:
+        - disambiguation == true
