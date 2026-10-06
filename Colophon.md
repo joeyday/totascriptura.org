@@ -5,7 +5,7 @@ Except as otherwise stated below, all content on **Tota Scriptura** is copyright
 
 ## Software
 
-**Tota Scriptura** is powered by a bespoke artisanal handcrafted static site generator written in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), executed in the [Node.js](https://nodejs.org) runtime, and built and deployed to [GitHub Pages](https://docs.github.com/en/pages) via [GitHub Actions](https://github.com/features/actions). Node package dependencies include [markdown-it](https://www.npmjs.com/package/markdown-it) for [Markdown](https://daringfireball.net/projects/markdown) parsing, [yaml](https://www.npmjs.com/package/yaml)) for [YAML](https://yaml.org) front-matter extraction, and [ejs](https://www.npmjs.com/package/ejs) for templating.
+**Tota Scriptura** is powered by a bespoke artisanal handcrafted static site generator written in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), executed in the [Node.js](https://nodejs.org) runtime, and built and deployed to [GitHub Pages](https://docs.github.com/en/pages) via [GitHub Actions](https://github.com/features/actions). Node package dependencies include [markdown-it](https://www.npmjs.com/package/markdown-it) for [Markdown](https://daringfireball.net/projects/markdown) parsing, [yaml](https://www.npmjs.com/package/yaml) for [YAML](https://yaml.org) front-matter extraction, and [ejs](https://www.npmjs.com/package/ejs) for templating.
 
 ## Typeface and typography
 
