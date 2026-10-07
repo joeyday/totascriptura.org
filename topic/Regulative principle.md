@@ -1,6 +1,5 @@
 ---
 hidden: true
-stub: true
 draft: true
 ---
 ### Regulative principle of worship

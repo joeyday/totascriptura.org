@@ -1,6 +1,5 @@
 ---
 hidden: true
-stub: true
 draft: true
 ---
 The **Great Law** is a set of complementary doctrinal ideas composed and described by a friend of mine. I do not necessarily agree with these ideas, but am documenting them here so I can study and ponder them. You should use discernment when reading this page.

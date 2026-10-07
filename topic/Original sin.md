@@ -1,6 +1,5 @@
 ---
 hidden: true
-stub: true
 draft: true
 ---
 ### All sinned in Adam

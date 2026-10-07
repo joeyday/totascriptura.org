@@ -2,7 +2,6 @@
 categories:
   - "[[Cosmology]]"
 hidden: true
-stub: true
 draft: true
 ---
 This topic explores what biblical support, if any, can be found for the various interpretations within **creationism**.

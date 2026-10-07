@@ -1,7 +1,6 @@
 ---
 title: Do babies go to heaven?
 hidden: true
-stub: true
 draft: true
 ---
 ### The Lord knows his own
