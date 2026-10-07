@@ -12,7 +12,7 @@ Mt 19:3–9 ~(cf. Mk 10:2–12)~
 
 ### Ends at death
 
-Mt 22:23–33 ~(cf. Mk 12:18–27; Lk 20:27–40)~; Ro 7:1–6; 1 Cor 7:39
+Mt 22:23–33 ~(cf. Mk 12:18–27; Lk 20:27–40)~; Ro 7:1–6; 1Co 7:39
 
 ### Not required of all
 

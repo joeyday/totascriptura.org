@@ -23,7 +23,7 @@ Job 4:8; Pr 12:14; 22:8; Hos 8:7; 10:12–13; 2Co 9:6; Gal 6:7 ~— *see also Mt
 
 ### Law of creation
 
-Hebrews 11:3
+Heb 11:3
 
 ### Law of attraction
 

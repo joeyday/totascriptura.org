@@ -6,7 +6,7 @@ This topic lists all occurrences of “temples” (plural) where buildings are c
 
 ### “Temples” in the Bible
 
-1Ki 12:31; Jer 43:12-13; Ho 8:14 KJV; Joel 3:5; Ac 7:48 KJV; Ac 17:24; Ac 19:37 NIV; Ro 2:22
+1Ki 12:31; Jer 43:12-13; Hos 8:14 KJV; Joel 3:5; Ac 7:48 KJV; Ac 17:24; Ac 19:37 NIV; Ro 2:22
 
 ### “Temples” in the Book of Mormon
 

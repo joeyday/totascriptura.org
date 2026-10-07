@@ -48,7 +48,7 @@ Isa 42:1 ~(cited at Mt 12:18)~; Php 2:7
 
 ### Sinners are enslaved to sin
 
-John 8:34; Ro 6:16; Tit 3:3; 2Pe 2:19
+Jn 8:34; Ro 6:16; Tit 3:3; 2Pe 2:19
 
 ### Covenant people are slaves to God
 

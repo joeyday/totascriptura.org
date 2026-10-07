@@ -13,7 +13,7 @@ Dt 32:8 ~(but see ESV footnote)~; Job 1:6; 2:1; 38:7; Ps 29:1 ~(see ESV footnote
 
 ### Seems to find support in New Testament
 
-1 Cor 11:10; 2 Peter 2:4–5; Jude 1:6–7
+1Co 11:10; 2Pe 2:4–5; Jude 1:6–7
 
 ### But seems to contradict Jesus’ teaching that angels cannot/do not marry
 

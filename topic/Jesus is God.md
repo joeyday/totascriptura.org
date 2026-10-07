@@ -47,7 +47,7 @@ Jn 1:3; 5:26; 8:58; Col 1:16–17 ~— *cf. Ex 3:14; Job 35:7; 41:11; Ps 50:10�
 
 ### Eternity ~(pre-existent)~
 
-Pr 8:22–31; Isa 9:6; Mic 5:2; Jn 1:1–2, 14–15, 30; 3:13; 6:32–33 ~(see Jn 6:30–59)~; Jn 8:58–59; 13:3; 17:5, 24; 1Co 15:47–49; Col 1:17; Heb 7:3; 1 Jn 1:1–2; Rev 1:17–18; 2:8; 22:12–13 ~— *cf. Ge 1:1; 21:33; Ps 90:2; 93:2; Isa 26:4; 40:28; 41:4; 44:6; 48:12; 57:15; Jer 10:10; Hab 1:12; Ro 16:26; Rev 1:4, 8; 4:8; 21:6*~ ~— *see also [[topic/Eternal|Eternal]]*~
+Pr 8:22–31; Isa 9:6; Mic 5:2; Jn 1:1–2, 14–15, 30; 3:13; 6:32–33 ~(see Jn 6:30–59)~; Jn 8:58–59; 13:3; 17:5, 24; 1Co 15:47–49; Col 1:17; Heb 7:3; 1Jn 1:1–2; Rev 1:17–18; 2:8; 22:12–13 ~— *cf. Ge 1:1; 21:33; Ps 90:2; 93:2; Isa 26:4; 40:28; 41:4; 44:6; 48:12; 57:15; Jer 10:10; Hab 1:12; Ro 16:26; Rev 1:4, 8; 4:8; 21:6*~ ~— *see also [[topic/Eternal|Eternal]]*~
 
 ### Immortality ~(eternal life)~
 
@@ -117,7 +117,7 @@ Mt 9:2–3 ~(cf. Mk 2:5–7; Lk 5:20–21)~; Mt 26:63–65 ~(cf. Mk 14:61–64)~
 
 ### Did not correct those who called him God and/or worshipped him 
 
-Mt 14:33; 21:9, 15–16; 28:9–10, 17–18; Lk 19:38–40; Jn 9:38–39; 20:27–29 ~— *contrast Acts 10:25-26; 12:21–23; 14:11–15; Rev 19:10; 22:8–9*~
+Mt 14:33; 21:9, 15–16; 28:9–10, 17–18; Lk 19:38–40; Jn 9:38–39; 20:27–29 ~— *contrast Ac 10:25-26; 12:21–23; 14:11–15; Rev 19:10; 22:8–9*~
 
 ## Inferences
 
@@ -169,7 +169,7 @@ Ro 5:10–11; 8:34; 2Co 5:18–21; Eph 2:13–16; Col 1:19–22; 1Ti 2:5; Heb 2:
 
 ### “No man can ransom another”
 
-Isa 53:10; Da 9:26; Mt 20:28 ~(cf. Mk 10:45)~; Jn 10:15; 11:51–52; Ro 4:25; Gal 1:4; 2:20; 1 Tim 2:6; Tit 2:14; Heb 9:15; 1Pe 1:18–19; Rev 5:9 ~— *cf. Job 35:7; 41:11; Ps 49:7–9; Mt 16:26; Ro 11:35*~ ~— *but see also Pr 21:18; Isa 43:3*~
+Isa 53:10; Da 9:26; Mt 20:28 ~(cf. Mk 10:45)~; Jn 10:15; 11:51–52; Ro 4:25; Gal 1:4; 2:20; 1Ti 2:6; Tit 2:14; Heb 9:15; 1Pe 1:18–19; Rev 5:9 ~— *cf. Job 35:7; 41:11; Ps 49:7–9; Mt 16:26; Ro 11:35*~ ~— *but see also Pr 21:18; Isa 43:3*~
 
 ## Difficult passages
 

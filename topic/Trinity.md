@@ -96,7 +96,7 @@ Mt 28:19; Eph 2:18
 
 ### Father holds primacy in role
 
-Mt 19:17 ~(cf. Mk 10:18; Lk 18:19)~; Jn 14:28; 1 Cor 11:3; 15:27–28; 1 Jn 4:14
+Mt 19:17 ~(cf. Mk 10:18; Lk 18:19)~; Jn 14:28; 1Co 11:3; 15:27–28; 1Jn 4:14
 
 ### Son eternally begotten of Father
 

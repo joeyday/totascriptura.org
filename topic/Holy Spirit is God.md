@@ -5,7 +5,7 @@ categories:
 
 ### The Holy Spirit is God
 
-2Sa 23:2–3; Jn 3:5–7 ~(cf. 1 Jn 3:9)~; Ac 5:3–4; 1Co 3:16 ~(cf. 1Co 6:19–20)~; 2Co 3:17–18
+2Sa 23:2–3; Jn 3:5–7 ~(cf. 1Jn 3:9)~; Ac 5:3–4; 1Co 3:16 ~(cf. 1Co 6:19–20)~; 2Co 3:17–18
 
 ### The Holy Spirit is Yahweh
 
@@ -29,7 +29,7 @@ Ps 139:7–8 {{s|cf. Ge 28:15; Jer 23:23–24; Am 9:2}}
 
 ### {{[[omniscience-heading]]}}
 
-Jn 14:26; 16:13; 1 Cor 2:10–11
+Jn 14:26; 16:13; 1Co 2:10–11
 
 ### {{[[veracity-heading]]}}
 
