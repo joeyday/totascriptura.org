@@ -38,7 +38,7 @@ Dt 30:9; 2Ch 16:9; Ps 35:27; 37:4; 84:11; 119:71; 147:10–11; 149:4; Isa 38:17;
 
 ### God is pleased when we pray
 
-Pr 15:8; 50:13–15; Jn 14:14; Rev 5:8
+Pr 15:8; Ps 50:13–15; Jn 14:14; Rev 5:8
 
 ### Meaning of “upright”
 
