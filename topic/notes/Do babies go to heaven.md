@@ -2,6 +2,6 @@
 title: Do babies go to heaven?
 hidden: true
 ---
-## WCF 10.3
+## WCF X.III
 
-[[papers:wcf x|WCF 10.3]] talks about this.
+[WCF X.III](http://papers.jday.us/view/wcf_x) talks about this.

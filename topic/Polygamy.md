@@ -1,7 +1,7 @@
 ---
 hidden: true
 ---
-{{[[violation-goals]]}}
+%% `{{[[violation-goals]]}}` %%
 
 ### Polygamy
 

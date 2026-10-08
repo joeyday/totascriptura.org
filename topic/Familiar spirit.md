@@ -1,7 +1,7 @@
 ---
 hidden: true
 ---
-{{[[violation-goals]]}}
+%% `{{[[violation-goals]]}}` %%
 
 ### “Familiar spirit” associated with witchcraft
 

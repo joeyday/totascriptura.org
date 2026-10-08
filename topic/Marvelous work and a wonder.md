@@ -1,7 +1,7 @@
 ---
 hidden: true
 ---
-{{[[violation-goals]]}}
+%% `{{[[violation-goals]]}}` %%
 
 ### “Marvelous work and a wonder” not a happy occurence
 

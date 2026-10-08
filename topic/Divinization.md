@@ -1,7 +1,7 @@
 ---
 hidden: true
 ---
-{{[[violation-goals]]}}
+%% `{{[[violation-goals]]}}` %%
 
 ### Men should not aspire to become gods
 

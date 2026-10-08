@@ -1,7 +1,7 @@
 ---
 hidden: true
 ---
-{{[[violation-goals]]}}
+%% `{{[[violation-goals]]}}` %%
 
 This topic lists all occurrences of “temples” (plural) where buildings are clearly meant. It excludes occurrences with any other meaning (e.g. the anatomy on the sides of the head).
 

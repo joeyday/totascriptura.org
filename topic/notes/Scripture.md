@@ -70,6 +70,21 @@ Nu 22:38; 24:4, 16; Dt 5:22; 1Sa 9:27; 2Sa 16:23; 22:1; 1Ki 12:22; 2Ki 6:9; Job 
 ## Interesting article
 * [John Piper: *Thoughts on the Sufficiency of Scripture*](http://www.desiringgod.org/articles/thoughts-on-the-sufficiency-of-scripture)
 
+## Todo (copied from old notes page for Perspicuity of Scripture)
+
+- Continue reading Chapter 6 in Grudem’s *Systematic Theology*. Left off on section B.
+- Parse through any Scripture references in the *Chicago Statement on Biblical Inerrancy*.
+
+## On Holy Spirit’s role (copied from old notes page for Perspicuity of Scripture)
+
+From Wikipedia:
+
+> Perspicuity of scripture does not imply that people will receive it for what it is, as many adherents to the doctrine of perspicuity of scripture accept the Calvinist teaching that man is depraved and needs the illumination of the Holy Spirit in order to see the meaning for what it is.[^14]
+
+## Great quote from Grudem (copied from old notes page for Perspicuity of Scripture)
+
+> In a day when it is common for people to tell us how hard it is to interpret Scripture rightly, we would do well to remember that ==not once in the Gospels do we ever hear Jesus saying anything like this: “I see how your problem arose—the Scriptures are not very clear on that subject.”== Instead, whether he is speaking to scholars or untrained common people, his responses always assume that the blame for misunderstanding any teaching of Scripture is not to be placed on the Scriptures themselves, but on those who misunderstand or fail to accept what is written. Again and again he answers questions with statements like, “Have you not read . . .” (Mt 12:3, 5; 19:14; 22:31), “Have you never read in the scriptures . . .” (Mt 21:42), or even, “You are wrong because you know neither the Scriptures nor the power of God” (Mt 22:29; cf. Mt 9:13; 12:7; 15:3; 21:13; Jn 3:10; et al.).[^15]
+
 [^1]: Kruger, Michael J. (2012). <cite>Canon Revisited: Establishing the Origins and Authority of the New Testament Books</cite> (Kindle Locations 2666-2709). Crossway. Kindle Edition.
 [^2]: Bavinck, H., Bolt, J., & Vriend, J. (2003). <cite>Reformed dogmatics: Prolegomena</cite> (Vol. 1, pp. 597–598). Grand Rapids, MI: Baker Academic.
 [^3]: Edwards, Jonathan. (2008). <cite>The works of Jonathan Edwards</cite> (Vol. 1, p. 356). Bellingham, WA: Logos Bible Software.
@@ -83,3 +98,5 @@ Nu 22:38; 24:4, 16; Dt 5:22; 1Sa 9:27; 2Sa 16:23; 22:1; 1Ki 12:22; 2Ki 6:9; Job 
 [^11]: F. F. Bruce. <cite>The New Testament Documents: Are They Reliable?</cite> (Kindle Locations 221–222). Kindle Edition.
 [^12]: Horton, Michael. <cite>The Christian Faith: A Systematic Theology for Pilgrims on the Way</cite> (Kindle Locations 4324–4326). Zondervan. Kindle Edition.
 [^13]: Lightfoot, Neil. <cite>How We Got the Bible</cite> (p. 103). Baker Book Group. Kindle Edition.
+[^14]: [Wikipedia:Clarity of Scripture](http://en.wikipedia.org/w/index.php?title=Clarity_of_scripture&oldid=587932302)
+[^15]: Grudem, Wayne (2009). *Systematic Theology: An Introduction to Biblical Doctrine* (p. 106). Zondervan. Kindle Edition.
