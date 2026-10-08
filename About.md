@@ -4,13 +4,11 @@ quick nav: true
 ![[Autumn.png|300x137]]
 
 :::
-*Your word is a lamp to my\
-feet and a light to my path.*[^psalms1]
+*Your word is a lamp to my feet and a light to my path.*[^psalms1]
 :::
 
 :::
-*For the word of God is living and active,\
-sharper than any two-edged sword . . .*[^hebrews]
+*For the word of God is living and active, sharper than any two-edged sword . . .*[^hebrews]
 :::
 
 ## The author
@@ -29,18 +27,15 @@ For example, one of my favorite topics here is [[topic/God the Father|God the Fa
 This new emphasis on completion is why I chose **Tota Scriptura** as the title for the project. Fitting nicely with the more well-known principle of *sola Scriptura* (Scripture alone), the reformation doctrine of *tota Scriptura* (all of Scripture) is about “embracing the whole counsel of God as it is revealed in the entirety of sacred Scripture”[^sproul].
 
 :::
-*. . . he ~[Jesus]~ interpreted to them **in all the\
-Scriptures** the things concerning himself.*[^luke]
+*. . . he ~[Jesus]~ interpreted to them **in all the Scriptures** the things concerning himself.*[^luke]
 :::
 
 :::
-*. . . for I ~[Paul]~ did not shrink from declaring\
-to you **the whole counsel of God**.*[^acts]
+*. . . for I ~[Paul]~ did not shrink from declaring to you **the whole counsel of God**.*[^acts]
 :::
 
 :::
-***All Scripture** is breathed out\
-by God and profitable . . .*[^timothy]
+***All Scripture** is breathed out by God and profitable . . .*[^timothy]
 :::
 
 ## The inspiration

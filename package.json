@@ -6,6 +6,6 @@
     "update-tsgen": "bash scripts/update-tsgen.sh"
   },
   "devDependencies": {
-    "tsgen": "github:joeyday/tota-scriptura-static-site-generator#v0.8.0"
+    "tsgen": "github:joeyday/tota-scriptura-static-site-generator#v0.8.1"
   }
 }
