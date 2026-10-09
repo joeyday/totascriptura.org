@@ -8,7 +8,7 @@
 - Deuteronomy 15
 - Deuteronomy 23
 - Deuteronomy 24
-- Philemon
+- Philemon 1
 
 ## Foreigners and sojourners
 
