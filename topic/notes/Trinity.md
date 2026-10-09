@@ -423,7 +423,7 @@ Is Social Trinitarianism basically tritheist or is there more nuance there?
 
 1.  ~~God spoke from heaven while Christ was on the earth: Mt 3:17; 17:5; Mk 1:11; Lk 3:22; Jn 12:28-30~~
 2.  ~~God is a separate witness of Christ: Jn 5:36-37; 8:17-18~~
-3.  ~~Christ was “with” God in the beginning: Jn 1:1-3,10,14; 6:38; 16:28; 17:3,52; 20:21; 1Jn 4:14; Eph 3:9~~
+3.  ~~Christ was “with” God in the beginning: Jn 1:1-3,10,14; 6:38; 16:28; !17:3, 52 \[sic]; 20:21; 1Jn 4:14; Eph 3:9~~
 4.  ~~Christ is God’s Son: Mk 9:7; Jn 3:16; 9:35-37; 17:1; 20:17,21,31; Eph 3:14; Heb 1:6; 5:5~~
 5.  ~~Christ prayed to his Father: Mt 6:6-9; 26:39; 27:46; Lk 23:34; Jn 12:27-28; 16:26; 17:10-11~~
 6.  Christ was seen standing at the right hand of God: Mk 16:19; Lk 22:69; Ac 2:33; 7:55-56; Ro 8:34; Eph 1:20; Col 3:1; Heb 1:3; 10:12; 1Pe 3:22; Rev 3:21

@@ -28,15 +28,15 @@ Isa 43:1–7; 44:23; 49:3; 60:19–21; 61:3; Jer 13:11 ~(cf. Ex 28:8; 2Sa 18:11;
 
 ### The ultimate end of the goodness of moral agents is the glory of God ~(¶¶ 154–161)~
 
-Jos 7:19; Ps 22:21-23; 50:23; Isa 24:15; 25:3; 66:19; Jer 13:15-16; Da 5:23; Mt 5:16; Lk 17:18; `<strong>`{=html}Jn 15:8`</strong>`{=html}; Ro 3:7; 4:20; 15:5-6; `<strong>`{=html}1Co 6:20`</strong>`{=html}; 2Co 8:19; `<strong>`{=html}Php 1:10-11`</strong>`{=html}; Php 2:11; 1Pe 2:12; `<strong>`{=html}1Pe 4:11`</strong>`{=html}; Rev 11:13; 14:6-7, 9
+Jos 7:19; Ps 22:21-23; 50:23; Isa 24:15; 25:3; 66:19; Jer 13:15-16; Da 5:23; Mt 5:16; Lk 17:18; Jn 15:8; Ro 3:7; 4:20; 15:5-6; 1Co 6:20; 2Co 8:19; Php 1:10-11; Php 2:11; 1Pe 2:12; 1Pe 4:11; Rev 11:13; 14:6-7, 9
 
 ### God makes it the duty of man to seek God’s glory as their ultimate end ~(¶¶ 162–164)~
 
-Lev 10:3; Eze 28:22; Mt 6:9 ~(cf. Lk 11:2)~; `<strong>`{=html}1Co 10:31`</strong>`{=html}; `<strong>`{=html}1Pe 4:11`</strong>`{=html}
+Lev 10:3; Eze 28:22; Mt 6:9 ~(cf. Lk 11:2)~; 1Co 10:31; 1Pe 4:11
 
 ### Saints, at their best, desire and delight in the glory of God above all else ~(¶¶ 165–169)~
 
-1Ch 16:28–29; Ps 29:1–2; 57:5; 69:7–8; 72:18–19; 115:1; Isa 6:2–3; 42:10–12; Lk 2:14; Ro 11:36; 16:27; Gal 1:4–5; Eph 3:21; Php 4:20; 2Ti 4:18; Heb 13:21; 2Pe 3:18; Jude 25; Rev 1:5–6; 4:9, 11–14; 7:12
+1Ch 16:28–29; Ps 29:1–2; 57:5; 69:7–8; 72:18–19; 115:1; Isa 6:2–3; 42:10–12; Lk 2:14; Ro 11:36; 16:27; Gal 1:4–5; Eph 3:21; Php 4:20; 2Ti 4:18; Heb 13:21; 2Pe 3:18; Jude 1:25; Rev 1:5–6; 4:9, 5:11–14; 7:12
 
 ### Christ’s ultimate end in his ministry was the glory of God ~(¶¶ 170–173)~
 
@@ -58,7 +58,7 @@ Ps 8:1, 9; 104:31; 148:13; Isa 6:3
 
 ### God’s name is the highest regard of his holy creatures and of himself ~(¶¶ 195–205)~
 
-Ex 9:16; Jos 7:8–9; 1Sa 12:22; 2Sa 7:23, 26; Ne 9:10; Ps 8:1, 9; 23:3; 25:11; 31:3; 76:1; 79:9; 106:8; 109:21; 145:13; 148:13; Isa 12:4; 48:9-10; 63:12; Jer 13:11; 14:7; Eze 20:9, 14, 22; 36:21-23; 39:25; Da 9:15, 19; Mt 19:29; Ac 15:14; Ro 1:5; 1Jn 2:12; 3Jn 7; Rev 2:3
+Ex 9:16; Jos 7:8–9; 1Sa 12:22; 2Sa 7:23, 26; Ne 9:10; Ps 8:1, 9; 23:3; 25:11; 31:3; 76:1; 79:9; 106:8; 109:21; 145:13; 148:13; Isa 12:4; 48:9-10; 63:12; Jer 13:11; 14:7; Eze 20:9, 14, 22; 36:21-23; 39:25; Da 9:15, 19; Mt 19:29; Ac 15:14; Ro 1:5; 1Jn 2:12; 3Jn 1:7; Rev 2:3
 
 ### God’s perfections, greatness and excellency are spoken of as his ultimate end in creation ~(¶¶ 206–218)~
 
@@ -118,7 +118,7 @@ Ge 5:9 ~(should this be Ex 5:9?)~; Ex 19:16; 2Sa 14:26; 1Ki 10:2; 12:11; 2Ki 6:1
 
 ### A person’s internal excellence or greatness is referred to as his glory ~(¶ 244)~
 
-Nu 21:5; Jdg 9:4; 1Sa 18:23; 2Sa 19:43; Da 5:27; Zep 3:4 ~— *see also Ex 16:7; 28:2, 40; 3:8; Nu 16:9; Dt 5:24; 28:58; 2Sa 6:20; 1Ch 16:24; Est 1:4; Job 29:20; Ps 19:1; 45:13; 63:3; 66:3; 67:6; 87:3; 102:16; 145:5, 12, 13; Isa 4:2; 10:18; 16:40; 35:21; 40:5; 60:13; 62:2; Eze 31:18; Hab 2:14; Hag 2:3, 9; Mt 6:29; 16:27; 24:30; Lk 9:31, 32; Jn 1:14; 2:11; 11:40; Ro 6:4; 1Co 2:8; 15:40; 2Co 3:10; Eph 3:21; Col 1:11; 2Th 1:9; Tit 2:13; 1Pe 1:24; 2Pe 1:17*~
+Nu 21:5; Jdg 9:4; 1Sa 18:23; 2Sa 19:43; Da 5:27; Zep 3:4 ~— *see also Ex 16:7; 28:2, 40; 3:8; Nu 16:9; Dt 5:24; 28:58; 2Sa 6:20; 1Ch 16:24; Est 1:4; Job 29:20; Ps 19:1; 45:13; 63:3; 66:3; 67:6; 87:3; 102:16; 145:5, 12, 13; Isa 4:2; 10:18; 16:14; 35:2; 40:5; 60:13; 62:2; Eze 31:18; Hab 2:14; Hag 2:3, 9; Mt 6:29; 16:27; 24:30; Lk 9:31, 32; Jn 1:14; 2:11; 11:40; Ro 6:4; 1Co 2:8; 15:40; 2Co 3:10; Eph 3:21; Col 1:11; 2Th 1:9; Tit 2:13; 1Pe 1:24; 2Pe 1:17*~
 
 ### Great possessions are sometimes called a person’s glory ~(¶¶ 245–246)~
 
@@ -126,7 +126,7 @@ Ge 31:1; 45:13; Est 5:11; Job 19:9; Ps 49:16–17; Isa 10:3, 16; 17:3–4; 21:16
 
 ### Glory is also the outshining of the internal greatness or excellence ~(¶¶ 247–248)~
 
-Isa 6:1–3; 24:23; 60:1–2, 19; Eze 1:28; 10:4; 43:2; Lk 2:9; Jn 12:41; Ac 22:11; 1Co 15:41; 2Co 3:7, 18; 4:4, 6; Heb 1:3; 2Pe 1:17; Rev 18:1; 21:11, 23 ~— *see also Ex 16:12; 24:16, 17, 23; 40:34, 35; Lev 9:6, 23; Nu 14:10; 16:19; 1Ki 8:11; 2Ch 5:14; 7:1, 2, 3; Isa 58:8; Eze 3:23; 8:4; 9:3; 10:18–19; 11:22–23; 43:4–5; 44:4; Ac 7:55; Rev 15:8*~
+Isa 6:1–3; 24:23; 60:1–2, 19; Eze 1:28; 10:4; 43:2; Lk 2:9; Jn 12:41; Ac 22:11; 1Co 15:41; 2Co 3:7, 18; 4:4, 6; Heb 1:3; 2Pe 1:17; Rev 18:1; 21:11, 23 ~— *see also Ex 16:12; 24:16, 17; 40:34, 35; Lev 9:6, 23; Nu 14:10; 16:19; 1Ki 8:11; 2Ch 5:14; 7:1, 2, 3; Isa 58:8; Eze 3:23; 8:4; 9:3; 10:18–19; 11:22–23; 43:4–5; 44:4; Ac 7:55; Rev 15:8*~
 
 ### Glory sometimes refers to God’s fullness of goodness and grace ~(¶¶ 249–254)~
 
@@ -138,7 +138,7 @@ Nu 14:21; Eze 39:21–23 ~— *see also Heb 3:3*~
 
 ### God’s glory is the praise he receives from his creatures ~(¶¶ 256–258)~
 
-Ps 22:23; 33:2; 50:23; Isa 42:8, 12; 48:9-11; Jer 13:11; 2Co 4:15; Eph 1:6, 12, 14; Php 1:11 ~— *see also Ps 9:1–2, 14; 21:14–15; 28:7; 30:12; 34:1–3; 35:18, 27–28; 42:4; 44:8; 63:3–4, 5; 66:1–2, 8–9; 67:3–5; 71:6–8, 22–23; 79:13; 96:4–5; 98:4–5; 99:2–3; 100:4; 104:33–34; 106:47; 107:21–22, 32; 108:3–5; 119:164; 135:3; 138:2; 145:1-12; 147:1–2, 5–6; 148:13; 150:2; Ac 2:46–47; 3:8; Rev 19:1–3, 6–7*~
+Ps 22:23; 33:2; 50:23; Isa 42:8, 12; 48:9-11; Jer 13:11; 2Co 4:15; Eph 1:6, 12, 14; Php 1:11 ~— *see also Ps 9:1–2, 14; 21:13; 28:7; 30:12; 34:1–3; 35:18, 27–28; 42:4; 44:8; 63:3–4, 5; 66:1–2, 8–9; 67:3–5; 71:6–8, 22–23; 79:13; 96:4–5; 98:4–5; 99:2–3; 100:4; 104:33–34; 106:47; 107:21–22, 32; 108:3–5; 119:164; 135:3; 138:2; 145:1-12; 147:1–2, 5–6; 148:13; 150:2; Ac 2:46–47; 3:8; Rev 19:1–3, 6–7*~
 
 ### God’s name and his glory often signify the same thing ~(¶ 260)~
 

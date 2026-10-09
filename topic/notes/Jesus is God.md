@@ -124,7 +124,7 @@ Inferences from pairs of passages.
 * Lk 1:76 cf. Mt 11:10
 * Lk 1:16–17 cf. Mt 3:11
 * Mt 11:10 cf. Mal 3:1
-* Jude 24–25 cf. Eph 5:27
+* Jude 1:24–25 cf. Eph 5:27
 * Eph 3:2–3 cf. Gal 1:12
 * 2Pe 1:4 cf. Heb 3:14
 * Heb 9:20 cf. Heb 9:16
@@ -133,7 +133,7 @@ Inferences from pairs of passages.
 Isolated passages, “there being no danger of mistaking their application”:
 
 ::: one-tab
-Isa 2:17–18 ~(cf. 1Jn 5:20–21)~; Jer 23:6; Jn 14:11; 2Co 5:19; 2Co 5:20; Jude 4
+Isa 2:17–18 ~(cf. 1Jn 5:20–21)~; Jer 23:6; Jn 14:11; 2Co 5:19; 2Co 5:20; Jude 1:4
 :::
 ## Jesus’ own claims about himself
 The following is from Ericksen’s <cite>Making Sense of the Trinity</cite>. Deleting as I go.
