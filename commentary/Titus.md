@@ -44,4 +44,4 @@ Paul wrote this letter to Titus, who had evidently been tasked with appointing e
 
 **Tit 3:13 *Zenas the lawyer***. This is the only mention of Zenas anywhere.
 
-***Apollos***. We have Apollos’s conversion account (Ac 18:24–19:1) and Paul mentions him several times in his first epistle to the Corinthians (1Co 3:4–9, 22; 4:6; 16:12).
+***Apollos***. Apollos was a Jew from Alexandria. We have his conversion account (Ac 18:24–19:1) and Paul mentions him several times in his first epistle to the Corinthians (1Co 3:4–9, 22; 4:6; 16:12).
