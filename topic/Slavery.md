@@ -36,7 +36,7 @@ Lev 25:44–46
 
 ### Slaves are to submit to masters following the example of Christ
 
-Eph 6:5–8; Col 3:22–24; 1Ti 6:1–2; 1Pe 2:18–23
+Eph 6:5–8; Col 3:22–24; 1Ti 6:1–2; Tit 2:9–10; 1Pe 2:18–23
 
 ### Masters are to treat slaves fairly remembering they too have a Master
 
