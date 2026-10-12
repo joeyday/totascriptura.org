@@ -2,15 +2,7 @@
 categories:
   - "[[Commentaries]]"
 ---
-## Outline
-
-1. Greeting (Titus 1:1–4)
-2. Qualifications for elders (Titus 1:5–9)
-3. Rebuke of Judaizers (Titus 1:10–16)
-4. Exhortation to teach sound doctrine, exposition of the gospel (Titus 2:1–3:11)
-5. Final instructions, greetings, and benediction (Titus 3:12–15)
-
-## Titus 1
+## Greeting (Tit 1:1–4)
 
 **Tit 1:1** ***Paul***. Authorship of the epistle to Titus is disputed by modern critical scholarship. To take the text at face value we must at least assume it was written after the events of Acts, i.e. late 60’s AD, since Paul leaving Titus in Crete is never mentioned in the Acts narrative.
 
@@ -26,10 +18,18 @@ categories:
 
 ***My true child***. Likely indicates Titus was led to saving faith by Paul himself.
 
+## Qualifications for elders (Tit 1:5–9)
+
 **Tit 1:5** ***Appoint elders in every town***. This is compelling warrant for the Presbyterian system’s plurality of elders. See [[topic/Church government|Church government]].
 
 **Tit 1:7** ***Overseer***. Overseer is translated from Greek *episkopos*, “bishop”. Elder and bishop are used interchangeably here, implying they are the same church office.
 
+## Rebuke of Judaizers (Tit 1:10–16)
+
 **Tit 1:12–13** ***One of the Cretans . . . said, “Cretans are always liars . . .” This testimony is true***. Though Paul is of course making a serious point, I have to believe this is cited tongue-in-cheek. How can it be true if it was written by an always-lying Cretan? It’s a delightful paradox. The quotation is from Epimenides of Crete. I love the idea that a Bible author can quote an outside source and then it becomes infallible God-breathed Scripture (see also Ac 17:28). God has a sense of humor.
 
 **Titus 1:15** ***their minds and their consciences are defiled***. This is the noetic effect of sin. Not only do the unregenerate not believe, they cannot believe. See [[topic/Total depravity|Total depravity]].
+
+## Exhortation to teach sound doctrine, exposition of the gospel (Tit 2:1–3:11)
+
+## Final instructions, greetings, and benediction (Tit 3:12–15)
