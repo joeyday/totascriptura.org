@@ -2,6 +2,7 @@
 categories:
   - "[[Commentaries]]"
 ---
+Paul wrote this letter to Titus, who had evidently been tasked with appointing elders in every town in Crete. So it seems natural that the subject matter of the letter contains qualifications for elders and an exhortation to teach sound doctrine.
 ## Greeting (Tit 1:1–4)
 
 **Tit 1:1** ***Paul***. Authorship of the epistle to Titus is disputed by modern critical scholarship. To take the text at face value we must at least assume it was written after the events of Acts, i.e. late 60’s AD, since Paul leaving Titus in Crete is never mentioned in the Acts narrative.
