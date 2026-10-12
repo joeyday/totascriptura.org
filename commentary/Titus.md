@@ -40,4 +40,8 @@ Paul wrote this letter to Titus, who had evidently been tasked with appointing e
 
 **Tit 3:12 *Artemas***. This is the sole mention of Artemas in Paul’s letters (or anywhere else).
 
-***Tychicus***. Tychicus was from Asia and accompanied Paul on at least one of his journeys, from Troas to Jerusalem (Ac 20:4–21:17). Paul speaks highly of him in a few other epistles (Eph 6:21–22; Col 4:7–11; 1Ti 4:12).
+***Tychicus***. Tychicus was from Asia and accompanied Paul on at least one of his journeys, from Troas to Jerusalem (Ac 20:4–21:17). Paul speaks favorably of him in a few other epistles (Eph 6:21–22; Col 4:7–11; 1Ti 4:12).
+
+**Tit 3:13 *Zenas the lawyer***. This is the only mention of Zenas anywhere.
+
+***Apollos***. We have Apollos’s conversion account (Ac 18:24–19:1) and Paul mentions him several times in his first epistle to the Corinthians (1Co 3:4–9, 22; 4:6; 16:12).
