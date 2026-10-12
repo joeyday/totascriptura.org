@@ -20,21 +20,21 @@ Dt 12:31; 16:22; Job 16:9; Pr 6:16; Isa 61:8; Jer 44:4; Am 5:21; 6:8; Zec 8:17
 
 Already searched:
 
-- “\<Person God\> AND love”
-- “\<Person Jesus\> AND love”
-- “\<Person Holy Spirit\> AND love”
-- “\<Person God\> AND hate”
-- “subject:God AND verb:love” (clause search)
-- “subject:Jesus AND verb:love” (clause search)
+- `<Person God> AND love`
+- `<Person Jesus> AND love`
+- `<Person Holy Spirit> AND love`
+- `<Person God> AND hate`
+- `subject:God AND verb:love` (clause search)
+- `subject:Jesus AND verb:love` (clause search)
 
 To search:
 
-- Simply “love” (652 verses)
-- “\<Person Jesus\> AND hate”
-- “\<Person God\> AND compassion”
-- “\<Person God\> AND affection”
-- “\<Person God\> AND mercy”
-- “\<Person God\> AND care”
+- Simply `love` (652 verses)
+- `<Person Jesus> AND hate`
+- `<Person God> AND compassion`
+- `<Person God> AND affection`
+- `<Person God> AND mercy`
+- `<Person God> AND care`
 - what else?
 
 ## What do these verses mean?

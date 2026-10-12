@@ -30,6 +30,6 @@ J.I. Packer:
 
 [^1]: Lister, Rob. *God Is Impassible and Impassioned: Toward a Theology of Divine Emotion* (Kindle Locations 551–557). Crossway. Kindle Edition.
 
-[^2]: Carson, D. A. *The Difficult Doctrine of the Love of God* (Kindle Locations 508–542). Kindle Edition.
+[^2]: Carson, D.A. *The Difficult Doctrine of the Love of God* (Kindle Locations 508–542). Kindle Edition.
 
-[^3]: Packer, J. I. *Knowing God* (p. 136). InterVarsity Press. Kindle Edition.
+[^3]: Packer, J.I. *Knowing God* (p. 136). InterVarsity Press. Kindle Edition.

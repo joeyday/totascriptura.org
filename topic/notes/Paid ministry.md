@@ -44,7 +44,7 @@ According to StudyLight.org, the definition of τιμῆ is:
 And it is translated thusly:
 
 > **KJV (45)** — honour, 35; precious, 1; price, 8; sum, 1;\
-> **NAS (41)** — honor, 28; honorable use, 1; marks of respect, 1; precious value, 1; price, 7; proceeds, 1; sum, 1; value, 1;
+> **NASB (41)** — honor, 28; honorable use, 1; marks of respect, 1; precious value, 1; price, 7; proceeds, 1; sum, 1; value, 1;
 
 So, since it is translated as “price” or “sum” 9 times in the KJV, and as “value”, “price”, “proceeds”, “sum”, or “value” 11 times in the NASB, I’m not “setting a precedent in Greek Lit.” as Cline posits. —**Joey** 17:19, 14 August 2009 (UTC)
 

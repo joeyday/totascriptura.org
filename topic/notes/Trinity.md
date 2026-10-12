@@ -285,7 +285,7 @@ Way more great similar quotes here: <https://dustinmartyr.wordpress.com/2014/04/
 
 On a tangentially related note, there is this from John Peter Lange and Philip Schaff:
 
-> In this brief sentence we have, as Augustine and Bengel observe, a refutation both of Arianism and Sabellianism; ἕν refutes the former by asserting the dynamic (and, by implication, the essential) unity of the Father and the Son, Ἐγώ καὶ ὁ πατήρ and ἐσμεν refute the latter by asserting the personal distinction. Sabellianism would require the masculine εἶς instead of the neuter, and this would be inconsistent with ἐσμεν and the self-conscious Ἐγώ.—P. S.\][^21]
+> In this brief sentence we have, as Augustine and Bengel observe, a refutation both of Arianism and Sabellianism; ἕν refutes the former by asserting the dynamic (and, by implication, the essential) unity of the Father and the Son, Ἐγώ καὶ ὁ πατήρ and ἐσμεν refute the latter by asserting the personal distinction. Sabellianism would require the masculine εἶς instead of the neuter, and this would be inconsistent with ἐσμεν and the self-conscious Ἐγώ.[^21]
 
 Lange and Schaff are undoubtedly referring to this from Bengel:
 
@@ -311,7 +311,7 @@ D.A. Carson has some very salient things to say about Colwell’s Rule and John 
 
 > It is now well known that in a clause like καί θεὸς ἦν ὁ λόγος (kai theos ēn ho logos, usually rendered “and the Word was God,” John 1:1), the noun with the article is the subject, even though it is placed after the verb. The more difficult question in such cases is whether any rule governs the anarthrous noun before the verb: how do we know whether it is definite or indefinite, “God” or “a God”?
 >
-> In 1933 E. C. Colwell published an important article that addressed the matter. He studied definite predicate nouns (their “definiteness” was determined by his own judgment) both before and after the verb, both with and without the article. He observed, among other things, that if a definite noun preceded a copulative verb, it was normally anarthrous; if it followed, it was articular. Applied to John 1:1, this rule means it is quite responsible to take θεός (theos) to mean the definite “God,” not the indefinite “a god,” since according to Colwell 87 percent of definite predicates before the verb in the Greek New Testament are anarthrous.
+> In 1933 E.C. Colwell published an important article that addressed the matter. He studied definite predicate nouns (their “definiteness” was determined by his own judgment) both before and after the verb, both with and without the article. He observed, among other things, that if a definite noun preceded a copulative verb, it was normally anarthrous; if it followed, it was articular. Applied to John 1:1, this rule means it is quite responsible to take θεός (theos) to mean the definite “God,” not the indefinite “a god,” since according to Colwell 87 percent of definite predicates before the verb in the Greek New Testament are anarthrous.
 >
 > Colwell’s work has been widely cited, but it has some methodological weaknesses:
 >
@@ -551,7 +551,7 @@ In the 6th century a philosopher named John Philoponus advocated a view that the
 
 [^5]: Erickson, Millard J. (2000). *Making Sense of the Trinity: Three Crucial Questions* (p. 90). Baker Publishing Group. Kindle Edition.
 
-[^6]: Craig, William Lane. “A Formulation and Defense of the Doctrine of the Trinity”. Unabridged version of chapter 29 from *Philosophical Foundations of a Christian Worldview* (ed. J. P. Moreland and William Lane Craig; Downers Grove, IL: InterVarsity, 2003). p. 18. [1](http://www.reasonablefaith.org/a-formulation-and-defense-of-the-doctrine-of-the-trinity#ixzz37BeRCQwX)
+[^6]: Craig, William Lane. “A Formulation and Defense of the Doctrine of the Trinity”. Unabridged version of chapter 29 from *Philosophical Foundations of a Christian Worldview* (ed. J.P. Moreland and William Lane Craig; Downers Grove, IL: InterVarsity, 2003). p. 18. [1](http://www.reasonablefaith.org/a-formulation-and-defense-of-the-doctrine-of-the-trinity#ixzz37BeRCQwX)
 
 [^7]: Sanders, Fred (2010). *The Deep Things of God: How the Trinity Changes Everything* (p. 133). Crossway. Kindle Edition.
 
@@ -561,7 +561,7 @@ In the 6th century a philosopher named John Philoponus advocated a view that the
 
 [^10]: In Heb 1:3 Jesus is said to be the exact imprint of God the Father’s ὑπόστασις, but it’s unclear to me how best to translate this. The word ὑπόστασις is used with different meaning in 2Co 9:4; 11:17; Heb 3:14; 11:1.
 
-[^11]: Grenz, S., Guretzki, D., & Nordling, C. F. (1999). *Pocket Dictionary of Theological Terms* (pp. 61–62). Downers Grove, IL: InterVarsity Press.
+[^11]: Grenz, S., Guretzki, D., & Nordling, C.F. (1999). *Pocket Dictionary of Theological Terms* (pp. 61–62). Downers Grove, IL: InterVarsity Press.
 
 [^12]: Leonardo Boff, *Trinity and Society*, trans. Paul Burns (Maryknoll, N.Y.: Orbis, 1988), 5.
 
@@ -573,15 +573,15 @@ In the 6th century a philosopher named John Philoponus advocated a view that the
 
 [^16]: Calvin, J., & Pringle, W. (2010). *Commentary on the Gospel according to John* (Vol. 2, pp. 183–184). Bellingham, WA: Logos Bible Software.
 
-[^17]: Carson, D. A. (1991). *The Pillar New Testament Commentary: The Gospel According to John* (p. 394). Leicester, England; Grand Rapids, MI: Inter-Varsity Press; W.B. Eerdmans.
+[^17]: Carson, D.A. (1991). *The Pillar New Testament Commentary: The Gospel According to John* (p. 394). Leicester, England; Grand Rapids, MI: Inter-Varsity Press; W.B. Eerdmans.
 
-[^18]: Lange, J. P., & Schaff, P. (2008). *A commentary on the Holy Scriptures: John* (p. 332). Bellingham, WA: Logos Bible Software.
+[^18]: Lange, J.P., & Schaff, P. (2008). *A commentary on the Holy Scriptures: John* (p. 332). Bellingham, WA: Logos Bible Software.
 
-[^19]: Borchert, G. L. (1996). *The New American Commentary: John 1–11* (Vol. 25A, p. 341). Nashville: Broadman & Holman Publishers.
+[^19]: Borchert, G.L. (1996). *The New American Commentary: John 1–11* (Vol. 25A, p. 341). Nashville: Broadman & Holman Publishers.
 
-[^20]: Keddie, G. J. (2001). *A Study Commentary on John: John 1–12* (Vol. 1, p. 407). Darlington, England; Auburn, MA: Evangelical Press.
+[^20]: Keddie, G.J. (2001). *A Study Commentary on John: John 1–12* (Vol. 1, p. 407). Darlington, England; Auburn, MA: Evangelical Press.
 
-[^21]: Lange, J. P., & Schaff, P. (2008). A commentary on the Holy Scriptures: John (p. 332). Bellingham, WA: Logos Bible Software.
+[^21]: Lange, J.P., & Schaff, P. (2008). A commentary on the Holy Scriptures: John (p. 332). Bellingham, WA: Logos Bible Software.
 
 [^22]: Johann Albrecht Bengel. *Gnomon of the New Testament*, John 10:30. <http://www.studylight.org/commentary/john/10-30.html>
 
@@ -589,7 +589,7 @@ In the 6th century a philosopher named John Philoponus advocated a view that the
 
 [^24]: Anatolios, Khaled. *Retrieving Nicaea: The Development and Meaning of Trinitarian Doctrine*. Baker Publishing Group. Kindle Edition.
 
-[^25]: Carson, D. A. (1996). *Exegetical Fallacies* (pp. 82–84). Baker Publishing Group.
+[^25]: Carson, D.A. (1996). *Exegetical Fallacies* (pp. 82–84). Baker Publishing Group.
 
 [^26]: Ware, Bruce A. (2005). *Father, Son, and Holy Spirit: Relationships, Roles, and Relevance* (Kindle Locations 143-149). Good News Publishers.
 

@@ -91,11 +91,11 @@ From Wikipedia:
 [^4]: John Calvin, <cite>Institutes of the Christian Religion</cite> 1.9.1.
 [^5]: Kruger, Michael J. (2012). <cite>Canon Revisited: Establishing the Origins and Authority of the New Testament Books</cite> (Kindle Locations 2751-2755). Crossway. Kindle Edition.
 [^6]: Köstenberger, Andreas J. <cite>The Heresy of Orthodoxy: How Contemporary Culture’s Fascination with Diversity Has Reshaped Our Understanding of Early Christianity</cite> (pp. 227–228). Crossway. Kindle Edition.
-[^7]: Carson, D. A.; Moo, Douglas  J. <cite>An Introduction to the New Testament</cite> (Kindle Locations 414-416). Zondervan. Kindle Edition.
+[^7]: Carson, D.A.; Moo, Douglas  J. <cite>An Introduction to the New Testament</cite> (Kindle Locations 414-416). Zondervan. Kindle Edition.
 [^8]: Grudem, Wayne. <cite>Systematic Theology: An Introduction to Biblical Doctrine</cite> (p. 96). Zondervan. Kindle Edition.
-[^9]: Carson, D. A.; Moo, Douglas  J. <cite>An Introduction to the New Testament</cite> (Kindle Locations 418–420). Zondervan. Kindle Edition.
-[^10]: Carson, D. A.; Moo, Douglas. <cite>An Introduction to the New Testament</cite> (Kindle Locations 413–414). Zondervan. Kindle Edition.
-[^11]: F. F. Bruce. <cite>The New Testament Documents: Are They Reliable?</cite> (Kindle Locations 221–222). Kindle Edition.
+[^9]: Carson, D.A.; Moo, Douglas  J. <cite>An Introduction to the New Testament</cite> (Kindle Locations 418–420). Zondervan. Kindle Edition.
+[^10]: Carson, D.A.; Moo, Douglas. <cite>An Introduction to the New Testament</cite> (Kindle Locations 413–414). Zondervan. Kindle Edition.
+[^11]: F.F. Bruce. <cite>The New Testament Documents: Are They Reliable?</cite> (Kindle Locations 221–222). Kindle Edition.
 [^12]: Horton, Michael. <cite>The Christian Faith: A Systematic Theology for Pilgrims on the Way</cite> (Kindle Locations 4324–4326). Zondervan. Kindle Edition.
 [^13]: Lightfoot, Neil. <cite>How We Got the Bible</cite> (p. 103). Baker Book Group. Kindle Edition.
 [^14]: [Wikipedia:Clarity of Scripture](http://en.wikipedia.org/w/index.php?title=Clarity_of_scripture&oldid=587932302)

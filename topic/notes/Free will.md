@@ -139,7 +139,7 @@ It seems Mormons believe in moral agency because it is necessary for our own ete
 
 ## Be not like a horse or a mule
 
-Malcolm MacColl, in his letter to W. E. Gladstone titled *The “Damnatory Clauses” of the Athanasian Creed Rationally Explained*, cites Psalm 32:8–9 as evidence of libertarian free will. God teaches us and guides us unlike brute animals like horses or mules which require a bridle. God doesn’t constrain our wills with the metaphysical equivalent of a bridle, but leaves us free.
+Malcolm MacColl, in his letter to W.E. Gladstone titled *The “Damnatory Clauses” of the Athanasian Creed Rationally Explained*, cites Psalm 32:8–9 as evidence of libertarian free will. God teaches us and guides us unlike brute animals like horses or mules which require a bridle. God doesn’t constrain our wills with the metaphysical equivalent of a bridle, but leaves us free.
 
 > But man is the subject of a moral Government whose laws he may transgress if he will. His loving Father strives to attract him. He places before him life and death, and bids him choose life, and gives him grace sufficient for his needs. He does everything, in fact, to win him, short of compulsion, because compulsion would be incompatible with freedom, and therefore with virtue. “I will inform thee and teach thee in the way wherein thou shalt go, and I will guide thee with mine eye,” not “with bit and bridle,” like the lower animals “which have no understanding.” If, however, we persist in being like the horse and mule, there is no help for it; God leads us only with His eye; there is no bit and bridle to restrain us; our wills are free and we may go to ruin.[^2]
 
@@ -187,6 +187,6 @@ Ex 3:18–22; 4:1–9; 13:17; Jer 38:17–18, 20–21, 23; Eze 12:1–3
 
 I already had most of the passages Hansen cited in various places around the site, I added a few of the ones I didn’t already have, but I’m having a hard time placing Genesis 4:6–7 and Zechariah 1:3. They both imply free will, so I think they belong here, but they don’t fit neatly under any of the headings I already have. Where do they go?
 
-[^1]: John Calvin (2011). *Institutes of the Christian Religion*. (F. L. Battles, Trans., J. T. McNeill, Ed.) (Vol. 1, p. 266). Louisville, KY: Westminster John Knox Press.
+[^1]: John Calvin (2011). *Institutes of the Christian Religion*. (F.L. Battles, Trans., J.T. McNeill, Ed.) (Vol. 1, p. 266). Louisville, KY: Westminster John Knox Press.
 [^2]: Malcolm MacColl (1872). *[The “Damnatory Clauses” of the Athanasian Creed Rationally Explained](http://anglicanhistory.org/scotland/maccoll/athanasian1872.html)*.
 [^3]: Grudem, *Systematic Theology*.

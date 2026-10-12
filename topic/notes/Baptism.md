@@ -262,7 +262,7 @@ I know today’s credobaptists are a far cry from the earliest fathers who advoc
 [^2]: Berkhof, Louis (1959). <cite>Systematic Theology</cite> (Kindle Locations 18,156-18,158). Eerdmans Publishing Co. Kindle Edition.
 [^3]: Berkhof, Louis (1959). <cite>Systematic Theology</cite> (Kindle Locations 18,158-18,171). Eerdmans Publishing Co. Kindle Edition.
 [^4]: Berkhof, Louis (1959). *Systematic Theology* (Kindle Locations 18212-18214). Eerdmans Publishing Co. Kindle Edition. \[Emphasis mine.\]
-[^5]: Beasley-Murray, G. R. (1975). Infant baptism. In C. Brown (Ed.), <cite>The new international dictionary of new testament theology</cite> (Vol. I, p. 154). Grand Rapids, MI: Zondervan Publishing House.
+[^5]: Beasley-Murray, G.R. (1975). Infant baptism. In C. Brown (Ed.), <cite>The new international dictionary of new testament theology</cite> (Vol. I, p. 154). Grand Rapids, MI: Zondervan Publishing House.
 [^6]: <cite>Case for Covenantal Infant Baptism, The</cite> (Kindle Locations 92-95). Kindle Edition.
 [^7]: Paul K. Jewett. <cite>Infant Baptism and the Covenant of Grace</cite> (Kindle Location 647). Kindle Edition.
 [^8]: <cite>Case for Covenantal Infant Baptism, The</cite> (Kindle Locations 3026–3030). Kindle Edition.

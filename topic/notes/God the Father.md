@@ -14,9 +14,9 @@ Nu 11:12 ~(“did I \[Moses] conceive all this people?”)~
 Ps 22:30; Isa 9:6; 53:10
 ### Someone called “son”, “daughter”, “child”, or “children” ~(not exhaustive)~
 Jer 31:22; 49:4; Matt 9:22; Mark 2:5; 5:34; 10:24; Luke 8:48; John 8:35; 13:33; 21:5; Gal 4:1-3; 1 John 2:1; 2:12–13; 2:18; 2:28; 3:7; 3:18; 4:4; 5:21
-## TODO More Keywords?
+## Todo: More Keywords?
 I've searched the entire Bible for instances of “father”, “child”, “son”, “daughter”, “adopt”, “offspring”, “born”, “firstborn”, and “birth” (and all variant forms such as plurals, past tenses, etc.). Any other keywords I should consider? —**Joey** 02:11, 17 August 2010 (UTC)
-## TODO Passages like James 1:18
+## Todo: Passages like James 1:18
 I think James 1:18 is relevant to this topic, but what kind of search keyword(s) can I use to pan out more passages like this one? I think I just need to pay attention as I read through the whole Bible and just add to this collection as I go. —**Joey** 02:42, 3 October 2010 (UTC)
 ## Bible passages cited in LDS sources
 

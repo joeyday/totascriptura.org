@@ -22,4 +22,4 @@ Mt 6:10
 {{[[god-does-not-sin]]}}
 ## See also
 * [[Calvinism]]
-* [[topic/Free will|Free will]]
+[[topic/Free will|Free will]]
