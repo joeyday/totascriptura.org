@@ -1,6 +1,7 @@
 ---
 categories:
   - "[[Commentaries]]"
+hidden: true
 ---
 ## Greeting (Ro 1:1–15)
 

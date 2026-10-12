@@ -1,6 +1,7 @@
 ---
 categories:
   - "[[Commentaries]]"
+draft: true
 ---
 Paul wrote this letter to Titus, who had evidently been tasked with appointing elders in every town in Crete. So it seems natural that the subject matter of the letter contains qualifications for elders, exhortations to teach sound doctrine, and some of Paul’s clearest brief expositions of the gospel.
 ## Greeting (Tit 1:1–4)
