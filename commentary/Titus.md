@@ -3,7 +3,7 @@ categories:
   - "[[Commentaries]]"
 draft: true
 ---
-Paul wrote this letter to Titus, who had evidently been tasked with appointing elders in every town in Crete. So it seems natural that the subject matter of the letter contains qualifications for elders, exhortations to teach sound doctrine, and some of Paul’s clearest brief expositions of the gospel.
+	Paul wrote this letter to Titus, who had evidently been tasked with appointing elders in every town in Crete. So it seems natural that the subject matter of the letter contains qualifications for elders, exhortations to teach sound doctrine, and some of Paul’s clearest brief expositions of the gospel.
 ## Greeting (Tit 1:1–4)
 
 **Tit 1:1** ***Paul***. Authorship of the epistle to Titus is disputed by modern critical scholarship. To take the text at face value we must at least assume it was written after the events of Acts, i.e. late 60’s AD, since Paul leaving Titus in Crete is never mentioned in the Acts narrative.
@@ -34,7 +34,7 @@ Paul wrote this letter to Titus, who had evidently been tasked with appointing e
 
 ## Exhortation to teach sound doctrine, exposition of the gospel (Tit 2:1–3:11)
 
-**Tit 2:9–10 *Bondservants are to be submissive to their own masters in everything***. Westminster Larger Catechism interprets the fifth commandment as being not just about parents and children, but about anyone in positions of authority and submission, and it gives this passage as one of many prooftexts. Modern audiences chafe at anything to do with slavery or indentured servitude (the exact kind of arrangement spoken of here isn’t clear, but it doesn’t have to be; it’s almost certainly anathema by today’s standard), but different forms of slavery and bonded labor were instituted by God in human history as an analogy for our relationship of submission to him. This is delicate, but that some in history used slavery to commit heinous atrocities does not make God the author of sin. In fact, those sinful acts show forth God’s glory by contrast. Though we are in a deeply imbalanced power relationship (infinite holy God, finite creatures), God shows himself to be supremely kind and generous toward us.
+**Tit 2:9–10 *Bondservants are to be submissive to their own masters in everything***. WLC 124 interprets the fifth commandment as being not just about parents and children, but about anyone in positions of authority and submission, and follow-up question 127 cites this passage among several others. Modern audiences chafe at anything to do with slavery or indentured servitude (the exact kind of arrangement spoken of here isn’t clear, but it doesn’t have to be; it’s almost certainly anathema by today’s standard), but different forms of slavery and bonded labor were instituted by God in human history as an analogy for our relationship of submission to him. This is delicate, but that some in history used slavery to commit heinous atrocities does not make God the author of sin. In fact, those sinful acts show forth God’s goodness and faithfulness by contrast. Though we are in a deeply imbalanced power relationship (infinite holy God, finite fallen creatures), God shows himself to be supremely kind and generous toward us.
 
 ## Final instructions, greetings, and benediction (Tit 3:12–15)
 
