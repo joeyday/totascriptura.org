@@ -8,6 +8,8 @@ Hi, I’m Joey. This project is my small contribution to Christian systematic th
 
 You’re welcome to browse my [favorite topics](/index/featured) or all topics [alphabetically](/index/alphabetical/topic) or [categorically](/index/categorical), or use the search box if you’re looking for something specific. You can even visit a [random topic](/random) if you’re feeling lucky.
 
+Note that some visual aspects of the site can be adjusted for aesthetics and/or accessibility. Visit the [Settings](/settings) page for details.
+
 If you find anything on the site helpful (or you notice a mistake), feel free to drop me a line on [<span class="fa-brands fa-mastodon"></span>Mastodon](https://mastodon.social/@joeyday), [<span class="fa-brands fa-bluesky"></span>Bluesky](https://bsky.app/profile/joeyday.bsky.social) or [<span class="fa-brands fa-facebook"></span>Facebook](http://facebook.com/joeynday).
 
 [^grudem]: Grudem, Wayne (2009). _Systematic Theology: An Introduction to Biblical Doctrine_ (p. 28). Zondervan.
