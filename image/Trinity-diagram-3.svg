@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 719" role="img" aria-labelledby="trinity-title">
+<title id="trinity-title">The Trinity: the Father, the Son and the Holy Spirit are each God, and each is not either of the others. The Father, the Son and the Holy Spirit each glorify one another.</title>
+<style>
+.trinity-diagram { color: var(--color-main-text, #111); --line: #b3b3b3; --box: #ecebdc; --box-line: #b3b3b3; font-family: var(--font-secondary, "Helvetica Neue", Arial, sans-serif); font-size: 46px; font-variant-ligatures: none; }
+.trinity-diagram text { fill: currentColor; text-anchor: middle; }
+.trinity-diagram .line { fill: none; stroke: var(--line); stroke-width: 3; }
+.trinity-diagram .dots { fill: none; stroke: var(--line); stroke-width: 4.5; stroke-linecap: round; stroke-dasharray: 0 12; }
+.trinity-diagram .box { fill: var(--box); stroke: var(--box-line); stroke-width: 5; }
+.trinity-diagram .divine-name { font-family: var(--font-primary, Georgia, serif); font-size: 54px; font-variant-caps: all-small-caps; }
+.trinity-diagram .divine-name-initial { font-variant-caps: normal; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .trinity-diagram { color: var(--color-main-text, #e8e8e8); --line: #77777a; --box: #3b3a30; --box-line: #77777a; } }
+:root[data-theme="dark"] .trinity-diagram { --line: #77777a; --box: #3b3a30; --box-line: #77777a; }
+</style>
+<g class="trinity-diagram">
+<path class="line" d="M483.5 65L377.9 248M311.9 362.3L209 540.5M483.5 65L589.1 248M655.1 362.3L758 540.5M209 540.5L417.5 540.5M549.5 540.5L758 540.5M483.5 65L483.5 198M483.5 262L483.5 348M209 540.5L280.8 493.9M336.7 457.6L408.5 411M758 540.5L686.2 493.9M630.3 457.6L558.5 411M209 540.5A317 317 0 0 1 177.3 300M259.3 157.8A317 317 0 0 1 483.5 65M483.5 65A317 317 0 0 1 707.7 157.8M789.7 300A317 317 0 0 1 758 540.5M758 540.5A317 317 0 0 1 565.5 688.2M401.5 688.2A317 317 0 0 1 209 540.5"/>
+<path class="dots" d="M368.9 263.5L320.8 346.7M598.1 263.5L646.2 346.7M435.5 540.5L531.6 540.5"/>
+<rect class="box" x="408.5" y="348" width="150" height="63"/>
+<text x="483.5" y="397"><tspan class="divine-name"><tspan class="divine-name-initial">G</tspan>OD</tspan></text>
+<text x="480" y="44">Father</text>
+<text x="188" y="563" style="text-anchor:end">Son</text>
+<text x="833" y="528">Holy</text><text x="833" y="596">Spirit</text>
+<text x="483.5" y="244">is</text>
+<text transform="translate(308.7 475.8) rotate(-33)" y="16">is</text>
+<text transform="translate(658.3 475.8) rotate(33)" y="16">is</text>
+<g transform="translate(344.9 305.1) rotate(-60)"><text y="-13">is not</text><text y="44">is in</text></g>
+<g transform="translate(622.1 305.1) rotate(60)"><text y="-13">is not</text><text y="44">is in</text></g>
+<text x="483.5" y="527.5">is not</text><text x="483.5" y="584.5">is in</text>
+<defs><path id="al" d="M209 540.5A317 317 0 0 1 483.5 65"/><path id="ar" d="M483.5 65A317 317 0 0 1 758 540.5"/><path id="ab" d="M209 540.5A317 317 0 0 0 758 540.5"/></defs>
+<text dy="0.33em"><textPath href="#al" startOffset="50%">glorifies</textPath></text>
+<text dy="0.33em"><textPath href="#ar" startOffset="50%">glorifies</textPath></text>
+<text dy="0.33em"><textPath href="#ab" startOffset="50%">glorifies</textPath></text>
+</g>
+</svg>

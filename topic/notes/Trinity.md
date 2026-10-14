@@ -1,4 +1,4 @@
-![[Trinity-diagram-3.png|300x216]]
+![[Trinity-diagram-3.svg|300x216]]
 
 ## Todo
 
