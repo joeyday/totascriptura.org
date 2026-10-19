@@ -16,15 +16,13 @@ I don't know how super relevant this is, but one issue I see with slavery in the
 
 Is that racist? What else does the Law say about treatment of foreigners and sojourners?
 
-### Treat strangers, sojourners fairly
-
-Ex 22:21; Lev 19:33–34; Dt 10:19 ~— *see also Ex 12:49; Nu 15:15–16*~
+Treat strangers, sojourners fairly
+: Ex 22:21; Lev 19:33–34; Dt 10:19 ~— *see also Ex 12:49; Nu 15:15–16*~
 
 A similar difference between native Israelites and foreigners was that you weren't allowed by the Law to charge interest on loans to other Israelites, but you could charge interest on loans to foreigners.
 
-### Interest on loans
-
-Ex 22:25; Lev 25:35–37; Dt 23:19–20
+Interest on loans
+: Ex 22:25; Lev 25:35–37; Dt 23:19–20
 
 ## Prisoners of war / captives
 

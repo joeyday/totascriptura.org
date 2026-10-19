@@ -7,28 +7,22 @@ I may have miscategorized 1Co 9:21 here. The phrase “Law of Christ” is throw
 
 Are these related to the new commandment?
 
-### The (second) greatest commandment
+The (second) greatest commandment
+: Mt 22:37–40 ~(cf. Mk 12:29–31; Lk 10:27–28)~; Ro 13:8–10; Gal 5:14
 
-Mt 22:37–40 ~(cf. Mk 12:29–31; Lk 10:27–28)~; Ro 13:8–10; Gal 5:14
+The golden rule
+: Mt 7:12 ~(cf. Lk 6:31)~
 
-### The golden rule
+Love your enemies
+: Mt 5:43–48 ~(cf. Lk 6:27–36)~ ~— *this is also not new; cf. Lev 19:33–34 <small>(cf. Ex 22:21; 23:9; Dt 10:18–19)</small>*~
 
-Mt 7:12 ~(cf. Lk 6:31)~
+The perfect law of liberty
+: Jas 1:25; 2:12
 
-### Love your enemies
-
-Mt 5:43–48 ~(cf. Lk 6:27–36)~ ~— *this is also not new; cf. Lev 19:33–34 <small>(cf. Ex 22:21; 23:9; Dt 10:18–19)</small>*~
-
-### The perfect law of liberty
-
-Jas 1:25; 2:12
-
-### The law of the Spirit of life
-
-Ro 8:2
+The law of the Spirit of life
+: Ro 8:2
 
 ## Romans 13:8–10
 
-### Where does this go?
-
-Ro 13:8–10
+Where does this go?
+: Ro 13:8–10

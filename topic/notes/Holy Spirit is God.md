@@ -20,5 +20,6 @@ Giving the Scriptures is another divine work of the Holy Spirit. In 2 Timothy 3:
 One question which deserves attention is the status of the Holy Spirit in the Old Testament references. Here the usual form of expression is “the Spirit of God” or “the Spirit of the Lord.” Is this to be regarded as the same as the Holy Spirit? Might it be merely God’s spirit, or might it be a personification of God’s working? If these are valid possibilities, are we justified in using the Old Testament texts as evidence in constructing our understanding of the Holy Spirit and thus of the Trinity? At least one New Testament reference indicates that the Spirit of God in the Old Testament is to be identified with the Holy Spirit. In Peter’s speech at Pentecost he explains the coming of the Holy Spirit in the dramatic fashion evidenced by speaking in tongues. He indicates that this is the fulfillment of what Joel had prophesied: “I will pour out my Spirit” (Acts 2:17; cf. Joel 2:28, 32). Thus, we are dealing with the same person, and are justified in using the Old Testament references to God’s Spirit in formulating our understanding of the third person of the Trinity.
 ## Incommunicable attributes
 ## Draft inferences
-### “Who is a teacher like him?”
-Job 36:22
+
+“Who is a teacher like him?”
+: Job 36:22

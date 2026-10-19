@@ -7,53 +7,41 @@
 
 Places in the New Testament where people are said to be “elect” or “chosen” by God. More specifically, these are all instances of ἐκλέγω (eklegō, v.), ἐκλεκτός (eklektos, adj.), ἐκλογή (eklogē, n.), and συνεκλεκτός (suneklektos, adj.).
 
-### Israel
+Israel
+: Ac 13:17
 
-Ac 13:17
+Remnant Israel
+: Ro 11:5, 7, 28
 
-### Remnant Israel
+Unspecified people—the church?
+: Mt 22:14; 24:22, 24, 31; Mk 13:20, 22, 27; Lk 18:7; 2Ti 2:10; Tit 1:1; Jas 2:5; Rev 17:14
 
-Ro 11:5, 7, 28
+Believers, the saints, the church
+: Ro 8:33; 1Co 1:27–28; Eph 1:4; Col 3:12; 1Th 1:4; 1Pe 2:9; 5:13; 2Pe 1:10
 
-### Unspecified people—the church?
+Jesus’ apostles
+: Lk 6:13; Jn 6:70; 13:18; 15:16, 19; Ac 1:2, 24
 
-Mt 22:14; 24:22, 24, 31; Mk 13:20, 22, 27; Lk 18:7; 2Ti 2:10; Tit 1:1; Jas 2:5; Rev 17:14
+Jesus
+: Lk 9:35; 23:35; 1Pe 2:4, 6
 
-### Believers, the saints, the church
+Angels
+: 1Ti 5:21
 
-Ro 8:33; 1Co 1:27–28; Eph 1:4; Col 3:12; 1Th 1:4; 1Pe 2:9; 5:13; 2Pe 1:10
+Jacob
+: Ro 9:11
 
-### Jesus’ apostles
+Paul
+: Ac 9:15
 
-Lk 6:13; Jn 6:70; 13:18; 15:16, 19; Ac 1:2, 24
+Peter
+: Ac 15:7
 
-### Jesus
+Rufus
+: Ro 16:13
 
-Lk 9:35; 23:35; 1Pe 2:4, 6
-
-### Angels
-
-1Ti 5:21
-
-### Jacob
-
-Ro 9:11
-
-### Paul
-
-Ac 9:15
-
-### Peter
-
-Ac 15:7
-
-### Rufus
-
-Ro 16:13
-
-### A lady and her sister ~(possibly euphemisms?)~
-
-2Jn 1:1, 13
+A lady and her sister ~(possibly euphemisms?)~
+: 2Jn 1:1, 13
 
 ## Greek words
 

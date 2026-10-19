@@ -29,10 +29,13 @@ Isa 54:9–10 shows continuity between Noahic covenant and which other covenant?
 Here's a cool covenant theology chart: [Covenant Chart](https://www.scribd.com/document/23473222/Covenant-Chart).
 ## Objections to Dispensationalism
 Moving this from the topic to here because I honestly don’t remember why these are important. I lifted these straight out of a book and wouldn't have written them this way myself.
-### Covenant with Abraham always referred to in singular
-Ex 2:24; Lev 26:42; 2Ki 13:23; 1Ch 16:16; Ps 105:9
-### Spiritual nature of Abrahamic covenant proved by manner in which its promises are interpreted in NT
-Ro 4:16–18; 2Co 6:16–18; Gal 3:8–9, 14, 16; Heb 8:10; 11:9–10, 13
+
+Covenant with Abraham always referred to in singular
+: Ex 2:24; Lev 26:42; 2Ki 13:23; 1Ch 16:16; Ps 105:9
+
+Spiritual nature of Abrahamic covenant proved by manner in which its promises are interpreted in NT
+: Ro 4:16–18; 2Co 6:16–18; Gal 3:8–9, 14, 16; Heb 8:10; 11:9–10, 13
+
 ## Episode 128 of the Heidelcast
 Episode 128 of the heidelcast has lots of great scripture proofs for the pactum salutis.
 ## Implications of covenant theology

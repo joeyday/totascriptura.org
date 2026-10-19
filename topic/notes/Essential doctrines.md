@@ -5,13 +5,17 @@ See also <http://www.desiringgod.org/interviews/what-must-someone-believe-in-ord
 
 ## Original outline
 
-### Monotheism
+Monotheism
+: —
 
-### Deity of Christ
+Deity of Christ
+: —
 
-### Bodily resurrection of Christ
+Bodily resurrection of Christ
+: —
 
-### Salvation by grace through faith
+Salvation by grace through faith
+: —
 
 ## Biblical support for “damnatory clauses” in Athanasian Creed?
 
@@ -97,9 +101,8 @@ Ooh, and also see 1Jn 4:6. Whoever is from God listens to the apostles. Or is Jo
 
 ## More verses about salvation by faith
 
-### Got these from a Facebook comment
-
-Ge 15:5–6; Hab 2:4; Mk 16:15-16; Jn 1:12; 3:16–18, 36; 5:24; 10:27-28; 17:3; Ac 2:38; 16:30–31; Ro 1:16–17; 3:27–28; 4:5, 6–8, 13, 16, 24; 5:1-2, 19; 6:23; 10:9; 11:5–6; Gal 2:16; 3:2-3, 8; Eph 2:8–9; Php 3:9; 1Ti 1:16; Tit 3:5; Heb 7:25; 11:1–2, 39–40; 1Pe 1:5; 1Jn 5:13
+Got these from a Facebook comment
+: Ge 15:5–6; Hab 2:4; Mk 16:15-16; Jn 1:12; 3:16–18, 36; 5:24; 10:27-28; 17:3; Ac 2:38; 16:30–31; Ro 1:16–17; 3:27–28; 4:5, 6–8, 13, 16, 24; 5:1-2, 19; 6:23; 10:9; 11:5–6; Gal 2:16; 3:2-3, 8; Eph 2:8–9; Php 3:9; 1Ti 1:16; Tit 3:5; Heb 7:25; 11:1–2, 39–40; 1Pe 1:5; 1Jn 5:13
 
 ## More references
 

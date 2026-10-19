@@ -23,8 +23,10 @@
 
 ## Where do these go now?
 After refactoring the page somewhat, it's unclear to me where I should put these. I feel like they could be divvied out to various sections of the page.
-### Jesus is God, less explicit statements
-Jn 8:19; Jn 10:30; 14:7–9; 2Co 4:4–5; Php 2:5–11; Col 1:15–17, 19; 2:9–10; Heb 1:3; Jude 1:5
+
+Jesus is God, less explicit statements
+: Jn 8:19; Jn 10:30; 14:7–9; 2Co 4:4–5; Php 2:5–11; Col 1:15–17, 19; 2:9–10; Heb 1:3; Jude 1:5
+
 ## Summary of Murray Harris’ conclusions in his book, “Jesus as God”
 > Harris’ conclusions were that it is certain that John 1:1 and John 20:28 applied the title God to Jesus Christ. Harris believed that it was very probable that Romans 9:5; Titus 2:13; Hebrews 1:8 and 2 Peter 1:1 applied the title God to Jesus and that it was probable that that John 1:18 did as well. Harris believed that it was possible, but not likely that that Acts 20:28; Hebrews 1:9 and 1 John 5:20 called Jesus God. Harris concluded that it was not at all likely that Matthew 1:23; John 17:3; Galatians 2:20; Ephesians 5:5; Colossians 2:2; 2 Thessalonians 1:12 and 1 Timothy 3:16 applied the title God to Jesus (Harris, 1992 171)
 
@@ -33,74 +35,109 @@ Jn 8:19; Jn 10:30; 14:7–9; 2Co 4:4–5; Php 2:5–11; Col 1:15–17, 19; 2:9�
 * Study and document all the key passages for Jesus’ Lordship given in chapter 13 of Rob Bowman’s *Putting Jesus in His Place: The Case for the Deity of Christ*.
 * I'm trying to remember, is there some reason I reproduced Grudem's “Jesus is Lord” list exactly? Why not add verses like Ac 2:36 to the list?
 ## Draft incommunicable attributes
-### Omnisapience ~(is this one a stretch?)~
-Pr 8; 9:1–12; Isa 11:1–2; Mk 6:2; Lk 2:40; 2:52; 21:15; 1 Cor 1:24; 1:30; 2:16 ~(cites Isa 40:13)~; Col 2:2–3; Rev 5:12 ~— *cf. Job 11:5–9; 12:13–25; 28:12–28; Pr 2:6; Isa 28:29; 33:5–6; 40:13; Jer 10:12; 51:15*~
-### Ineffibility
-—
-### Graciousness
-—
-### Holiness
-Heb 7:26; 1 Pet 3:15; Rev 3:7 ~— *cf. Isa 8:13*~ ~— *but see also Heb 12:10; 12:14*~ — study [holy](http://www.biblegateway.com/keyword/?search=holy&version1=ESV&searchtype=all&limit=none&wholewordsonly=no), [holiness](http://www.biblegateway.com/keyword/?search=holiness&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73), [separate](http://www.biblegateway.com/keyword/?search=separate&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73), [set apart](http://www.biblegateway.com/keyword/?search=%22set+apart%22&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73)
-### Immanence
-—
-### Impassibility
-—
-### Omnibenevolence
-—
-### Providence
-—
-### Righteousness
-—
-### Simplicity
-—
-### Transcendence
-—
-### Wrath
-—
+
+Omnisapience ~(is this one a stretch?)~
+: Pr 8; 9:1–12; Isa 11:1–2; Mk 6:2; Lk 2:40; 2:52; 21:15; 1 Cor 1:24; 1:30; 2:16 ~(cites Isa 40:13)~; Col 2:2–3; Rev 5:12 ~— *cf. Job 11:5–9; 12:13–25; 28:12–28; Pr 2:6; Isa 28:29; 33:5–6; 40:13; Jer 10:12; 51:15*~
+
+Ineffibility
+: —
+
+Graciousness
+: —
+
+Holiness
+: Heb 7:26; 1 Pet 3:15; Rev 3:7 ~— *cf. Isa 8:13*~ ~— *but see also Heb 12:10; 12:14*~ — study [holy](http://www.biblegateway.com/keyword/?search=holy&version1=ESV&searchtype=all&limit=none&wholewordsonly=no), [holiness](http://www.biblegateway.com/keyword/?search=holiness&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73), [separate](http://www.biblegateway.com/keyword/?search=separate&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73), [set apart](http://www.biblegateway.com/keyword/?search=%22set+apart%22&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73)
+
+Immanence
+: —
+
+Impassibility
+: —
+
+Omnibenevolence
+: —
+
+Providence
+: —
+
+Righteousness
+: —
+
+Simplicity
+: —
+
+Transcendence
+: —
+
+Wrath
+: —
+
 ## Draft inferences
 Some of these are near complete but I don’t like them since they aren’t necessarily exclusively describing the one God. 
-### “The fountain of living waters”
-Jn 4:7–15; 7:37–38; Rev 7:17; 22:1 ~— *cf. Jer 2:13; 17:13; Rev 21:6*~
-### Jesus is life
-Pr 8:35; Jn 1:4; 11:25; 14:6; Acts 5:20; 1 Jn 1:1–2; 5:11–13
-### Light of the world
-Jn 8:12; Ps 27:1
-### Jesus gives life
-Jn 5:21; ~(see Jn 5:19–29)~; Jn 5:40; 6:27; 6:51; 6:68; 8:12; 10:10; 10:28; 17:2–3; 20:31; Acts 3:14–15; Rom 5:17–21; 1 Cor 15:45; Col 3:4; 2 Tim 1:10; Rev 22:1 — ~*cf. Ge 2:7; 1 Sam 2:6; Job 33:4; Ps 36:9; 54:4; Pr 14:27; Rom 4:17; 1 Tim 6:13*~
-### “What man can live and never see death?”
-Jn 2:19–22; 10:17–18; Heb 7:16; Rev 1:17–18; 2:8 — ~*cf. Ps 89:48*~
-### “A people for his own possession”
-Titus 2:13–14 — ~*cf. Ex 19:5; Dt 7:6; 14:2; 26:18; 1 Sam 12:22; Ps 135:4; Mal 3:17; 1 Pet 2:9*~
-### “Honor the Lord as holy”
-1 Pet 3:14–15 ~— *cf. Isa 8:12–13*~
-### Saved for later
-Isa 33:22
-### Interesting observation
-Ge 32:29; Ex 6:3; Jdg 13:18
-### “King of Kings”
-Rev 17:14; 19:16 ~— *cf. 1 Sam 12:12; Ps 95:3; 1 Tim 1:17; 6:15*~ — study [king god](http://www.biblegateway.com/keyword/index.php?search=king%20god&version1=ESV&searchtype=all&limit=none&wholewordsonly=no&startnumber=51), [king lord](http://www.biblegateway.com/keyword/?search=king+lord&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73)
-### “High and lifted up”
-Isa 52:13 ~— *cf. Isa 6:1; 57:15*~
-### “Thus says the Lord” v. “Truly, I say to you”
-Mt 7:28–29 ~(cf. Mk 1:22, 27; Lk 4:32, 36)~; Jn 7:45–46 ~— search “Thus says the Lord,” “But I say to you,” and “Truly, I say to you.”~
-### “Declaring the end from the beginning”
-Jn 13:19; 14:29 ~— *cf. Isa 41:21–23; 42:8–9; 44:6–8; 46:8–11*~
-### “You alone are holy”
-Ac 3:14 ~— *cf. Rev 15:4*~
-### “Who is a teacher like him?”
-Job 36:22
-### “The stone the builders rejected”
-Ps 118:22; Isa 8:13–15; 28:16; Lk 20:17–18 ~(relevant?)~; Acts 4:11; Ro 9:33; Eph 2:20; 1 Pet 2:4–8
-### “You alone are the Most High”
-Ps 83:18
-### “Who can forgive sin but God alone?”
-Mk 2:5–7
-### “Love the Lord your God with all your heart”
-Mt 10:37 ~— *cf. Mt 22:37*~ — more in ch. 5 of *Putting Jesus in His Place* by Rob Bowman
-### “The word of our God will stand forever”
-Mt 24:35; Mk 13:31 ~— *cf. Isa 40:8~
-### “God alone treads on the waves of the sea”
-Mt 14:25–27 ~(cf. Mk 6:48–50; Jn 6:19–20)~ ~— *cf. Job 9:8; Ps 77:19; Isa 43:16*~ — I got this one from the first chapter of *The Essential Trinity* ~(eds. Brandon Crowe and Carl Trueman)~, but aren’t these OT passages references to the crossing of the Red Sea? Seems like a stretch to connect this to Jesus walking on water, but there is an I AM statement here, so maybe the connection is appropriate?
+
+“The fountain of living waters”
+: Jn 4:7–15; 7:37–38; Rev 7:17; 22:1 ~— *cf. Jer 2:13; 17:13; Rev 21:6*~
+
+Jesus is life
+: Pr 8:35; Jn 1:4; 11:25; 14:6; Acts 5:20; 1 Jn 1:1–2; 5:11–13
+
+Light of the world
+: Jn 8:12; Ps 27:1
+
+Jesus gives life
+: Jn 5:21; ~(see Jn 5:19–29)~; Jn 5:40; 6:27; 6:51; 6:68; 8:12; 10:10; 10:28; 17:2–3; 20:31; Acts 3:14–15; Rom 5:17–21; 1 Cor 15:45; Col 3:4; 2 Tim 1:10; Rev 22:1 — ~*cf. Ge 2:7; 1 Sam 2:6; Job 33:4; Ps 36:9; 54:4; Pr 14:27; Rom 4:17; 1 Tim 6:13*~
+
+“What man can live and never see death?”
+: Jn 2:19–22; 10:17–18; Heb 7:16; Rev 1:17–18; 2:8 — ~*cf. Ps 89:48*~
+
+“A people for his own possession”
+: Titus 2:13–14 — ~*cf. Ex 19:5; Dt 7:6; 14:2; 26:18; 1 Sam 12:22; Ps 135:4; Mal 3:17; 1 Pet 2:9*~
+
+“Honor the Lord as holy”
+: 1 Pet 3:14–15 ~— *cf. Isa 8:12–13*~
+
+Saved for later
+: Isa 33:22
+
+Interesting observation
+: Ge 32:29; Ex 6:3; Jdg 13:18
+
+“King of Kings”
+: Rev 17:14; 19:16 ~— *cf. 1 Sam 12:12; Ps 95:3; 1 Tim 1:17; 6:15*~ — study [king god](http://www.biblegateway.com/keyword/index.php?search=king%20god&version1=ESV&searchtype=all&limit=none&wholewordsonly=no&startnumber=51), [king lord](http://www.biblegateway.com/keyword/?search=king+lord&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73)
+
+“High and lifted up”
+: Isa 52:13 ~— *cf. Isa 6:1; 57:15*~
+
+“Thus says the Lord” v. “Truly, I say to you”
+: Mt 7:28–29 ~(cf. Mk 1:22, 27; Lk 4:32, 36)~; Jn 7:45–46 ~— search “Thus says the Lord,” “But I say to you,” and “Truly, I say to you.”~
+
+“Declaring the end from the beginning”
+: Jn 13:19; 14:29 ~— *cf. Isa 41:21–23; 42:8–9; 44:6–8; 46:8–11*~
+
+“You alone are holy”
+: Ac 3:14 ~— *cf. Rev 15:4*~
+
+“Who is a teacher like him?”
+: Job 36:22
+
+“The stone the builders rejected”
+: Ps 118:22; Isa 8:13–15; 28:16; Lk 20:17–18 ~(relevant?)~; Acts 4:11; Ro 9:33; Eph 2:20; 1 Pet 2:4–8
+
+“You alone are the Most High”
+: Ps 83:18
+
+“Who can forgive sin but God alone?”
+: Mk 2:5–7
+
+“Love the Lord your God with all your heart”
+: Mt 10:37 ~— *cf. Mt 22:37*~ — more in ch. 5 of *Putting Jesus in His Place* by Rob Bowman
+
+“The word of our God will stand forever”
+: Mt 24:35; Mk 13:31 ~— *cf. Isa 40:8~
+
+“God alone treads on the waves of the sea”
+: Mt 14:25–27 ~(cf. Mk 6:48–50; Jn 6:19–20)~ ~— *cf. Job 9:8; Ps 77:19; Isa 43:16*~ — I got this one from the first chapter of *The Essential Trinity* ~(eds. Brandon Crowe and Carl Trueman)~, but aren’t these OT passages references to the crossing of the Red Sea? Seems like a stretch to connect this to Jesus walking on water, but there is an I AM statement here, so maybe the connection is appropriate?
+
 ## From the ’83 Watchtower article
 > To redeem what Adam lost for mankind, Jesus needed to sacrifice a perfect human life, no more, no less. (Ex 21:23; 1Co 15:22, 45, 47; Ro 5:18, 19, RS, Catholic and Protestant editions; Mt 20:28) This alone gives the lie to the Incarnation and Trinity dogmas.
 
@@ -167,10 +204,13 @@ Camden Bucey, on an episode of the *Christ the Center* podcast about the book of
 * Jn 1
 * Php 2:5–11
 ## More fodder for the difficult passages section
-### ~100 Scriptural Arguments
-Dt 18:15; Mt 3:17; 12:28, 50; 27:46; 28:18; Mk 16:19; Lk 6:12; 11:2; Jn 1:18, 45; 4:23; 5:22, 26–27, 36; 6:27, 57; 7:39; 8:16–18, 29, 49–50, 54; 10:25, 29, 34–36; 11:41–42; 13:3; 15:10; 16:23; 17:3, 5, 21; Ac 2:22-24, 32, 36; 5:31; 10:38, 40, 42; 13:23; 17:3, 31; 22:8; Ro 3:16; 6:10; 7:25; 8:34; 10:9–10; 16:27; 1Co 15:57; 2Co 4:4; 5:8; 12:4; Eph 3:14; Php 2:8–9, 11; Col 1:19; Heb 1:2; 2:9, 17; 3:1–3; 5:5; 1Ti 2:5; 6:15–16; Tit 3:6; 2Pe 1:17; 1Jn 4:14; Rev 1:5; 3:21
-### Passages Sean Finnegan specifically calls out in his video
-1Ti 2:5; Jn 17:3; 1Co 8:6; Dt 6:4; Ps 110:1
+
+~100 Scriptural Arguments
+: Dt 18:15; Mt 3:17; 12:28, 50; 27:46; 28:18; Mk 16:19; Lk 6:12; 11:2; Jn 1:18, 45; 4:23; 5:22, 26–27, 36; 6:27, 57; 7:39; 8:16–18, 29, 49–50, 54; 10:25, 29, 34–36; 11:41–42; 13:3; 15:10; 16:23; 17:3, 5, 21; Ac 2:22-24, 32, 36; 5:31; 10:38, 40, 42; 13:23; 17:3, 31; 22:8; Ro 3:16; 6:10; 7:25; 8:34; 10:9–10; 16:27; 1Co 15:57; 2Co 4:4; 5:8; 12:4; Eph 3:14; Php 2:8–9, 11; Col 1:19; Heb 1:2; 2:9, 17; 3:1–3; 5:5; 1Ti 2:5; 6:15–16; Tit 3:6; 2Pe 1:17; 1Jn 4:14; Rev 1:5; 3:21
+
+Passages Sean Finnegan specifically calls out in his video
+: 1Ti 2:5; Jn 17:3; 1Co 8:6; Dt 6:4; Ps 110:1
+
 ## More Yahweh passages applied to Jesus?
 Robert L. Reymond from his *A New Systematic Theology of the Christian Faith*:
 > The New Testament writers show no hesitancy in applying to Christ Old Testament descriptions and privileges that are reserved specifically for Yahweh. For instance, (1) Moses’ description of Yahweh as “King of kings” (Dt 10:17) John applies to Christ (Rev. 17:14; 19:16); (2) the author of Hebrews applies the entirety of Ps 102:25–27 to him (1:10–12); (3) Proverbs 18:10 provides the background for Peter’s assertion in Acts 4:12; (4) Joel’s summons to trust in Yahweh (2:32) Paul employs to summon men to faith in Christ (Rom. 10:13); (5) when Isaiah looked upon Yahweh (Isa 6:1–3), according to John he was beholding the glory of the preincarnate Son of God (John 12:40–41); (6) Isaiah’s call to sanctify Yahweh in the heart (8:12–13) Peter applies directly to Christ—he is the one who is to be sanctified as Lord in the heart (1Pe 3:14–15); (7) Isaiah’s representation of Yahweh as a stone that causes men to stumble and a rock that makes them fall (8:14) Paul applies to Christ (Ro 9:32–33); (8) Yahweh, whose coming would be preceded by Yahweh’s forerunner (Isa 40:3; Mal. 3:1; 4:5), is equated with Christ (Matt. 3:3; 11:10; Mark 1:2–3; Luke 1:16–17; 3:4; John 1:23); (9) Jesus himself employs Yahweh’s words in Isaiah 43:10 and 45:22 to summon men to be his witnesses and to rest in him (Ac 1:8; Mt 11:28); (10) Isaiah’s description of Yahweh as “the first and the last” (44:6) John employs to describe the glorified Christ (Rev. 2:8; 22:12–13); (11) Yahweh, “before whom every knee shall bow and by whom every mouth shall swear (Isa. 45:23), Paul identifies as Christ (Rom. 14:10; Phil. 2:10); and (12) Yahweh, the pierced One upon whom men would look and mourn (Zech. 12:10), John tells us is the Christ (John 19:37).

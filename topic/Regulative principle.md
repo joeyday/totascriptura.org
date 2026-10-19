@@ -2,6 +2,6 @@
 hidden: true
 draft: true
 ---
-### Regulative principle of worship
 
-Dt 12:29–32; Mt 15:9
+Regulative principle of worship
+: Dt 12:29–32; Mt 15:9

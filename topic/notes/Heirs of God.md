@@ -28,82 +28,65 @@ What are the Greek and Hebrew words?
 
 ## Draft sections
 
-### Heirs of Abraham
-
-Gal 3:29
+Heirs of Abraham
+: Gal 3:29
 
 ## The Bible Teaches Theosis?
 
 Verses from Lincoln Cannon’s *[New God Argument](https://new-god-argument.com)* topic, [“The Bible Teaches Theosis”](https://new-god-argument.com/support/bible-teaches-theosis.html?fref=gc&dti=411419142330282).
 
-### Man in God’s image
+Man in God’s image
+: {{[[mt]]|[[Man in the image of God]]}}
+: Ge 1:26–27; 9:6
 
-{{[[mt]]|[[Man in the image of God]]}}
-Ge 1:26–27; 9:6
+Man becoming like God
+: Ge 3:5, 22
 
-### Man becoming like God
+Man being conformed to the image of Christ
+: 2Co 3:18; Eph 4:11–16
 
-Ge 3:5, 22
+“Sons of God”
+: {{[[mt]]|[[topic/Sons of God in Genesis 6|Sons of God in Genesis 6]]}}
+: Ge 6:2–4; Ps 82:1–8
 
-### Man being conformed to the image of Christ
+Adam as son of God
+: Lk 3:23, 38
 
-2Co 3:18; Eph 4:11–16
+People as children of God
+: {{[[mt]]|[[topic/God the Father|God the Father]]}}
+: Dt 14:1; Isa 63:16; 64:8; Mt 5:8–10; 6:9; Lk 11:2; Jn 1:11–13; 11:51–52; Ac 17:28–29; Ro 1:7; 8:9–32; 1Co 1:3; 4:14–17; 2Co 1:2; Gal 1:4–5; 3:26–28; 4:1–7; Eph 1:2; 4:4–6; Php 1:2; 1Th 1:1–4; 3:11–13; 2Th 1:1–2; 2:13–17; 1Ti 1:2; 1Jn 3:1–3, 9–10; 5:1–2, 18–21; Col 1:2
 
-### “Sons of God”
+Jesus as Son of God
+: Ps 2:7–8; Jn 10:32–36
 
-{{[[mt]]|[[topic/Sons of God in Genesis 6|Sons of God in Genesis 6]]}}
-Ge 6:2–4; Ps 82:1–8
+Jesus like his Father
+: Mt 9:2–8; 12:1–8; 16:27; 24:29–31; 25:31–46; Mk 2:3–12, 23–28; 8:38; 14:60–64; Lk 5:18–26; 6:1–5; 21:27–28; 22:66–71; Jn 3:13; 5:19–20, 26–27; 8:28–29; 12:23; 13:31–32; Ac 7:55–56; Col 2:9–10; Rev 1:10–18; 14:14
 
-### Adam as son of God
+“God of gods” and “Lord of lords”
+: Dt 10:17; Jos 22:22; Ps 136:2; Da 2:47
 
-Lk 3:23, 38
+Men will sit on thrones, judge, rule
+: {{[[mt]]|[[Heirs of God]]}}
+: Mt 19:28; 1Co 6:2–3; Rev 2:26–27; 3:21; 21:7
 
-### People as children of God
+Perichoresis, union between man and God/Christ
+: {{[[mt]]|[[Perichoresis]]}}
+: Jn 14:12, 20; 17:20–23; 2Co 13:5; Gal 2:20; Eph 3:14–19; Col 1:21–29
 
-{{[[mt]]|[[topic/God the Father|God the Father]]}}
-Dt 14:1; Isa 63:16; 64:8; Mt 5:8–10; 6:9; Lk 11:2; Jn 1:11–13; 11:51–52; Ac 17:28–29; Ro 1:7; 8:9–32; 1Co 1:3; 4:14–17; 2Co 1:2; Gal 1:4–5; 3:26–28; 4:1–7; Eph 1:2; 4:4–6; Php 1:2; 1Th 1:1–4; 3:11–13; 2Th 1:1–2; 2:13–17; 1Ti 1:2; 1Jn 3:1–3, 9–10; 5:1–2, 18–21; Col 1:2
+Church (members) as body of Christ
+: 1Co 10:14–17; 12:27; Eph 5:29–30
 
-### Jesus as Son of God
+Men as ambassadors of Christ, ministering in his stead
+: 2Co 5:18–20
 
-Ps 2:7–8; Jn 10:32–36
+Men should strive for perfection, godliness
+: Mt 5:48; 1Ti 4:7–8; 6:5–11; 2Pe 1:2–10; 3:11–12
 
-### Jesus like his Father
+Men as saviors
+: Ob 1:21; Heb 11:39–40
 
-Mt 9:2–8; 12:1–8; 16:27; 24:29–31; 25:31–46; Mk 2:3–12, 23–28; 8:38; 14:60–64; Lk 5:18–26; 6:1–5; 21:27–28; 22:66–71; Jn 3:13; 5:19–20, 26–27; 8:28–29; 12:23; 13:31–32; Ac 7:55–56; Col 2:9–10; Rev 1:10–18; 14:14
-
-### “God of gods” and “Lord of lords”
-
-Dt 10:17; Jos 22:22; Ps 136:2; Da 2:47
-
-### Men will sit on thrones, judge, rule
-
-{{[[mt]]|[[Heirs of God]]}}
-Mt 19:28; 1Co 6:2–3; Rev 2:26–27; 3:21; 21:7
-
-### Perichoresis, union between man and God/Christ
-
-{{[[mt]]|[[Perichoresis]]}}
-Jn 14:12, 20; 17:20–23; 2Co 13:5; Gal 2:20; Eph 3:14–19; Col 1:21–29
-
-### Church (members) as body of Christ
-
-1Co 10:14–17; 12:27; Eph 5:29–30
-
-### Men as ambassadors of Christ, ministering in his stead
-
-2Co 5:18–20
-
-### Men should strive for perfection, godliness
-
-Mt 5:48; 1Ti 4:7–8; 6:5–11; 2Pe 1:2–10; 3:11–12
-
-### Men as saviors
-
-Ob 1:21; Heb 11:39–40
-
-### Unclear how to categorize?
-
-Mt 25:31–46; Lk 20:34–36; Jn 6:26–29, 53–57; Php 2:5–6, 12–18; Heb 12:9–10, 22–23
+Unclear how to categorize?
+: Mt 25:31–46; Lk 20:34–36; Jn 6:26–29, 53–57; Php 2:5–6, 12–18; Heb 12:9–10, 22–23
 
 ## Regarding sitting on the throne
 

@@ -2,17 +2,20 @@
 hidden: true
 draft: true
 ---
-### Promises
+Promises
+: —
 
-### Conditions
+Conditions
+: —
 
-### Signs and seals
+Signs and seals
+: —
 
-### Recipients
+Recipients
+: —
 
-### Continuity with Covenant of Grace
-
-Ge 49:8–12; Dt 17:14–20; Jer 33:20–21
+Continuity with Covenant of Grace
+: Ge 49:8–12; Dt 17:14–20; Jer 33:20–21
 
 ## See also
 

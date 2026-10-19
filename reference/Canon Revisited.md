@@ -2,6 +2,7 @@
 categories:
   - "[[Book summaries]]"
 draft: true
+hidden: true
 ---
 This topic comprises my notes while reading Michael J. Kruger’s book, *Canon Revisited: Establishing the Origins and Authority of the New Testament Books*.
 
@@ -13,17 +14,14 @@ In order for the church to be able to recognize the books of the canon, it must 
 
 These attributes are basically characteristics that distinguish canonical books from all other books. There are three attributes of canonicity:
 
-### Divine qualities
+Divine qualities
+: *Canonical books bear the “marks” of divinity*
 
-*Canonical books bear the “marks” of divinity*\
+Corporate reception
+: *Canonical books are recognized by the church as a whole*
 
-### Corporate reception
-
-*Canonical books are recognized by the church as a whole*\
-
-### Apostolic origins
-
-*Canonical books are the result of the redemptive-historical activity of the apostles*\
+Apostolic origins
+: *Canonical books are the result of the redemptive-historical activity of the apostles*
 
 ## Internal testimony of the Holy Spirit
 

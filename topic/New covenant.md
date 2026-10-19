@@ -2,17 +2,20 @@
 hidden: true
 draft: true
 ---
-### Promises
+Promises
+: —
 
-### Conditions
+Conditions
+: —
 
-### Signs and seals
+Signs and seals
+: —
 
-### Recipients
+Recipients
+: —
 
-### Continuity with Covenant of Grace
-
-*One church:* Ac 7:38; Eph 2:11–20; Ro 11
+Continuity with Covenant of Grace
+: *One church:* Ac 7:38; Eph 2:11–20; Ro 11
 
 ## See also
 

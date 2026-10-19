@@ -1,3 +1,2 @@
-### Jesus will once again drink wine with his disciples
-
-Lk 22:18
+Jesus will once again drink wine with his disciples
+: Lk 22:18

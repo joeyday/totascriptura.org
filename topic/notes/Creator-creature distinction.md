@@ -6,7 +6,10 @@
 * ?
 ## Anthropology
 Need to explore the anthropology side of this too. What does Scripture say about man and how does that compare/contrast with what Scripture says about God?
-### Creation not self-existent but reliant totally on God
+
+Creation not self-existent but reliant totally on God
+: —
+
 ## Rev 5:11–14
 Rev 5:11–14 probably belongs on this page because it distinguishes Jesus from created beings. All creatures (created things) worship God and the Lamb, which implies that neither God nor the Lamb are creatures.
 ## Creator-creature distinction a pastoral doctrine

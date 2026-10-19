@@ -8,6 +8,5 @@ hidden: true
 - What is so pernicious about this is that it co-opts faith and turns it from grace to law.
 - It is the ultimate expression of [[topic/Free will|Free will]], to the complete denial of God’s [[topic/Providence|sovereignty]].
 
-### Possible counter-arguments
-
-Ps 140:8; 145:18–20
+Possible counter-arguments
+: Ps 140:8; 145:18–20

@@ -1,12 +1,10 @@
 ## Around the interwebtubes
 
-### For free will
+For free will
+: [http://www.kingmessiahproject.com/calv_main.html], [http://www.bibleanswer.com/predesti.htm], [http://www.behindthebadge.net/osas/osas5.html], [http://www.gregboyd.org/qa/predestination-free-will/verses-in-question/what-is-the-biblical-basis-of-free-will/], [http://www.freewill-predestination.com/], [http://jesussaidfollowme.org/calvinismarminianism.htm], [http://www.beingjewish.com/soul/freewill.html], [http://answers.google.com/answers/threadview/id/386404.html], [http://evangelicalarminians.org/isaiah-54-and-sufficient-grace/]
 
-[http://www.kingmessiahproject.com/calv_main.html], [http://www.bibleanswer.com/predesti.htm], [http://www.behindthebadge.net/osas/osas5.html], [http://www.gregboyd.org/qa/predestination-free-will/verses-in-question/what-is-the-biblical-basis-of-free-will/], [http://www.freewill-predestination.com/], [http://jesussaidfollowme.org/calvinismarminianism.htm], [http://www.beingjewish.com/soul/freewill.html], [http://answers.google.com/answers/threadview/id/386404.html], [http://evangelicalarminians.org/isaiah-54-and-sufficient-grace/]
-
-### Against free will
-
-[http://www.christianfallacies.com/articles/gallalgher/freeWill.html], [http://goshareyourfaith.wordpress.com/resources/reformed-doctrine/does-the-bible-teach-free-will/], [http://jesussaidfollowme.org/calvinismarminianism.htm]
+Against free will
+: [http://www.christianfallacies.com/articles/gallalgher/freeWill.html], [http://goshareyourfaith.wordpress.com/resources/reformed-doctrine/does-the-bible-teach-free-will/], [http://jesussaidfollowme.org/calvinismarminianism.htm]
 
 ## Quora question
 
@@ -23,22 +21,20 @@ I floated this question out on Quora: [http://www.quora.com/Free-Will/What-suppo
 
 A list of verses “compiled by many members of the Society of Evangelical Arminians” can be found [here](http://learntheology.com/verses-used-to-support-arminianism.html). It contains the following passages in a section titled “Verses that show man has libertarian free will”:
 
-### Free will offering verses
+Free will offering verses
+: Ex 35:29; 36:3; Lev 7:16; 22:18, 21, 23; 23:38; Nu 15:3; 29:39; Dt 12:6, 17; 16:10; 2Ch 31:14; 35:8; Ezr 1:4, 6; 3:5; 7:16; 8:28; Ps 119:108; Eze 46:12; Am 4:5
 
-Ex 35:29; 36:3; Lev 7:16; 22:18, 21, 23; 23:38; Nu 15:3; 29:39; Dt 12:6, 17; 16:10; 2Ch 31:14; 35:8; Ezr 1:4, 6; 3:5; 7:16; 8:28; Ps 119:108; Eze 46:12; Am 4:5
-
-### Other free will verses
-
-Isa 1:19-20; Eze 33:11; Lk 7:30; Jn 7:17; 1Co 7:37; 10:13
+Other free will verses
+: Isa 1:19-20; Eze 33:11; Lk 7:30; Jn 7:17; 1Co 7:37; 10:13
 
 ## “Choose”, “chose”, “chosen”, choice”
 
 I've now finished thorough searches for the key words “choose”, “chose”, “choice”. It's remarkable to me what a high percentage of occurrences of this verb (44 out of 73, so far) have not man as the subject but God. As far as the Bible is concerned, it seems God is the one who does most of the choosing. —**Joey** 18:06, 2 December 2012 (UTC)
 
 I should probably give this list and the list in the main topic article one more look through, but for the most part the list in the main article is every moral or immoral choice made by man, and the list below is every amoral choice. Every other instance of “choose”, “chose”, “chosen” or “choice” (roughly 400 occurrences altogether) in the Bible is either used adjectively or, if used as a verb, has God as its subject, not man.
-### More instances of "choose", "chose", "choice"
 
-Choose: Ex 17:9; Nu 14:4; Dt 1:13; 1Sa 17:8; 2Sa 17:1; 1Ki 18:23, 25; Job 7:15; 9:14; 15:5; 34:4, 33; Isa 44:14; Ac 15:22; Php 1:22; He 11:25; Chose: Ge 6:2; 13:11; Ex 18:25; Dt 33:21; Jos 8:3; 1Sa 13:2; 17:40; 2Sa 10:9; 1Ch 19:19; Job 29:25; Lk 14:7; Ac 6:5; 15:40; Chosen: Ex 14:7; 15:4; Nu 16:2; 26:9; Jdg 5:8; 10:14; 1Sa 8:18; 12:13; 20:30; 2Sa 16:18; Job 36:21; Ps 16:5; Ps 119:30, 173; Pr 16:16; 22:1; Isa 1:29; Lk 10:42
+More instances of "choose", "chose", "choice"
+: Choose: Ex 17:9; Nu 14:4; Dt 1:13; 1Sa 17:8; 2Sa 17:1; 1Ki 18:23, 25; Job 7:15; 9:14; 15:5; 34:4, 33; Isa 44:14; Ac 15:22; Php 1:22; He 11:25; Chose: Ge 6:2; 13:11; Ex 18:25; Dt 33:21; Jos 8:3; 1Sa 13:2; 17:40; 2Sa 10:9; 1Ch 19:19; Job 29:25; Lk 14:7; Ac 6:5; 15:40; Chosen: Ex 14:7; 15:4; Nu 16:2; 26:9; Jdg 5:8; 10:14; 1Sa 8:18; 12:13; 20:30; 2Sa 16:18; Job 36:21; Ps 16:5; Ps 119:30, 173; Pr 16:16; 22:1; Isa 1:29; Lk 10:42
 
 —**Joey** 03:11, 10 December 2012 (UTC)
 
@@ -50,37 +46,31 @@ Todo:
 
 Done: [pentateuch](http://www.biblegateway.com/keyword/?search=will&version1=ESV&searchtype=all&bookset=3&resultspp=100) (585), [historical books](http://www.biblegateway.com/keyword/?search=will&version1=ESV&searchtype=all&bookset=8&resultspp=100) (576), [wisdom books](http://www.biblegateway.com/keyword/?search=will&version1=ESV&searchtype=all&bookset=7&resultspp=100&startnumber=501) (720), [major prophets](http://www.biblegateway.com/keyword/?search=will&version1=ESV&searchtype=all&bookset=5&resultspp=100&startnumber=1001) (1133), [minor prophets](http://www.biblegateway.com/keyword/?search=will&version1=ESV&searchtype=all&bookset=6&resultspp=100) (315), [gospel](http://www.biblegateway.com/keyword/?search=will&version1=ESV&searchtype=all&bookset=4&resultspp=100) (669), [epistles](http://www.biblegateway.com/keyword/?search=will&version1=ESV&searchtype=all&bookset=9&resultspp=100) (351), [apocalyptic books](http://www.biblegateway.com/keyword/?search=will&version1=ESV&searchtype=all&bookset=11&resultspp=100) (97)
 
-### “Will”, “willing”, “willful”, “willfully”, “unwilling”
+“Will”, “willing”, “willful”, “willfully”, “unwilling”
+: Ge 23:8, 13; 24:5, 8; Nu 24:13; Jdg 8:25; Ru 3:13; 2Sa 3:37; 12:4; 1Ki 22:49; 1Ch 19:19; 28:21; Ne 11:2; Mt 1:19; 11:14; 21:31; 23:4, 37; 26:41; Mk 14:38; Lk 12:47; 13:34; 23:25; Jn 1:13; 5:35; 7:17; 8:44; Rom 9:16; 1Co 9:17; 16:12; 2Co 8:19; 9:5; Eph 6:7; Php 1:15; 1Th 3:1; 2Th 3:10; Jas 3:4; 1Pe 5:2; 2Pe 1:21; 2:10
 
-Ge 23:8, 13; 24:5, 8; Nu 24:13; Jdg 8:25; Ru 3:13; 2Sa 3:37; 12:4; 1Ki 22:49; 1Ch 19:19; 28:21; Ne 11:2; Mt 1:19; 11:14; 21:31; 23:4, 37; 26:41; Mk 14:38; Lk 12:47; 13:34; 23:25; Jn 1:13; 5:35; 7:17; 8:44; Rom 9:16; 1Co 9:17; 16:12; 2Co 8:19; 9:5; Eph 6:7; Php 1:15; 1Th 3:1; 2Th 3:10; Jas 3:4; 1Pe 5:2; 2Pe 1:21; 2:10
+Satan has a will
+: Lk 4:6; 2Ti 2:26
 
-### Satan has a will
+Animals have wills?
+: Job 39:9
 
-Lk 4:6; 2Ti 2:26
-
-### Animals have wills?
-
-Job 39:9
-
-### The wind has a will?
-
-Jn 3:8
+The wind has a will?
+: Jn 3:8
 
 Is a person’s last will and testament relevant here? If so, Heb 9:16–17 should be on the list.
 
 ## “free”, “freely”, “freedom”
 
-### “free”, “freely”, “freedom”
-
-Dt 15:10; 1Ch 29:9, 17; Ezr 1:6; 7:13, 15; Ps 110:3; Pr 11:24
+“free”, “freely”, “freedom”
+: Dt 15:10; 1Ch 29:9, 17; Ezr 1:6; 7:13, 15; Ps 110:3; Pr 11:24
 
 Relevant? Jer 2:31
 
 ## Verses that may or may not fit under any of the foregoing categories
 
-### Uncategorized
-
-Ps 17:3; Isa 30:1, 15; Jer 18:12; 22:4–5; 42:9–17; Mt 17:12 (Mk 9:13); Jas 1:13–14
+Uncategorized
+: Ps 17:3; Isa 30:1, 15; Jer 18:12; 22:4–5; 42:9–17; Mt 17:12 (Mk 9:13); Jas 1:13–14
 
 ## Greek words for “will”
 
@@ -106,21 +96,17 @@ From GreatTreasures.org, the Greek words for “choose” and their occurrences 
 
 Nu 22:33 — A counterfactual statement from an angel. Again, do angels know enough to make true statements of counterfactual knowledge, or is this conjecture? (Actually, the angel can state with relative confidence what he himself would have done in a hypothetical situation, so this may not qualify as a true counterfactual at all.)
 
-### Not so much counterfactuals of creaturely freedom, but explaining what God himself would do in different situations
+Not so much counterfactuals of creaturely freedom, but explaining what God himself would do in different situations
+: Ex 9:15; 33:5; Dt 28:15–68; Ps 50:12; Jer 18:7–10; 26:2–4; Eze 14:14, 16, 20; 33:1–9, 13–15; Mt 26:24 ~(cf. Mk 14:21)~; Mk 6:48–49; 9:42 ~(cf. Lk 17:2)~; Jn 8:55; 11:40; 14:2; 18:36
 
-Ex 9:15; 33:5; Dt 28:15–68; Ps 50:12; Jer 18:7–10; 26:2–4; Eze 14:14, 16, 20; 33:1–9, 13–15; Mt 26:24 ~(cf. Mk 14:21)~; Mk 6:48–49; 9:42 ~(cf. Lk 17:2)~; Jn 8:55; 11:40; 14:2; 18:36
+Are these saying that if such-and-such has happened, God wouldn't hold people guilty for their sin, or that if such-and-such had happened the people wouldn’t have chosen to sin?
+: Mt 24:22 ~(cf. Mk 13:20)~; Jn 9:41; 15:22, 24
 
-### Are these saying that if such-and-such has happened, God wouldn't hold people guilty for their sin, or that if such-and-such had happened the people wouldn’t have chosen to sin?
+True counterfactuals of plantly and stonely freedom?
+: Lk 17:6; 19:40
 
-Mt 24:22 ~(cf. Mk 13:20)~; Jn 9:41; 15:22, 24
-
-### True counterfactuals of plantly and stonely freedom?
-
-Lk 17:6; 19:40
-
-### Not counterfactuals, but assumptions on the part of humans about what might happen to them if they do such-and-such
-
-Dt 5:25–27
+Not counterfactuals, but assumptions on the part of humans about what might happen to them if they do such-and-such
+: Dt 5:25–27
 
 ## Hebrew words for “will”
 
@@ -151,37 +137,29 @@ Malcolm MacColl, in his letter to W.E. Gladstone titled *The “Damnatory Clause
 
 ## Corey’s open future prooftexts
 
-### God changes his mind
+God changes his mind
+: Ex 32:14; Nu 14:12–20; Dt 9:13–14, 18–20, 25; 1Sa 2:27–36; 2Ki 20:1–7; 1Ch 21:15; Jer 26:19; Eze 20:5–22; Am 7:1–6; Jnh 1:2; 3:2, 4–10
 
-Ex 32:14; Nu 14:12–20; Dt 9:13–14, 18–20, 25; 1Sa 2:27–36; 2Ki 20:1–7; 1Ch 21:15; Jer 26:19; Eze 20:5–22; Am 7:1–6; Jnh 1:2; 3:2, 4–10
+God states he will change his mind
+: Jer 18:7–11; 26:2–3; Eze 33:13–15
 
-### God states he will change his mind
+God’s willingness to change is an attribute of greatness
+: Joel 2:13–14; Jnh 4:2
 
-Jer 18:7–11; 26:2–3; Eze 33:13–15
+God expresses regret—even over things resulting from his own will
+: Ge 6:5–6; 1Sa 15:10, 35; Eze 22:29–31
 
-### God’s willingness to change is an attribute of greatness
+God gets surprised by outcomes
+: Isa 5:3–7; Jer 3:6-7, 19–20
 
-Joel 2:13–14; Jnh 4:2
+God tests people to find out if they will be faithful
+: Ge 22:12; Ex 16:4; Dt 8:2; 13:1–3; Jdg 2:20–23; 3:1–5; 2Ch 32:31; Abr 3:25%% (Yes, this is Abraham from the Pearl of Great Price.) %%
 
-### God expresses regret—even over things resulting from his own will
+God asks non-rhetorical questions about the future
+: Nu 14:11; Hos 8:5
 
-Ge 6:5–6; 1Sa 15:10, 35; Eze 22:29–31
-
-### God gets surprised by outcomes
-
-Isa 5:3–7; Jer 3:6-7, 19–20
-
-### God tests people to find out if they will be faithful
-
-Ge 22:12; Ex 16:4; Dt 8:2; 13:1–3; Jdg 2:20–23; 3:1–5; 2Ch 32:31; Abr 3:25%% (Yes, this is Abraham from the Pearl of Great Price.) %%
-
-### God asks non-rhetorical questions about the future
-
-Nu 14:11; Hos 8:5
-
-### God speaks of what may, may not happen
-
-Ex 3:18–22; 4:1–9; 13:17; Jer 38:17–18, 20–21, 23; Eze 12:1–3
+God speaks of what may, may not happen
+: Ex 3:18–22; 4:1–9; 13:17; Jer 38:17–18, 20–21, 23; Eze 12:1–3
 
 ## From Jacob Hansen vs. James White debate
 

@@ -3,16 +3,14 @@ hidden: true
 ---
 ## All occurrences or Hebrew and Greek words
 
-### οἶνος ~(*wine*)~
+οἶνος ~(*wine*)~
+: —
 
-### σίκερα ~(*strong drink*, *beer*)~
+σίκερα ~(*strong drink*, *beer*)~
+: Lk 1:15
 
-Lk 1:15
+יַ֫יִן ~(*wine*)~
+: Lev 10:9
 
-### יַ֫יִן ~(*wine*)~
-
-Lev 10:9
-
-### שֵׁכָר ~(*strong drink*)~
-
-Lev 10:9
+שֵׁכָר ~(*strong drink*)~
+: Lev 10:9

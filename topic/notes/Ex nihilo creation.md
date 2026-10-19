@@ -36,8 +36,10 @@ And here’s an interesting forum discussion:
 ## 2 Maccabees 7:28
 > I beg you, my child, to look at the heaven and the earth and see everything that is in them, and recognize that God did not make them out of things that existed. And in the same way the human race came into being. ~—2 Maccabees 7:28 NRSV~
 ## Additional potential content
-### Ex nihilo creation
-Ps 102:25–27; Pr 3:19; Ac 17:28; 2Co 4:6; Heb 1:10–12 ~(cites Ps 102:25–27)~
+
+Ex nihilo creation
+: Ps 102:25–27; Pr 3:19; Ac 17:28; 2Co 4:6; Heb 1:10–12 ~(cites Ps 102:25–27)~
+
 ## Difference between and implications of various Hebrew words
 
 בָּרָא (*bara*)

@@ -355,9 +355,8 @@ See *Experiment › Trinity?*.
 
 ## References from *The Ology*
 
-### References from *The Ology*
-
-Dt 6:4; Isa 48:16; Mt 3:16–17; 28:19; Jn 14:26; 2Co 13:14; 1Ti 2:5
+References from *The Ology*
+: Dt 6:4; Isa 48:16; Mt 3:16–17; 28:19; Jn 14:26; 2Co 13:14; 1Ti 2:5
 
 ## Matthew 3:16–17 in Christian Trinity literature
 
@@ -382,38 +381,30 @@ Dt 6:4; Isa 48:16; Mt 3:16–17; 28:19; Jn 14:26; 2Co 13:14; 1Ti 2:5
 
 On Jonathan’s Every Verse page, [Godhead: Separate Beings?](http://everyverse.org/god-triune/), he lists verses he claims show that the Father, Son, and Holy Ghost have separate spirits and/or souls. Here are my own similar findings:
 
-### Father’s spirit ~(pneuma)~
-
-~*Distinguishable in any meaningful way from the Holy Spirit / Spirit of God?*~\
+Father’s spirit ~(pneuma)~
+: ~*Distinguishable in any meaningful way from the Holy Spirit / Spirit of God?*~\
 Jn 4:23–24
 
-### Son’s spirit ~(pneuma)~
+Son’s spirit ~(pneuma)~
+: Mt 27:50 ~(cf. Lk 23:46)~; Mk 2:8; 8:12; Jn 13:21 ~— *see also 1Co 15:45; 2Th 2:8*~
 
-Mt 27:50 ~(cf. Lk 23:46)~; Mk 2:8; 8:12; Jn 13:21 ~— *see also 1Co 15:45; 2Th 2:8*~
+“Spirit of Christ”
+: Gal 4:6; Php 1:19; 1Pe 1:11
 
-### “Spirit of Christ”
+Father’s soul, life ~(psychē)~
+: Mt 12:18; Heb 10:38?
 
-Gal 4:6; Php 1:19; 1Pe 1:11
+Son’s soul, life ~(psychē)~
+: Mt 20:28 ~(cf. Mk 10:45)~; Mt 26:38 ~(cf. Mk 14:34)~; Jn 10:11, 15, 17; 12:27; Ac 2:27 ~(cites Ps 16:10)~; 1Jn 3:16
 
-### Father’s soul, life ~(psychē)~
+Son’s mind ~(nous)~
+: 1Co 2:16
 
-Mt 12:18; Heb 10:38?
+Spirit’s mind ~(phronēma)~
+: Ro 8:27
 
-### Son’s soul, life ~(psychē)~
-
-Mt 20:28 ~(cf. Mk 10:45)~; Mt 26:38 ~(cf. Mk 14:34)~; Jn 10:11, 15, 17; 12:27; Ac 2:27 ~(cites Ps 16:10)~; 1Jn 3:16
-
-### Son’s mind ~(nous)~
-
-1Co 2:16
-
-### Spirit’s mind ~(phronēma)~
-
-Ro 8:27
-
-### Father’s will, Son’s will, Spirit’s will
-
-—
+Father’s will, Son’s will, Spirit’s will
+: —
 
 ## Social Trinitarianism
 

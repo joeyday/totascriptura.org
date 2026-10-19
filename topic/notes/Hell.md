@@ -6,77 +6,59 @@
 
 ## Notes on Rev. Kubo’s article about second chances
 
-### Hades is temporary, intermediate state
+Hades is temporary, intermediate state
+: Rev 20:13–14
 
-Rev 20:13–14
+Both righteous and unrighteous in Sheol/Hades
+: Ge 37:35; 1Sa 28:13; Ps 88:3; Ecc 9:10
 
-### Both righteous and unrighteous in Sheol/Hades
+Rich man went to Hades
+: Lk 16:19–31
 
-Ge 37:35; 1Sa 28:13; Ps 88:3; Ecc 9:10
+The Book of Enoch is an okay place to get doctrine from because Jude refers to it
+: Jude 1:14–15 ~(supposedly cites Enoch 1:9)~
 
-### Rich man went to Hades
+Whenever Jesus names names he’s telling a true story, not a parable
+: Mt 6:29; Mt 12:13
 
-Lk 16:19–31
+Jesus preached and converted people in Hades during his three days in the tomb
+: Ac 2:27, 31; Eph 4:8–9; ==1Pe 3:18–20== ~(same word for “preach” is used at Mt 4:23; Lk 9:2; Ac 9:20; Ro 10:8; 1Co 1:23; Gal 2:2; 2Ti 4:2)~; ==1Pe 4:6==
 
-### The Book of Enoch is an okay place to get doctrine from because Jude refers to it
+Christians go straight to heaven at death
+: 2Co 5:8; Rev 6:9–11; 8:3
 
-Jude 1:14–15 ~(supposedly cites Enoch 1:9)~
+Hell, place of eternal torment, is prepared but currently empty
+: Mt 5:29; 25:41; Rev 20:10
 
-### Whenever Jesus names names he’s telling a true story, not a parable
+Gospel is for people in Hades, too
+: Ru 2:20; ==Php 2:8–11 ~(cf. confession at Ro 10:9)~==; Jn 5:25, 28; Ro 14:9
 
-Mt 6:29; Mt 12:13
+Voices of praise will be heard from Hades
+: Rev 5:13 ~(sometimes “every” means “very many”, as in Lk 7:29; Ac 2:47)~; Rev 19:5
 
-### Jesus preached and converted people in Hades during his three days in the tomb
+Many in Hades will still perish
+: Mt 7:13
 
-Ac 2:27, 31; Eph 4:8–9; ==1Pe 3:18–20== ~(same word for “preach” is used at Mt 4:23; Lk 9:2; Ac 9:20; Ro 10:8; 1Co 1:23; Gal 2:2; 2Ti 4:2)~; ==1Pe 4:6==
+God relents
+: Jer 18:8; Joel 2:13; Jnh 3:4
 
-### Christians go straight to heaven at death
+Job’s only hope in dark times was a second chance in Sheol
+: Job 14:13–17
 
-2Co 5:8; Rev 6:9–11; 8:3
+Book of Life is opened at judgment day
+: Rev 20:13, 15
 
-### Hell, place of eternal torment, is prepared but currently empty
+Gospel must be preached to “every creature”
+: Mk 16:15
 
-Mt 5:29; 25:41; Rev 20:10
+Two witnesses will preach in Hades during the 3½ days before they resurrect
+: Rev 11:7, 11–12
 
-### Gospel is for people in Hades, too
+By being saved you can affect the salvation of family members
+: Ge 19:29; Ex 20:5–6 ~— *additionally alludes to Ge 7:1; 26:4–5; 28:13–15*~
 
-Ru 2:20; ==Php 2:8–11 ~(cf. confession at Ro 10:9)~==; Jn 5:25, 28; Ro 14:9
-
-### Voices of praise will be heard from Hades
-
-Rev 5:13 ~(sometimes “every” means “very many”, as in Lk 7:29; Ac 2:47)~; Rev 19:5
-
-### Many in Hades will still perish
-
-Mt 7:13
-
-### God relents
-
-Jer 18:8; Joel 2:13; Jnh 3:4
-
-### Job’s only hope in dark times was a second chance in Sheol
-
-Job 14:13–17
-
-### Book of Life is opened at judgment day
-
-Rev 20:13, 15
-
-### Gospel must be preached to “every creature”
-
-Mk 16:15
-
-### Two witnesses will preach in Hades during the 3½ days before they resurrect
-
-Rev 11:7, 11–12
-
-### By being saved you can affect the salvation of family members
-
-Ge 19:29; Ex 20:5–6 ~— *additionally alludes to Ge 7:1; 26:4–5; 28:13–15*~
-
-### Response to the straw man that general revelation is enough for a person to be saved
-
-Ro 1:20; Ac 4:12; 1Jn 1:3
+Response to the straw man that general revelation is enough for a person to be saved
+: Ro 1:20; Ac 4:12; 1Jn 1:3
 
 ## Resources shared by Aaron
 
@@ -95,8 +77,7 @@ From the *ESV Study Bible*:
 >
 > \(3\) In a third view, some have advocated the idea that Christ offered a second chance of salvation to those in hell. This interpretation, however, is in direct contradiction with other Scripture (cf. Luke 16:26; Heb. 9:27) and with the rest of 1 Peter and therefore must be rejected on biblical and theological grounds, leaving either of the first two views as the most likely interpretation.[^1]
 
-### Every occurrence of plural *pneuma*
-
-Mt 8:16; 10:1; 12:45; Mk 1:27; 3:11; 5:13; 6:7; Lk 4:36; 6:18; 7:21; 8:2; 10:20; 11:26; Ac 5:16; 8:7; 19:12, 13; 1Co 12:10; 14:12, 32; 1Ti 4:1; Heb 1:7, 14; 12:9, 23; 1Pe 3:19; 1Jn 4:1; Rev 1:4; 3:1; 4:5; 5:6; 16:13, 14; 22:6 {{[[s]]|of these, only Heb 12:9 and Heb 12:23 definitely refer to human spirits, but 1Co 14:32 and Rev 22:6 may also}}
+Every occurrence of plural *pneuma*
+: Mt 8:16; 10:1; 12:45; Mk 1:27; 3:11; 5:13; 6:7; Lk 4:36; 6:18; 7:21; 8:2; 10:20; 11:26; Ac 5:16; 8:7; 19:12, 13; 1Co 12:10; 14:12, 32; 1Ti 4:1; Heb 1:7, 14; 12:9, 23; 1Pe 3:19; 1Jn 4:1; Rev 1:4; 3:1; 4:5; 5:6; 16:13, 14; 22:6 {{[[s]]|of these, only Heb 12:9 and Heb 12:23 definitely refer to human spirits, but 1Co 14:32 and Rev 22:6 may also}}
 
 [^1]: Crossway Bibles. (2008). <cite>The ESV Study Bible</cite> (pp. 2410–2411). Wheaton, IL: Crossway Bibles.

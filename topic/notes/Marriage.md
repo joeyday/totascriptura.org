@@ -4,4 +4,5 @@
 
 ## More topics to include
 
-### Adultery prohibited
+Adultery prohibited
+: —

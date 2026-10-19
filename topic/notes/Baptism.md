@@ -38,27 +38,25 @@ Jn 4:2; 1Co 1:14-17 —**Joey** 16:41, 15 August 2009 (UTC)
 
 ## Acted-out parables
 
-### Acted-out parables
-
-2Ki 13:14-19; Isa 20:1–6; Jer 19; 27:2–7; Eze 5:1–17; 12:1–16, 17–20; 24:1–14, 15–27; Ac 21:10–11
+Acted-out parables
+: 2Ki 13:14-19; Isa 20:1–6; Jer 19; 27:2–7; Eze 5:1–17; 12:1–16, 17–20; 24:1–14, 15–27; Ac 21:10–11
 
 ## Baptized “into” the name of
 
 The text of the baptismal formula is “εἰς τὸ ὄνομα” (“in the name”). This does not mean “in the authority of”, for if that were intended, a different construction “ἐν ὀνόματι” (“in the name”) would have been used instead. The baptismal formula is therefore better rendered “into the name”.
 
-### Examples of “εἰς τὸ ὄνομα”
-Mt 28:19; 1Co 10:2; 1:13; 12:13; Ro 6:3; Gal 3:27
+Examples of “εἰς τὸ ὄνομα”
+: Mt 28:19; 1Co 10:2; 1:13; 12:13; Ro 6:3; Gal 3:27
 
-### Examples of “ἐν ὀνόματι”
-Mt 21:9; Mk 16:17; Lk 10:17; Jn 14:26; Ac 3:6; 9:27
+Examples of “ἐν ὀνόματι”
+: Mt 21:9; Mk 16:17; Lk 10:17; Jn 14:26; Ac 3:6; 9:27
 
 > Interpreted in this light, the baptismal formula indicates that by baptism (that is, by that which is signified in baptism) the recipient is placed in a special relationship to the divine self-revelation, or to God as He has revealed Himself and revealed what He will be for His people, and at the same time becomes duty bound to live up to the light of that revelation.[^2]
 
 ## Was the trinitarian baptismal formula always used?
 
-### Examples where the trinitarian formula may not have been used
-
-Ac 2:38; 8:16; 10:48; 19:5; Ro 6:3; Gal 3:27
+Examples where the trinitarian formula may not have been used
+: Ac 2:38; 8:16; 10:48; 19:5; Ro 6:3; Gal 3:27
 
 > It is not necessary to assume that, when Jesus employed these words, He intended them as a formula to be used ever after. He merely used them as descriptive of the character of the baptism which He instituted . . . It is sometimes said with an appeal to such passages as . . . that the apostles evidently did not use the trinitarian formula; but this is not necessarily implied, though it is entirely possible since they did not understand the words of Jesus in the great commission as prescribing a definite formula. It is also possible, however, that the expressions used in the passages indicated served to stress certain particulars respecting the baptism of the apostles. It should be noted that the prepositions differ. Ac 2:38 speaks of a baptism “ἐπὶ τῷ ὀνόματι Ἰησοῦ Χριστοῦ”, which probably refers to a baptism on the confession of Jesus as the Messiah. According to Ac 10:48 those who were present in the house of Cornelius were baptized “ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ”, to indicate that they were baptized on the authority of Jesus. All the remaining passages mention a baptism “εἰς τὸ ὄνομα Ἰησοῦ Χριστοῦ” (or “τοῦ κυρίου Ἰησοῦ”), or simply a baptism “εἰς Χριστὸν”. These expressions may simply serve to stress the fact that the recipients were brought into special relationship to Jesus Christ, whom the apostles were preaching, and were thereby made subject to Him as their Lord. But whatever may have been the practice in the apostolic age, it is quite evident that when the Church later on felt the need of a formula, it could find no better than that contained in the words of the institution. This formula was already in use when the Didache (*The Teaching of the Twelve Apostles*) was written (c. 100 A.D.).[^3]
 
@@ -78,13 +76,11 @@ G.R. Beasley-Murray:
 
 ## Warnings against apostasy might make sense in context of infant baptism
 
-### Regenerate believers can’t lose their salvation
+Regenerate believers can’t lose their salvation
+: Jn 10:27–29; Ro 8:30
 
-Jn 10:27–29; Ro 8:30
-
-### Judgment on covenant members only makes sense if some covenant members are not yet regenerate
-
-Heb 10:28–30
+Judgment on covenant members only makes sense if some covenant members are not yet regenerate
+: Heb 10:28–30
 
 ## Argument from necessary inferences
 
@@ -100,63 +96,49 @@ The following example is given by Strawbridge in a footnote:
 
 ## Relevant greek words
 
-### Occurrences of βάπτισμα (n.)
+Occurrences of βάπτισμα (n.)
+: Mt 3:7; 21:25; Mk 1:4; 10:38, 39; 11:30; Lk 3:3; 7:29; 12:50; 20:4; Ac 1:22; 10:37; 13:24; 18:25; 19:3, 4; Ro 6:4; Eph 4:5; Col 2:12; 1Pe 3:21
 
-Mt 3:7; 21:25; Mk 1:4; 10:38, 39; 11:30; Lk 3:3; 7:29; 12:50; 20:4; Ac 1:22; 10:37; 13:24; 18:25; 19:3, 4; Ro 6:4; Eph 4:5; Col 2:12; 1Pe 3:21
+Occurrences of βαπτισμός (n.)
+: Mk 7:4; Heb 6:2; 9:10
 
-### Occurrences of βαπτισμός (n.)
+Occurrences of βαπτιστής (n.)
+: Mt 3:1; 11:11, 12; 14:2, 8; 16:14; 17:13; Mk 6:24, 25; 8:28; Lk 7:20, 33; 9:19
 
-Mk 7:4; Heb 6:2; 9:10
+Occurrences of βαπτίζω (v.)
+: Mt 3:6, 11, 13, 14, 16; 28:19; Mk 1:4, 5, 8, 9; 6:14, 24; 7:4; 10:38, 39; 16:16; Lk 3:7, 12, 16, 21; 7:29, 30; 11:38; 12:50; Jn 1:25, 26, 28, 31, 33; 3:22, 23, 26; 4:1, 2; 10:40; Ac 1:5; 2:38, 41; 8:12, 13, 16, 36, 38; 9:18; 10:47, 48; 11:16; 16:15, 33; 18:8; 19:3, 4, 5; 22:16; Ro 6:3; 1Co 1:13, 14, 15, 16, 17; 10:2; 12:13; 15:29; Gal 3:27
 
-### Occurrences of βαπτιστής (n.)
+Occurrences of βάπτω (v.)
+: Lk 16:24; Jn 13:26; Rev 19:13
 
-Mt 3:1; 11:11, 12; 14:2, 8; 16:14; 17:13; Mk 6:24, 25; 8:28; Lk 7:20, 33; 9:19
+Occurrences of λούω (v.)
+: Jn 13:10; Ac 9:37; Heb 10:22; 2Pe 2:22
 
-### Occurrences of βαπτίζω (v.)
+Occurrences of νίπτω (v.)
+: Mt 6:17; 15:2; Mk 7:3; Jn 9:7, 11, 15; 13:5, 6, 8, 10, 12, 14; 1Ti 5:10
 
-Mt 3:6, 11, 13, 14, 16; 28:19; Mk 1:4, 5, 8, 9; 6:14, 24; 7:4; 10:38, 39; 16:16; Lk 3:7, 12, 16, 21; 7:29, 30; 11:38; 12:50; Jn 1:25, 26, 28, 31, 33; 3:22, 23, 26; 4:1, 2; 10:40; Ac 1:5; 2:38, 41; 8:12, 13, 16, 36, 38; 9:18; 10:47, 48; 11:16; 16:15, 33; 18:8; 19:3, 4, 5; 22:16; Ro 6:3; 1Co 1:13, 14, 15, 16, 17; 10:2; 12:13; 15:29; Gal 3:27
+Occurrences of πλύνω (v.)
+: Rev 7:14; 22:14
 
-### Occurrences of βάπτω (v.)
+Occurrences of διαθήκη (n.)
+: Mt 26:28; Mk 14:24; Lk 1:72; 22:20; Ac 3:25; 7:8; Ro 9:4; 11:27; 1Co 11:25; 2Co 3:6, 14; Gal 3:15, 17; 4:24; Eph 2:12; Heb 7:22; 8:6, 8, 9, 10; 9:4, 15, 16, 17, 20; 10:16, 29; 12:24; 13:20; Rev 11:19
 
-Lk 16:24; Jn 13:26; Rev 19:13
+Occurrences of ὁμολογέω (v.)
+: Mt 7:23; 10:32; 14:7; Lk 12:8; Jn 1:20; 9:22; 12:42; Ac 7:17; 23:8; 24:14; Ro 10:9, 10; 1Ti 6:12; Tit 1:16; Heb 11:13; 13:15; 1Jn 1:9; 2:23; 4:2, 3, 15; 2Jn 1:7; Rev 3:5
 
-### Occurrences of λούω (v.)
+Occurrences of ἐπ-αγγέλλω
+: Mk 14:11; Ac 7:5; Ro 4:21; Gal 3:19; 1Ti 2:10; 6:21; Tit 1:2; Heb 6:13; 10:23; 11:11; 12:26; Jas 1:12; 2:5; 2Pe 2:19; 1Jn 2:25
 
-Jn 13:10; Ac 9:37; Heb 10:22; 2Pe 2:22
-
-### Occurrences of νίπτω (v.)
-
-Mt 6:17; 15:2; Mk 7:3; Jn 9:7, 11, 15; 13:5, 6, 8, 10, 12, 14; 1Ti 5:10
-
-### Occurrences of πλύνω (v.)
-
-Rev 7:14; 22:14
-
-### Occurrences of διαθήκη (n.)
-
-Mt 26:28; Mk 14:24; Lk 1:72; 22:20; Ac 3:25; 7:8; Ro 9:4; 11:27; 1Co 11:25; 2Co 3:6, 14; Gal 3:15, 17; 4:24; Eph 2:12; Heb 7:22; 8:6, 8, 9, 10; 9:4, 15, 16, 17, 20; 10:16, 29; 12:24; 13:20; Rev 11:19
-
-### Occurrences of ὁμολογέω (v.)
-
-Mt 7:23; 10:32; 14:7; Lk 12:8; Jn 1:20; 9:22; 12:42; Ac 7:17; 23:8; 24:14; Ro 10:9, 10; 1Ti 6:12; Tit 1:16; Heb 11:13; 13:15; 1Jn 1:9; 2:23; 4:2, 3, 15; 2Jn 1:7; Rev 3:5
-
-### Occurrences of ἐπ-αγγέλλω
-
-Mk 14:11; Ac 7:5; Ro 4:21; Gal 3:19; 1Ti 2:10; 6:21; Tit 1:2; Heb 6:13; 10:23; 11:11; 12:26; Jas 1:12; 2:5; 2Pe 2:19; 1Jn 2:25
-
-### ἐπαγγελία (n.)
-
-Lk 24:49; Ac 1:4; 2:33, 39; 7:17; 13:23, 32; 23:21; 26:6; Ro 4:13, 14, 16, 20; 9:4, 8, 9; 15:8; 2Co 1:20; 7:1; Gal 3:14, 16, 17, 18, 18, 21, 22, 29; 4:23, 28; Eph 1:13; 2:12; 3:6; 6:2; 1Ti 4:8; 2Ti 1:1; Heb 4:1; 6:12, 15, 17; 7:6; 8:6; 9:15; 10:36; 11:9, 9, 13, 17, 33, 39; 2Pe 3:4, 9; 1Jn 1:5; 2:25
+ἐπαγγελία (n.)
+: Lk 24:49; Ac 1:4; 2:33, 39; 7:17; 13:23, 32; 23:21; 26:6; Ro 4:13, 14, 16, 20; 9:4, 8, 9; 15:8; 2Co 1:20; 7:1; Gal 3:14, 16, 17, 18, 18, 21, 22, 29; 4:23, 28; Eph 1:13; 2:12; 3:6; 6:2; 1Ti 4:8; 2Ti 1:1; Heb 4:1; 6:12, 15, 17; 7:6; 8:6; 9:15; 10:36; 11:9, 9, 13, 17, 33, 39; 2Pe 3:4, 9; 1Jn 1:5; 2:25
 
 ## A couple of creative (but I think ultimately flawed) arguments
 
-### Use of “hinder” (κωλύω, διακωλύω)
+Use of “hinder” (κωλύω, διακωλύω)
+: Mt 3:14; Mt 19:14 ~(cf. Mk 10:14; Lk 18:16)~; Ac 8:36; 10:47; 11:17
 
-Mt 3:14; Mt 19:14 ~(cf. Mk 10:14; Lk 18:16)~; Ac 8:36; 10:47; 11:17
-
-### Structural similarity
-
-Mt 18:3 ~(cf. Mk 10:15; Lk 18:17)~; Jn 3:5
+Structural similarity
+: Mt 18:3 ~(cf. Mk 10:15; Lk 18:17)~; Jn 3:5
 
 Of this latter argument, Paul K. Jewett remarks:
 
@@ -178,9 +160,8 @@ This is relevant, I just don't quite know how yet: Lk 1:15, 41, 44
 
 I must've picked these references up in something I read, but I've completely forgotten the context or how exactly they are relevant. All I know is they somehow function as an antipedobaptist argument.
 
-### Outward circumcision is really no circumcision at all
-
-Ro 2:25﻿ff; Gal 5:12; Php 3:2–4; Col 3:11
+Outward circumcision is really no circumcision at all
+: Ro 2:25﻿ff; Gal 5:12; Php 3:2–4; Col 3:11
 
 Look back through history to see when I added this and try to piece back together what I must've been reading?
 
@@ -216,9 +197,8 @@ How is 1Jn 5:6–8 relevant to the discussion of baptism? —**Joey** 23:23, 20 
 
 Saving this here since I'm about to refactor a bit.
 
-### Places where βαπτίζω (baptizō) does not mean to immerse
-
-Nu 8:7; 19:13, 18–19, 20; Ps 51:7; Eze 36:25; Mt 3:11; Mk 7:2–4; Lk 11:37–38; 12:50; Ro 6:3; 1Co 10:1–2; 12:13; Heb 9:10 ~(cf. Heb 9:13–14, 19, 21)~
+Places where βαπτίζω (baptizō) does not mean to immerse
+: Nu 8:7; 19:13, 18–19, 20; Ps 51:7; Eze 36:25; Mt 3:11; Mk 7:2–4; Lk 11:37–38; 12:50; Ro 6:3; 1Co 10:1–2; 12:13; Heb 9:10 ~(cf. Heb 9:13–14, 19, 21)~
 
 Here’s an interesting website explaining meaning of baptō and baptizō: *[The Meaning and Mode of Baptism by Jay Adams](http://vftonline.org/VFTfiles/baptizo.htm)*
 
@@ -230,9 +210,8 @@ Ken Golden perfectly captures the maledictory oath aspect of both circumcision a
 
 *[Jeremiah 31:34, New Covenant Membership, and Baptism](http://scriptura.journals.ac.za/pub/article/download/1134/1079)* by Christian Locatell ~(recommended to me by Nate Taylor)~
 
-### “From least to greatest” in Jer 31:34 doesn’t prove church isn’t mixed
-
-Jer 5:4–5; 6:13; 8:10; 9:3–6; 16:6
+“From least to greatest” in Jer 31:34 doesn’t prove church isn’t mixed
+: Jer 5:4–5; 6:13; 8:10; 9:3–6; 16:6
 
 > The phrase, “all of them ... from the least of them to the greatest of them” has five parallels in the text preceding Jeremiah 31:34, each describing the apostate Mosaic Covenant community. In Jer 5:4–5, Jeremiah speaks of the knowledge of the Lord among the ‘poor’ and the ‘great.’ He expects the poor to not have a knowledge of the Lord (v. 4) but is shocked to find that even the great do not know the Lord (v. 5). Jeremiah’s description of the utter apostasy of the covenant community continues to Jer 6:13 when God himself declares, “from the least of them to the greatest of them, everyone makes unjust profit; and from prophet to priest, everyone practices deceit.” The next usage appears in Jer 8:10 where again, God declares, “from least to greatest, everyone makes unjust profit; from prophet to priest, everyone practices deceit.” In Jer 9:3–6, the Lord declares in inverse parallelism, “they do not know me” (A) and “every brother utterly betrays and every friend goes about as a slanderer” (B). “Everyone deceives his friend” (B') and “they refuse to know me” (A'). Finally, in Jer 16:6, God says that the judgment for his covenant people’s apostasy is that “great and small will die.”
 > 

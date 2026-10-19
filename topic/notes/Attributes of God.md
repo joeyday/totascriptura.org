@@ -64,7 +64,8 @@ A great article on impassibility: *[Tis Mystery All, the Immortal Dies: Why the 
 
 I also have saved to my Dropbox an article of DeYoung’s that appeared in the *Westminster Theological Journal*.
 ## Light
-### Light
-2Sa 22:29; Ps 4:6; 18:28; 27:1; 84:11; Isa 51:4; 60:1–2, 19–20; Mic 7:8; Mal 4:2; Lk 1:78; Jn 1:4; 8:12; 9:5; 12:46; Jas 1:17; 1Jn 1:5–7; Rev 21:23; 22:5 ~— *see also Ps 119:105; Pr 6:23; 2Pe 1:19*~
+
+Light
+: 2Sa 22:29; Ps 4:6; 18:28; 27:1; 84:11; Isa 51:4; 60:1–2, 19–20; Mic 7:8; Mal 4:2; Lk 1:78; Jn 1:4; 8:12; 9:5; 12:46; Jas 1:17; 1Jn 1:5–7; Rev 21:23; 22:5 ~— *see also Ps 119:105; Pr 6:23; 2Pe 1:19*~
 
 Proverbs 20:27 — What’s up with this verse?
