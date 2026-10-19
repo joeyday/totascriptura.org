@@ -1,8 +1,8 @@
-## Every Scripture in *Institutes* II.XVI
-This list contains every Scripture passage referenced or alluded to in Calvin’s *Institutes of the Christian Religion*, book II, chapter XVI.
+## Every Scripture in <cite>Institutes</cite> II.XVI
+This list contains every Scripture passage referenced or alluded to in Calvin’s <cite>Institutes of the Christian Religion</cite>, book II, chapter XVI.
 
 1\. The Redeemer
-: Mt 1:21 ~(cf. Lk 1:31)~; Ac 4:12
+: Mt 1:21 (cf. Lk 1:31); Ac 4:12
 
 2\. The awareness of God’s wrath makes us thankful for his loving act in Christ
 : Ro 5:10; Gal 3:10; Col 1:21–22
@@ -14,13 +14,13 @@ This list contains every Scripture passage referenced or alluded to in Calvin’
 : Jn 3:16; Ro 5:8, 10; Eph 1:4–5
 
 5\. Christ has redeemed us through his obedience, which he practiced throughout his life
-: Ps 39:9; Isa 53:7 ~(cf. Ac 8:32)~; Mt 3:15; 20:28; 27:12, 14; Jn 1:29; 10:15, 18; 18:4; Ro 3:24–25; 4:25; 5:9–10, 19; 2Co 5:21; Gal 4:4–5; Php 2:7–8; Heb 10:7, 9
+: Ps 39:9; Isa 53:7 (cf. Ac 8:32); Mt 3:15; 20:28; 27:12, 14; Jn 1:29; 10:15, 18; 18:4; Ro 3:24–25; 4:25; 5:9–10, 19; 2Co 5:21; Gal 4:4–5; Php 2:7–8; Heb 10:7, 9
 
 (The condemnation through Pilate)
-: Ps 69:4; Isa 53:5, 12; Mt 27:23; Mk 15:28 ~(cf. Isa 53:12)~; Jn 18:38
+: Ps 69:4; Isa 53:5, 12; Mt 27:23; Mk 15:28 (cf. Isa 53:12); Jn 18:38
 
 6\. “Crucified”
-: Isa 53:5–6, 10; Dt 21:23; Ro 8:3; 2Co 5:21; Gal 3:13–14 ~(cites Dt 21:23)~; Eph 5:26; Col 2:14–15; Tit 3:5; Heb 9:14; 1Pe 2:24; Rev 1:5
+: Isa 53:5–6, 10; Dt 21:23; Ro 8:3; 2Co 5:21; Gal 3:13–14 (cites Dt 21:23); Eph 5:26; Col 2:14–15; Tit 3:5; Heb 9:14; 1Pe 2:24; Rev 1:5
 
 7\. “Dead and buried”
 : Ro 6:4–5; Gal 2:19; 6:14; Col 3:3; Heb 2:9, 14–15; 1Pe 3:22
@@ -64,17 +64,17 @@ This list contains every Scripture passage referenced or alluded to in Calvin’
 ## Important keywords
 Some of these lists are not exhaustive, since some instances of these words are not directly related (at least in their immediate context) to the atoning work of Christ.
 
-Propitiation ~(ἱλασμός)~
+Propitiation (ἱλασμός)
 : Ro 3:25; Heb 2:17; 1Jn 2:2; 4:10
 
-Reconcile or reconciliation ~(καταλλάσσω)~
+Reconcile or reconciliation (καταλλάσσω)
 : Ro 5:10–11; 11:15; 2Co 5:18–20; Eph 2:16; Col 1:20, 22
 
 Sacrifice or offering
 : 1Co 5:7; Eph 5:2; Heb 9:14, 23, 26, 28; 10:10, 12, 14
 
 Blood of the covenant
-: Mt 26:28 ~(cf. Mk 14:24; Lk 22:20)~; 1Co 11:25; Heb 9:20; 10:29; 12:24; 13:20
+: Mt 26:28 (cf. Mk 14:24; Lk 22:20); 1Co 11:25; Heb 9:20; 10:29; 12:24; 13:20
 
 Justify or justification
 : Ro 3:24; 4:18, 25; 5:9

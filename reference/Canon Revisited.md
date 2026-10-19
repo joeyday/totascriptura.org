@@ -4,7 +4,7 @@ categories:
 draft: true
 hidden: true
 ---
-This topic comprises my notes while reading Michael J. Kruger’s book, *Canon Revisited: Establishing the Origins and Authority of the New Testament Books*.
+This topic comprises my notes while reading Michael J. Kruger’s book, <cite>Canon Revisited: Establishing the Origins and Authority of the New Testament Books</cite>.
 
 ## Providential exposure
 

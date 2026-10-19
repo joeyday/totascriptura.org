@@ -26,7 +26,7 @@ We will inherit thrones, even Christ’s
 : 1Sa 2:8; Job 36:7; Eph 2:6; Rev 3:21
 
 We will inherit crowns
-: Ps 8:5; 103:4; Pr 14:18; Isa 28:5; 2Ti 4:8; Heb 2:7 ~(cites Ps 8:5)~; Jas 1:12; 1Pe 5:4; Rev 2:10; 3:11; 4:4, 10
+: Ps 8:5; 103:4; Pr 14:18; Isa 28:5; 2Ti 4:8; Heb 2:7 (cites Ps 8:5); Jas 1:12; 1Pe 5:4; Rev 2:10; 3:11; 4:4, 10
 
 We will inherit kingdoms, dominion
 : Ge 1:26, 28; Ps 8:6; Mt 25:34; Lk 12:32; 22:29; 2Ti 2:12; Rev 1:6; 5:10

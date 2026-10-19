@@ -5,7 +5,7 @@ featured: true
 ---
 ![[Work-table-2.png|300x137]]
 
-Creation from nothing ~(most explicit passages)~
+Creation from nothing (most explicit passages)
 : {{[[ex-nihilo]]}}
 
 Nothing exists God did not create
@@ -26,7 +26,7 @@ All instances of Heb. *bara*, to create
 ## Difficult passages
 
 Water was pre-existent?
-: Ge 1:2; Ps 24:2; 136:6; 2Pe 3:5 ~— *but see Ps 148:4–5; Pr 8:23–24; Rev 14:7*~
+: Ge 1:2; Ps 24:2; 136:6; 2Pe 3:5 — but see Ps 148:4–5; Pr 8:23–24; Rev 14:7
 
 ## See also
 * [[Creation]]

@@ -17,7 +17,7 @@ I don't know how super relevant this is, but one issue I see with slavery in the
 Is that racist? What else does the Law say about treatment of foreigners and sojourners?
 
 Treat strangers, sojourners fairly
-: Ex 22:21; Lev 19:33–34; Dt 10:19 ~— *see also Ex 12:49; Nu 15:15–16*~
+: Ex 22:21; Lev 19:33–34; Dt 10:19 — see also Ex 12:49; Nu 15:15–16
 
 A similar difference between native Israelites and foreigners was that you weren't allowed by the Law to charge interest on loans to other Israelites, but you could charge interest on loans to foreigners.
 
@@ -34,7 +34,7 @@ Paul refers to himself as a prisoner of Christ in Eph 3:1 and Phm 1:1. Need to t
 
 ## Come, Thou Fount of Every Blessing
 
-The third and final verse of *Come, Thou Fount of Every Blessing* describes grace as both a debtor and a fetter that binds our wandering hearts to God.
+The third and final verse of <cite>Come, Thou Fount of Every Blessing</cite> describes grace as both a debtor and a fetter that binds our wandering hearts to God.
 
 > O to grace how great a debtor daily I’m constrained to be;\
 > let that grace now, like a fetter, bind my wand’ring heart to thee.\

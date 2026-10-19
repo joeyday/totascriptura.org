@@ -4,7 +4,7 @@ Necessary practices
 : Mt 6:1
 
 Sufficient practices
-: Mt 6:33; 10:41; 13:49; 25:31–40, 46; Lk 14:12–14; Ac 2:21 ~(cites Joel 2:32)~; Ac 10:35; 13:39; Ro 10:13 ~(cites Joel 2:32)~; Jn 10:9; 1 Ti 4:13–16
+: Mt 6:33; 10:41; 13:49; 25:31–40, 46; Lk 14:12–14; Ac 2:21 (cites Joel 2:32); Ac 10:35; 13:39; Ro 10:13 (cites Joel 2:32); Jn 10:9; 1 Ti 4:13–16
 
 Necessary or sufficient, or both?
 : Mt 12:37; Lk 18:9–14; Jas 1:26–27
@@ -30,5 +30,5 @@ Suggestions from Sam
 : Mt 7:21; Ro 2:13; 1Co 6:9, 15:2; Heb 9:5; 10:26
 
 Suggestions from @rconger24
-: *Comment on Sam’s temple recommend interview YouTube video:* Mt 7:24 ~(cf. Lk 6:46)~; Jn 14:15, 21, 23, 24; 15:10, 14; 1Jn 2:3–5; 5:3; Jas 1:22
+: *Comment on Sam’s temple recommend interview YouTube video:* Mt 7:24 (cf. Lk 6:46); Jn 14:15, 21, 23, 24; 15:10, 14; 1Jn 2:3–5; 5:3; Jas 1:22
 

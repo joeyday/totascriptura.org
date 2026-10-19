@@ -1,4 +1,4 @@
-## Scripture index to Roger Olson’s *Arminian Theology*
+## Scripture index to Roger Olson’s <cite>Arminian Theology</cite>
 Yup, this is all the Scripture he cites in his whole 250-page book.
 
 | Scripture passage | Page number(s)                                                                               |
@@ -52,7 +52,7 @@ Yup, this is all the Scripture he cites in his whole 250-page book.
 
 > “the capacity to believe does belong to nature, but actual believing belongs to grace, and no one actually does believe without prevenient and accompanying grace.”[^3]
 
-## Scripture index to Austin Fischer’s *Young, Restless, No Longer Reformed*
+## Scripture index to Austin Fischer’s <cite>Young, Restless, No Longer Reformed</cite>
 
 | Scripture passage                                             | Page number(s)                                                                     |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------|

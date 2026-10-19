@@ -71,7 +71,7 @@ We belong to God by virtue of creation
 : Ps 24:1; 100:3; Isa 43:1, 7
 
 We belong to God by virtue of new creation
-: Ac 27:23; Ro 1:6; 7:4; 1Co 6:19–20 ~(cf. 1Co 7:23)~; 1Co 15:23; Gal 5:24
+: Ac 27:23; Ro 1:6; 7:4; 1Co 6:19–20 (cf. 1Co 7:23); 1Co 15:23; Gal 5:24
 
 He is our God and we are his people
 : {{[[i-will-be-their-god]]}}

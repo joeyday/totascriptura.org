@@ -28,8 +28,8 @@ J.I. Packer:
 
 > God has no *passions*. This does not mean that he is unfeeling (impassive) or that there is nothing in him that corresponds to emotions and affections in us, but that whereas human passions—especially the painful ones, fear, grief, regret, despair—are in a sense passive and involuntary, being called forth and constrained by circumstances not under our control, the corresponding attitudes in God have the nature of deliberate, voluntary choices, and therefore are not of the same order as human passions at all.[^3]
 
-[^1]: Lister, Rob. *God Is Impassible and Impassioned: Toward a Theology of Divine Emotion* (Kindle Locations 551–557). Crossway. Kindle Edition.
+[^1]: Lister, Rob. <cite>God Is Impassible and Impassioned: Toward a Theology of Divine Emotion</cite> (Kindle Locations 551–557). Crossway. Kindle Edition.
 
-[^2]: Carson, D.A. *The Difficult Doctrine of the Love of God* (Kindle Locations 508–542). Kindle Edition.
+[^2]: Carson, D.A. <cite>The Difficult Doctrine of the Love of God</cite> (Kindle Locations 508–542). Kindle Edition.
 
-[^3]: Packer, J.I. *Knowing God* (p. 136). InterVarsity Press. Kindle Edition.
+[^3]: Packer, J.I. <cite>Knowing God</cite> (p. 136). InterVarsity Press. Kindle Edition.

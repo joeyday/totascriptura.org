@@ -28,7 +28,7 @@ Apostles thank God for peoples’ faith
 : Ro 1:8; 1Co 1:4–9; Eph 1:15–18; Col 1:3–4; 1Th 1:2–5; 2:13; 3:7–10; 2Th 1:3; 2:13–14; Phm 1:4–5
 
 Jesus draws men to himself
-: Jn 6:44, 63–65 ~— *see also Jn 12:32*~
+: Jn 6:44, 63–65 — see also Jn 12:32
 
 ## See also
 

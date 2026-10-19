@@ -11,7 +11,7 @@ Priesthood restricted to Levites
 : Ex 40:15; Lev 8; Nu 3:6–12
 
 Abraham blessed by Melchizedek
-: Ge 14:17–24 ~(Ge 14:1–24)~
+: Ge 14:17–24 (Ge 14:1–24)
 
 A priest after the order of Melchizedek
 : Ps 110

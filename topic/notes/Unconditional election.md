@@ -40,7 +40,7 @@ Peter
 Rufus
 : Ro 16:13
 
-A lady and her sister ~(possibly euphemisms?)~
+A lady and her sister (possibly euphemisms?)
 : 2Jn 1:1, 13
 
 ## Greek words
@@ -97,4 +97,4 @@ Mt 4:21; 9:13; 22:14; Mk 1:20; 2:17; Lk 5:32; Jn 10:3; Ac 2:39; Ro 1:6–7; 8:28
 
 > Those whom God chose before the creation of the world, he also calls in due time by his Spirit (Eph 1:4–15). The connection between election and calling is well attested, both within the Pauline corpus (Ro 9:6-24; Eph 1:4–13; 2Th 2:13–15; 2Ti 1:9) and elsewhere (Jn 6:29, 37, 44, 63–64; 15:16, 19; Ac 13:48; 1Pe 1:2; 2Pe 1:10), and both election and calling proceed as the execution of an eternal covenant of redemption within the context of a historical covenant of grace. In effectual calling, the Spirit unites us here and now to the Christ who redeemed us in the past.[^1]
 
-[^1]: Michael Horton, *The Christian Faith*
+[^1]: Michael Horton, <cite>The Christian Faith</cite>

@@ -1,9 +1,9 @@
 ## Todo
 Is this another example of the words of Yahweh ascribed to the Holy Spirit? Heb 3:7–11 ~(Ps 95:7–11)~ —**Joey** 17:22, 10 October 2012 (UTC)
 ## Jones of Nayland’s proof texts
-Transcribe Jones’s proof texts from his [*Catholic Doctrine of a Trinity*](https://play.google.com/books/reader?printsec=frontcover&output=reader&id=lgE3AAAAMAAJ&pg=GBS.PA103).
+Transcribe Jones’s proof texts from his [<cite>Catholic Doctrine of a Trinity</cite>](https://play.google.com/books/reader?printsec=frontcover&output=reader&id=lgE3AAAAMAAJ&pg=GBS.PA103).
 ## Ericksen’s proof texts
-Proof texts from Ericksen’s *Making Sense of the Trinity*. Deleting as I go.
+Proof texts from Ericksen’s <cite>Making Sense of the Trinity</cite>. Deleting as I go.
 
 Moreover, Jesus attributed to the Holy Spirit the ability to change human hearts and personalities: it is the Spirit who works conviction (John 16:8–11) and regeneration (John 3:5–8) within us. Elsewhere he had said with respect to this ability to change human hearts: “With man this is impossible, but with God all things are possible” (Matt. 19:25–26). While these texts do not specifically affirm that the Spirit is omnipotent, they certainly indicate that he has power which presumably only God has.
 

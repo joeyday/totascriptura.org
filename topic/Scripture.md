@@ -39,7 +39,7 @@ Responsibility to read Scripture implies perspicuity
 : Dt 6:6–7; Ps 1:2; 1Ti 4:13
 
 NT authors assume OT is easy to understand
-: Mt 12:3 ~(cf. Lk 6:3)~; Mt 12:5, 7; 19:4; 21:42; 22:29, 31; Mk 12:10, 26; Jn 3:10; Ro 4:1–25; 15:4; 1Co 10:1–11; 2Ti 3:16–17 ~— *cf. Mt 9:13; 15:3; 21:13*~
+: Mt 12:3 (cf. Lk 6:3); Mt 12:5, 7; 19:4; 21:42; 22:29, 31; Mk 12:10, 26; Jn 3:10; Ro 4:1–25; 15:4; 1Co 10:1–11; 2Ti 3:16–17 — cf. Mt 9:13; 15:3; 21:13
 
 NT authors assume church will understand their writings
 : Jn 20:30–31; 1Co 1:2; 10:15; 2Co 1:13; Gal 1:2; Php 1:1; Col 4:16; Jas 1:1, 22–25; 1Pe 1:1; 2:2; 2Pe 1:19; 1Jn 5:13
@@ -60,7 +60,7 @@ He is sovereignly able to preserve it
 : Ps 135:6; Da 4:35; Ac 17:25–28; Eph 1:11; Heb 1:3
 
 God preserves his word
-: Isa 40:8; 55:11; Mt 5:18; 24:35 ~(cf. Mk 13:31; Lk 21:33)~; Lk 16:17; Jn 10:35
+: Isa 40:8; 55:11; Mt 5:18; 24:35 (cf. Mk 13:31; Lk 21:33); Lk 16:17; Jn 10:35
 
 ## Divine qualities of
 
@@ -79,13 +79,13 @@ Prophets were given God’s word
 : Dt 18:18–19; Isa 30:8; Jer 1:9–10; 36:1–32
 
 Old Testament foretells that new revelation would be given
-: Dt 18:18; Lk 24:46–47 ~(cites Isa 2:2–3; 61:1–2)~
+: Dt 18:18; Lk 24:46–47 (cites Isa 2:2–3; 61:1–2)
 
 Apostles were ministers of new covenant
-: Lk 22:20; Jn 20:21; Ac 10:39–42; 2Co 3:6 ~(cf. Ex 24:7; 34:28; Dt 29:21; 2Co 3:14)~
+: Lk 22:20; Jn 20:21; Ac 10:39–42; 2Co 3:6 (cf. Ex 24:7; 34:28; Dt 29:21; 2Co 3:14)
 
 Apostles were agents of canon
-: Mt 16:18; Mk 3:14–15; Lk 1:1–4; 10:16 ~(cf. Mt 10:40; Jn 13:20)~; Jn 16:13; 20:21; 1Jn 4:6; Ac 10:39–42; 1Co 11:23; 15:3; Eph 2:20; 3:7–11; Heb 2:2–3; 2Pe 3:2 ~— *see also Ro 6:17; Gal 1:9; 4:14; Php 4:9; Col 2:6–8; 1Th 2:13–15; 2Th 2:15; 1Ti 6:20; 2Ti 1:14; 2Pe 2:21; Jude 1:3*~
+: Mt 16:18; Mk 3:14–15; Lk 1:1–4; 10:16 (cf. Mt 10:40; Jn 13:20); Jn 16:13; 20:21; 1Jn 4:6; Ac 10:39–42; 1Co 11:23; 15:3; Eph 2:20; 3:7–11; Heb 2:2–3; 2Pe 3:2 — see also Ro 6:17; Gal 1:9; 4:14; Php 4:9; Col 2:6–8; 1Th 2:13–15; 2Th 2:15; 1Ti 6:20; 2Ti 1:14; 2Pe 2:21; Jude 1:3
 
 Apostles seemed aware they were writing Scripture
 : Mk 1:1; Jn 20:31; 21:24; 1Co 7:12; 14:37–38; Col 1:25; 1Th 2:13; 2Th 2:15; 1Jn 1:1–5; Rev 1:1–3
@@ -106,13 +106,13 @@ Apostles recognized each others’ writings as Scripture
 
 ## Sufficiency of
 
-Scripture is the only rule of faith and life ~(sola Scriptura)~
+Scripture is the only rule of faith and life (sola Scriptura)
 : Jos 1:8; Isa 8:20; Ac 17:11; Ro 15:4; 2Ti 3:15–16; 2Pe 1:19–21
 
 Prohibitions against adding to, taking away from Scripture
 : Dt 4:2; 12:32; Pr 30:6; 1Co 4:6; Gal 1:6–9; 2Th 2:1–2; Jude 1:3; Rev 22:18–19
 
-All Scripture is profitable ~(tota Scriptura)~
+All Scripture is profitable (tota Scriptura)
 : Mt 28:19–20; Lk 24:27; Ac 20:26–27; 2Ti 3:16–17
 
 ## See also

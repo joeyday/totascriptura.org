@@ -15,7 +15,7 @@ The table above is excerpted from *[A Case for Amillennialism: Understanding the
 
 ## Daniel’s seventy weeks
 
-I like these charts I got from Doug Cox’s *Creation Concept* blog on the various interpretations of the seventy weeks.
+I like these charts I got from Doug Cox’s <cite>Creation Concept</cite> blog on the various interpretations of the seventy weeks.
 
 ![[Seventy-weeks-preterist.png|300x133]]
 

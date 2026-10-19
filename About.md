@@ -39,7 +39,7 @@ This new emphasis on completion is why I chose **Tota Scriptura** as the title f
 :::
 
 ## The inspiration
-Great encouragement for this project is found in the opening chapter of Wayne Grudem’s *Systematic Theology*:
+Great encouragement for this project is found in the opening chapter of Wayne Grudem’s <cite>Systematic Theology</cite>:
 
 > A good theological analysis must find and treat fairly all the relevant Bible passages for each particular topic, not just some or a few of the relevant passages.[^grudem24]
 
@@ -61,7 +61,7 @@ February 2017
 [^psalms1]: Psalms 119:105
 [^hebrews]: Hebrews 4:12
 [^acts]: Acts 20:26–27
-[^sproul]: Sproul, R.C. “Tota Scriptura.” *Tabletalk Magazine*. Oct 2008 (pp. 4–7).
+[^sproul]: Sproul, R.C. “Tota Scriptura.” <cite>Tabletalk Magazine</cite>. Oct 2008 (pp. 4–7).
 [^luke]: Luke 24:27
 [^timothy]: 2 Timothy 3:16–17
 [^grudem24]: Grudem, Wayne (2009). <cite>Systematic Theology: An Introduction to Biblical Doctrine</cite> (p. 24). Zondervan.

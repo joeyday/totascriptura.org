@@ -11,7 +11,7 @@ Elect are predestined to persevere
 : Jn 15:16
 
 Christ intercedes for the elect
-: {{[[intercession]]}} {{[[s]]|and the Father grants every prayer of Jesus: Ps 2:7–8; Jn 11:41–42}}
+: {{[[intercession]]}} — and the Father grants every prayer of Jesus: Ps 2:7–8; Jn 11:41–42
 
 Holy Spirit seals and guarantees
 : 2Co 1:21–22; 5:5; Eph 1:11–14; 4:30
@@ -38,10 +38,10 @@ Impossible to lead elect astray
 : Mt 24:22–24
 
 A house built on a rock cannot fall
-: Mt 7:24–27 ~(cf. Lk 6:47–49)~
+: Mt 7:24–27 (cf. Lk 6:47–49)
 
 Election, salvation (or lack thereof) evidenced by perseverance
-: Mt 10:22; Mt 24:13 ~(cf. Mk 13:13; Lk 21:19)~; Jn 8:31–32; Heb 3:14; 1Jn 2:19-20; 3:9; Rev 2:10
+: Mt 10:22; Mt 24:13 (cf. Mk 13:13; Lk 21:19); Jn 8:31–32; Heb 3:14; 1Jn 2:19-20; 3:9; Rev 2:10
 
 ## See also
 

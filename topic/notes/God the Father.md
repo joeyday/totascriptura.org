@@ -1,16 +1,16 @@
 ## Additional relevant passages
 
-Some are not children of God ~(not exhaustive)~
-: Ge 3:15; 6:1–4 ~(subject to [[topic/Sons of God in Genesis 6|interpretation]])~; Dt 32:5; Isa 1:4; 14:20; 57:3–4; Eze 16:44–45; Mal 2:11; Mt 13:38; 15:24–26 ~(cf. Mk 7:27–28)~; Mt 23:15; Lk 16:8; 20:34-36; Jn 8:38-47; 17:12; Ac 13:10; Ro 9:8; Gal 4:21–31; Eph 2:2-3; 5:6; Col 3:6 NASB; 1Th 5:5; 2Th 2:3; Heb 12:8; 1Jn 3:10
+Some are not children of God (not exhaustive)
+: Ge 3:15; 6:1–4 (subject to [[topic/Sons of God in Genesis 6|interpretation]]); Dt 32:5; Isa 1:4; 14:20; 57:3–4; Eze 16:44–45; Mal 2:11; Mt 13:38; 15:24–26 (cf. Mk 7:27–28); Mt 23:15; Lk 16:8; 20:34-36; Jn 8:38-47; 17:12; Ac 13:10; Ro 9:8; Gal 4:21–31; Eph 2:2-3; 5:6; Col 3:6 NASB; 1Th 5:5; 2Th 2:3; Heb 12:8; 1Jn 3:10
 
 Idols and false gods called father
 : Dt 13:13 KJV; Jdg 19:22; 20:13 KJV; 1Sa 1:16; 2:12; 10:27; 25:17, 25; 30:22 KJV; 2Sa 16:7; 20:1; 23:6 KJV; 1Ki 21:10, 13 KJV; 2Ch 13:7 KJV; Jer 2:27; Mal 2:11
 
 Moses called father
-: Nu 11:12 ~(“did I \[Moses] conceive all this people?”)~
+: Nu 11:12 (“did I \[Moses] conceive all this people?”)
 
 Paul called father
-: 1Co 4:14–17; 2Co 12:14–15; Gal 4:19; Php 2:22 ~(allegorically)~; 1Th 2:7 ~(allegorically “a nursing mother”!)~; 1Th 2:11–12 ~(allegorically)~; 1Ti 1:2, 18; 2Ti 1:2; 2:1; Tit 1:4; Phm 1:10
+: 1Co 4:14–17; 2Co 12:14–15; Gal 4:19; Php 2:22 (allegorically); 1Th 2:7 (allegorically “a nursing mother”!); 1Th 2:11–12 (allegorically); 1Ti 1:2, 18; 2Ti 1:2; 2:1; Tit 1:4; Phm 1:10
 
 John called father
 : 1Jn 2:1; 2:12–13; 2:18; 2:28; 3:7; 3:18; 4:4; 5:21; 3Jn 1:4
@@ -18,7 +18,7 @@ John called father
 Any sense in which believers are Christ’s children?
 : Ps 22:30; Isa 9:6; 53:10
 
-Someone called “son”, “daughter”, “child”, or “children” ~(not exhaustive)~
+Someone called “son”, “daughter”, “child”, or “children” (not exhaustive)
 : Jer 31:22; 49:4; Matt 9:22; Mark 2:5; 5:34; 10:24; Luke 8:48; John 8:35; 13:33; 21:5; Gal 4:1-3; 1 John 2:1; 2:12–13; 2:18; 2:28; 3:7; 3:18; 4:4; 5:21
 
 ## Todo: More Keywords?
@@ -28,7 +28,7 @@ I think James 1:18 is relevant to this topic, but what kind of search keyword(s)
 ## Bible passages cited in LDS sources
 
 Cited in [Preach My Gospel](http://lds.org/library/display/0,4945,8057-1-4424-1,00.html)
-: Ac 17:29 ~(variously cited as Ac 17:29; 17:27–29; 17:16–34)~; Ro 8:16; Heb 12:9
+: Ac 17:29 (variously cited as Ac 17:29; 17:27–29; 17:16–34); Ro 8:16; Heb 12:9
 
 Cited in [LDS Topical Guide › Man, a Spirit Child of Heavenly Father](https://www.churchofjesuschrist.org/study/scriptures/tg/man-a-spirit-child-of-heavenly-father?lang=eng)
 : Nu 16:22; Dt 14:1; Job 32:8; Job 33:4; Ps 82:6; Ecc 12:7; Isa 42:5; Hos 1:10; Mal. 2:10; Mt 5:48; Mt 6:9; Ac 17:29; Ro 8:16; Eph 4:6; Heb 12:9
@@ -52,7 +52,7 @@ Take a look at Eph 3:14 ESV and Eph 3:14 KJV. In this case, the KJV says God is 
 Fascinating! Did you know the phrase “only begotten son” is only applied to Jesus by John the gospel writer, and he only uses it five times? (The only other time it appears in the New Testament is when it is applied to Abraham's son, Isaac, by the author of Hebrews.)
 
 Only Begotten Son
-: Jn 1:14, 18; 3:16, 18; 1Jn 4:9 ~(cf. NASB)~
+: Jn 1:14, 18; 3:16, 18; 1Jn 4:9 (cf. NASB)
 
 Here’s where this gets interesting. The very first instance, John 1:14, is clearly metaphorical. I believe we must interpret John’s four additional uses of the phrase the same way as his first. I think every time John calls Jesus the only begotten son he is echoing the poetic imagery of John 1, where Jesus’ glory is said to be *like* that of an only begotten son of a father.
 
@@ -73,7 +73,7 @@ See also [Monogenēs](https://en.wikipedia.org/wiki/Monogenēs).
 :::
 
 ::: three-tabs
-Charles Lee Irons has recently argued very persuasively is a series of articles and a chapter in Fred Sanders and Scott Swain’s *Retrieving Eternal Generation* that monogenēs does really mean “only begotten”.
+Charles Lee Irons has recently argued very persuasively is a series of articles and a chapter in Fred Sanders and Scott Swain’s <cite>Retrieving Eternal Generation</cite> that monogenēs does really mean “only begotten”.
 :::
 ## Israel as son of God in Torah
 Need to read this article and see how relevant it is to this topic: [“Israel as son of God in Torah”](http://www.highbeam.com/doc/1G1-117772734.html). —**Joey** 17:35, 13 July 2011 (UTC)
@@ -89,7 +89,7 @@ Eph 3:15 is relevant to this topic. Important note: the Greek word for family, �
 [http://blog.mrm.org/2011/05/gods-offspring/](http://blog.mrm.org/2011/05/gods-offspring/)
 
 Some notable quotes from the video (these have not been transcribed necessarily word-for-word here):
-> “Harnack, for example, in the 19th century published a book that is still in print and very influential, a simple little book entitled *What is Christianity?* and he boils Christianity down to this very basal common denominator that has two central affirmations: the universal fatherhood of God and the universal brotherhood of man.&nbsp;.&nbsp;.&nbsp;. Well, orthodox Christianity reacts somewhat with a jaundiced eye to that kind of reduction, for several reasons. One is that it tends to obscure some of the other vital ingredients of christianity, but not only that, we raise the question as to  whether or not it's true that the Bible *does* teach the universal fatherhood of God and the universal brotherhood of man. William Elery Channing taught it as a creed for unitarianism and it’s become part of the American way of life to assume a universal fatherhood of God and a universal brotherhood of man and it may sound shocking to you if I suggest that maybe the Bible doesn't teach any such idea&nbsp;.&nbsp;.&nbsp;.”
+> “Harnack, for example, in the 19th century published a book that is still in print and very influential, a simple little book entitled <cite>What is Christianity?</cite> and he boils Christianity down to this very basal common denominator that has two central affirmations: the universal fatherhood of God and the universal brotherhood of man.&nbsp;.&nbsp;.&nbsp;. Well, orthodox Christianity reacts somewhat with a jaundiced eye to that kind of reduction, for several reasons. One is that it tends to obscure some of the other vital ingredients of christianity, but not only that, we raise the question as to  whether or not it's true that the Bible *does* teach the universal fatherhood of God and the universal brotherhood of man. William Elery Channing taught it as a creed for unitarianism and it’s become part of the American way of life to assume a universal fatherhood of God and a universal brotherhood of man and it may sound shocking to you if I suggest that maybe the Bible doesn't teach any such idea&nbsp;.&nbsp;.&nbsp;.”
 
 > Can you think of any place where the Bible teaches the universal fatherhood of God? It’s an inference that can be drawn from creation and it’s not just an inference. The apostle Paul on one occasion at Mars Hill does say, quoting the secular philosophers, ‘As your own poets have said, we are all God’s offspring.’ In the sense that God is the creator of all people there is this oblique sense in which the Bible does inferentially say that God is the creator of all men so that in that certain sense he’s the father of all men. But that is a very very rare indication and you would think that if it’s the essence of christianity that it's something that’d be virtually on every page.”
 
@@ -114,7 +114,7 @@ From *[The Meaning of “Sons of God” in Genesis 6:1–4](http://www.apologeti
 ## Book of Mormon searches
 I’ve already searched for “father”, “son”, “child”, “daughter”, “adopt”, “offspring”, “born”, “firstborn”, “birth”, “begotten”, “seed”, “family”, “parent”. Other search terms?
 ## Mormon doctrinal exposition “The Father and the Son”
-This 1916 doctrinal exposition is evidently the first time the word “Elohim” was used exclusively of Heavenly Father and “Jehovah” exclusively of Jesus in LDS doctrine: *[The Father and the Son: A Doctrinal Exposition by the First Presidency and the Quorum of the Twelve Apostles](https://www.lds.org/ensign/2002/04/the-father-and-the-son?lang=eng)* (*Improvement Era*, Aug 1916).
+This 1916 doctrinal exposition is evidently the first time the word “Elohim” was used exclusively of Heavenly Father and “Jehovah” exclusively of Jesus in LDS doctrine: *[The Father and the Son: A Doctrinal Exposition by the First Presidency and the Quorum of the Twelve Apostles](https://www.lds.org/ensign/2002/04/the-father-and-the-son?lang=eng)* (<cite>Improvement Era</cite>, Aug 1916).
 ## Luke 10:6
 Lk 10:6 calls someone a “son of peace”. Is this a euphemism for an elect believer?
 

@@ -5,7 +5,7 @@ Should I address this line of argumentation? —**Joey** 15:42, 12 August 2009 (
 ## Too polemic?
 
 Word of Wisdom promises also in Bible unrelated to dietary rules
-: Pr 3:7–8; Col 2:2–3; Isa 40:31; Ex 12:13; 12:23 ~(and see 1Co 5:7)~
+: Pr 3:7–8; Col 2:2–3; Isa 40:31; Ex 12:13; 12:23 (and see 1Co 5:7)
 
 ## External links
 

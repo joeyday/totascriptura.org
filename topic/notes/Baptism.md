@@ -58,7 +58,7 @@ Examples of “ἐν ὀνόματι”
 Examples where the trinitarian formula may not have been used
 : Ac 2:38; 8:16; 10:48; 19:5; Ro 6:3; Gal 3:27
 
-> It is not necessary to assume that, when Jesus employed these words, He intended them as a formula to be used ever after. He merely used them as descriptive of the character of the baptism which He instituted . . . It is sometimes said with an appeal to such passages as . . . that the apostles evidently did not use the trinitarian formula; but this is not necessarily implied, though it is entirely possible since they did not understand the words of Jesus in the great commission as prescribing a definite formula. It is also possible, however, that the expressions used in the passages indicated served to stress certain particulars respecting the baptism of the apostles. It should be noted that the prepositions differ. Ac 2:38 speaks of a baptism “ἐπὶ τῷ ὀνόματι Ἰησοῦ Χριστοῦ”, which probably refers to a baptism on the confession of Jesus as the Messiah. According to Ac 10:48 those who were present in the house of Cornelius were baptized “ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ”, to indicate that they were baptized on the authority of Jesus. All the remaining passages mention a baptism “εἰς τὸ ὄνομα Ἰησοῦ Χριστοῦ” (or “τοῦ κυρίου Ἰησοῦ”), or simply a baptism “εἰς Χριστὸν”. These expressions may simply serve to stress the fact that the recipients were brought into special relationship to Jesus Christ, whom the apostles were preaching, and were thereby made subject to Him as their Lord. But whatever may have been the practice in the apostolic age, it is quite evident that when the Church later on felt the need of a formula, it could find no better than that contained in the words of the institution. This formula was already in use when the Didache (*The Teaching of the Twelve Apostles*) was written (c. 100 A.D.).[^3]
+> It is not necessary to assume that, when Jesus employed these words, He intended them as a formula to be used ever after. He merely used them as descriptive of the character of the baptism which He instituted . . . It is sometimes said with an appeal to such passages as . . . that the apostles evidently did not use the trinitarian formula; but this is not necessarily implied, though it is entirely possible since they did not understand the words of Jesus in the great commission as prescribing a definite formula. It is also possible, however, that the expressions used in the passages indicated served to stress certain particulars respecting the baptism of the apostles. It should be noted that the prepositions differ. Ac 2:38 speaks of a baptism “ἐπὶ τῷ ὀνόματι Ἰησοῦ Χριστοῦ”, which probably refers to a baptism on the confession of Jesus as the Messiah. According to Ac 10:48 those who were present in the house of Cornelius were baptized “ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ”, to indicate that they were baptized on the authority of Jesus. All the remaining passages mention a baptism “εἰς τὸ ὄνομα Ἰησοῦ Χριστοῦ” (or “τοῦ κυρίου Ἰησοῦ”), or simply a baptism “εἰς Χριστὸν”. These expressions may simply serve to stress the fact that the recipients were brought into special relationship to Jesus Christ, whom the apostles were preaching, and were thereby made subject to Him as their Lord. But whatever may have been the practice in the apostolic age, it is quite evident that when the Church later on felt the need of a formula, it could find no better than that contained in the words of the institution. This formula was already in use when the Didache (<cite>The Teaching of the Twelve Apostles</cite>) was written (c. 100 A.D.).[^3]
 
 ## Mode of baptism
 
@@ -135,10 +135,10 @@ Occurrences of ἐπ-αγγέλλω
 ## A couple of creative (but I think ultimately flawed) arguments
 
 Use of “hinder” (κωλύω, διακωλύω)
-: Mt 3:14; Mt 19:14 ~(cf. Mk 10:14; Lk 18:16)~; Ac 8:36; 10:47; 11:17
+: Mt 3:14; Mt 19:14 (cf. Mk 10:14; Lk 18:16); Ac 8:36; 10:47; 11:17
 
 Structural similarity
-: Mt 18:3 ~(cf. Mk 10:15; Lk 18:17)~; Jn 3:5
+: Mt 18:3 (cf. Mk 10:15; Lk 18:17); Jn 3:5
 
 Of this latter argument, Paul K. Jewett remarks:
 
@@ -198,7 +198,7 @@ How is 1Jn 5:6–8 relevant to the discussion of baptism? —**Joey** 23:23, 20 
 Saving this here since I'm about to refactor a bit.
 
 Places where βαπτίζω (baptizō) does not mean to immerse
-: Nu 8:7; 19:13, 18–19, 20; Ps 51:7; Eze 36:25; Mt 3:11; Mk 7:2–4; Lk 11:37–38; 12:50; Ro 6:3; 1Co 10:1–2; 12:13; Heb 9:10 ~(cf. Heb 9:13–14, 19, 21)~
+: Nu 8:7; 19:13, 18–19, 20; Ps 51:7; Eze 36:25; Mt 3:11; Mk 7:2–4; Lk 11:37–38; 12:50; Ro 6:3; 1Co 10:1–2; 12:13; Heb 9:10 (cf. Heb 9:13–14, 19, 21)
 
 Here’s an interesting website explaining meaning of baptō and baptizō: *[The Meaning and Mode of Baptism by Jay Adams](http://vftonline.org/VFTfiles/baptizo.htm)*
 
@@ -240,7 +240,7 @@ I know today’s credobaptists are a far cry from the earliest fathers who advoc
 [^1]: Hyde, Daniel R. (2006). <cite>Jesus Loves the Little Children: Why We Baptize Children</cite> (p. 30). Reformed Fellowship, Inc.
 [^2]: Berkhof, Louis (1959). <cite>Systematic Theology</cite> (Kindle Locations 18,156-18,158). Eerdmans Publishing Co. Kindle Edition.
 [^3]: Berkhof, Louis (1959). <cite>Systematic Theology</cite> (Kindle Locations 18,158-18,171). Eerdmans Publishing Co. Kindle Edition.
-[^4]: Berkhof, Louis (1959). *Systematic Theology* (Kindle Locations 18212-18214). Eerdmans Publishing Co. Kindle Edition. \[Emphasis mine.\]
+[^4]: Berkhof, Louis (1959). <cite>Systematic Theology</cite> (Kindle Locations 18212-18214). Eerdmans Publishing Co. Kindle Edition. \[Emphasis mine.\]
 [^5]: Beasley-Murray, G.R. (1975). Infant baptism. In C. Brown (Ed.), <cite>The new international dictionary of new testament theology</cite> (Vol. I, p. 154). Grand Rapids, MI: Zondervan Publishing House.
 [^6]: <cite>Case for Covenantal Infant Baptism, The</cite> (Kindle Locations 92-95). Kindle Edition.
 [^7]: Paul K. Jewett. <cite>Infant Baptism and the Covenant of Grace</cite> (Kindle Location 647). Kindle Edition.

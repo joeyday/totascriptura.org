@@ -17,7 +17,7 @@ Divine nature necessary for atonement
 
 ## Human nature
 
-Called a man or “Son of Man” by himself and others ~(not exhaustive)~
+Called a man or “Son of Man” by himself and others (not exhaustive)
 : Da 7:13; Mt 8:20; 13:53–56; Jn 8:40; Ac 2:22; Ro 5:15, 19; 1Co 15:21
 
 Had a soul, spirit, body, flesh, and blood
@@ -38,7 +38,7 @@ Union brought to pass by virgin birth
 : Mt 1:18, 20; Lk 1:34–35; 3:23
 
 Union is permanent
-: Mt 26:64 ~(cf. Mk 14:62; Lk 22:69-70)~; Mt 28:9; Lk 24:39-43; Jn 20:20, 27-28; Ac 1:1-11; 7:56
+: Mt 26:64 (cf. Mk 14:62; Lk 22:69-70); Mt 28:9; Lk 24:39-43; Jn 20:20, 27-28; Ac 1:1-11; 7:56
 
 Permanence of union necessary for intercession
 : {{[[intercession]]}}
@@ -49,5 +49,5 @@ Permanence of union necessary for intercession
 The *extra Calvinisticum*
 : Col 1:15–17; Heb 1:1–3
 
-Two wills, divine and human ~(dyothelitism)~
+Two wills, divine and human (dyothelitism)
 : Lk 22:42

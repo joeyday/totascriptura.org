@@ -12,4 +12,4 @@ Note that some visual aspects of the site can be adjusted for aesthetics and/or 
 
 If you find anything on the site helpful (or you notice a mistake), feel free to drop me a line on [<span class="fa-brands fa-mastodon"></span>Mastodon](https://mastodon.social/@joeyday), [<span class="fa-brands fa-bluesky"></span>Bluesky](https://bsky.app/profile/joeyday.bsky.social) or [<span class="fa-brands fa-facebook"></span>Facebook](http://facebook.com/joeynday).
 
-[^grudem]: Grudem, Wayne (2009). _Systematic Theology: An Introduction to Biblical Doctrine_ (p. 28). Zondervan.
+[^grudem]: Grudem, Wayne (2009). <cite>Systematic Theology: An Introduction to Biblical Doctrine</cite> (p. 28). Zondervan.

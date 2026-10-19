@@ -52,7 +52,7 @@ Is a doctrinally material variant even possible? Can we imagine a change to any 
 
 On the essential doctrines, the Bible is redundant enough that none of these doctrines hang on any one passage. But is this a case of circular reasoning? Since we define our essential doctrines as those that have redundant scriptural support, by definition any change to a single passage can't constitute a change in an essential doctrine. So is all this moot anyway?
 
-Grudem makes an interesting claim in his *Systematic Theology*:
+Grudem makes an interesting claim in his <cite>Systematic Theology</cite>:
 > Furthermore, we know where the uncertain readings are (for where there are no textual variants we have no reason to expect faulty copying of the original).[^8]
 
 I got curious about this claim, so I looked up the changes between NA27 and NA28. I wondered if any of them were due to variants in new manuscript discoveries, or were the changes made because the balance in power between already known variants changed in light of new manuscript discoveries? Turns out, every single change did involve an already known variant. So Grudem might be right, which is pretty cool.
@@ -64,19 +64,19 @@ P.S. Carson and Moo speculate that if we had the autographs we would idolize the
 > Perhaps too, it is worth speculating that, in God’s providence, we are better off without the originals, for we would almost certainly have treated them with idolatrous reverence focused more on the mere artifact than on what the manuscript actually said.[^9]
 ## Mine this for content
 
-Every occurence of γραφή ~\[*graphē*]~ ~(“writing” or “Scripture”)~
+Every occurence of γραφή ~\[*graphē*]~ (“writing” or “Scripture”)
 : Mt 21:42; 22:29; 26:54, 56; Mk 12:10, 24; 14:49; Lk 4:21; 24:27, 32, 45; Jn 2:22; 5:39; 7:38, 42; 10:35; 13:18; 17:12; 19:24, 28, 36–37; 20:9; Ac 1:16; 8:32, 35; 17:2, 11; 18:24, 28; Ro 1:2; 4:3; 9:17; 10:11; 11:2; 15:4; 16:26; 1Co 15:3–4; Gal 3:8, 22; 4:30; 1Ti 5:18; 2Ti 3:16; Jas 2:8, 23; 4:5; 1Pe 2:6; 2Pe 1:20; 3:16
 
 “God” or “Lord” within 2 words of “word”
 : Nu 22:38; 24:4, 16; Dt 5:22; 1Sa 9:27; 2Sa 16:23; 22:1; 1Ki 12:22; 2Ki 6:9; Job 34:37; Ps 5:1; 56:4, 10; 107:11; 119:89; Pr 30:5; Ecc 5:2; Da 10:12; Mt 15:6; Mk 7:13; Lk 3:2; 5:1; 8:11, 21; 11:28; 24:19; Jn 1:1; 3:34; 8:47; 10:35; Ac 4:31; 6:2, 7; 8:14; 11:1; 12:24; 13:5, 7, 46; 17:13; 18:11; Ro 9:6; 1Co 14:36; 2Co 2:17; 4:2; Eph 6:17; Col 1:25; 1Th 2:13; 1Ti 4:5; 2Ti 2:9; Titus 2:5; Heb 4:12; 6:5; 11:3; 13:7; 1Pe 1:23; 2Pe 3:5; 1Jn 2:14; Rev 1:2, 9; 6:9; 17:17; 19:9, 13; 20:4
 
 ## Interesting article
-* [John Piper: *Thoughts on the Sufficiency of Scripture*](http://www.desiringgod.org/articles/thoughts-on-the-sufficiency-of-scripture)
+* [John Piper: <cite>Thoughts on the Sufficiency of Scripture</cite>](http://www.desiringgod.org/articles/thoughts-on-the-sufficiency-of-scripture)
 
 ## Todo (copied from old notes page for Perspicuity of Scripture)
 
-- Continue reading Chapter 6 in Grudem’s *Systematic Theology*. Left off on section B.
-- Parse through any Scripture references in the *Chicago Statement on Biblical Inerrancy*.
+- Continue reading Chapter 6 in Grudem’s <cite>Systematic Theology</cite>. Left off on section B.
+- Parse through any Scripture references in the <cite>Chicago Statement on Biblical Inerrancy</cite>.
 
 ## On Holy Spirit’s role (copied from old notes page for Perspicuity of Scripture)
 
@@ -102,4 +102,4 @@ From Wikipedia:
 [^12]: Horton, Michael. <cite>The Christian Faith: A Systematic Theology for Pilgrims on the Way</cite> (Kindle Locations 4324–4326). Zondervan. Kindle Edition.
 [^13]: Lightfoot, Neil. <cite>How We Got the Bible</cite> (p. 103). Baker Book Group. Kindle Edition.
 [^14]: [Wikipedia:Clarity of Scripture](http://en.wikipedia.org/w/index.php?title=Clarity_of_scripture&oldid=587932302)
-[^15]: Grudem, Wayne (2009). *Systematic Theology: An Introduction to Biblical Doctrine* (p. 106). Zondervan. Kindle Edition.
+[^15]: Grudem, Wayne (2009). <cite>Systematic Theology: An Introduction to Biblical Doctrine</cite> (p. 106). Zondervan. Kindle Edition.

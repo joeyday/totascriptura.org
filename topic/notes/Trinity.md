@@ -5,13 +5,13 @@
 - Split apart references to the numerical oneness of the essence v. the oneness of mind, will, purpose among the persons
 - Mine the following for additional references:
   - Erickson’s Trinity book
-  - Erickson’s *Christian Theology*
-  - ==Berkhof’s *Systematic Theology*==
-  - Calvin’s *Institutes*
+  - Erickson’s <cite>Christian Theology</cite>
+  - ==Berkhof’s <cite>Systematic Theology</cite>==
+  - Calvin’s <cite>Institutes</cite>
   - Reformed creeds and confessions?
-- [*The Ontological and Economic Trinity*](http://carm.org/ontological-and-economic-trinity) by Matt Slick
-- [*The Great Trinity Debate, Part 6: Rob Bowman’s Closing Statement*](http://www.reclaimingthemind.org/blog/2010/05/the-great-trinity-debate-part-6-rob-bowmans-closing-statement)
-- [*The Biblical Basis of the Doctrine of the Trinity*](http://irr.org/biblical-basis-of-doctrine-of-trinity) by Rob Bowman
+- [<cite>The Ontological and Economic Trinity</cite>](http://carm.org/ontological-and-economic-trinity) by Matt Slick
+- [<cite>The Great Trinity Debate, Part 6: Rob Bowman’s Closing Statement</cite>](http://www.reclaimingthemind.org/blog/2010/05/the-great-trinity-debate-part-6-rob-bowmans-closing-statement)
+- [<cite>The Biblical Basis of the Doctrine of the Trinity</cite>](http://irr.org/biblical-basis-of-doctrine-of-trinity) by Rob Bowman
 - [*FAQ about the Trinity*](http://bib.irr.org/category/trinity/faq-about-trinity) by Rob Bowman (see especially the great article here about how to defend anti-trinitarian theologies)
 - I have a commentary on the WCF by A.A. Hodge in my Logos base package. He gives several prooftexts for the Trinity in his comments on WCF 2.3.
 - Also see todos in [[topic/notes/Jesus is God|Jesus is God notes]].
@@ -25,7 +25,7 @@ From Theopedia’s *Trinity* article:
 3.  The Father is God, the Son is God, and the Holy Spirit is God.
 4.  The Father is not the Son, the Son is not the Father, the Father is not the Spirit, etc.
 
-From Berkhof’s *Systematic Theology*:
+From Berkhof’s <cite>Systematic Theology</cite>:
 
 1.  There is in the Divine Being but one indivisible essence (ousia, essentia).
 2.  In this one Divine Being there are three Persons or individual subsistences, Father, Son, and Holy Spirit.
@@ -33,7 +33,7 @@ From Berkhof’s *Systematic Theology*:
 4.  The subsistence and operation of the three persons in the divine Being is marked by a certain definite order.
 5.  There are certain personal attributes by which the three persons are distinguished.
 
-From Rob Bowman’s [*The Biblical Basis of the Doctrine of the Trinity*](http://irr.org/biblical-basis-of-doctrine-of-trinity):
+From Rob Bowman’s [<cite>The Biblical Basis of the Doctrine of the Trinity</cite>](http://irr.org/biblical-basis-of-doctrine-of-trinity):
 
 1.  There is one God (i.e., one proper object of religious devotion).
 2.  This one God is a single divine being, called Jehovah or Yahweh in the Old Testament (the LORD).
@@ -42,7 +42,7 @@ From Rob Bowman’s [*The Biblical Basis of the Doctrine of the Trinity*](http:/
 5.  The Holy Spirit is God, the LORD.
 6.  The Father, Son, and Holy Spirit are each someone distinct from the other two.
 
-From Philip Ryken and Michael LeFebvre’s *Our Triune God*[^1]:
+From Philip Ryken and Michael LeFebvre’s <cite>Our Triune God</cite>[^1]:
 
 1.  God the Father is God.
 2.  God the Son is God.
@@ -86,7 +86,7 @@ Westminster Larger Catechism:
 > *Q. 11. How doth it appear that the Son and the Holy Ghost are God equal with the Father?*\
 > A. The scriptures manifest that the Son and the Holy Ghost are God equal with the Father, ascribing unto them such names, attributes, works, and worship, as are proper to God only.
 
-Scott Swain’s *The Trinity: An Introduction*:
+Scott Swain’s <cite>The Trinity: An Introduction</cite>:
 
 1.  There is one God, the source and end of all creatures.
 2.  The Father, the Son, and the Holy Spirit are identical with the one God and, as such, are on the divine side of the distinction between the one God and all creatures.
@@ -139,7 +139,7 @@ Check out this website some time: <http://www.angelfire.com/space/thegospeltruth
 ## More ~LDS~ resources about the Godhead
 
 - Come Unto Christ website › Beliefs › Common Questions › [*Do Mormons believe in the Trinity?*](https://www.comeuntochrist.org/common-questions?lang=eng) ~— “The Holy Trinity is the term many Christian religions use to describe God the Father, Jesus Christ, and the Holy Ghost. Latter-day Saints believe very strongly in all three, but ==we don’t believe they’re all the same person==.”~
-- *New Era* article: [*Learning About the Godhead*](https://www.churchofjesuschrist.org/study/new-era/2013/01/learning-about-the-godhead?lang=eng) ~— “While ==today’s traditional Christianity asserts that the three members of the Godhead are all one person== (called the “Trinity,” a belief based on a man-made council that wrote the Nicene Creed in A.D. 325), we know that the Father and the Son each have bodies of flesh and bones and that the Holy Ghost is a personage of spirit.”~
+- <cite>New Era</cite> article: [<cite>Learning About the Godhead</cite>](https://www.churchofjesuschrist.org/study/new-era/2013/01/learning-about-the-godhead?lang=eng) ~— “While ==today’s traditional Christianity asserts that the three members of the Godhead are all one person== (called the “Trinity,” a belief based on a man-made council that wrote the Nicene Creed in A.D. 325), we know that the Father and the Son each have bodies of flesh and bones and that the Holy Ghost is a personage of spirit.”~
 - Seminary study guide lesson: [*Mosiah 15–16: Abinadi teaches about Jesus Christ’s role as Redeemer*](https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2017/introduction-to-the-book-of-mosiah/lesson-60-mosiah-15-17?lang=eng#title4) ~— “Point out that some passages in the scriptures refer to Jesus Christ as the Father. This does not mean that ==He and Heavenly Father are the same person==.”~
 
 ## “Without body, parts, or passions”
@@ -152,11 +152,11 @@ The word “passions” here is actually a KJV-ism. It is the Greek word ὁμο
 
 ## Anthropomorphite heresy
 
-In [*The Library Of Christian Classics, Vol. XII: Western Asceticism*](http://archive.org/stream/libraryofchristi008770mbp/libraryofchristi008770mbp_djvu.txt), an interesting account is given of an Anthropomorphite monk who was asked to pray after having finally assented to the orthodox view. He found that he could not, having no image in his mind on which to focus, and cried out, “Woe is me! They have taken my God away from me, and I have none to grasp, and I know not whom to adore or to address.” This has been quoted by some LDS, notably Jeffrey R. Holland. I don’t think LDS are taking it out of context, but reading it in context of the full account is illuminating.
+In [<cite>The Library Of Christian Classics, Vol. XII: Western Asceticism</cite>](http://archive.org/stream/libraryofchristi008770mbp/libraryofchristi008770mbp_djvu.txt), an interesting account is given of an Anthropomorphite monk who was asked to pray after having finally assented to the orthodox view. He found that he could not, having no image in his mind on which to focus, and cried out, “Woe is me! They have taken my God away from me, and I have none to grasp, and I know not whom to adore or to address.” This has been quoted by some LDS, notably Jeffrey R. Holland. I don’t think LDS are taking it out of context, but reading it in context of the full account is illuminating.
 
 ## Jones of Nayland’s proof texts
 
-Transcribe proof texts from *The Catholic Doctrine of a Trinity* (Google Books), chapter III, “The Plurality and Trinity of Persons”, p. 131, and chapter IV, “The Trinity in Unity”, p. 159.
+Transcribe proof texts from <cite>The Catholic Doctrine of a Trinity</cite> (Google Books), chapter III, “The Plurality and Trinity of Persons”, p. 131, and chapter IV, “The Trinity in Unity”, p. 159.
 
 ## Awesome infographic from Challies
 
@@ -170,11 +170,11 @@ Transcribe proof texts from *The Catholic Doctrine of a Trinity* (Google Books),
 
 > “Let me ask of my reader, wherever, alike with myself, he is certain, there to go on with me; wherever, alike with myself, he hesitates, there to join with me in inquiring; wherever he recognizes himself to be in error, there to return to me; wherever he recognizes me to be so, there to call me back. . . . And I would make this pious and safe agreement, . . . above all, in the case of those who inquire into the unity of the Trinity, of the Father and the Son and the Holy Spirit; because in no other subject is error more dangerous, or inquiry more laborious, or the discovery of truth more profitable.”[^4]
 
-[*The Trinity in Gender Debates* by Fred Sanders](http://www.patheos.com/blogs/scriptorium/2012/10/the-trinity-in-gender-debates/)
+[<cite>The Trinity in Gender Debates</cite> by Fred Sanders](http://www.patheos.com/blogs/scriptorium/2012/10/the-trinity-in-gender-debates/)
 
-[*18 Theses on the Father and the Son* by Fred Sanders](https://scriptoriumdaily.com/18-theses-on-the-father-and-the-son/)
+[<cite>18 Theses on the Father and the Son</cite> by Fred Sanders](https://scriptoriumdaily.com/18-theses-on-the-father-and-the-son/)
 
-[*What Would Augustine Say to Evangelicals Who Deny the Eternal Generation of the Son?* by Keith Johnson](http://www.sbts.edu/resources/files/2013/08/SBJT-V16-N2_Johnson.pdf)
+[<cite>What Would Augustine Say to Evangelicals Who Deny the Eternal Generation of the Son?</cite> by Keith Johnson](http://www.sbts.edu/resources/files/2013/08/SBJT-V16-N2_Johnson.pdf)
 
 Quotes from those who deny eternal generation ~*(William Lane Craig, J.P. Moreland?, Mark Driscoll, Gerry Breshears, Millard Erickson, Paul Helm, Loraine Boettner, and Robert Reymond—where’d I get this list and have I gotten it entirely wrong? I was confused for a while thinking eternal generation and EFS were the same thing, and may have implicated some in denying eternal generation who actually deny EFS and affirm eternal generation.)*~:
 
@@ -213,7 +213,7 @@ Can trinitarianism be expressed using biblical terms instead of the extra-biblic
 
 > The Cappadocian fathers, Basil in particular, argued that God is three *hypostaseis* (“persons”) in one *ousia* (“essence,” or “substance”). Although helpful, the term also led to confusion. Western theologians described God as one *substantia* in three *personae*, with confusion arising out of the fact that *substantia* was the Latin equivalent to *hypostasis*.[^11]
 
-(Robert Letham also gives excellent analysis of how *hypostasis* and *ousia* were used in different ways in the early centuries of Christianity in chapter 5 of his *The Holy Trinity*.)
+(Robert Letham also gives excellent analysis of how *hypostasis* and *ousia* were used in different ways in the early centuries of Christianity in chapter 5 of his <cite>The Holy Trinity</cite>.)
 
 ## More revelant oneness passages?
 
@@ -307,7 +307,7 @@ Not commenting on the same passage, but I think this is relevant:
 
 ## Colwell’s Rule and John 1:1
 
-D.A. Carson has some very salient things to say about Colwell’s Rule and John 1:1 in his book *Exegetical Fallacies*:
+D.A. Carson has some very salient things to say about Colwell’s Rule and John 1:1 in his book <cite>Exegetical Fallacies</cite>:
 
 > It is now well known that in a clause like καί θεὸς ἦν ὁ λόγος (kai theos ēn ho logos, usually rendered “and the Word was God,” John 1:1), the noun with the article is the subject, even though it is placed after the verb. The more difficult question in such cases is whether any rule governs the anarthrous noun before the verb: how do we know whether it is definite or indefinite, “God” or “a God”?
 >
@@ -323,8 +323,8 @@ D.A. Carson has some very salient things to say about Colwell’s Rule and John 
 
 ## Practical implications of the Trinity
 
-- [*Van Til’s Insights on the Trinity* by Ralph Allan Smith](https://rdtwot.files.wordpress.com/2010/07/smith_van-tils-insights-on-the-trinity.pdf)
-- [*The Doctrine of the Trinity: No Christianity Without It* by Kevin DeYoung](https://blogs.thegospelcoalition.org/kevindeyoung/2011/09/28/the-doctrine-of-the-trinity-no-christianity-without-it/)
+- [<cite>Van Til’s Insights on the Trinity</cite> by Ralph Allan Smith](https://rdtwot.files.wordpress.com/2010/07/smith_van-tils-insights-on-the-trinity.pdf)
+- [<cite>The Doctrine of the Trinity: No Christianity Without It</cite> by Kevin DeYoung](https://blogs.thegospelcoalition.org/kevindeyoung/2011/09/28/the-doctrine-of-the-trinity-no-christianity-without-it/)
 - Divine simplicity accounts for how all of existence began and how God could be alone in the beginning. ~(This is similar to the idea of “irreducible complexity” in intelligent design/evolution debates. Three Gods alone in the beginning would be an irreducibly complex system.)~
 - Divine simplicity is necessary for God to be the ground for all laws, principles, morals.
 - Atonement requires that Jesus be fully God (as well as fully man).
@@ -353,9 +353,9 @@ There are four relations of origin in the Trinity. The Father’s is **paternity
 
 See *Experiment › Trinity?*.
 
-## References from *The Ology*
+## References from <cite>The Ology</cite>
 
-References from *The Ology*
+References from <cite>The Ology</cite>
 : Dt 6:4; Isa 48:16; Mt 3:16–17; 28:19; Jn 14:26; 2Co 13:14; 1Ti 2:5
 
 ## Matthew 3:16–17 in Christian Trinity literature
@@ -364,43 +364,43 @@ References from *The Ology*
 - <http://www.desiringgod.org/articles/what-is-the-doctrine-of-the-trinity>
 - <http://www.gotquestions.org/Trinity-Bible.html>
 - <http://christianity.about.com/od/glossary/g/trinitydoctrine.htm>
-- Marty Machowski. *The Ology*, p. 17.
+- Marty Machowski. <cite>The Ology</cite>, p. 17.
 - “All one need do is consider the baptism of Jesus, or Jesus’ prayer in the garden of Gethsemane, to realize that the Bible requires that the Father, Son, and Holy Spirit must each be present and subsisting at the same time. God, then, must be simultaneously Father, Son, and Holy Spirit, not just one of these ‘modes’ of the divine expression at a time.” —Bruce Ware. *Father, Son, and Holy Spirit*. Kindle location 419.
-- “When Jesus was baptized, ‘the heavens were opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him; and … a voice from heaven said, “This is my beloved Son, with whom I am well pleased” ’ (Matt. 3:16–17). At this moment, all three members of the Trinity were performing three distinct activities: God the Father was speaking, God the Son was being baptized, and God the Holy Spirit was resting on the Son.” —Wayne Grudem. *Christian Beliefs*. Kindle location 489.[^29]
-- “And this one God also reveals Himself in three persons. After Jesus was baptized in the Jordan River, the gospel writer Mark describes the interaction between the three persons of the Trinity in these words: ‘When he came up out of the water, immediately he saw the heavens being torn open and the Spirit descending on him like a dove. And a voice came from heaven, “You are my beloved Son; with you I am well pleased”’ (Mark 1:10–11).” —Ken Golden. *Presbytopia*. Kindle location 259.
+- “When Jesus was baptized, ‘the heavens were opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him; and … a voice from heaven said, “This is my beloved Son, with whom I am well pleased” ’ (Matt. 3:16–17). At this moment, all three members of the Trinity were performing three distinct activities: God the Father was speaking, God the Son was being baptized, and God the Holy Spirit was resting on the Son.” —Wayne Grudem. <cite>Christian Beliefs</cite>. Kindle location 489.[^29]
+- “And this one God also reveals Himself in three persons. After Jesus was baptized in the Jordan River, the gospel writer Mark describes the interaction between the three persons of the Trinity in these words: ‘When he came up out of the water, immediately he saw the heavens being torn open and the Spirit descending on him like a dove. And a voice came from heaven, “You are my beloved Son; with you I am well pleased”’ (Mark 1:10–11).” —Ken Golden. <cite>Presbytopia</cite>. Kindle location 259.
 - <https://www.youtube.com/watch?v=dGoeAkLJzog>
-- In the insight box of the daily devotional *Our Daily Bread* on Feb 4, 2005: “The baptism of Jesus is one of the passages in the New Testament that validates the doctrine of the Trinity—the three-in-one personhood of God. The Father speaks from heaven, the Spirit descends as a dove, and the Son obeys, perfectly pleasing the Father (vv. 16–17). Even though the word trinity never appears in Scripture, there is ample evidence of this truth, including the Great Commission in Matthew 28:19–20 where Jesus’ followers are commanded to baptize new believers in the name of the Father, the Son, and the Holy Spirit. Can you find other places in the New Testament where the three persons of the Godhead are mentioned together?” [^30]
+- In the insight box of the daily devotional <cite>Our Daily Bread</cite> on Feb 4, 2005: “The baptism of Jesus is one of the passages in the New Testament that validates the doctrine of the Trinity—the three-in-one personhood of God. The Father speaks from heaven, the Spirit descends as a dove, and the Son obeys, perfectly pleasing the Father (vv. 16–17). Even though the word trinity never appears in Scripture, there is ample evidence of this truth, including the Great Commission in Matthew 28:19–20 where Jesus’ followers are commanded to baptize new believers in the name of the Father, the Son, and the Holy Spirit. Can you find other places in the New Testament where the three persons of the Godhead are mentioned together?” [^30]
 - WCF II.III only cites four prooftexts for the Trinity: 1Jn 5:7; Mt 3:16–17; Mt 28:19; 2Co 13:14 (and some modern editions now omit 1Jn 5:7).
-- “One episode stands out in the New Testament witness as a uniquely rich locus of Trinitarian interpretation. Jesus’ baptism in the Jordan River by John is widely recognized as a Trinitarian manifestation of a special character. It is commemorated in the Eastern churches as epiphany or theophany, precisely because the one God is manifested there in a threefold way. ‘The primitive Christians used to say to any that doubted of the Trinity, *abi ad Jordanem et videbis*, Go to Jordan and you will see it.’” —Fred Sanders. *The Triune God (New Studies in Dogmatics)*. pp. 195-196.
-- “Some liberal scholars have argued that belief in Jesus’s deity with the doctrine of the Trinity as its logical conclusion was the result of Greco-Roman influences. The implausibility of this idea is increasingly recognized. On the contrary, belief in the Trinity arose from the drama—the events that unfolded not in Athens or Rome centuries later—but in Jerusalem in the wake of Christ’s resurrection. . . . In fact, at Jesus’s baptism there were three divine persons: the Father whose voice was heard, the Spirit who descended in the form of a dove, and Jesus of whom the Father said, “This is my Son, whom I love; with him I am well pleased” (Matt 3:17).” —Michael Horton (2016). *Core Christianity: Finding Yourself in God’s Story*.
-- Matthew 3:16–17 is the first passage listed in italics under the header for “Part One: Biblical Foundations” in Robert Letham’s *The Holy Trinity* (2016, p. 14).
-- Ryken and LeFebvre give an extended exposition of Jesus’ baptism (notably from Luke instead of Matthew) in chapter 4 of their *Our Triune God*.
-- Scott Swain in his *The Trinity: An Introduction* introduces the grammar of the Trinity in chapter 1 using the baptismal formula in Matthew 28:19. When he turns to consider the wider biblical basis for the Trinity in chapter 2 the first passage he considers is Matthew 3:16–17.
+- “One episode stands out in the New Testament witness as a uniquely rich locus of Trinitarian interpretation. Jesus’ baptism in the Jordan River by John is widely recognized as a Trinitarian manifestation of a special character. It is commemorated in the Eastern churches as epiphany or theophany, precisely because the one God is manifested there in a threefold way. ‘The primitive Christians used to say to any that doubted of the Trinity, *abi ad Jordanem et videbis*, Go to Jordan and you will see it.’” —Fred Sanders. <cite>The Triune God (New Studies in Dogmatics)</cite>. pp. 195-196.
+- “Some liberal scholars have argued that belief in Jesus’s deity with the doctrine of the Trinity as its logical conclusion was the result of Greco-Roman influences. The implausibility of this idea is increasingly recognized. On the contrary, belief in the Trinity arose from the drama—the events that unfolded not in Athens or Rome centuries later—but in Jerusalem in the wake of Christ’s resurrection. . . . In fact, at Jesus’s baptism there were three divine persons: the Father whose voice was heard, the Spirit who descended in the form of a dove, and Jesus of whom the Father said, “This is my Son, whom I love; with him I am well pleased” (Matt 3:17).” —Michael Horton (2016). <cite>Core Christianity: Finding Yourself in God’s Story</cite>.
+- Matthew 3:16–17 is the first passage listed in italics under the header for “Part One: Biblical Foundations” in Robert Letham’s <cite>The Holy Trinity</cite> (2016, p. 14).
+- Ryken and LeFebvre give an extended exposition of Jesus’ baptism (notably from Luke instead of Matthew) in chapter 4 of their <cite>Our Triune God</cite>.
+- Scott Swain in his <cite>The Trinity: An Introduction</cite> introduces the grammar of the Trinity in chapter 1 using the baptismal formula in Matthew 28:19. When he turns to consider the wider biblical basis for the Trinity in chapter 2 the first passage he considers is Matthew 3:16–17.
 
 ## Separate spirits/souls?
 
 On Jonathan’s Every Verse page, [Godhead: Separate Beings?](http://everyverse.org/god-triune/), he lists verses he claims show that the Father, Son, and Holy Ghost have separate spirits and/or souls. Here are my own similar findings:
 
-Father’s spirit ~(pneuma)~
+Father’s spirit (pneuma)
 : ~*Distinguishable in any meaningful way from the Holy Spirit / Spirit of God?*~\
 Jn 4:23–24
 
-Son’s spirit ~(pneuma)~
-: Mt 27:50 ~(cf. Lk 23:46)~; Mk 2:8; 8:12; Jn 13:21 ~— *see also 1Co 15:45; 2Th 2:8*~
+Son’s spirit (pneuma)
+: Mt 27:50 (cf. Lk 23:46); Mk 2:8; 8:12; Jn 13:21 — see also 1Co 15:45; 2Th 2:8
 
 “Spirit of Christ”
 : Gal 4:6; Php 1:19; 1Pe 1:11
 
-Father’s soul, life ~(psychē)~
+Father’s soul, life (psychē)
 : Mt 12:18; Heb 10:38?
 
-Son’s soul, life ~(psychē)~
-: Mt 20:28 ~(cf. Mk 10:45)~; Mt 26:38 ~(cf. Mk 14:34)~; Jn 10:11, 15, 17; 12:27; Ac 2:27 ~(cites Ps 16:10)~; 1Jn 3:16
+Son’s soul, life (psychē)
+: Mt 20:28 (cf. Mk 10:45); Mt 26:38 (cf. Mk 14:34); Jn 10:11, 15, 17; 12:27; Ac 2:27 (cites Ps 16:10); 1Jn 3:16
 
-Son’s mind ~(nous)~
+Son’s mind (nous)
 : 1Co 2:16
 
-Spirit’s mind ~(phronēma)~
+Spirit’s mind (phronēma)
 : Ro 8:27
 
 Father’s will, Son’s will, Spirit’s will
@@ -514,7 +514,7 @@ I don’t have much to say on this now, but putting it here so I don’t forget 
 
 ## Modalism contradicts the doctrine of divine simplicity!
 
-From Dolezal’s *Trinity, Simplicity and the Status of God’s Personal Relations*:
+From Dolezal’s <cite>Trinity, Simplicity and the Status of God’s Personal Relations</cite>:
 
 > What is removed from our ordinary conception of mode when we speak of God is its function as a quality modifying or conveying some additional actually to a thing in which it inheres – such as a mode of subsistence that a creature does not possess in virtue of its essence per se. Since God’s essence is infinite it cannot possibly be determined to subsist as Father, Son and Spirit by the reception of additional forms or modes of being.
 
@@ -532,63 +532,63 @@ I guess inseparable operations should be included either in the oneness section 
 
 In the 6th century a philosopher named John Philoponus advocated a view that the one *ousia* of God was an abstract nature like human nature and the three *hypostases* were supposits (instances) of that nature. He won over at least two bishops, Conon of Tarsus and Eugenius of Seleucia. Unfortunately I’m having trouble finding any of his own publications. I’ve found lots of people online filtering/interpreting his thought, but no original sources. Though tritheism was known very early as a hypothetical heresy and people were accused of it who probably didn’t actually believe it, Philoponus may be tritheism’s first honest-to-goodness advocate. We could call tritheism “Philoponianism”, though to my knowledge no one does. Tritheitism would be another name since this was known historically as the Tritheite controversy.
 
-[^1]: Ryken, Philip Graham; LeFebvre, Michael. *Our Triune God: Living in the Love of the Three-in-One* (p. 20). Crossway. Kindle Edition.
+[^1]: Ryken, Philip Graham; LeFebvre, Michael. <cite>Our Triune God: Living in the Love of the Three-in-One</cite> (p. 20). Crossway. Kindle Edition.
 
 [^2]: <http://www.desiringgod.org/articles/what-is-the-doctrine-of-the-trinity>
 
 [^3]: Grudem, Wayne; Grudem, Elliot (2009-03-10). Christian Beliefs: Twenty Basics Every Christian Should Know (Kindle Locations 482-485). Zondervan. Kindle Edition.
 
-[^4]: Augustine, *On the Trinity* 1.3.5.
+[^4]: Augustine, <cite>On the Trinity</cite> 1.3.5.
 
-[^5]: Erickson, Millard J. (2000). *Making Sense of the Trinity: Three Crucial Questions* (p. 90). Baker Publishing Group. Kindle Edition.
+[^5]: Erickson, Millard J. (2000). <cite>Making Sense of the Trinity: Three Crucial Questions</cite> (p. 90). Baker Publishing Group. Kindle Edition.
 
-[^6]: Craig, William Lane. “A Formulation and Defense of the Doctrine of the Trinity”. Unabridged version of chapter 29 from *Philosophical Foundations of a Christian Worldview* (ed. J.P. Moreland and William Lane Craig; Downers Grove, IL: InterVarsity, 2003). p. 18. [1](http://www.reasonablefaith.org/a-formulation-and-defense-of-the-doctrine-of-the-trinity#ixzz37BeRCQwX)
+[^6]: Craig, William Lane. “A Formulation and Defense of the Doctrine of the Trinity”. Unabridged version of chapter 29 from <cite>Philosophical Foundations of a Christian Worldview</cite> (ed. J.P. Moreland and William Lane Craig; Downers Grove, IL: InterVarsity, 2003). p. 18. [1](http://www.reasonablefaith.org/a-formulation-and-defense-of-the-doctrine-of-the-trinity#ixzz37BeRCQwX)
 
-[^7]: Sanders, Fred (2010). *The Deep Things of God: How the Trinity Changes Everything* (p. 133). Crossway. Kindle Edition.
+[^7]: Sanders, Fred (2010). <cite>The Deep Things of God: How the Trinity Changes Everything</cite> (p. 133). Crossway. Kindle Edition.
 
-[^8]: Sanders, Fred (2010). *The Deep Things of God: How the Trinity Changes Everything* (p. 151). Crossway. Kindle Edition.
+[^8]: Sanders, Fred (2010). <cite>The Deep Things of God: How the Trinity Changes Everything</cite> (p. 151). Crossway. Kindle Edition.
 
 [^9]: The word οὐσία is used twice in Lk 15:12–13, but not the way we use it of God in trinitarianism; it is used of substance in the sense of goods, property, or money.
 
 [^10]: In Heb 1:3 Jesus is said to be the exact imprint of God the Father’s ὑπόστασις, but it’s unclear to me how best to translate this. The word ὑπόστασις is used with different meaning in 2Co 9:4; 11:17; Heb 3:14; 11:1.
 
-[^11]: Grenz, S., Guretzki, D., & Nordling, C.F. (1999). *Pocket Dictionary of Theological Terms* (pp. 61–62). Downers Grove, IL: InterVarsity Press.
+[^11]: Grenz, S., Guretzki, D., & Nordling, C.F. (1999). <cite>Pocket Dictionary of Theological Terms</cite> (pp. 61–62). Downers Grove, IL: InterVarsity Press.
 
-[^12]: Leonardo Boff, *Trinity and Society*, trans. Paul Burns (Maryknoll, N.Y.: Orbis, 1988), 5.
+[^12]: Leonardo Boff, <cite>Trinity and Society</cite>, trans. Paul Burns (Maryknoll, N.Y.: Orbis, 1988), 5.
 
-[^13]: Raymond E. Brown, *The Gospel According to John I–XII* (Garden City, New York: Doubleday & Co. Inc.), 403, 407.
+[^13]: Raymond E. Brown, <cite>The Gospel According to John I–XII</cite> (Garden City, New York: Doubleday & Co. Inc.), 403, 407.
 
-[^14]: David J. Ellis, *The International Bible Commentary* (ed. F.F. Bruce, Zondervan Publishing House, Grand Rapids, Michigan, 1986, p. 1249). Found at [2](http://www.jefflindsay.com/LDSFAQ/oneness.shtml).
+[^14]: David J. Ellis, <cite>The International Bible Commentary</cite> (ed. F.F. Bruce, Zondervan Publishing House, Grand Rapids, Michigan, 1986, p. 1249). Found at [2](http://www.jefflindsay.com/LDSFAQ/oneness.shtml).
 
 [^15]: Calvin, J., & Pringle, W. (2010). *Commentary on the Gospel according to John* (Vol. 1, p. 417). Bellingham, WA: Logos Bible Software.
 
 [^16]: Calvin, J., & Pringle, W. (2010). *Commentary on the Gospel according to John* (Vol. 2, pp. 183–184). Bellingham, WA: Logos Bible Software.
 
-[^17]: Carson, D.A. (1991). *The Pillar New Testament Commentary: The Gospel According to John* (p. 394). Leicester, England; Grand Rapids, MI: Inter-Varsity Press; W.B. Eerdmans.
+[^17]: Carson, D.A. (1991). <cite>The Pillar New Testament Commentary: The Gospel According to John</cite> (p. 394). Leicester, England; Grand Rapids, MI: Inter-Varsity Press; W.B. Eerdmans.
 
 [^18]: Lange, J.P., & Schaff, P. (2008). *A commentary on the Holy Scriptures: John* (p. 332). Bellingham, WA: Logos Bible Software.
 
-[^19]: Borchert, G.L. (1996). *The New American Commentary: John 1–11* (Vol. 25A, p. 341). Nashville: Broadman & Holman Publishers.
+[^19]: Borchert, G.L. (1996). <cite>The New American Commentary: John 1–11</cite> (Vol. 25A, p. 341). Nashville: Broadman & Holman Publishers.
 
-[^20]: Keddie, G.J. (2001). *A Study Commentary on John: John 1–12* (Vol. 1, p. 407). Darlington, England; Auburn, MA: Evangelical Press.
+[^20]: Keddie, G.J. (2001). <cite>A Study Commentary on John: John 1–12</cite> (Vol. 1, p. 407). Darlington, England; Auburn, MA: Evangelical Press.
 
 [^21]: Lange, J.P., & Schaff, P. (2008). A commentary on the Holy Scriptures: John (p. 332). Bellingham, WA: Logos Bible Software.
 
-[^22]: Johann Albrecht Bengel. *Gnomon of the New Testament*, John 10:30. <http://www.studylight.org/commentary/john/10-30.html>
+[^22]: Johann Albrecht Bengel. <cite>Gnomon of the New Testament</cite>, John 10:30. <http://www.studylight.org/commentary/john/10-30.html>
 
-[^23]: Augustine. *Tractates on the Gospel of John*, 36.9. <http://www.newadvent.org/fathers/1701036.htm>
+[^23]: Augustine. <cite>Tractates on the Gospel of John</cite>, 36.9. <http://www.newadvent.org/fathers/1701036.htm>
 
-[^24]: Anatolios, Khaled. *Retrieving Nicaea: The Development and Meaning of Trinitarian Doctrine*. Baker Publishing Group. Kindle Edition.
+[^24]: Anatolios, Khaled. <cite>Retrieving Nicaea: The Development and Meaning of Trinitarian Doctrine</cite>. Baker Publishing Group. Kindle Edition.
 
-[^25]: Carson, D.A. (1996). *Exegetical Fallacies* (pp. 82–84). Baker Publishing Group.
+[^25]: Carson, D.A. (1996). <cite>Exegetical Fallacies</cite> (pp. 82–84). Baker Publishing Group.
 
-[^26]: Ware, Bruce A. (2005). *Father, Son, and Holy Spirit: Relationships, Roles, and Relevance* (Kindle Locations 143-149). Good News Publishers.
+[^26]: Ware, Bruce A. (2005). <cite>Father, Son, and Holy Spirit: Relationships, Roles, and Relevance</cite> (Kindle Locations 143-149). Good News Publishers.
 
-[^27]: Sanders, Fred (2010). *The Deep Things of God: How the Trinity Changes Everything* (pp. 9-10). Crossway.
+[^27]: Sanders, Fred (2010). <cite>The Deep Things of God: How the Trinity Changes Everything</cite> (pp. 9-10). Crossway.
 
-[^28]: Letham, Robert. *The Holy Trinity: In Scripture, History, Theology, and Worship* (p. 228). P&R Publishing. Kindle Edition.
+[^28]: Letham, Robert. <cite>The Holy Trinity: In Scripture, History, Theology, and Worship</cite> (p. 228). P&R Publishing. Kindle Edition.
 
-[^29]: Jesus’ baptism is also the first passage Grudem brings up in his *Systematic Theology* when he begins to coniseder the New Testament evidence for the Trinity.
+[^29]: Jesus’ baptism is also the first passage Grudem brings up in his <cite>Systematic Theology</cite> when he begins to coniseder the New Testament evidence for the Trinity.
 
 [^30]: *[Joey Day › The Trinity, Part 1](http://joeyday.com/2005/02/05/the-trinity-part-1/)*
 

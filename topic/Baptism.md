@@ -67,7 +67,7 @@ Signifies admission to covenant community, visible church, ingrafting into Chris
 ## Meaning, symbolism of
 
 Circumcision referred to cutting away of sin and change of heart
-: Lev 26:41; Dt 10:16; 30:6; Isa 52:1; Jer 4:4, 14; 9:25–26; Eze 44:7, 9; Ac 7:51; 15:1–11; Ro 2:26–29; 4:11; Php 3:3; Col 2:11 ~— *see also Ex 6:12, 30; Jer 6:10*~
+: Lev 26:41; Dt 10:16; 30:6; Isa 52:1; Jer 4:4, 14; 9:25–26; Eze 44:7, 9; Ac 7:51; 15:1–11; Ro 2:26–29; 4:11; Php 3:3; Col 2:11 — see also Ex 6:12, 30; Jer 6:10
 
 Baptism refers to washing away of sin and spiritual renewal
 : Mt 3:11; Mk 1:4; Lk 3:16; Jn 1:33; 3:5; Ac 2:3, 38; 11:16; 22:16; Ro 6:3–4; Eph 5:26; Col 2:11–12; 1Co 6:11; Tit 3:5–7; Heb 9:14; 10:22; 1Pe 3:21
@@ -92,7 +92,7 @@ Water is clearly and obviously required
 : Jn 3:23; Ac 8:36; 10:47
 
 Passages cited for immersion
-: Mt 3:16 ~(cf. Mk 1:9–10)~; Mk 1:5; Jn 3:23; Ac 8:38–39; Ro 6:4–5; Col 2:12
+: Mt 3:16 (cf. Mk 1:9–10); Mk 1:5; Jn 3:23; Ac 8:38–39; Ro 6:4–5; Col 2:12
 
 Passages cited for aspersion (sprinkling)
 : Nu 8:7; 19:13, 18–20; Ps 51:7; Eze 36:25; Heb 9:10, 13–14, 19, 21; 10:22
@@ -100,10 +100,10 @@ Passages cited for aspersion (sprinkling)
 Passages cited for affusion (pouring)
 : Joel 2:28–29; Ac 2:4, 33; 10:45–48; 11:16
 
-Baptism signifies death and resurrection ~(implying immersion is a necessary symbol)~
+Baptism signifies death and resurrection (implying immersion is a necessary symbol)
 : Mk 10:38–39; Lk 12:50; Ro 6:3–14; Col 2:11–13; 1Pe 3:21–22
 
-Baptism signifies spiritual washing ~(implying water is only necessary symbol)~
+Baptism signifies spiritual washing (implying water is only necessary symbol)
 : Ps 51:7; Eze 36:25; Jn 3:25–26; Ac 2:38; 22:16; 1Co 6:11; Eph 5:26; Tit 3:5; Heb 9:14; 10:22; 1Pe 3:21; Rev 1:5 KJV
 
 Notable Old Testament (LXX) uses of baptizō
@@ -126,16 +126,16 @@ Examples of baptisms where immersion would have been inconvenient
 {{[[mt]]|[[topic/Subjects of baptism|Subjects of baptism]]}}
 
 Adults should be baptized only upon profession of faith
-: Mk 16:16; Ac 2:37–38, 41; 8:12–13; Ac 8:37 KJV ~(not in earliest MSS)~; Ac 10:44–48; 16:14–15, 31–34
+: Mk 16:16; Ac 2:37–38, 41; 8:12–13; Ac 8:37 KJV (not in earliest MSS); Ac 10:44–48; 16:14–15, 31–34
 
 Infants and children of believers should also be baptized
 : Ge 17:7, 12, 23; Mt 19:13; Mk 10:13–16; Lk 18:15–17; Ac 2:38–39; 16:31; Ro 4:11–12; 1Co 7:14; Gal 3:9, 14; Col 2:11–12
 
 Household baptisms
-: Ac 10:24, 44, 47–48; 16:14–15, 31–34; 18:8; 1Co 1:16 ~— *see also Ge 17:23–27; Ex 12; 20:5–6; Jos 2:13, 18; 6:23–25; 24:15; Mt 10:12–14; Lk 19:9; Jn 4:53; 2Ti 1:16; Heb 11:7–9*~
+: Ac 10:24, 44, 47–48; 16:14–15, 31–34; 18:8; 1Co 1:16 — see also Ge 17:23–27; Ex 12; 20:5–6; Jos 2:13, 18; 6:23–25; 24:15; Mt 10:12–14; Lk 19:9; Jn 4:53; 2Ti 1:16; Heb 11:7–9
 
 Children included in visible church, new covenant community
-: Mt 19:14 ~(cf. Mk 10:14; Lk 18:16)~; Ac 2:39; 1Co 7:14; Eph 6:1–4 ~(cf. Eph 1:1)~; Col 3:20 ~(cf. Col 1:2)~
+: Mt 19:14 (cf. Mk 10:14; Lk 18:16); Ac 2:39; 1Co 7:14; Eph 6:1–4 (cf. Eph 1:1); Col 3:20 (cf. Col 1:2)
 
 ## Prototypes of
 
@@ -148,7 +148,7 @@ Ceremonial washings in the old covenant
 ## Not necessary for salvation
 
 Examples of salvation before or without circumcision/baptism
-: Lk 23:39–43 ~(see also Jn 19:32–33; Heb 9:17)~; Ac 10:44–48; Ro 2:26–29; 4:11
+: Lk 23:39–43 (see also Jn 19:32–33; Heb 9:17); Ac 10:44–48; Ro 2:26–29; 4:11
 
 Examples of circumcision/baptism before or without salvation
 : Ac 8:13, 21–23; 8:14–17; 19:2–7; Ro 4:12
@@ -172,7 +172,7 @@ Both stand in sacramental relation to forgiveness of sin
 : Mt 3:7–8; Mk 1:4; Lk 3:3; Ac 2:38
 
 Yet they are distinct
-: Mt 3:11 ~(cf. Lk 3:16; Jn 1:32–33)~; Ac 19:1–6
+: Mt 3:11 (cf. Lk 3:16; Jn 1:32–33); Ac 19:1–6
 
 ## External links
 

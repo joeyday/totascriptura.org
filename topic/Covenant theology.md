@@ -13,7 +13,7 @@ Covenant of Redemption
 ## Covenant of Works
 
 Covenant of Works
-: Ge 1:28–30; 2:8–9, 15–17; 3:11, 16–19, 22–24; Hos 6:7 ~(cf. Job 31:33)~; Ro 5:12–21
+: Ge 1:28–30; 2:8–9, 15–17; 3:11, 16–19, 22–24; Hos 6:7 (cf. Job 31:33); Ro 5:12–21
 
 ## Covenant of Grace
 
@@ -31,7 +31,7 @@ Abrahamic covenant
 
 Mosaic/Sinaitic covenant
 : {{[[mt]]|[[Mosaic covenant]]}}
-: Ge 15:13–16; Ex 2:24; 6:2–8; 19:2–6 ~(cited at 1Pe 2:9)~; Ex 24:3–8; 34:10, 27–28
+: Ge 15:13–16; Ex 2:24; 6:2–8; 19:2–6 (cited at 1Pe 2:9); Ex 24:3–8; 34:10, 27–28
 
 Levitical covenant
 : Ex 32:25–29; Nu 25:10–13; Dt 33:8–10; Ne 13:29; Jer 33:20–21; Mal 2:4, 8
@@ -45,7 +45,7 @@ Davidic covenant
 
 New covenant
 : {{[[mt]]|[[New covenant]]}}
-: Dt 30:1–10; Jer 31:31–34; Eze 16:60, 62–63; 36:24–30; 37:24–28; Mt 26:27-28 ~(cf. Mk 14:24; Lk 22:20)~; 1Co 11:25; Heb 12:24
+: Dt 30:1–10; Jer 31:31–34; Eze 16:60, 62–63; 36:24–30; 37:24–28; Mt 26:27-28 (cf. Mk 14:24; Lk 22:20); 1Co 11:25; Heb 12:24
 
 “They will be my people and I will be their God”
 : {{[[i-will-be-their-god]]}}

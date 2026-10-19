@@ -14,7 +14,7 @@ Christ’s suffering and temptation redeem us
 : Isa 53:3–4; Mt 4:1–11; 26:38; Jn 11:35; Heb 2:10; 4:15–16; 5:8–9; 12:3
 
 Christ’s crucifixion redeems us
-: Isa 53:5–6, 10; Gal 3:13–14 ~(cf. Dt 21:23)~; Col 1:19–20; 2:13–15; 1Pe 2:24
+: Isa 53:5–6, 10; Gal 3:13–14 (cf. Dt 21:23); Col 1:19–20; 2:13–15; 1Pe 2:24
 
 Christ’s death and burial redeems us
 : Ro 6:4–5; 1Co 15:3–4; Col 1:21–22; Heb 2:9, 14–15; Rev 5:9–10
@@ -23,7 +23,7 @@ Christ’s resurrection redeems us
 : Ro 4:25; 1Co 15:12-26; 1Pe 1:3, 21
 
 Christ’s ascension redeems us
-: Jn 7:39; 14:2–3; 16:7; Eph 2:6; 4:8–10 ~(cites Ps 68:18)~
+: Jn 7:39; 14:2–3; 16:7; Eph 2:6; 4:8–10 (cites Ps 68:18)
 
 Christ’s intercession redeems us
 : {{[[intercession]]}}

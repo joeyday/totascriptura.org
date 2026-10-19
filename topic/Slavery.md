@@ -11,7 +11,7 @@ Prisoners of war
 : Dt 21:10; 1Ki 9:20–21; Isa 14:1–2
 
 Kidnap, sale of persons was prohibited
-: Ex 21:16; Dt 24:7 ~— *see also 1Ti 1:10*~
+: Ex 21:16; Dt 24:7 — see also 1Ti 1:10
 
 Law included protections for slaves
 : Ex 21:20–21, 26–27; Lev 25:47–55; Dt 21:10–14; 23:15–16
@@ -34,13 +34,13 @@ Masters are to treat slaves fairly remembering they too have a Master
 : Eph 6:9; Col 4:1; Phm 1:10–18
 
 Christ is slave of God
-: Isa 42:1 ~(cited at Mt 12:18)~; Php 2:7
+: Isa 42:1 (cited at Mt 12:18); Php 2:7
 
 Sinners are enslaved to sin
 : Jn 8:34; Ro 6:16; Tit 3:3; 2Pe 2:19
 
 Covenant people are slaves to God
-: Ex 4:22–23; Lev 25:42, 55; Mal 1:6; Ro 1:1; 6:16–22; 1Co 7:23 ~(see also 1Co 6:20)~; Gal 1:10; Php 1:1; 2Pe 2:1
+: Ex 4:22–23; Lev 25:42, 55; Mal 1:6; Ro 1:1; 6:16–22; 1Co 7:23 (see also 1Co 6:20); Gal 1:10; Php 1:1; 2Pe 2:1
 
 Christians are to serve one another
 : Mt 20:26–27; Mk 10:44; 1Co 9:19; 2Co 4:5; Gal 5:13

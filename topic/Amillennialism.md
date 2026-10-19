@@ -11,7 +11,7 @@ Prince in Daniel is Messiah, not antichrist
 : —
 
 Satan bound during church age
-: Mt 4:1–11 ~(cf. Mk 1:12–13; Lk 4:1–13)~; Mt 12:28–29 ~(cf. Mk 3:27)~; Lk 10:17–18; Jn 12:31–32; Col 2:15; Rev 12:7–9; 20:1–3
+: Mt 4:1–11 (cf. Mk 1:12–13; Lk 4:1–13); Mt 12:28–29 (cf. Mk 3:27); Lk 10:17–18; Jn 12:31–32; Col 2:15; Rev 12:7–9; 20:1–3
 
 Resurrection of both righteous, wicked happens “on the last day”
 : Jn 5:25, 28–29; 6:39, 40, 44, 54; 12:48; Ac 24:15

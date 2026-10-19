@@ -24,7 +24,7 @@
 
 “All things are from \[*ek*\] him and through \[*dia*\] him and to \[*eis*\] him.” —Ro 11:36
 
-Is there a sense in which these propositions can be mapped onto persons of the Trinity (e.g. 1Co 8:6 seems to apply from \[*ek*\] to the Father and through \[*dia*\] to the Son)? If so, can they be mapped on only one way, or can they be mapped in interchangeably? Instinct says to map them in order to the Father, Son, and Spirit, but, as D.A. Carson points out in *The Difficult Doctrine of the Love of God*, in the act of propitiation the Son is the subject and the Father the object of propitiation. Does this imply that the Spirit is the verb? Does this imply that propitiation is from the Son, through the Spirit, and to the Father? What other triune activities would mix up these prepositions? Is there a definite, obvious triune activity one could point to for each of the six ways to map these prepositions to the persons?
+Is there a sense in which these propositions can be mapped onto persons of the Trinity (e.g. 1Co 8:6 seems to apply from \[*ek*\] to the Father and through \[*dia*\] to the Son)? If so, can they be mapped on only one way, or can they be mapped in interchangeably? Instinct says to map them in order to the Father, Son, and Spirit, but, as D.A. Carson points out in <cite>The Difficult Doctrine of the Love of God</cite>, in the act of propitiation the Son is the subject and the Father the object of propitiation. Does this imply that the Spirit is the verb? Does this imply that propitiation is from the Son, through the Spirit, and to the Father? What other triune activities would mix up these prepositions? Is there a definite, obvious triune activity one could point to for each of the six ways to map these prepositions to the persons?
 
 ## Thinking about climate change
 
@@ -157,7 +157,7 @@ Mt 4:23; 9:35 say he was proclaiming the good news of the kingdom, but what does
 
 ## In defense of proof texting
 
-From Michael Allen and Scott R. Swain’s *Reformed Catholicity*, first, a caution:
+From Michael Allen and Scott R. Swain’s <cite>Reformed Catholicity</cite>, first, a caution:
 
 > All of the charges brought against proof texting in Christian theology could be lodged against the Bible’s own use of the Bible. . . Indeed, if there is an immediate lesson to be drawn, it is this: proof texting (as a citation technique) has biblical precedent and therefore should not be too hastily dismissed.[^5]
 
@@ -191,7 +191,7 @@ In an e-mail on July 25, 2016:
 
 Ecc 11:5 says we don’t know “how the spirit comes to the bones in the womb of a woman with child”. It seems to leave open-ended the possibility that life does or doesn’t begin immediately at conception.
 
-[^1]: Grudem, Wayne (2009). *Systematic Theology: An Introduction to Biblical Doctrine* (p. 24). Zondervan. Kindle Edition.
+[^1]: Grudem, Wayne (2009). <cite>Systematic Theology: An Introduction to Biblical Doctrine</cite> (p. 24). Zondervan. Kindle Edition.
 
 [^2]: Ibid., p. 28.
 
@@ -199,7 +199,7 @@ Ecc 11:5 says we don’t know “how the spirit comes to the bones in the womb o
 
 [^4]: Ibid., p. 37.
 
-[^5]: Allen, Michael; Swain, Scott R. (2015). *Reformed Catholicity: The Promise of Retrieval for Theology and Biblical Interpretation* (pp. 128–129). Baker Publishing Group. Kindle Edition.
+[^5]: Allen, Michael; Swain, Scott R. (2015). <cite>Reformed Catholicity: The Promise of Retrieval for Theology and Biblical Interpretation</cite> (pp. 128–129). Baker Publishing Group. Kindle Edition.
 
 [^6]: Ibid., pp. 136–137.
 

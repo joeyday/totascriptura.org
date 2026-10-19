@@ -55,13 +55,13 @@ The budding fig tree
 : Mt 24:32–35; Mk 13:28–31; Lk 21:29–33
 
 The dishonest manager
-: Lk 16:1–13 ~(see Lk 15:3)~
+: Lk 16:1–13 (see Lk 15:3)
 
 The faithful servant
 : Mt 24:42–51; Mk 13:34–37; Lk 12:35–48
 
 The lost coin
-: Lk 15:8–10 ~(see Lk 15:3)~
+: Lk 15:8–10 (see Lk 15:3)
 
 The lost sheep
 : Mt 18:12–14; Lk 15:3–7
@@ -73,13 +73,13 @@ The Pharisee and the tax collector
 : Lk 18:9–14
 
 The prodigal son
-: Lk 15:11–32 ~(see Lk 15:3)~
+: Lk 15:11–32 (see Lk 15:3)
 
 The rich fool
 : Lk 12:16–21
 
 The rich man and Lazarus
-: Lk 16:19–31 ~(see Lk 15:3)~
+: Lk 16:19–31 (see Lk 15:3)
 
 The sower
 : Mt 13:3–9, 18–23; Mk 4:2–9; Lk 8:4–8

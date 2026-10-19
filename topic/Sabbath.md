@@ -17,10 +17,10 @@ Perpetual, still binding in New Testament
 : Ex 31:16–17; Mt 5:17–18
 
 Ceremonial aspects done away in Christ
-: Ro 14:5–10; Col 2:16–23 ~— *see also Jn 4:21–24*~
+: Ro 14:5–10; Col 2:16–23 — see also Jn 4:21–24
 
 Jesus, Son of Man is Lord of Sabbath
-: Mt 12:1–8 ~(cf. Mk 2:23–28; Lk 6:1–5)~; Mt 12:9–14 ~(cf. Mk 3:1–6; Lk 6:6–11)~; Jn 5:1–18
+: Mt 12:1–8 (cf. Mk 2:23–28; Lk 6:1–5); Mt 12:9–14 (cf. Mk 3:1–6; Lk 6:6–11); Jn 5:1–18
 
 ## The Lord’s Day is Christian Sabbath
 

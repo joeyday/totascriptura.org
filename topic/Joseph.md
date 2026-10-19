@@ -9,7 +9,7 @@ Birthright
 : Ge 37:5–11; 48:1–22; 49:22–26; Dt 33:13–17; 1Ch 5:1–2; Jos 17:14, 17; Dt 21:15–17; Eze 47:13
 
 Land
-: Jos 16:1–10; 17:1–18; 24:32 ~(re: Shechem, see Ge 33:18–19; 48:22)~; Jn 4:5
+: Jos 16:1–10; 17:1–18; 24:32 (re: Shechem, see Ge 33:18–19; 48:22); Jn 4:5
 
 First king of Israel was Ephraimite
 : 1Ki 11:26

@@ -4,7 +4,7 @@
 ## Passages to add
 Add 2Ti 1:8–9 to unconditional election? —**Joey** 05:01, 28 November 2011 (UTC)
 
-Look at passages given at the end of each chapter in Sproul’s *Chosen By God*. —**Joey** 05:04, 28 November 2011 (UTC)
+Look at passages given at the end of each chapter in Sproul’s <cite>Chosen By God</cite>. —**Joey** 05:04, 28 November 2011 (UTC)
 
 Does Jn 15:16 belong on this page? —**Joey** 16:30, 9 September 2012 (UTC)
 ## Better headline graphic?

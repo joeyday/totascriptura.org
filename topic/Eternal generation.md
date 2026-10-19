@@ -4,11 +4,11 @@ categories:
 - "[[Christology]]"
 ---
 
-Son is “from” Father ~(most explicit passages)~
+Son is “from” Father (most explicit passages)
 : {{[[eternal-generation-partial]]}}
 
 Father gives name to Son
-: Jn 5:43; 17:11–12; Eph 1:21; Php 2:9–11; Heb 1:4 ~— *see also Ge 32:29; Ex 23:21; Jdg 13:18*~
+: Jn 5:43; 17:11–12; Eph 1:21; Php 2:9–11; Heb 1:4 — see also Ge 32:29; Ex 23:21; Jdg 13:18
 
 Son sent by Father
 : Mt 10:40; Mk 9:37; Lk 4:43; 10:16; Jn 3:16–17; 4:34; 5:23–24, 30–47; 6:29, 38–44, 57; 7:16, 28–29, 33; 8:16–18, 26–29, 42; 9:4; 10:36; 12:44–50; 13:16, 20; 14:24; 15:21; 16:5, 27–28; 17:3, 8, 18, 21, 25; 20:21; Gal 4:4–6; 1Jn 4:14

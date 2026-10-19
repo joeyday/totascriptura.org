@@ -15,7 +15,7 @@ Worship of the one true God
 
 Faith, belief in essential doctrines
 : {{[[mt]]|[[topic/Essential doctrines|Essential doctrines]]}}
-: *Necessary:* Jn 8:21–25 ~(cf. Jn 8:28, 58)~; Heb 11:6; 1Jn 1:8, 10; 2:22–23; 4:2–3; 5:5; 2Jn 1:7–10
+: *Necessary:* Jn 8:21–25 (cf. Jn 8:28, 58); Heb 11:6; 1Jn 1:8, 10; 2:22–23; 4:2–3; 5:5; 2Jn 1:7–10
 
 Repentance
 : *Sufficient:* Isa 1:27; 59:20; Eze 18:32; 33:11; Ac 2:37–38; 3:19; 11:18; 2Co 7:10; Jas 4:7–8
@@ -35,8 +35,8 @@ Lord’s Supper
 
 ## Good works
 
-Keeping the commandments ~(non-specific)~
-: *Necessary:* Mt 5:20; 19:16–22 ~(cf. Mk 10:17–22; Lk 18:18–23)~; Lk 10:25–28 ~(cf. Mt 22:34–40)~; 1Jn 1:6; *Sufficient:* 1Jn 2:3; 3:24
+Keeping the commandments (non-specific)
+: *Necessary:* Mt 5:20; 19:16–22 (cf. Mk 10:17–22; Lk 18:18–23); Lk 10:25–28 (cf. Mt 22:34–40); 1Jn 1:6; *Sufficient:* 1Jn 2:3; 3:24
 
 Forsaking everything to follow Christ
 : *Sufficient:* Mt 19:27–29
@@ -56,7 +56,7 @@ Holiness
 
 Enduring to the end
 : {{[[mt]]|[[topic/Preservation of the saints|Perseverance of the saints]]}}
-: *Sufficient:* Mt 10:22; Mt 24:13 ~(cf. Mk 13:13; Lk 21:19)~; Jn 8:31–32; Heb 3:14; Jas 1:12; Rev 2:10; *Necessary:* 1Jn 2:19-20; 3:9
+: *Sufficient:* Mt 10:22; Mt 24:13 (cf. Mk 13:13; Lk 21:19); Jn 8:31–32; Heb 3:14; Jas 1:12; Rev 2:10; *Necessary:* 1Jn 2:19-20; 3:9
 
 ## Warnings against sin
 

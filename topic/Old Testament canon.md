@@ -26,25 +26,25 @@ Deuteronomy
 Joshua
 : Heb 13:5
 
-Judges-Ruth ~(one book)~
+Judges-Ruth (one book)
 : Mt 2:23; Lk 1:15
 
-1 & 2 Samuel ~(one book)~
+1 & 2 Samuel (one book)
 : Ac 13:22; Ro 15:9; 2Co 6:18; Heb 1:5
 
-1 & 2 Kings ~(one book)~
+1 & 2 Kings (one book)
 : Ro 11:3, 4
 
 Isaiah
 : Mt 1:23; 3:3; 4:15–16; 8:17; 12:18–20, 21; 13:14–15; 15:8–9; 21:5, 13; Mk 1:3; 4:12; 7:6–7; 9:44, 46, 48; 11:17; 12:32; 15:28; Lk 3:4–6; 4:18–19; 8:10; 19:46; 22:37; Jn 1:23; 6:45; 12:38, 40; Ac 7:49–50; 8:32–33; 13:34, 47; 28:26–27; Ro 2:24; 3:15–17; 9:27–28, 29, 33; 10:11, 15, 16, 20, 21; 11:8, 26–27, 27, 34; 14:11; 15:12, 21; 1Co 1:19; 2:9, 16; 14:21; 15:32, 54; 2Co 6:2, 17; Gal 4:27; Heb 2:13; 1Pe 1:24–25; 2:6, 8, 9; 2:22; 3:14
 
-Jeremiah-Lamentations ~(one book)~
+Jeremiah-Lamentations (one book)
 : Mt 2:18; 21:13; 27:9–10; Mk 11:17; Lk 19:46; 1Co 1:31; 2Co 10:17; Heb 8:8–12; 10:16–17
 
 Ezekiel
 : 2Co 6:16, 17
 
-Twelve Minor Prophets ~(one book)~
+Twelve Minor Prophets (one book)
 : Mt 10:35–36; 11:10; 12:7, 40; 21:5; 26:31; 27:9–10; Mk 1:2; 14:27; Lk 7:27; 23:30; Jn 12:15; 19:37; Ac 2:17–21; 7:42–43; 13:41; 15:16–17; Ro 1:17; 9:13, 25, 26; 10:13; 1Co 15:55; Gal 3:11; Eph 4:25; Heb 10:37–38; 12:26
 
 ## The Writings ~(Ketuvim)~
@@ -70,10 +70,10 @@ Esther
 Daniel
 : Mt 24:15, 30; 26:64; Mk 13:14, 26; 14:62; Rev 1:13; 14:14
 
-Ezra-Nehemiah ~(one book)~
+Ezra-Nehemiah (one book)
 : Jn 6:31
 
-1 & 2 Chronicles ~(one book)~
+1 & 2 Chronicles (one book)
 : Heb 1:5
 
 ## See also

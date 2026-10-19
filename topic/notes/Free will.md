@@ -12,7 +12,7 @@ I floated this question out on Quora: [http://www.quora.com/Free-Will/What-suppo
 
 ## Todo
 
-* Re-read chapter 7 of *Young, Restless, No Longer Reformed*.
+* Re-read chapter 7 of <cite>Young, Restless, No Longer Reformed</cite>.
 * Re-read John Tvedtnes’s article *[Agency vs. Predestinatiom](http://www.fairmormon.org/perspectives/publications/agency-vs-predestination)*.
 
 —**Joey** 15:42, 5 July 2012 (UTC)
@@ -97,10 +97,10 @@ From GreatTreasures.org, the Greek words for “choose” and their occurrences 
 Nu 22:33 — A counterfactual statement from an angel. Again, do angels know enough to make true statements of counterfactual knowledge, or is this conjecture? (Actually, the angel can state with relative confidence what he himself would have done in a hypothetical situation, so this may not qualify as a true counterfactual at all.)
 
 Not so much counterfactuals of creaturely freedom, but explaining what God himself would do in different situations
-: Ex 9:15; 33:5; Dt 28:15–68; Ps 50:12; Jer 18:7–10; 26:2–4; Eze 14:14, 16, 20; 33:1–9, 13–15; Mt 26:24 ~(cf. Mk 14:21)~; Mk 6:48–49; 9:42 ~(cf. Lk 17:2)~; Jn 8:55; 11:40; 14:2; 18:36
+: Ex 9:15; 33:5; Dt 28:15–68; Ps 50:12; Jer 18:7–10; 26:2–4; Eze 14:14, 16, 20; 33:1–9, 13–15; Mt 26:24 (cf. Mk 14:21); Mk 6:48–49; 9:42 (cf. Lk 17:2); Jn 8:55; 11:40; 14:2; 18:36
 
 Are these saying that if such-and-such has happened, God wouldn't hold people guilty for their sin, or that if such-and-such had happened the people wouldn’t have chosen to sin?
-: Mt 24:22 ~(cf. Mk 13:20)~; Jn 9:41; 15:22, 24
+: Mt 24:22 (cf. Mk 13:20); Jn 9:41; 15:22, 24
 
 True counterfactuals of plantly and stonely freedom?
 : Lk 17:6; 19:40
@@ -165,6 +165,6 @@ God speaks of what may, may not happen
 
 I already had most of the passages Hansen cited in various places around the site, I added a few of the ones I didn’t already have, but I’m having a hard time placing Genesis 4:6–7 and Zechariah 1:3. They both imply free will, so I think they belong here, but they don’t fit neatly under any of the headings I already have. Where do they go?
 
-[^1]: John Calvin (2011). *Institutes of the Christian Religion*. (F.L. Battles, Trans., J.T. McNeill, Ed.) (Vol. 1, p. 266). Louisville, KY: Westminster John Knox Press.
+[^1]: John Calvin (2011). <cite>Institutes of the Christian Religion</cite>. (F.L. Battles, Trans., J.T. McNeill, Ed.) (Vol. 1, p. 266). Louisville, KY: Westminster John Knox Press.
 [^2]: Malcolm MacColl (1872). *[The “Damnatory Clauses” of the Athanasian Creed Rationally Explained](http://anglicanhistory.org/scotland/maccoll/athanasian1872.html)*.
-[^3]: Grudem, *Systematic Theology*.
+[^3]: Grudem, <cite>Systematic Theology</cite>.

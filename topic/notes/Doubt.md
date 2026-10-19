@@ -55,8 +55,8 @@ I don’t condone everything these men have said, taught, or done, but these quo
 
 [^4]: Buechner, Frederick (1973). <cite>Wishful Thinking</cite>, 23.
 
-[^5]: Clifford, William K. (1877). “The Ethics of Belief.” *The Ethics of Belief and Other Essays* (Prometheus Books). Retrieved from [1](http://infidels.org/library/historical/w_k_clifford/ethics_of_belief.html).
+[^5]: Clifford, William K. (1877). “The Ethics of Belief.” <cite>The Ethics of Belief and Other Essays</cite> (Prometheus Books). Retrieved from [1](http://infidels.org/library/historical/w_k_clifford/ethics_of_belief.html).
 
-[^6]: As quoted in *The Reader’s Digest*, Vol. 37 (1940), p. 90; no specific source given.
+[^6]: As quoted in <cite>The Reader’s Digest</cite>, Vol. 37 (1940), p. 90; no specific source given.
 
 [^7]: Redford, J.A.C. (1997). <cite>Welcome all wonders: A composer’s journey</cite>. (p. 28). Grand Rapids, MI: Baker Books.

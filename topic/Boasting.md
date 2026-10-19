@@ -29,4 +29,4 @@ Christians boast in one another
 : 1Co 15:31; 2Co 1:14; 5:12; 7:4, 13–16; 8:24; 9:1–3; Php 1:26; 1Th 2:19–20
 
 Sincere, valid boasting in oneself?
-: Gal 6:4; Php 2:16 *— ~but see Ro 15:17–18; 1Co 15:10; 2Co 1:12; Php 2:13~*
+: Gal 6:4; Php 2:16 — but see Ro 15:17–18; 1Co 15:10; 2Co 1:12; Php 2:13
