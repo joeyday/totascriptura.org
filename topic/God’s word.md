@@ -3,7 +3,6 @@ categories:
 - "[[Prolegomena]]"
 - "[[Christology]]"
 ---
-
 The person of Jesus Christ
 : Jn 1:1, 14; Heb 1:1–2; 1Jn 1:1; Rev 19:13
 
