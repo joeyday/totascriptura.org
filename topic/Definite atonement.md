@@ -52,7 +52,7 @@ Some for whom Christ died may not ultimately be saved
 “World” in some places carries idea of “all nations”
 : Mt 24:14; 26:13; Mk 16:15; Ro 1:5; 10:18
 
-“All” or “every” (gr. *pas*) can be distributive (i.e., “every kind”)
+“All” or “every” (gr. pas) can be distributive (i.e., “every kind”)
 : Mt 4:23 (also Mk 9:35; 10:1); Lk 11:42
 
 ## See also

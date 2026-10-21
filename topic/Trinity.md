@@ -70,7 +70,7 @@ Perichoresis (mutual indwelling)
 
 The persons are not interchangeable, but can be distinguished by their order[^order], relations of origin[^relations], and personal properties[^properties]. These ontological distinctions are revealed to us primarily in the roles assumed by the persons in the economy of creation and redemption.
 
-Order (_taxis_)
+Order (taxis)
 : Mt 28:19; Eph 2:18
 
 Father holds primacy in role
