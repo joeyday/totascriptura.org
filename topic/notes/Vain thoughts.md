@@ -44,7 +44,7 @@ matēn (adv. in vain, to no end)
 
 - 1Co 15:2 – *eikē* (adv.)
 
-## All relevant ~NT~ passages?
+## All relevant NT passages?
 
 kenos + mataios + eikē
 : Mt 15:9; Mk 7:7; 12:3; Lk 1:53; 20:10–11; Ac 4:25; 14:15; Ro 1:21; 4:14; 8:20; 13:4; 1Co 1:17; 3:20; 9:15; 15:2, 10, 14, 17, 58; 2Co 6:1; 9:3; Gal 2:2; 3:4; 4:11; 5:26; Eph 4:17; 5:6; Php 2:3, 7, 16; Col 2:8, 18; 1Th 2:1; 3:5; 1Ti 1:6; 6:20; 2Ti 2:16; Tit 1:10; 3:9; Jas 1:26; 2:20; 4:5; 1Pe 1:18; 2Pe 2:18

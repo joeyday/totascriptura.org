@@ -14,7 +14,7 @@ The golden rule
 : Mt 7:12 (cf. Lk 6:31)
 
 Love your enemies
-: Mt 5:43–48 (cf. Lk 6:27–36) — this is also not new; cf. Lev 19:33–34 <small>(cf. Ex 22:21; 23:9; Dt 10:18–19)</small>
+: Mt 5:43–48 (cf. Lk 6:27–36) — this is also not new; cf. Lev 19:33–34 (cf. Ex 22:21; 23:9; Dt 10:18–19)
 
 The perfect law of liberty
 : Jas 1:25; 2:12

@@ -14,7 +14,7 @@ Jesus is Yahweh
 ## Jesus has names of God
 
 God
-: {{[[jesus-is-god-partial]]}} — see also Mt 1:23 <small>(cites Isa 7:14)</small>; Ac 20:28 <small>(but see ESV translators’ note and Ac 20:28 NRSV)</small>; 1Jn 5:20 <small>(cf. 1Jn 1:2; 5:11, 13)</small>
+: {{[[jesus-is-god-partial]]}} — see also Mt 1:23 (cites Isa 7:14); Ac 20:28 (but see ESV translators’ note and Ac 20:28 NRSV); 1Jn 5:20 (cf. 1Jn 1:2; 5:11, 13)
 
 Lord
 : Mt 3:3 (cites Isa 40:3); Mt 22:41–46 (cf. Mk 12:35–37; Lk 20:41–44; cites Ps 110:1); Lk 1:43; 2:11; Ac 2:34–36 (cites Ps 110:1); 1Co 8:6; 12:3; Heb 1:10–12 (cites Ps 102:25–27)
