@@ -14,7 +14,7 @@ Should probably add a section about this. —**Joey** 04:26, 12 August 2009 (UTC
 
 2Co 11:7-9! —**Joey** 16:30, 14 August 2009 (UTC)
 
-## Challenge re: 1 Tim 5:17
+## Challenge re: 1Ti 5:17
 
 [Cline](http://www.joeyday.com/2005/06/03/is-paid-ministry-unbiblical#comment-142863) challenged me in a blog comment to give reason and sources for interpreting 1Ti 5:17 the way I do. Here’s what I’ve found so far:
 

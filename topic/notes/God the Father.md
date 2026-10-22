@@ -19,7 +19,7 @@ Any sense in which believers are Christ’s children?
 : Ps 22:30; Isa 9:6; 53:10
 
 Someone called “son”, “daughter”, “child”, or “children” (not exhaustive)
-: Jer 31:22; 49:4; Matt 9:22; Mark 2:5; 5:34; 10:24; Luke 8:48; John 8:35; 13:33; 21:5; Gal 4:1-3; 1 John 2:1; 2:12–13; 2:18; 2:28; 3:7; 3:18; 4:4; 5:21
+: Jer 31:22; 49:4; Mt 9:22; Mark 2:5; 5:34; 10:24; Luke 8:48; John 8:35; 13:33; 21:5; Gal 4:1-3; 1 John 2:1; 2:12–13; 2:18; 2:28; 3:7; 3:18; 4:4; 5:21
 
 ## Todo: More Keywords?
 I've searched the entire Bible for instances of “father”, “child”, “son”, “daughter”, “adopt”, “offspring”, “born”, “firstborn”, and “birth” (and all variant forms such as plurals, past tenses, etc.). Any other keywords I should consider? —**Joey** 02:11, 17 August 2010 (UTC)
@@ -31,7 +31,7 @@ Cited in [Preach My Gospel](http://lds.org/library/display/0,4945,8057-1-4424-1,
 : Ac 17:29 (variously cited as Ac 17:29; 17:27–29; 17:16–34); Ro 8:16; Heb 12:9
 
 Cited in [LDS Topical Guide › Man, a Spirit Child of Heavenly Father](https://www.churchofjesuschrist.org/study/scriptures/tg/man-a-spirit-child-of-heavenly-father?lang=eng)
-: Nu 16:22; Dt 14:1; Job 32:8; Job 33:4; Ps 82:6; Ecc 12:7; Isa 42:5; Hos 1:10; Mal. 2:10; Mt 5:48; Mt 6:9; Ac 17:29; Ro 8:16; Eph 4:6; Heb 12:9
+: Nu 16:22; Dt 14:1; Job 32:8; Job 33:4; Ps 82:6; Ecc 12:7; Isa 42:5; Hos 1:10; Mal 2:10; Mt 5:48; Mt 6:9; Ac 17:29; Ro 8:16; Eph 4:6; Heb 12:9
 
 —**Joey** 04:29, 21 August 2010 (UTC)
 ## Children v. dogs
@@ -108,7 +108,7 @@ From *[The Meaning of “Sons of God” in Genesis 6:1–4](http://www.apologeti
 ## “Eternal family”
 “The Godhead—the Trinity, as we call it—is the ‘eternal family’ in the true sense of the word.” —Pastor Tim —**Joey** 16:42, 2 September 2012 (UTC)
 ## Why this page is arranged in the order it's in (don't rearrange it!)
-> Scripture, by contrast, points to something very specific and much less sentimental when it calls God “the Father.” It points to the fact that within the life of the one God, there is an eternal relationship of fatherhood and sonship. The first person is Father for Trinitarian reasons first of all. He is the Father of the Son by definition. That is who he is. Consequent to that is what he does: he acts to become the Father of those whom he predestined for adoption as sons (Eph. 1:5). Finally, in an extended or poetic sense, it may sometimes be appropriate to depict God’s general love and care for all his creatures by using a parenting metaphor. <mark>But to start with cosmic fatherhood is exactly backwards.</mark> God did not have the world as his son; he so loved the world that he gave his only Son (John 3:16).[^1]
+> Scripture, by contrast, points to something very specific and much less sentimental when it calls God “the Father.” It points to the fact that within the life of the one God, there is an eternal relationship of fatherhood and sonship. The first person is Father for Trinitarian reasons first of all. He is the Father of the Son by definition. That is who he is. Consequent to that is what he does: he acts to become the Father of those whom he predestined for adoption as sons (Eph 1:5). Finally, in an extended or poetic sense, it may sometimes be appropriate to depict God’s general love and care for all his creatures by using a parenting metaphor. <mark>But to start with cosmic fatherhood is exactly backwards.</mark> God did not have the world as his son; he so loved the world that he gave his only Son (John 3:16).[^1]
 ## God the Father in the Book of Mormon
 *See Experiment › God the Father.*
 ## Book of Mormon searches

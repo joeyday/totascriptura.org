@@ -177,7 +177,7 @@ Found it:
 
 On the necessity of baptism, Grudem argues that:
 
-> The apostle Paul would have opposed the idea that baptism is necessary for salvation just as strongly as he opposed the similar idea that circumcision was necessary for salvation (see Gal. 5:1–12).[^10]
+> The apostle Paul would have opposed the idea that baptism is necessary for salvation just as strongly as he opposed the similar idea that circumcision was necessary for salvation (see Gal 5:1–12).[^10]
 
 Where/how to work this Galatians passage into this topic? —**Joey** 18:27, 12 April 2013 (UTC)
 

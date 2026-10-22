@@ -4,7 +4,7 @@ categories:
 draft: true
 ---
 Paul wrote this letter to Titus, who had evidently been tasked with appointing elders in every town in Crete. So it seems natural that the subject matter of the letter contains qualifications for elders, exhortations to teach sound doctrine, and some of Paul’s clearest brief expositions of the gospel.
-## Greeting (Tit 1:1–4)
+## Greeting (Tit 1:1–4)
 
 Tit 1:1 *Paul*
 : Authorship of the epistle to Titus is disputed by modern critical scholarship. To take the text at face value we must at least assume it was written after the events of Acts, i.e. late 60’s AD, since Paul leaving Titus in Crete is never mentioned in the Acts narrative.
@@ -27,7 +27,7 @@ Tit 1:4 *Titus*
 *My true child*
 : Likely indicates Titus was led to saving faith by Paul himself.
 
-## Qualifications for elders (Tit 1:5–9)
+## Qualifications for elders (Tit 1:5–9)
 
 Tit 1:5 *Appoint elders in every town*
 : This is compelling warrant for the Presbyterian system’s plurality of elders. See [[topic/Church government|Church government]].
@@ -35,7 +35,7 @@ Tit 1:5 *Appoint elders in every town*
 Tit 1:7 *Overseer*
 : Overseer is translated from Greek *episkopos*, “bishop”. Elder and bishop are used interchangeably here, implying they are the same church office.
 
-## Rebuke of Judaizers (Tit 1:10–16)
+## Rebuke of Judaizers (Tit 1:10–16)
 
 Tit 1:12–13 *One of the Cretans . . . said, “Cretans are always liars . . .” This testimony is true*
 : Though Paul is of course making a serious point, I have to believe this is cited tongue-in-cheek. How can it be true if it was written by an always-lying Cretan? It’s a delightful paradox. The quotation is from Epimenides of Crete. I love the idea that a Bible author can quote an outside source and then it becomes infallible God-breathed Scripture (see also Ac 17:28). God has a sense of humor.
@@ -43,12 +43,12 @@ Tit 1:12–13 *One of the Cretans . . . said, “Cretans are always liars . . .�
 Tit 1:15 *their minds and their consciences are defiled*
 : This is the noetic effect of sin. Not only do the unregenerate not believe, they cannot believe. See [[topic/Total depravity|Total depravity]].
 
-## Exhortation to teach sound doctrine, exposition of the gospel (Tit 2:1–3:11)
+## Exhortation to teach sound doctrine, exposition of the gospel (Tit 2:1–3:11)
 
 Tit 2:9–10 *Bondservants are to be submissive to their own masters*
 : WLC 124 interprets the fifth commandment as being not just about parents and children, but about anyone in positions of authority and submission, and follow-up question 127 cites this passage among several others. Modern audiences chafe at anything to do with slavery or indentured servitude (the exact kind of arrangement spoken of here isn’t clear, but it doesn’t have to be; it’s almost certainly anathema by today’s standard), but different forms of slavery and bonded labor were instituted by God in human history as an analogy for our relationship of submission to him. This is delicate, but that some in history used slavery to commit heinous atrocities does not make God the author of sin. In fact, those sinful acts show forth God’s goodness and faithfulness by contrast. Though we are in a deeply imbalanced power relationship (infinite holy God, finite fallen creatures), God shows himself to be supremely kind and generous toward us.
 
-## Final instructions, greetings, and benediction (Tit 3:12–15)
+## Final instructions, greetings, and benediction (Tit 3:12–15)
 
 Tit 3:12 *Artemas*
 : This is the sole mention of Artemas in Paul’s letters (or anywhere else).

@@ -34,7 +34,7 @@ I've now finished thorough searches for the key words “choose”, “chose”,
 I should probably give this list and the list in the main topic article one more look through, but for the most part the list in the main article is every moral or immoral choice made by man, and the list below is every amoral choice. Every other instance of “choose”, “chose”, “chosen” or “choice” (roughly 400 occurrences altogether) in the Bible is either used adjectively or, if used as a verb, has God as its subject, not man.
 
 More instances of "choose", "chose", "choice"
-: Choose: Ex 17:9; Nu 14:4; Dt 1:13; 1Sa 17:8; 2Sa 17:1; 1Ki 18:23, 25; Job 7:15; 9:14; 15:5; 34:4, 33; Isa 44:14; Ac 15:22; Php 1:22; He 11:25; Chose: Ge 6:2; 13:11; Ex 18:25; Dt 33:21; Jos 8:3; 1Sa 13:2; 17:40; 2Sa 10:9; 1Ch 19:19; Job 29:25; Lk 14:7; Ac 6:5; 15:40; Chosen: Ex 14:7; 15:4; Nu 16:2; 26:9; Jdg 5:8; 10:14; 1Sa 8:18; 12:13; 20:30; 2Sa 16:18; Job 36:21; Ps 16:5; Ps 119:30, 173; Pr 16:16; 22:1; Isa 1:29; Lk 10:42
+: Choose: Ex 17:9; Nu 14:4; Dt 1:13; 1Sa 17:8; 2Sa 17:1; 1Ki 18:23, 25; Job 7:15; 9:14; 15:5; 34:4, 33; Isa 44:14; Ac 15:22; Php 1:22; Heb 11:25; Chose: Ge 6:2; 13:11; Ex 18:25; Dt 33:21; Jos 8:3; 1Sa 13:2; 17:40; 2Sa 10:9; 1Ch 19:19; Job 29:25; Lk 14:7; Ac 6:5; 15:40; Chosen: Ex 14:7; 15:4; Nu 16:2; 26:9; Jdg 5:8; 10:14; 1Sa 8:18; 12:13; 20:30; 2Sa 16:18; Job 36:21; Ps 16:5; Ps 119:30, 173; Pr 16:16; 22:1; Isa 1:29; Lk 10:42
 
 —**Joey** 03:11, 10 December 2012 (UTC)
 
@@ -47,7 +47,7 @@ Todo:
 Done: [pentateuch](http://www.biblegateway.com/keyword/?search=will&version1=ESV&searchtype=all&bookset=3&resultspp=100) (585), [historical books](http://www.biblegateway.com/keyword/?search=will&version1=ESV&searchtype=all&bookset=8&resultspp=100) (576), [wisdom books](http://www.biblegateway.com/keyword/?search=will&version1=ESV&searchtype=all&bookset=7&resultspp=100&startnumber=501) (720), [major prophets](http://www.biblegateway.com/keyword/?search=will&version1=ESV&searchtype=all&bookset=5&resultspp=100&startnumber=1001) (1133), [minor prophets](http://www.biblegateway.com/keyword/?search=will&version1=ESV&searchtype=all&bookset=6&resultspp=100) (315), [gospel](http://www.biblegateway.com/keyword/?search=will&version1=ESV&searchtype=all&bookset=4&resultspp=100) (669), [epistles](http://www.biblegateway.com/keyword/?search=will&version1=ESV&searchtype=all&bookset=9&resultspp=100) (351), [apocalyptic books](http://www.biblegateway.com/keyword/?search=will&version1=ESV&searchtype=all&bookset=11&resultspp=100) (97)
 
 “Will”, “willing”, “willful”, “willfully”, “unwilling”
-: Ge 23:8, 13; 24:5, 8; Nu 24:13; Jdg 8:25; Ru 3:13; 2Sa 3:37; 12:4; 1Ki 22:49; 1Ch 19:19; 28:21; Ne 11:2; Mt 1:19; 11:14; 21:31; 23:4, 37; 26:41; Mk 14:38; Lk 12:47; 13:34; 23:25; Jn 1:13; 5:35; 7:17; 8:44; Rom 9:16; 1Co 9:17; 16:12; 2Co 8:19; 9:5; Eph 6:7; Php 1:15; 1Th 3:1; 2Th 3:10; Jas 3:4; 1Pe 5:2; 2Pe 1:21; 2:10
+: Ge 23:8, 13; 24:5, 8; Nu 24:13; Jdg 8:25; Ru 3:13; 2Sa 3:37; 12:4; 1Ki 22:49; 1Ch 19:19; 28:21; Ne 11:2; Mt 1:19; 11:14; 21:31; 23:4, 37; 26:41; Mk 14:38; Lk 12:47; 13:34; 23:25; Jn 1:13; 5:35; 7:17; 8:44; Ro 9:16; 1Co 9:17; 16:12; 2Co 8:19; 9:5; Eph 6:7; Php 1:15; 1Th 3:1; 2Th 3:10; Jas 3:4; 1Pe 5:2; 2Pe 1:21; 2:10
 
 Satan has a will
 : Lk 4:6; 2Ti 2:26

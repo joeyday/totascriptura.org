@@ -5,7 +5,7 @@
 * http://www.ecclesia.org/truth/chosen.html
 ## Good summary of Covenant of Redemption
 From [CARM: “What is the Eternal Covenant, also known as the Covenant of Redemption?”](http://carm.org/questions-eternal-covenant) by Matt Slick:
-> In this covenant God the Father and the Son made an agreement with regard to the elect.  This covenant was made before the universe was created and it consisted of the Father promising to bring to the Son all whom the Father had given Him (John 6:39;17:2,9,24), to send the Son to be the representative of the people (John 3:16; Rom. 5:18-19), to prepare a body for the Son (Col 2:9; Heb 10:5), and to give the Son all authority in heaven and earth (Mt 28:18).
+> In this covenant God the Father and the Son made an agreement with regard to the elect.  This covenant was made before the universe was created and it consisted of the Father promising to bring to the Son all whom the Father had given Him (John 6:39;17:2,9,24), to send the Son to be the representative of the people (John 3:16; Ro 5:18-19), to prepare a body for the Son (Col 2:9; Heb 10:5), and to give the Son all authority in heaven and earth (Mt 28:18).
 > 
 > The Son would become man (Col 2:9; 1Ti 2:5), become for a while lower than the angels (Heb 2:7), and be found under the Law (Gal 4:4-5).  The Son would die for the sins of the world (1Jn 2:2; 1Pe 2:24) and the Father would raise the Son from the Dead (Ps 2).
 > 

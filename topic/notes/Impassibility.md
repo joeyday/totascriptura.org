@@ -22,7 +22,7 @@ D.A. Carson:
 >
 > Closer to the mark is the recognition that all of God’s emotions, including his love in all its aspects, cannot be divorced from God’s knowledge, God’s power, God’s will. If God loves, it is because he chooses to love; if he suffers, it is because he chooses to suffer. God is impassible in the sense that he sustains no “passion,” no emotion, that makes him vulnerable from the outside, over which he has no control, or which he has not foreseen. . . .
 >
-> This approach to these matters accounts well for certain biblical truths of immense practical importance. God does not “fall in love” with the elect; he does not “fall in love” with us; he *sets his affection* on us. He does not predestine us out of some stern whimsy; rather, *in love* he predestines us to be adopted as his sons (Eph. 1:4–5). *The texts themselves tie the love of God to other perfections in God*.[^2]
+> This approach to these matters accounts well for certain biblical truths of immense practical importance. God does not “fall in love” with the elect; he does not “fall in love” with us; he *sets his affection* on us. He does not predestine us out of some stern whimsy; rather, *in love* he predestines us to be adopted as his sons (Eph 1:4–5). *The texts themselves tie the love of God to other perfections in God*.[^2]
 
 J.I. Packer:
 

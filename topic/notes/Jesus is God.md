@@ -37,7 +37,7 @@ Jesus is God, less explicit statements
 ## Draft incommunicable attributes
 
 Omnisapience (is this one a stretch?)
-: Pr 8; 9:1–12; Isa 11:1–2; Mk 6:2; Lk 2:40; 2:52; 21:15; 1 Cor 1:24; 1:30; 2:16 (cites Isa 40:13); Col 2:2–3; Rev 5:12 — cf. Job 11:5–9; 12:13–25; 28:12–28; Pr 2:6; Isa 28:29; 33:5–6; 40:13; Jer 10:12; 51:15
+: Pr 8; 9:1–12; Isa 11:1–2; Mk 6:2; Lk 2:40; 2:52; 21:15; 1Co 1:24; 1:30; 2:16 (cites Isa 40:13); Col 2:2–3; Rev 5:12 — cf. Job 11:5–9; 12:13–25; 28:12–28; Pr 2:6; Isa 28:29; 33:5–6; 40:13; Jer 10:12; 51:15
 
 Ineffibility
 : —
@@ -46,7 +46,7 @@ Graciousness
 : —
 
 Holiness
-: Heb 7:26; 1 Pet 3:15; Rev 3:7 — cf. Isa 8:13 — but see also Heb 12:10; 12:14 — study [holy](http://www.biblegateway.com/keyword/?search=holy&version1=ESV&searchtype=all&limit=none&wholewordsonly=no), [holiness](http://www.biblegateway.com/keyword/?search=holiness&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73), [separate](http://www.biblegateway.com/keyword/?search=separate&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73), [set apart](http://www.biblegateway.com/keyword/?search=%22set+apart%22&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73)
+: Heb 7:26; 1Pe 3:15; Rev 3:7 — cf. Isa 8:13 — but see also Heb 12:10; 12:14 — study [holy](http://www.biblegateway.com/keyword/?search=holy&version1=ESV&searchtype=all&limit=none&wholewordsonly=no), [holiness](http://www.biblegateway.com/keyword/?search=holiness&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73), [separate](http://www.biblegateway.com/keyword/?search=separate&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73), [set apart](http://www.biblegateway.com/keyword/?search=%22set+apart%22&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73)
 
 Immanence
 : —
@@ -79,22 +79,22 @@ Some of these are near complete but I don’t like them since they aren’t nece
 : Jn 4:7–15; 7:37–38; Rev 7:17; 22:1 — cf. Jer 2:13; 17:13; Rev 21:6
 
 Jesus is life
-: Pr 8:35; Jn 1:4; 11:25; 14:6; Acts 5:20; 1 Jn 1:1–2; 5:11–13
+: Pr 8:35; Jn 1:4; 11:25; 14:6; Acts 5:20; 1Jn 1:1–2; 5:11–13
 
 Light of the world
 : Jn 8:12; Ps 27:1
 
 Jesus gives life
-: Jn 5:21; (see Jn 5:19–29); Jn 5:40; 6:27; 6:51; 6:68; 8:12; 10:10; 10:28; 17:2–3; 20:31; Acts 3:14–15; Rom 5:17–21; 1 Cor 15:45; Col 3:4; 2 Tim 1:10; Rev 22:1 — cf. Ge 2:7; 1 Sam 2:6; Job 33:4; Ps 36:9; 54:4; Pr 14:27; Rom 4:17; 1 Tim 6:13
+: Jn 5:21; (see Jn 5:19–29); Jn 5:40; 6:27; 6:51; 6:68; 8:12; 10:10; 10:28; 17:2–3; 20:31; Acts 3:14–15; Ro 5:17–21; 1Co 15:45; Col 3:4; 2Ti 1:10; Rev 22:1 — cf. Ge 2:7; 1Sa 2:6; Job 33:4; Ps 36:9; 54:4; Pr 14:27; Ro 4:17; 1Ti 6:13
 
 “What man can live and never see death?”
 : Jn 2:19–22; 10:17–18; Heb 7:16; Rev 1:17–18; 2:8 — cf. Ps 89:48
 
 “A people for his own possession”
-: Titus 2:13–14 — cf. Ex 19:5; Dt 7:6; 14:2; 26:18; 1 Sam 12:22; Ps 135:4; Mal 3:17; 1 Pet 2:9
+: Titus 2:13–14 — cf. Ex 19:5; Dt 7:6; 14:2; 26:18; 1Sa 12:22; Ps 135:4; Mal 3:17; 1Pe 2:9
 
 “Honor the Lord as holy”
-: 1 Pet 3:14–15 — cf. Isa 8:12–13
+: 1Pe 3:14–15 — cf. Isa 8:12–13
 
 Saved for later
 : Isa 33:22
@@ -103,7 +103,7 @@ Interesting observation
 : Ge 32:29; Ex 6:3; Jdg 13:18
 
 “King of Kings”
-: Rev 17:14; 19:16 — cf. 1 Sam 12:12; Ps 95:3; 1 Tim 1:17; 6:15 — study [king god](http://www.biblegateway.com/keyword/index.php?search=king%20god&version1=ESV&searchtype=all&limit=none&wholewordsonly=no&startnumber=51), [king lord](http://www.biblegateway.com/keyword/?search=king+lord&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73)
+: Rev 17:14; 19:16 — cf. 1Sa 12:12; Ps 95:3; 1Ti 1:17; 6:15 — study [king god](http://www.biblegateway.com/keyword/index.php?search=king%20god&version1=ESV&searchtype=all&limit=none&wholewordsonly=no&startnumber=51), [king lord](http://www.biblegateway.com/keyword/?search=king+lord&searchtype=all&version1=47&language1=en&spanbegin=1&spanend=73)
 
 “High and lifted up”
 : Isa 52:13 — cf. Isa 6:1; 57:15
@@ -121,7 +121,7 @@ Interesting observation
 : Job 36:22
 
 “The stone the builders rejected”
-: Ps 118:22; Isa 8:13–15; 28:16; Lk 20:17–18 (relevant?); Acts 4:11; Ro 9:33; Eph 2:20; 1 Pet 2:4–8
+: Ps 118:22; Isa 8:13–15; 28:16; Lk 20:17–18 (relevant?); Acts 4:11; Ro 9:33; Eph 2:20; 1Pe 2:4–8
 
 “You alone are the Most High”
 : Ps 83:18
@@ -179,7 +179,7 @@ The judgment scene of Mt 25:31–46 reflects the theophanic language of Da 7:9�
 
 In Mt 21:16, Jesus applies Ps 8:1–2 to himself.
 
-Other references of this type Mt 11:10, Mk 1:2, and Lk 7:27 (Mal. 3:1; 4:5–6). In Mk 9:12–13 (Mt 17:11–12), Mt 11:10 (Lk 7:27), and Mt 11:14, there are references to Mal 3:1; 4:5–6, which predict the coming of Elijah as the forerunner of Yahweh. Jesus, however, identified John the Baptist, who had come as his forerunner, as Elijah.
+Other references of this type Mt 11:10, Mk 1:2, and Lk 7:27 (Mal 3:1; 4:5–6). In Mk 9:12–13 (Mt 17:11–12), Mt 11:10 (Lk 7:27), and Mt 11:14, there are references to Mal 3:1; 4:5–6, which predict the coming of Elijah as the forerunner of Yahweh. Jesus, however, identified John the Baptist, who had come as his forerunner, as Elijah.
 
 He claimed the power to judge the world (Mt 25:31) and to reign over it (Mt 24:30; Mk 14:62).
 ## “He meant to pass by them”
@@ -213,7 +213,7 @@ Passages Sean Finnegan specifically calls out in his video
 
 ## More Yahweh passages applied to Jesus?
 Robert L. Reymond from his <cite>A New Systematic Theology of the Christian Faith</cite>:
-> The New Testament writers show no hesitancy in applying to Christ Old Testament descriptions and privileges that are reserved specifically for Yahweh. For instance, (1) Moses’ description of Yahweh as “King of kings” (Dt 10:17) John applies to Christ (Rev. 17:14; 19:16); (2) the author of Hebrews applies the entirety of Ps 102:25–27 to him (1:10–12); (3) Proverbs 18:10 provides the background for Peter’s assertion in Acts 4:12; (4) Joel’s summons to trust in Yahweh (2:32) Paul employs to summon men to faith in Christ (Rom. 10:13); (5) when Isaiah looked upon Yahweh (Isa 6:1–3), according to John he was beholding the glory of the preincarnate Son of God (John 12:40–41); (6) Isaiah’s call to sanctify Yahweh in the heart (8:12–13) Peter applies directly to Christ—he is the one who is to be sanctified as Lord in the heart (1Pe 3:14–15); (7) Isaiah’s representation of Yahweh as a stone that causes men to stumble and a rock that makes them fall (8:14) Paul applies to Christ (Ro 9:32–33); (8) Yahweh, whose coming would be preceded by Yahweh’s forerunner (Isa 40:3; Mal. 3:1; 4:5), is equated with Christ (Matt. 3:3; 11:10; Mark 1:2–3; Luke 1:16–17; 3:4; John 1:23); (9) Jesus himself employs Yahweh’s words in Isaiah 43:10 and 45:22 to summon men to be his witnesses and to rest in him (Ac 1:8; Mt 11:28); (10) Isaiah’s description of Yahweh as “the first and the last” (44:6) John employs to describe the glorified Christ (Rev. 2:8; 22:12–13); (11) Yahweh, “before whom every knee shall bow and by whom every mouth shall swear (Isa. 45:23), Paul identifies as Christ (Rom. 14:10; Phil. 2:10); and (12) Yahweh, the pierced One upon whom men would look and mourn (Zech. 12:10), John tells us is the Christ (John 19:37).
+> The New Testament writers show no hesitancy in applying to Christ Old Testament descriptions and privileges that are reserved specifically for Yahweh. For instance, (1) Moses’ description of Yahweh as “King of kings” (Dt 10:17) John applies to Christ (Rev 17:14; 19:16); (2) the author of Hebrews applies the entirety of Ps 102:25–27 to him (1:10–12); (3) Proverbs 18:10 provides the background for Peter’s assertion in Acts 4:12; (4) Joel’s summons to trust in Yahweh (2:32) Paul employs to summon men to faith in Christ (Ro 10:13); (5) when Isaiah looked upon Yahweh (Isa 6:1–3), according to John he was beholding the glory of the preincarnate Son of God (John 12:40–41); (6) Isaiah’s call to sanctify Yahweh in the heart (8:12–13) Peter applies directly to Christ—he is the one who is to be sanctified as Lord in the heart (1Pe 3:14–15); (7) Isaiah’s representation of Yahweh as a stone that causes men to stumble and a rock that makes them fall (8:14) Paul applies to Christ (Ro 9:32–33); (8) Yahweh, whose coming would be preceded by Yahweh’s forerunner (Isa 40:3; Mal 3:1; 4:5), is equated with Christ (Mt 3:3; 11:10; Mark 1:2–3; Luke 1:16–17; 3:4; John 1:23); (9) Jesus himself employs Yahweh’s words in Isaiah 43:10 and 45:22 to summon men to be his witnesses and to rest in him (Ac 1:8; Mt 11:28); (10) Isaiah’s description of Yahweh as “the first and the last” (44:6) John employs to describe the glorified Christ (Rev 2:8; 22:12–13); (11) Yahweh, “before whom every knee shall bow and by whom every mouth shall swear (Isa 45:23), Paul identifies as Christ (Ro 14:10; Php 2:10); and (12) Yahweh, the pierced One upon whom men would look and mourn (Zec 12:10), John tells us is the Christ (John 19:37).
 
 ::: {style="margin-left: 1em:"}
 Also, Bauckham gives a boatload of these in chapter 6 of his <cite>Jesus and the God of Israel</cite>, starting with those in Paul but don’t miss later in the chapter he even moves outside of Paul. Need to compare his lists against mine. I’m positive he has a bunch I’ve left out.
