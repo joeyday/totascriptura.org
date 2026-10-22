@@ -31,4 +31,4 @@ God is not the author of sin
 
 ## See also
 * [[Calvinism]]
-[[topic/Free will|Free will]]
+* [[topic/Free will|Free will]]

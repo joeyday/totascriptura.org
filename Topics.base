@@ -1,5 +1,10 @@
 views:
   - type: table
+    name: All
+    order:
+      - file.name
+      - categories
+  - type: table
     name: Featured
     filters:
       and:
