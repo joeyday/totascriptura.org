@@ -1,0 +1,87 @@
+{
+  "parts": [
+    {
+      "title": "Prolegomena",
+      "topics": [
+        "Scripture",
+        "Old Testament canon"
+      ]
+    },
+    {
+      "title": "Theology proper",
+      "topics": [
+        "Trinity",
+        "Monotheism",
+        "Creator-creature distinction",
+        "Father is God",
+        "God the Father",
+        "Jesus is God",
+        "Eternal generation",
+        "Hypostatic union",
+        "Holy Spirit is God",
+        "Perichoresis",
+        "Attributes of God",
+        "God the bridegroom",
+        "Providence",
+        "Free will"
+      ]
+    },
+    {
+      "title": "Cosmology",
+      "topics": [
+        "Ex nihilo creation",
+        "Hell"
+      ]
+    },
+    {
+      "title": "Soteriology",
+      "topics": [
+        "Essential doctrines",
+        "Doctrines of grace",
+        "Total depravity",
+        "Unconditional election",
+        "Definite atonement",
+        "Effectual grace",
+        "Preservation of the saints",
+        "Atonement",
+        "Assurance of salvation"
+      ]
+    },
+    {
+      "title": "Ecclesiology",
+      "topics": [
+        "Church",
+        "Church government",
+        "Church membership",
+        "Church discipline",
+        "Means of grace",
+        "Baptism",
+        "Subjects of baptism",
+        "Lord’s Supper",
+        "Ordination",
+        "Laying on of hands",
+        "Paid ministry",
+        "Sabbath"
+      ]
+    },
+    {
+      "title": "Eschatology",
+      "topics": [
+        "Covenant theology",
+        "Heirs of God"
+      ]
+    },
+    {
+      "title": "Moral theology",
+      "topics": [
+        "Marriage"
+      ]
+    }
+  ],
+  "index": {
+    "groups": [
+      "Church",
+      "Preservation"
+    ]
+  }
+}

@@ -13,7 +13,7 @@ featured: true
 ## Canon of
 
 Old Testament canon
-: {{mt|[[Old Testament canon]]}}
+: {{[[mt]]|[[Old Testament canon]]}}
 : Mt 5:17; 7:12; 11:13; 22:40;  Lk 11:51; 16:16; 24:44; Jn 1:45; Ac 24:14; 28:23; Ro 3:21
 
 New Testament canon
@@ -56,7 +56,7 @@ God intended to give his word to his church
 : Ro 15:4; 2Ti 3:16–17
 
 He is sovereignly able to preserve it
-: {{mt|Providence}}
+: {{[[mt]]|[[Providence]]}}
 : Ps 135:6; Da 4:35; Ac 17:25–28; Eph 1:11; Heb 1:3
 
 God preserves his word
