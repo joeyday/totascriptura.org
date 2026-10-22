@@ -9,7 +9,7 @@ Except as otherwise stated below, all content on **Tota Scriptura** is copyright
 
 ## Typeface and typography
 
-**Tota Scriptura** is presented in Erik Spiekermann’s distinguished humanist typefaces [FF Meta Serif](https://fonts.adobe.com/fonts/ff-meta-serif) and [FF Meta](https://fonts.adobe.com/fonts/ff-meta), courtesy of the awesome [Adobe Fonts](https://fonts.adobe.com/) web font service. Through the wonders of modern CSS and OpenType, it’s got old style numbers, ligatures, and real small caps. [Butterick](https://practicaltypography.com) would be proud.
+**Tota Scriptura** is presented in the distinguished Transitional serif [Source Serif](https://en.wikipedia.org/wiki/Source_Serif) created by Frank Grießhammer for Adobe Systems and Erik Spiekermann’s whimsical humanist [Fira Sans](https://en.wikipedia.org/wiki/Fira_(typeface)) designed for the Mozilla Foundation. Google’s [Noto](https://en.wikipedia.org/wiki/Noto_fonts) font family developed by Steve Matteson is used sparingly as a fallback for missing Greek and Hebrew characters. Through the wonders of modern CSS and OpenType features, the site has old-style numbers, ligatures, and true small caps. [Butterick](https://practicaltypography.com) would be proud.
 
 ## Images
 
