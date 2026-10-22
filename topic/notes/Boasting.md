@@ -1,3 +1,7 @@
+This study was inspired by Pastor Jon’s sermon, *[Authentic Living - Galatians 6:1–6](https://www.jordanvalleychurch.org/sermons/2026/4/12/authentic-living-galatians-61-6)*, particularly Gal 6:4 getting stuck in my craw. The guys in the “Bible in a Year” Facebook Messenger group chat helped me workshop the topic and suggested passages to add to the page.
+
+## Word studies
+
 Every instance of kauchēma (n. boast)
 : Ro 4:2; 1Co 5:6; 9:15–16; 2Co 1:14; 5:12; 9:3; Gal 6:4; Php 1:26; 2:16; Heb 3:6
 
