@@ -46,7 +46,7 @@ Yup, this is all the Scripture he cites in his whole 250-page book.
 
 ## Arminius on regeneration, faith, repentance
 
-> “For as that act of faith is not in the power of a natural, carnal, sensual *[animalis]*, and sinful man; and as no one can perform this act except through the grace of God; but as all the grace of God is administered according to the will of God,” so “evangelical faith is an assent of the mind, produced by the Holy Spirit, through the Gospel, in sinners, who through the law know and acknowledge their sins, and are penitent on account of them.”[^1]
+> “For as that act of faith is not in the power of a natural, carnal, sensual *\[animalis]*, and sinful man; and as no one can perform this act except through the grace of God; but as all the grace of God is administered according to the will of God,” so “evangelical faith is an assent of the mind, produced by the Holy Spirit, through the Gospel, in sinners, who through the law know and acknowledge their sins, and are penitent on account of them.”[^1]
 
 > “as the very first commencement of every good thing, so likewise the progress, continuance and confirmation, nay, even the perseverance in good, are not from ourselves, but from God through the Holy Spirit.”[^2]
 
