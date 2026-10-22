@@ -21,3 +21,5 @@ Things to do in this vault. Remove an item once it's done. (`PLAN.md` is ignored
   - [ ] Five solas of the Reformation
   - [ ] Calvinism
   - [ ] Arminianism
+  - [ ] Amillennialism
+  - [ ] God is love

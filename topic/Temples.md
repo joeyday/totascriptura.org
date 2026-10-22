@@ -10,3 +10,6 @@ This topic lists all occurrences of “temples” (plural) where buildings are c
 
 “Temples” in the Book of Mormon
 : Alma 16:13; 23:2; 26:29; Hel 3:9; 3:14
+
+## See also
+* [[topic/Temple|Temple]]
