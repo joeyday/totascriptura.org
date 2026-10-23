@@ -5,3 +5,4 @@ dist
 *.tar.gz
 example-page.html
 *.wiki
+.dist-cache
