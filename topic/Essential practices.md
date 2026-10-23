@@ -77,5 +77,5 @@ No one keeps the commandments
 
 * [[Means of grace]]
 
-[^1]: [WCF 2.2](http://papers.jday.co/view/wcf_ii).
+[^1]: [WCF II.II](http://papers.jday.co/view/wcf_ii).
 [^2]: A **necessary practice** ~(e.g. *“if you don’t do this you cannot be saved”*)~ must be done for salvation but may not be enough to save by itself. A **sufficient practice** ~(e.g. *“if you do this you will be saved”*)~ is enough to save by itself, but may go beyond what is strictly necessary for salvation. Considered logically, a correct understanding of any of the sufficient practices must in some way contain or presuppose all the necessary ones.
