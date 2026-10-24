@@ -16,22 +16,48 @@
         "Simplicity",
         "Trinity",
         "Father is God",
-        "God the Father",
         "Jesus is God",
-        "Eternal generation",
-        "Hypostatic union",
         "Holy Spirit is God",
+        "Eternal generation",
         "Perichoresis",
-        "God the bridegroom",
-        "Providence",
-        "Free will"
+        "God the Father",
+        "God the bridegroom"
+      ]
+    },
+    {
+      "title": "God’s decrees and works",
+      "topics": [
+        "Unconditional election",
+        "Ex nihilo creation",
+        "Providence"
       ]
     },
     {
       "title": "Cosmology",
       "topics": [
-        "Ex nihilo creation",
-        "Hell"
+        "Heaven",
+        "Hell",
+        "Geocentrism"
+      ]
+    },
+    {
+      "title": "Anthropology",
+      "topics": [
+        "Free will"
+      ]
+    },
+    {
+      "title": "Hamartiology",
+      "topics": [
+        "Total depravity"
+      ]
+    },
+    {
+      "title": "Christology",
+      "topics": [
+        "Hypostatic union",
+        "Atonement",
+        "Definite atonement"
       ]
     },
     {
@@ -39,12 +65,8 @@
       "topics": [
         "Essential doctrines",
         "Doctrines of grace",
-        "Total depravity",
-        "Unconditional election",
-        "Definite atonement",
         "Effectual grace",
         "Preservation of the saints",
-        "Atonement",
         "Assurance of salvation"
       ]
     },

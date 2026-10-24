@@ -6,6 +6,7 @@ Things to do in this vault. Remove an item once it's done. (`PLAN.md` is ignored
 - [ ] Go through the other topic pages and decide whether to add any of them to `book.json`.
 - [ ] Clean up pages for book publishing:
 	- [ ] [[Essential practices]]
+	- [ ] [[Creation]]
 	- [ ] [[Eternal]]
 	- [ ] [[Epistemology]]
 	- [ ] [[Order of salvation]]
