@@ -1,5 +1,6 @@
 ---
 categories:
+  - "[[Anthropology]]"
   - "[[Moral theology]]"
 ---
 

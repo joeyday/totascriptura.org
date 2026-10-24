@@ -1,6 +1,6 @@
 ---
 categories:
-- "[[Moral theology]]"
+  - "[[Anthropology]]"
 ---
 
 One man and one woman

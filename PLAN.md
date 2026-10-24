@@ -3,15 +3,31 @@
 Things to do in this vault. Remove an item once it's done. (`PLAN.md` is ignored by the generator.)
 
 - [ ] Add a link to the new book PDF somewhere on the site (where is still to be decided: the Home page, About or the Colophon, say).
-- [ ] Go through the other topic pages and decide whether to add any of them to `book.json`.
-- [ ] Clean up pages for book publishing:
-	- [ ] [[Essential practices]]
+- [x] Prolegomena section needs:
+	- [x] [[topic/Epistemology|Epistemology]]
+- [ ] Theology proper section needs:
+	- [x] [[God is love]]
+	- [ ] [[topic/Eternal|Eternal]]
+- [ ] God’s decrees and works section needs:
+	- [ ] [[Covenant of Redemption]]?
 	- [ ] [[Creation]]
-	- [ ] [[Eternal]]
-	- [ ] [[Epistemology]]
+	- [ ] [[topic/Creationism|Creationism]]?
+	- [ ] [[Geocentrism]]?
+- [ ] Anthropology section needs:
+	- [ ] [[Covenant of Works]]?
+	- [ ] [[Man in the image of God]]
+	- [ ] [[Fourfold state of man]]
+- [ ] Hamartiology section needs:
+	- [ ] [[Sin]]
+	- [ ] [[topic/Original sin|Original sin]]
+- [ ] Christology section needs:
+	- [ ] [[Incarnation]]
+- [ ] Soteriology section needs:
 	- [ ] [[Order of salvation]]
-	- [ ] [[Five solas of the Reformation]]
-	- [ ] [[Calvinism]]
-	- [ ] [[Arminianism]]
+- [ ] Eschatology section needs:
 	- [ ] [[Amillennialism]]
-	- [ ] [[God is love]]
+- [ ] Where do these go?
+	- [ ] [[Essential practices]]
+	- [ ] [[Five solas of the Reformation]]
+	- [ ] [[Calvinism]]?
+	- [ ] [[Arminianism]]?

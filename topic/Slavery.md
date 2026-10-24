@@ -1,6 +1,7 @@
 ---
 categories:
-- "[[Moral theology]]"
+  - "[[Anthropology]]"
+  - "[[Moral theology]]"
 ---
 ## Ancient Near East slavery was different from Antebellum South
 

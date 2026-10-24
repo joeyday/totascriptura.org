@@ -1,6 +1,6 @@
 ---
 categories:
-- "[[Moral theology]]"
+  - "[[Anthropology]]"
 ---
 
 Jesus affirmed family values, honored his earthly parents

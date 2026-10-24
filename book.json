@@ -3,6 +3,7 @@
     {
       "title": "Prolegomena",
       "topics": [
+        "Epistemology",
         "Scripture",
         "Old Testament canon"
       ]
@@ -20,6 +21,7 @@
         "Holy Spirit is God",
         "Eternal generation",
         "Perichoresis",
+        "God is love",
         "God the Father",
         "God the bridegroom"
       ]
@@ -35,15 +37,15 @@
     {
       "title": "Cosmology",
       "topics": [
-        "Heaven",
-        "Hell",
         "Geocentrism"
       ]
     },
     {
       "title": "Anthropology",
       "topics": [
-        "Free will"
+        "Free will",
+        "Marriage",
+        "Family"
       ]
     },
     {
@@ -64,6 +66,7 @@
       "title": "Soteriology",
       "topics": [
         "Essential doctrines",
+        "Covenant theology",
         "Doctrines of grace",
         "Effectual grace",
         "Preservation of the saints",
@@ -90,15 +93,15 @@
     {
       "title": "Eschatology",
       "topics": [
-        "Covenant theology",
+        "Heaven",
+        "Hell",
         "Heirs of God"
       ]
     },
     {
       "title": "Moral theology",
       "topics": [
-        "Boasting",
-        "Marriage"
+        "Boasting"
       ]
     }
   ],
