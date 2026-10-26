@@ -22,7 +22,7 @@ Most explicit affirmations of
 : Dt 30:19; Jos 24:15, 21–22; 2Sa 24:11–13 (cf. 1Ch 21:9–12); Ps 25:12; Pr 1:29; 3:31; Isa 7:15–16; 56:4; 65:12; 66:3–4
 
 God has true knowledge of counterfactuals of creaturely freedom
-: Nu 12:14; 1Sa 23:10–13; Jer 37:9–10; 38:17–18; Eze 3:4–6; Hos 8:7; Mic 2:11; Mt 11:21, 23 (cf. Lk 10:13); Mt 12:7; 24:43 (cf. Lk 12:39); Lk 16:30–31; 22:67–68; Jn 4:10; 5:46; 8:19, 39, 42; 14:7, 28; 15:19; 1Co 2:8
+: {{[[counterfactuals]]}}
 
 ## Objections
 
