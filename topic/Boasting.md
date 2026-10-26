@@ -1,8 +1,7 @@
 ---
 categories:
   - "[[Moral theology]]"
-  - "[[Anthropology]]"
-  - "[[Hamartiology]]"
+  - "[[Topical studies]]"
 ---
 
 Sinful pride and boasting
