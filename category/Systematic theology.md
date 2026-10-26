@@ -1,1 +1,4 @@
+---
+order: 20
+---
 This category contains topics and subcategories about **systematic theology**, or the organized, topical study of all biblical doctrines, gathering teaching from the entire Bible to form a coherent understanding of specific subjects.

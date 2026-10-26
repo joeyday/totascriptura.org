@@ -1,7 +1,6 @@
 ---
 categories:
-  - "[[Paterology]]"
-  - "[[Christology]]"
+  - "[[Theology (proper)]]"
 ---
 
 God the bridegroom
