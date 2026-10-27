@@ -2,7 +2,7 @@
   "parts": [
     {
       "title": "Prolegomena",
-      "description": "“Things said beforehand”—the foundational principles, assumptions, and methods that govern the study of theology",
+      "description": "“Things said beforehand”—the assumptions and presuppositions in back of theology, including epistemology, bibliology, and hermeneutics",
       "topics": [
         "Epistemology",
         "Scripture",
@@ -95,7 +95,7 @@
     },
     {
       "title": "Eschatology",
-      "description": "“Last things”—death, the end of the world, final judgement, the ultimate destiny of humanity",
+      "description": "“Last things”—death, the end of the world, final judgment, the ultimate destiny of humanity",
       "topics": [
         "Heaven",
         "Hell",
@@ -104,6 +104,7 @@
     },
     {
       "title": "Topical studies",
+      "description": "Miscellaneous topics that don’t quite fit elsewhere",
       "topics": [
         "Boasting"
       ]
