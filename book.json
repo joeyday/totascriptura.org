@@ -2,6 +2,7 @@
   "parts": [
     {
       "title": "Prolegomena",
+      "description": "“Things said beforehand”—the foundational principles, assumptions, and methods that govern the study of theology",
       "topics": [
         "Epistemology",
         "Scripture",
@@ -10,10 +11,10 @@
     },
     {
       "title": "Theology proper",
+      "description": "The study of the nature and attributes of God, including the divine decrees and God’s works of creation and providence",
       "topics": [
         "Attributes of God",
         "Monotheism",
-        "Creator-creature distinction",
         "Simplicity",
         "Trinity",
         "Father is God",
@@ -23,12 +24,7 @@
         "Perichoresis",
         "God is love",
         "God the Father",
-        "God the bridegroom"
-      ]
-    },
-    {
-      "title": "God’s decrees and works",
-      "topics": [
+        "God the bridegroom",
         "Unconditional election",
         "Ex nihilo creation",
         "Providence"
@@ -36,12 +32,15 @@
     },
     {
       "title": "Cosmology",
+      "description": "The study of created things, of the heavens and the earth, of angels and demons",
       "topics": [
+        "Creator-creature distinction",
         "Geocentrism"
       ]
     },
     {
       "title": "Anthropology",
+      "description": "The study of man as he relates to God and to his fellow men",
       "topics": [
         "Free will",
         "Marriage",
@@ -50,12 +49,14 @@
     },
     {
       "title": "Hamartiology",
+      "description": "The study of sin",
       "topics": [
         "Total depravity"
       ]
     },
     {
       "title": "Christology",
+      "description": "The study of Christ, especially his incarnation and the redemption he accomplished",
       "topics": [
         "Hypostatic union",
         "Atonement",
@@ -64,6 +65,7 @@
     },
     {
       "title": "Soteriology",
+      "description": "The study of salvation applied to sinners",
       "topics": [
         "Essential doctrines",
         "Covenant theology",
@@ -75,6 +77,7 @@
     },
     {
       "title": "Ecclesiology",
+      "description": "The study of the church, including the sub-discipline of sacramentology",
       "topics": [
         "Church",
         "Church government",
@@ -92,6 +95,7 @@
     },
     {
       "title": "Eschatology",
+      "description": "“Last things”—death, the end of the world, final judgement, the ultimate destiny of humanity",
       "topics": [
         "Heaven",
         "Hell",
