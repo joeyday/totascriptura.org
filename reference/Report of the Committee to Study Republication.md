@@ -9,7 +9,7 @@ Christ fulfilled righteousness of the Law
 : Mt 3:15; 5:17–29; Ro 3:21–22, 31; 5:12–21; 8:4
 
 Christ took upon himself curse of the Law
-: Gal 3:13; 2Co 5:21; 1Pe 3:18
+: 2Co 5:21; Gal 3:13; 1Pe 3:18
 
 Christ is guarantor of a better covenant
 : Heb 7:22; 8:6; 9:14–15
