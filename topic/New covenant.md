@@ -15,7 +15,7 @@ Recipients
 : —
 
 Continuity with Covenant of Grace
-: *One church:* Ac 7:38; Eph 2:11–20; Ro 11
+: *One church:* Ac 7:38; Ro 11; Eph 2:11–20
 
 ## See also
 

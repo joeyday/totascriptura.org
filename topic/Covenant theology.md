@@ -37,15 +37,15 @@ Levitical covenant
 : Ex 32:25–29; Nu 25:10–13; Dt 33:8–10; Ne 13:29; Jer 33:20–21; Mal 2:4, 8
 
 Palestinian covenant
-: Dt 29:1-29; 30:1–20
+: Dt 29:1–29; 30:1–20
 
 Davidic covenant
 : {{[[mt]]|[[Davidic covenant]]}}
-: 2Sa 7:8–17; 23:5; Ps 2:1–12; 89:3–4, 19–37; 132:11–12
+: 2Sa 7:8–17 (cf. 1Ch 17:7–15); 2Sa 23:5; Ps 2:1–12; 89:3–4, 19–37; 132:11–12
 
 New covenant
 : {{[[mt]]|[[New covenant]]}}
-: Dt 30:1–10; Jer 31:31–34; Eze 16:60, 62–63; 36:24–30; 37:24–28; Mt 26:27-28 (cf. Mk 14:24; Lk 22:20); 1Co 11:25; Heb 12:24
+: Dt 30:1–10; Jer 31:31–34; Eze 16:60, 62–63; 36:24–30; 37:24–28; Mt 26:27–28 (cf. Mk 14:23–24; Lk 22:17, 20); 1Co 11:25; Heb 12:24
 
 “They will be my people and I will be their God”
 : {{[[i-will-be-their-god]]}}
