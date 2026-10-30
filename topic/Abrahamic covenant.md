@@ -30,7 +30,7 @@ Mediator of the covenant remains the same
 : Ac 4:12; 10:43; 15:10–11; Gal 3:16; 1Ti 2:5–6; 1Pe 1:9–12
 
 Condition of the covenant remains the same
-: Ge 15:6; Ps 32:10; Ac 10:43; Ro 4:3; Gal 3:7, 9, 26; Eph 2:8–9; Heb 4:2; Heb 11
+: Ge 15:6; Ps 32:10; Ac 10:43; Ro 4:3; Gal 3:7, 9, 26; Eph 2:8–9; Heb 4:2; 11
 
 Blessings of the covenant remain the same
 : *Justification*: Ps 32:1–2, 5; Isa 1:18; Ro 4:9; Gal 3:6; *regeneration*: Dt 30:6; Ps 51:10; *spiritual gifts*: Isa 40:31; Joel 2:28, 32; Ac 2:17–21; and *eternal life*: Ex 3:6; Heb 4:9; 11:10
