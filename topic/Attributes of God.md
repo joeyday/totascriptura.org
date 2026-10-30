@@ -32,7 +32,7 @@ Impassibility (“without passions”, not given to mood swings nor able to suff
 : {{[[god-does-not-sin]]}}
 
 Incomprehensibility (boundless, immeasurable, immense)
-: 1Ki 8:27; 2Ch 2:6; 6:18; Isa 66:1; Ac 7:49; 17:24
+: 1Ki 8:27 (cf. 2Ch 6:18); 2Ch 2:6; Isa 66:1; Ac 7:49; 17:24
 
 Incorporeality (“without body”, immaterial, invisible, spirit)
 : {{[[mt]]|[[topic/Incorporeality|Incorporeality]]}}
@@ -43,13 +43,13 @@ Incorporeality (“without body”, immaterial, invisible, spirit)
 
 Love
 : {{[[mt]]|[[topic/God is love|God is love]]}}
-: Dt 7:7–8; 30:9; Isa 64:4; Jer 31:3; 32:41; Zep 3:17; Lk 15:20; Jn 1:18; 3:16, 35; 5:20; 10:11, 17; 14:9–10, 31; 15:13; 17:23, 24, 26; Ro 5:8; Eph 1:4–5; 5:25; 1Jn 3:1; 4:8, 16, 19
+: Dt 7:7–8; 30:9; Isa 64:4; Jer 31:3; 32:41; Zep 3:17; Lk 15:20; Jn 1:18; 3:16, 35; 5:20; 10:11, 17; 14:9–10, 31; 15:13; 17:23–24, 26; Ro 5:8; Eph 1:4–5; 5:25; 1Jn 3:1; 4:8, 16, 19
 
 Omnibenevolence (all-good, all-loving)
-: Job 38:41; Ps 25:8; 33:5; 34:8, 10; 37:23–25; 52:1; 73:3–12; 84:11; 86:5; 100:5; 103:17; 104:27–28; 106:1; 119:68, 71; 136:25; 145:8–17; Na 1:7; Jer 29:11; 31:12; Zec 9:17; Mt 5:45; 6:26; 7:7–11; Ac 14:17; Ro 2:4; 8:28; 12:2; Eph 2:10; 1Jn 4:8, 16; Jas 1:17
+: Job 38:41; Ps 25:8; 33:5; 34:8, 10; 37:23–25; 52:1; 73:3–12; 84:11; 86:5; 100:5; 103:17; 104:27–28; 106:1 (cf. 1Ch 16:34); Ps 119:68, 71; 136:25; 145:8–17; Jer 29:11; 31:12; Na 1:7; Zec 9:17; Mt 5:45 (cf. Lk 6:35); Mt 6:26 (cf. Lk 12:24); Mt 7:7–11 (cf. Lk 11:9–13); Ac 14:17; Ro 2:4; 8:28; 12:2; Eph 2:10; Jas 1:17; 1Jn 4:8, 16
 
 {{[[omnipotence-heading]]}}
-: Job 42:2; Ps 33:6; 102:25–27; 104:1–35; Isa 14:27; 40:28–31; 43:13; Jer 32:17; Da 4:35; Mt 19:26 (cf. Mk 10:27); Eph 3:20–21; Php 4:13; 2Co 6:18; Rev 1:8; 4:8; 11:17; 15:3; 16:7, 14; 19:6, 15; 21:22 — but he cannot act contrary to his other attributes, e.g. Tit 1:2; Heb 6:18
+: Job 42:2; Ps 33:6; 102:25–27; 104:1–35; Isa 14:27; 40:28–31; 43:13; Jer 32:17; Da 4:35; Mt 19:26 (cf. Mk 10:27; Lk 18:27); 2Co 6:18; Eph 3:20–21; Php 4:13; Rev 1:8; 4:8; 11:17; 15:3; 16:7, 14; 19:6, 15; 21:22 — but he cannot act contrary to his other attributes, e.g. Tit 1:2; Heb 6:18
 
 {{[[omnipresence-heading]]}}
 : {{[[omnipresence]]}}
