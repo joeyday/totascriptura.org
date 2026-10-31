@@ -19,23 +19,23 @@ Rejecting or neglecting baptism is sin
 
 ## All New Testament accounts of
 
-| Recipient(s)                                                             | Reference(s)                                          |
-| ------------------------------------------------------------------------ | ----------------------------------------------------- |
-| John’s disciples <span style="color: #D70060;">*</span>                  | Mt 3:5–6 ~(cf. Mk 1:5)~; Lk 3:7, 12, 21; Jn 3:23      |
-| Jesus <span style="color: #D70060;">*</span>                             | Mt 3:13–17 ~(cf. Mk 1:9–11; Lk 3:21–22)~ |
-| Jesus’ disciples <span style="color: #D70060;">**</span>                 | Jn 3:22, 26; 4:1–2                                    |
-| About 3,000 Jewish men at Pentecost                                      | Ac 2:5, 41                                            |
-| Crowd of Samaritan men and women                                         | Ac 8:5–6, 12                                          |
-| Simon the sorcerer                                                       | Ac 8:9, 13                                            |
-| The Ethiopian eunuch ~(no household)~                       | Ac 8:27, 36–39                                        |
-| Paul the apostle ~(no household—see 1Co 7:8)~               | Ac 9:17–18                                            |
-| Cornelius and his household                                              | Ac 10:1–2, 24, 44, 47–48                              |
-| Lydia and her household                                                  | Ac 16:14–15                                           |
-| The Philippian jailer and his household                                  | Ac 16:27, 31–34                                       |
-| Crispus ~(and probably his household)~ and many Corinthians | Ac 18:8; 1Co 1:14                                     |
-| About twelve men of John’s disciples                                     | Ac 19:1, 3–5, 7                                       |
-| Gaius ~(and his household?)~                                | 1Co 1:14                                              |
-| Stephanus and his household                                              | 1Co 1:16                                              |
+| Recipient(s)                                                | Reference(s)                                     |
+| ----------------------------------------------------------- | ------------------------------------------------ |
+| John’s disciples <span style="color: #D70060;">*</span>     | Mt 3:5–7 ~(cf. Mk 1:5; Lk 3:7, 12, 21)~; Jn 3:23 |
+| Jesus <span style="color: #D70060;">*</span>                | Mt 3:13–17 ~(cf. Mk 1:9–11; Lk 3:21–22)~         |
+| Jesus’ disciples <span style="color: #D70060;">**</span>    | Jn 3:22, 26; 4:1–2                               |
+| About 3,000 Jewish men at Pentecost                         | Ac 2:5, 41                                       |
+| Crowd of Samaritan men and women                            | Ac 8:5–6, 12                                     |
+| Simon the sorcerer                                          | Ac 8:9, 13                                       |
+| The Ethiopian eunuch ~(no household)~                       | Ac 8:27, 36–39                                   |
+| Paul the apostle ~(no household—see 1Co 7:8)~               | Ac 9:17–18                                       |
+| Cornelius and his household                                 | Ac 10:1–2, 24, 44, 47–48                         |
+| Lydia and her household                                     | Ac 16:14–15                                      |
+| The Philippian jailer and his household                     | Ac 16:27, 31–34                                  |
+| Crispus ~(and probably his household)~ and many Corinthians | Ac 18:8; 1Co 1:14                                |
+| About twelve men of John’s disciples                        | Ac 19:1, 3–5, 7                                  |
+| Gaius ~(and his household?)~                                | 1Co 1:14                                         |
+| Stephanus and his household                                 | 1Co 1:16                                         |
 
 <span style="color: #D70060;">*</span> John’s baptism\
 <span style="color: #D70060;">**</span> Christian baptism before the church age
@@ -53,13 +53,13 @@ Old and new covenants are essentially identical, continuous
 : Ro 4:13–18; Gal 3; Heb 6:13–18
 
 Shedding of blood now done away with
-: 1Co 5:7; Eph 5:2; Heb 7:27; 9:12–14, 25–26; 10:8–10, 11–14; 1Pe 1:18–19
+: 1Co 5:7; Eph 5:2; Heb 7:27; 9:12–14, 25–26; 10:8–14; 1Pe 1:18–19
 
 Circumcision can no longer serve as sign of covenant
-: Ac 15:1–2; 21:20–21; Gal 2:3–5; 5:2–3, 6; 6:12–13, 15; 1Co 7:18–19
+: Ac 15:1–2; 21:20–21; 1Co 7:18–19; Gal 2:3–5; 5:2–3, 6; 6:12–13, 15
 
 Baptism replaces circumcision as new covenant initiatory rite
-: Mt 28:19–20; Mk 16:15–16; Ac 2:38; 8:12; 10:47-48; Php 3:3; Col 2:11–12
+: Mt 28:19–20; Mk 16:15–16; Ac 2:38; 8:12; 10:47–48; Php 3:3; Col 2:11–12
 
 Signifies admission to covenant community, visible church, ingrafting into Christ
 : Ac 2:41; Ro 6:3–5; 1Co 12:13; Gal 3:27–29
@@ -70,10 +70,10 @@ Circumcision referred to cutting away of sin and change of heart
 : Lev 26:41; Dt 10:16; 30:6; Isa 52:1; Jer 4:4, 14; 9:25–26; Eze 44:7, 9; Ac 7:51; 15:1–11; Ro 2:26–29; 4:11; Php 3:3; Col 2:11 — see also Ex 6:12, 30; Jer 6:10
 
 Baptism refers to washing away of sin and spiritual renewal
-: Mt 3:11; Mk 1:4; Lk 3:16; Jn 1:33; 3:5; Ac 2:3, 38; 11:16; 22:16; Ro 6:3–4; Eph 5:26; Col 2:11–12; 1Co 6:11; Tit 3:5–7; Heb 9:14; 10:22; 1Pe 3:21
+: Mt 3:1–2 (cf. Mk 1:4; Lk 3:2–3); Mt 3:11 (cf. Mk 1:7–8; Lk 3:16; Jn 1:26–27, 33); Jn 3:5; Ac 2:3, 38; 11:16; 22:16; Ro 6:3–4; 1Co 6:11; Eph 5:26; Col 2:11–12; Tit 3:5–7; Heb 9:14; 10:22; 1Pe 3:21
 
 Baptism corresponds to characteristic graces of new covenant
-: Mt 26:28; 2Co 3:6; Heb 8:6–13; 10:15–18
+: Mt 26:28 (cf. Mk 14:24; Lk 22:20); 2Co 3:6; Heb 8:6–13; 10:15–18
 
 Christ’s atonement is the real cutting off of sin signified by circumcision and baptism
 : Mk 10:38; Lk 12:50; Col 2:11
@@ -92,7 +92,7 @@ Water is clearly and obviously required
 : Jn 3:23; Ac 8:36; 10:47
 
 Passages cited for immersion
-: Mt 3:16 (cf. Mk 1:9–10); Mk 1:5; Jn 3:23; Ac 8:38–39; Ro 6:4–5; Col 2:12
+: Mt 3:16 (cf. Mk 1:9–10); Mt 3:5–6 (cf. Mk 1:5); Jn 3:23; Ac 8:38–39; Ro 6:4–5; Col 2:12
 
 Passages cited for aspersion (sprinkling)
 : Nu 8:7; 19:13, 18–20; Ps 51:7; Eze 36:25; Heb 9:10, 13–14, 19, 21; 10:22
@@ -107,7 +107,7 @@ Baptism signifies spiritual washing (implying water is only necessary symbol)
 : Ps 51:7; Eze 36:25; Jn 3:25–26; Ac 2:38; 22:16; 1Co 6:11; Eph 5:26; Tit 3:5; Heb 9:14; 10:22; 1Pe 3:21; Rev 1:5 KJV
 
 Notable Old Testament (LXX) uses of baptizō
-: Nu 19:13, 18–19, 20; Ps 51:7; Eze 36:25
+: Nu 19:13, 18–20; Ps 51:7; Eze 36:25
 
 Places where baptizō and baptismos are not typically translated “baptism”
 : Mk 7:4; Lk 11:38; Heb 6:2; 9:10
@@ -129,10 +129,10 @@ Adults should be baptized only upon profession of faith
 : Mk 16:16; Ac 2:37–38, 41; 8:12–13; Ac 8:37 KJV (not in earliest MSS); Ac 10:44–48; 16:14–15, 31–34
 
 Infants and children of believers should also be baptized
-: Ge 17:7, 12, 23; Mt 19:13; Mk 10:13–16; Lk 18:15–17; Ac 2:38–39; 16:31; Ro 4:11–12; 1Co 7:14; Gal 3:9, 14; Col 2:11–12
+: Ge 17:7, 12, 23; Mt 18:3 (cf. Mk 10:15; Lk 18:17); Mt 19:13–15 (cf. Mk 10:13–14, 16; Lk 18:15–16); Ac 2:38–39; 16:31; Ro 4:11–12; 1Co 7:14; Gal 3:9, 14; Col 2:11–12
 
 Household baptisms
-: Ac 10:24, 44, 47–48; 16:14–15, 31–34; 18:8; 1Co 1:16 — see also Ge 17:23–27; Ex 12; 20:5–6; Jos 2:13, 18; 6:23–25; 24:15; Mt 10:12–14; Lk 19:9; Jn 4:53; 2Ti 1:16; Heb 11:7–9
+: Ac 10:24, 44, 47–48; 16:14–15, 31–34; 18:8; 1Co 1:16 — see also Ge 17:23–27; Ex 12; 20:5–6 (cf. Dt 5:9–10); Jos 2:13, 18; 6:23–25; 24:15; Mt 10:12–14 (cf. Mk 6:11; Lk 9:5; 10:5–6, 10–11); Lk 19:9; Jn 4:53; 2Ti 1:16; Heb 11:7–9
 
 Children included in visible church, new covenant community
 : Mt 19:14 (cf. Mk 10:14; Lk 18:16); Ac 2:39; 1Co 7:14; Eph 6:1–4 (cf. Eph 1:1); Col 3:20 (cf. Col 1:2)
@@ -143,7 +143,7 @@ Types and symbols of
 : Ex 13:21; 14:21, 26–28, 30–31; Nu 9:15; 1Co 10:2
 
 Ceremonial washings in the old covenant
-: Ex 30:17–21; Lev 14; Lev 15; Nu 8:5–7; 19:8; 2Ch 4:6; Ps 51:7; Eze 36:25; Heb 9:10
+: Ex 30:17–21; Lev 14; 15; Nu 8:5–7; 19:8; 1Ki 7:38–39 (cf. 2Ch 4:6); Ps 51:7; Eze 36:25; Heb 9:10
 
 ## Not necessary for salvation
 
@@ -151,7 +151,7 @@ Examples of salvation before or without circumcision/baptism
 : Lk 23:39–43 (see also Jn 19:32–33; Heb 9:17); Ac 10:44–48; Ro 2:26–29; 4:11
 
 Examples of circumcision/baptism before or without salvation
-: Ac 8:13, 21–23; 8:14–17; 19:2–7; Ro 4:12
+: Ac 8:13, 21–23; 8:14–17; 19:2–7; Ro 4:12 %% this is weirdly out of order on purpose %%
 
 “Born of water” in Jn 3:5 indicates inward washing and renewal
 : Isa 44:3–5; Eze 36:25–27; Jn 4:10, 14; 7:37–39; 1Co 12:13; Eph 5:25–27; Tit 3:5; Heb 10:22
@@ -163,16 +163,16 @@ Salvation is not of works
 ## Comparison of John’s and Jesus’
 
 Both instituted by God
-: Mt 21:25; Jn 1:33
+: Mt 21:25 (cf. Mk 11:30–31; Lk 20:4–5); Jn 1:33
 
 Both connected with radical change of life
-: Lk 1:13–17; Jn 1:24–27, 29–31
+: Lk 1:13–17; Jn 1:24–25, 29–31
 
 Both stand in sacramental relation to forgiveness of sin
-: Mt 3:7–8; Mk 1:4; Lk 3:3; Ac 2:38
+: Mt 3:1–2 (cf. Mk 1:4; Lk 3:2–3); Mt 3:7–8 (cf. Lk 3:7–8); Ac 2:38
 
 Yet they are distinct
-: Mt 3:11 (cf. Lk 3:16; Jn 1:32–33); Ac 19:1–6
+: Mt 3:11 (cf. Mk 1:7–8; Lk 3:16; Jn 1:26–27, 32–33);; Ac 19:1–6
 
 ## External links
 
