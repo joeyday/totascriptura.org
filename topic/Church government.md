@@ -15,10 +15,10 @@ Chief shepherd, teacher, overseer, cornerstone of the church
 : Mt 9:36 (cf. Mk 6:34); Mt 23:8, 10; 25:32; 26:31 (cf. Mk 14:27); Jn 10:11, 14, 16; Eph 2:20; Heb 13:20; 1Pe 2:25; 5:4
 
 Has all authority
-: Mt 7:29 (cf. Mt 13:54; 22:33; Mk 1:22, 27; 6:2; 11:18; Lk 4:32, 36; Jn 7:46); Mt 9:6–8 (cf. Mk 2:10; Lk 5:24); Mt 21:23–27 (cf. Mk 11:28–33; Lk 20:2–8); Mt 28:18; Jn 5:27; 10:18; 17:2; 19:11; Eph 1:20–21; Rev 12:10
+: Mt 7:28–29 (cf. Mk 1:22; Lk 4:32); Mt 9:6–8 (cf. Mk 2:10–12; Lk 5:24–26); Mt 13:54 (cf. Mk 6:2); Mt 21:23–27 (cf. Mk 11:27–33; Lk 19:47–20:8); Mt 22:33; Mt 28:18; Mk 1:27 (cf. Lk 4:36); Mk 11:18; Jn 5:27; 7:46; 10:18; 17:2; 19:11; Eph 1:20–21; Rev 12:10
 
 Source of all the church’s authority
-: Mt 10:1 (cf. Mk 3:14–15); Mk 6:7; Lk 9:1; 10:19; 2Co 10:8; 13:10; Col 2:10
+: Mt 10:1 (cf. Mk 3:14–15; 6:7; Lk 9:1); Lk 10:19; 2Co 10:8; 13:10; Col 2:10
 
 ## Church officers in general
 
@@ -30,14 +30,14 @@ Whole church helps select officers
 
 Officers ordained by laying on of hands
 : {{mt|[[Ordination]]|[[topic/Laying on of hands|Laying on of hands]]}}
-: Ac 6:6; 13:2–3; 1Ti 5:22; 4:14; 2Ti 1:6
+: Ac 6:6; 13:2–3; 1Ti 4:14; 5:22; 2Ti 1:6
 
 Ordination ultimately from God
 : Ac 20:28; 1Co 12:28; Eph 4:11
 
 Full-time officers can/should be compensated
 : {{mt|[[topic/Paid ministry|Paid ministry]]}}
-: 1Co 9:1-19; Php 4:10-20; 1Th 2:6; 2Th 3:9; 1Ti 5:17-18
+: 1Co 9:1–19; Php 4:10–20; 1Th 2:6; 2Th 3:9; 1Ti 5:17–18
 
 ## Apostle
 
