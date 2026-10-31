@@ -172,7 +172,7 @@ Both stand in sacramental relation to forgiveness of sin
 : Mt 3:1–2 (cf. Mk 1:4; Lk 3:2–3); Mt 3:7–8 (cf. Lk 3:7–8); Ac 2:38
 
 Yet they are distinct
-: Mt 3:11 (cf. Mk 1:7–8; Lk 3:16; Jn 1:26–27, 32–33);; Ac 19:1–6
+: Mt 3:11 (cf. Mk 1:7–8; Lk 3:16; Jn 1:26–27, 32–33); Ac 19:1–6
 
 ## External links
 
