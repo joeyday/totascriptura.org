@@ -7,7 +7,7 @@ draft: true
 This topic explores what biblical support, if any, can be found for the various interpretations within **creationism**.
 
 Literal six-day creation
-: Ge 1:1–31; Ex 20:11; 31:17
+: Ge 1:1–31; Ex 20:11; Ex 31:17
 
 Day-age interpretation
 : Ps 90:4; 2Pe 3:8

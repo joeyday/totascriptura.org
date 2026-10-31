@@ -65,7 +65,7 @@ Worship of creator commanded
 
 We are wholly dependent on God
 : {{[[mt]]|[[topic/Providence|Providence]]}}
-: Job 12:10; 34:14–15; Ps 104:29; Da 5:23; Mt 5:44–45; Ac 14:17; 17:25, 28; Eph 2:8–9; 1Co 4:7
+: Job 12:10; 34:14–15; Ps 104:29; Da 5:23; Mt 5:44–45; Ac 14:17; 17:25, 28; 1Co 4:7; Eph 2:8–9
 
 We belong to God by virtue of creation
 : Ps 24:1; 100:3; Isa 43:1, 7
@@ -78,9 +78,9 @@ He is our God and we are his people
 
 Worship of created things forbidden
 : {{[[mt]]|[[topic/Idolatry|Idolatry]]}}
-: Ex 20:4–6, 22–23; Dt 4:15–19; Isa 40:18–28; Ps 106:20; Jer 2:11; Ro 1:22–25
+: Ex 20:4–6, 22–23 (cf. Dt 5:8–10); Dt 4:15–19; Ps 106:20; Isa 40:18–28; Jer 2:11; Ro 1:22–25
 
 Aspiring to become like God is sin
-: Ge 3:4–5; Isa 14:12–15; Eze 28:2-10; 2Th 2:3–4
+: Ge 3:4–5; Isa 14:12–15; Eze 28:2–10; 2Th 2:3–4
 
 [^1]: Isaiah 55:8–9
