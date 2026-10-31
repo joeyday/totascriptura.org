@@ -700,14 +700,14 @@ categories:
 
 ## Psalms repeated in the Psalms
 
-| Passage     | Parallel    |
-| ----------- | ----------- |
-| Ps 14:1–4   | Ps 53:1–4   |
-| Ps 14:5–6   | Ps 53:5     |
-| Ps 14:7     | Ps 53:6     |
-| Ps 40:13–17 | Ps 70:1–5   |
-| Ps 57:7–11  | Ps 108:1–5  |
-| Ps 60:5–12  | Ps 108:6–13 |
+| Psalm       | Parallel psalm |
+| ----------- | -------------- |
+| Ps 14:1–4   | Ps 53:1–4      |
+| Ps 14:5–6   | Ps 53:5        |
+| Ps 14:7     | Ps 53:6        |
+| Ps 40:13–17 | Ps 70:1–5      |
+| Ps 57:7–11  | Ps 108:1–5     |
+| Ps 60:5–12  | Ps 108:6–13    |
 
 ## Solomon
 
