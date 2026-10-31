@@ -4,11 +4,6 @@ Things to do in this vault. Remove an item once it's done. (`PLAN.md` is ignored
 
 - [ ] Add a link to the new book PDF somewhere on the site (where is still to be decided: Home page, About, or Colophon?).
 - [ ] Run these topic pages through `tsgen refs` (harmonies on; a few at a time, reviewing each diff, and skip notes pages). Pages `tsgen refs` wouldn’t change are left off, and the covenant pages and the A pages are already done:
-	- [ ] [[topic/Church|Church]]
-	- [ ] [[topic/Citizenship|Citizenship]]
-	- [ ] [[topic/Common grace|Common grace]]
-	- [ ] [[topic/Creationism|Creationism]]
-	- [ ] [[topic/Creator-creature distinction|Creator-creature distinction]]
 	- [ ] [[topic/Cup of God’s wrath|Cup of God’s wrath]]
 	- [ ] [[topic/Deception|Deception]]
 	- [ ] [[topic/Definite atonement|Definite atonement]]
