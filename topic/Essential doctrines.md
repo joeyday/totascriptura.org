@@ -21,7 +21,7 @@ God exists (theism)
 
 God is one (monotheism)
 : {{mt|[[topic/Monotheism|Monotheism]]|[[topic/Creator-creature distinction|Creator-creature distinction]]}}
-: *Necessary:* Ex 20:2–3; Mk 12:28–34 (cites Dt 6:4–5); Jas 2:19
+: *Necessary:* Ex 20:2–3 (cf. Dt 5:6–7); Mk 12:28–34 (cites Dt 6:4–5); Jas 2:19
 
 ## Jesus
 
@@ -54,7 +54,7 @@ We have sinned
 
 Christ was sent by God
 : {{mt|[[topic/Eternal generation|Eternal generation]]}}
-: *Sufficient:* Jn 16:27-28
+: *Sufficient:* Jn 16:27–28
 
 Christ came in the flesh (incarnation)
 : {{mt|[[topic/Hypostatic union|Hypostatic union]]}}
@@ -77,9 +77,9 @@ In essentials, unity
 : Isa 8:20; Mt 7:15–20; Jn 7:24; Ac 17:11; Ro 16:17; 1Co 5:12–13; 2Co 6:17; Eph 5:11; 2Th 2:13–15; 3:6, 14–15; 1Ti 6:3–5; 2Ti 3:1–9; Tit 1:9, 13–14; 3:10–11; 1Jn 4:1; 2Jn 1:10–11; Rev 2:2, 14–16; 18:4
 
 Unbelief and heresy are damnable
-: Mt 10:32–33; Mk 8:38; Lk 12:46; 21:8; Jn 5:24; Ro 1:18–25; 14:23; 2Co 6:14–15; 11:3–4; Gal 1:6–9; 2Th 1:8–9; 2:9–12; 1Ti 1:3–7, 19; 4:1; 5:8; 6:3–5, 20–21; 2Ti 2:12; 4:3–4; Tit 1:15–2:1; 1Pe 2:7–8; 2Pe 2:1–3; 3:14–18; 2Jn 1:7–9 — see also [[topic/Vain thoughts|Vain thoughts]]
+: Mt 10:32–33 (cf. Lk 12:8–9); Mt 24:4–5 (cf. Lk 21:8) Mt 24:48–51 (cf. Lk 12:45–46); Mk 8:38 (cf. Lk 9:26); Jn 5:24; Ro 1:18–25; 14:23; 2Co 6:14–15; 11:3–4; Gal 1:6–9; 2Th 1:8–9; 2:9–12; 1Ti 1:3–7, 19; 4:1; 5:8; 6:3–5, 20–21; 2Ti 2:12; 4:3–4; Tit 1:15–2:1; 1Pe 2:7–8; 2Pe 2:1–3; 3:14–18; 2Jn 1:7–9 — see also [[topic/Vain thoughts|Vain thoughts]]
 
 In non-essentials, liberty
-: Ro 14:1–5, 10, 13, 19, 21–23; 1Co 8:1-3, 8–9; 10:23–24, 28-33; Tit 1:15; Jas 4:11–12, 17
+: Ro 14:1–5, 10, 13, 19, 21–23; 1Co 8:1–3, 8–9; 10:23–24, 28–33; Tit 1:15; Jas 4:11–12, 17
 
 [^necessary]: A **necessary doctrine** ~(e.g. *“if you don’t believe this you cannot be saved”*)~ must be believed for salvation but may not be enough to save by itself. A **sufficient doctrine** ~(e.g. *“if you believe this you will be saved”*)~ is enough to save by itself, but may go beyond what is strictly necessary for salvation. Considered logically, a correct understanding of any of the sufficient doctrines must in some way contain or presuppose all the necessary ones.

@@ -4,9 +4,6 @@ Things to do in this vault. Remove an item once it's done. (`PLAN.md` is ignored
 
 - [ ] Add a link to the new book PDF somewhere on the site (where is still to be decided: Home page, About, or Colophon?).
 - [ ] Run these topic pages through `tsgen refs` (harmonies on; a few at a time, reviewing each diff, and skip notes pages).
-	- [ ] [[topic/Doctrines of grace|Doctrines of grace]]
-	- [ ] [[topic/Epistemology|Epistemology]]
-	- [ ] [[topic/Essential doctrines|Essential doctrines]]
 	- [ ] [[topic/Essential practices|Essential practices]]
 	- [ ] [[topic/Eternal (old)|Eternal (old)]]
 	- [ ] [[topic/Eternal generation|Eternal generation]]

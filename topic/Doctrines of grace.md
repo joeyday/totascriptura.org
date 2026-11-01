@@ -10,19 +10,19 @@ featured: true
 
 Total depravity
 : {{[[mt]]|[[topic/Total depravity|Total depravity]]}}
-: Ps 14:2–3; 58:3; Isa 53:6; Jer 13:23; Mt 7:18; 12:34; Ro 8:7–8; 1Co 2:14; 2Co 4:3–4; 1Jn 1:8–10
+: Ps 14:2–3 (cf. Ps 53:2–3); Ps 58:3; Isa 53:6; Jer 13:23; Mt 7:18 (cf. Lk 6:43); Mt 12:34 (cf. Lk 6:45); Ro 8:7–8; 1Co 2:14; 2Co 4:3–4; 1Jn 1:8–10
 
 Unconditional election
 : {{[[mt]]|[[topic/Unconditional election|Unconditional election]]}}
-: Jn 6:37; Jn 17:6, 9, 24; Ac 13:48; 18:9–10; Ro 8:28–29, 33; 9:10–13; 11:4–7; 1Co 1:26–31; Eph 1:3–18; 1Pe 1:1–5
+: Jn 6:37; 17:6, 9, 24; Ac 13:48; 18:9–10; Ro 8:28–29, 33; 9:10–13; 11:4–7; 1Co 1:26–31; Eph 1:3–18; 1Pe 1:1–5
 
 Definite atonement
 : {{[[mt]]|[[topic/Definite atonement|Definite atonement]]}}
-: Mt 1:21; 26:28; Jn 10:11; 11:51–52; Ac 20:28; Gal 1:3–4; Eph 5:25–27; Tit 2:14; Rev 5:9
+: Mt 1:21; 26:28 (cf. Mk 14:24); Jn 10:11; 11:51–52; Ac 20:28; Gal 1:3–4; Eph 5:25–27; Tit 2:14; Rev 5:9
 
 Effectual grace
 : {{[[mt]]|[[topic/Effectual grace|Effectual grace]]}}
-: Jer 31:33; Eze 36:26–27; 37:1–14; Jn 3:8; Jn 6:37, 44–45, 63–65; Ac 16:14; Ro 9:18–19; 2Co 4:6; 1Pe 1:3; 1Jn 5:1
+: Jer 31:33; Eze 36:26–27; 37:1–14; Jn 3:8; 6:37, 44–45, 63–65; Ac 16:14; Ro 9:18–19; 2Co 4:6; 1Pe 1:3; 1Jn 5:1
 
 Preservation of the saints
 : {{mt|[[topic/Preservation of the saints|Preservation of the saints]]}}
