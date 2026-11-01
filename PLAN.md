@@ -3,12 +3,7 @@
 Things to do in this vault. Remove an item once it's done. (`PLAN.md` is ignored by the generator.)
 
 - [ ] Add a link to the new book PDF somewhere on the site (where is still to be decided: Home page, About, or Colophon?).
-- [ ] Run these topic pages through `tsgen refs` (harmonies on; a few at a time, reviewing each diff, and skip notes pages). Pages `tsgen refs` wouldn’t change are left off, and the covenant pages and the A pages are already done:
-	- [ ] [[topic/Cup of God’s wrath|Cup of God’s wrath]]
-	- [ ] [[topic/Deception|Deception]]
-	- [ ] [[topic/Definite atonement|Definite atonement]]
-	- [ ] [[topic/Divinization|Divinization]]
-	- [ ] [[topic/Divorce|Divorce]]
+- [ ] Run these topic pages through `tsgen refs` (harmonies on; a few at a time, reviewing each diff, and skip notes pages).
 	- [ ] [[topic/Doctrines of grace|Doctrines of grace]]
 	- [ ] [[topic/Epistemology|Epistemology]]
 	- [ ] [[topic/Essential doctrines|Essential doctrines]]

@@ -22,7 +22,7 @@ Christ was sent for the elect
 : Jn 17:19 (cf. Jn 10:36); Heb 2:14–17
 
 Christ died for the elect
-: Isa 53:8, 11–12; Mt 1:21; 20:28; 26:28; Lk 1:68; Jn 6:38–39; 10:11, 14–15; 11:51–52; 13:1; 15:13; 17:1–2; Ac 20:28; Ro 5:19; 8:28, 33–34; Gal 1:4; 2:20; Eph 5:2, 25–27; Tit 2:14; Heb 9:15, 28; 13:20; 1Jn 3:16; 4:10; Rev 5:9–10
+: Isa 53:8, 11–12; Mt 1:21; 20:28 (cf. Mk 10:45); Mt 26:28 (cf. Mk 14:24); Lk 1:68; Jn 6:38–39; 10:11, 14–15; 11:51–52; 13:1; 15:13; 17:1–2; Ac 20:28; Ro 5:19; 8:28, 33–34; Gal 1:4; 2:20; Eph 5:2, 25–27; Tit 2:14; Heb 9:15, 28; 13:20; 1Jn 3:16; 4:10; Rev 5:9–10
 
 Christ intercedes for the elect
 : {{[[intercession]]}}
@@ -50,7 +50,7 @@ Some for whom Christ died may not ultimately be saved
 : Lk 2:1; Jn 1:10; 7:4; 12:19; 14:22; 18:20; Ac 11:28; 19:27; 24:5; Ro 1:8; 11:12, 15; Col 1:6
 
 “World” in some places carries idea of “all nations”
-: Mt 24:14; 26:13; Mk 16:15; Ro 1:5; 10:18
+: Mt 24:14 (cf. Mk 13:10); Mt 26:13 (cf. Mk 14:9); Mk 16:15; Ro 1:5; 10:18
 
 “All” or “every” (gr. pas) can be distributive (i.e., “every kind”)
 : Mt 4:23 (also Mk 9:35; 10:1); Lk 11:42
