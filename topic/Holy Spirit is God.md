@@ -7,7 +7,7 @@ The Holy Spirit is God
 : 2Sa 23:2–3; Jn 3:5–7 (cf. 1Jn 3:9); Ac 5:3–4; 1Co 3:16 (cf. 1Co 6:19–20); 2Co 3:17–18
 
 The Holy Spirit is Yahweh
-: Ac 28:25–27 (Isa 6:8–10); Heb 3:7–11 (Ps 95:6–11); Heb 10:15–17 (Jer 31:33–34)
+: Ac 28:25–27 (cites Isa 6:8–10); Heb 3:7–11 (cites Ps 95:6–11); Heb 10:15–17 (cites Jer 31:33–34)
 
 ## Holy Spirit has attributes of God
 
