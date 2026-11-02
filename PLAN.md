@@ -4,12 +4,6 @@ Things to do in this vault. Remove an item once it's done. (`PLAN.md` is ignored
 
 - [ ] Add a link to the new book PDF somewhere on the site (where is still to be decided: Home page, About, or Colophon?).
 - [ ] Run these topic pages through `tsgen refs` (harmonies on; a few at a time, reviewing each diff, and skip notes pages).
-	- [ ] [[topic/Essential practices|Essential practices]]
-	- [ ] [[topic/Eternal (old)|Eternal (old)]]
-	- [ ] [[topic/Eternal generation|Eternal generation]]
-	- [ ] [[topic/Eternal|Eternal]]
-	- [ ] [[topic/Ex nihilo creation|Ex nihilo creation]]
-	- [ ] [[topic/Family|Family]]
 	- [ ] [[topic/Father is God|Father is God]]
 	- [ ] [[topic/Fear God|Fear God]]
 	- [ ] [[topic/Financial stewardship|Financial stewardship]]
@@ -82,6 +76,7 @@ Things to do in this vault. Remove an item once it's done. (`PLAN.md` is ignored
 	- [ ] [[topic/Unconditional election|Unconditional election]]
 	- [ ] [[topic/Vain thoughts|Vain thoughts]]
 	- [ ] [[topic/Wine and strong drink|Wine and strong drink]]
+	- [ ] [[topic/Eternal|Eternal]]
 - [ ] Prolegomena section needs:
 	- [ ] [[topic/Epistemology|Epistemology]]
 - [ ] Theology proper section needs:

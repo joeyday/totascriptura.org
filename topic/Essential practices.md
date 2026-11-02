@@ -11,7 +11,7 @@ Passages in this topic are grouped under each heading based on their indication,
 ## Faith and repentance
 
 Worship of the one true God
-: *Necessary:* Ex 20:2–6; Dt 6:4–5; Jn 4:24
+: *Necessary:* Ex 20:2–6 (cf. Dt 5:6–10); Dt 6:4–5; Jn 4:24
 
 Faith, belief in essential doctrines
 : {{[[mt]]|[[topic/Essential doctrines|Essential doctrines]]}}
@@ -36,7 +36,7 @@ Lord’s Supper
 ## Good works
 
 Keeping the commandments (non-specific)
-: *Necessary:* Mt 5:20; 19:16–22 (cf. Mk 10:17–22; Lk 18:18–23); Lk 10:25–28 (cf. Mt 22:34–40); 1Jn 1:6; *Sufficient:* 1Jn 2:3; 3:24
+: *Necessary:* Mt 5:20; 19:16–22 (cf. Mk 10:17–22; Lk 18:18–23); Lk 10:25–28 (cf. Mt 22:34–40; Mk 12:28–31); 1Jn 1:6; *Sufficient:* 1Jn 2:3; 3:24
 
 Forsaking everything to follow Christ
 : *Sufficient:* Mt 19:27–29
@@ -56,7 +56,7 @@ Holiness
 
 Enduring to the end
 : {{[[mt]]|[[topic/Preservation of the saints|Perseverance of the saints]]}}
-: *Sufficient:* Mt 10:22; Mt 24:13 (cf. Mk 13:13; Lk 21:19); Jn 8:31–32; Heb 3:14; Jas 1:12; Rev 2:10; *Necessary:* 1Jn 2:19-20; 3:9
+: *Sufficient:* Mt 10:22; 24:13 (cf. Mk 13:13; Lk 21:19); Jn 8:31–32; Heb 3:14; Jas 1:12; Rev 2:10; *Necessary:* 1Jn 2:19–20; 3:9
 
 ## Warnings against sin
 
