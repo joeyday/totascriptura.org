@@ -4,11 +4,6 @@ Things to do in this vault. Remove an item once it's done. (`PLAN.md` is ignored
 
 - [ ] Add a link to the new book PDF somewhere on the site (where is still to be decided: Home page, About, or Colophon?).
 - [ ] Run these topic pages through `tsgen refs` (harmonies on; a few at a time, reviewing each diff, and skip notes pages).
-	- [ ] [[topic/Financial stewardship|Financial stewardship]]
-	- [ ] [[topic/Five solas of the Reformation|Five solas of the Reformation]]
-	- [ ] [[topic/Foreknowledge|Foreknowledge]]
-	- [ ] [[topic/Fourfold state of man|Fourfold state of man]]
-	- [ ] [[topic/Free will|Free will]]
 	- [ ] [[topic/Geocentrism|Geocentrism]]
 	- [ ] [[topic/God is love|God is love]]
 	- [ ] [[topic/God the bridegroom|God the bridegroom]]
