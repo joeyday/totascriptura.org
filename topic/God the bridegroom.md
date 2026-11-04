@@ -4,7 +4,7 @@ categories:
 ---
 
 God the bridegroom
-: Isa 54:5–6; Isa 62:4–5; Jer 2:2, 20, 32; 3:1, 6–10, 20; 31:32; Eze 16; Hos 1–3
+: Isa 54:5–6; 62:4–5; Jer 2:2, 20, 32; 3:1, 6–10, 20; 31:32; Eze 16; Hos 1–3
 
 Jesus the bridegroom
 : Mt 9:15 (cf. Mk 2:19–20; Lk 5:34–35); Mt 22:2; 25:1–13; Jn 3:28–30; Ro 7:1–4; 2Co 11:2; Eph 5:22–33; Rev 19:7, 9; 21:2, 9; 22:17
