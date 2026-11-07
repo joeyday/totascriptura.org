@@ -23,7 +23,7 @@ Concurrence in animals
 : 1Ki 17:4–6; Job 12:7–10; 38:39–41; Ps 104:27–29; 147:9; Mt 6:26; 10:29 (cf. Lk 12:6, 24)
 
 Concurrence in kings, nations
-: 1Ki 12:15, 24 (cf. 2Ch 10:15; 11:4; 25:20); Job 12:23; Ps 22:28; 33:10–12; Pr 21:1; Ezr 1:1; 6:22; Ac 14:16; 17:26; Ro 13:1–7
+: 1Ki 12:15 (cf. 2Ch 10:15); 1Ki 12:24 (cf. 2Ch 11:4); 2Ch 25:20; Job 12:23; Ps 22:28; 33:10–12; Pr 21:1; Ezr 1:1; 6:22; Ac 14:16; 17:26; Ro 13:1–7
 
 Concurrence in human life
 : Job 12:7–10; 14:5; Ps 18:34; 33:14–15; 39:4–5; 75:6–7; 127:3; 139:16; Jer 1:5; Mt 6:11; Lk 1:52; Ac 17:26; 1Co 4:7; Gal 1:15; Php 4:19
@@ -38,7 +38,7 @@ Government (sovereignty)
 : {{[[sovereignty]]}}
 
 But God is not the author of sin
-: {{mt|[[Theodicy]]}}
+: {{[[mt]]|[[Theodicy]]}}
 : {{[[god-does-not-sin]]}}
 
 ## See also

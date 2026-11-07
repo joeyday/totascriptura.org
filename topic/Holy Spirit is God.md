@@ -31,13 +31,13 @@ The Holy Spirit is Yahweh
 ## Inferences
 
 “I created alone, by myself”
-: Ge 1:2; Ps 104:30; Heb 1:2; Job 26:13; 33:4 — cf. Ge 1:1; Isa 42:5; Isa 44:24; Isa 45:12, 18
+: Ge 1:2; Job 26:13; 33:4; Ps 104:30; Heb 1:2 — cf. Ge 1:1; Isa 42:5; 44:24; 45:12, 18
 
 “My glory I give to no other”
 : 2Co 3:7–11, 17–18 — cf. Ps 29:3; Isa 42:8; 48:11; Ac 7:2 — but see also Lk 9:26; Jn 17:22–23; Heb 2:10
 
 “Whoever curses God shall bear his sin”
-: Mt 12:31–32 (cf. Mk 3:28–29; Lk 12:10) — cf. Ex 20:7; Lev 24:10–16
+: Mt 12:31–32 (cf. Mk 3:28–29; Lk 12:10) — cf. Ex 20:7 (cf. Dt 5:11); Lev 24:10–16
 
 ## Difficult passages
 
