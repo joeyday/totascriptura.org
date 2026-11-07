@@ -10,7 +10,7 @@ Of creation, decree
 : Ge 1:3, 24; Ps 33:6; Heb 1:3
 
 Of personal address
-: Ge 2:16–17; 3:16–19; Ex 20:1–3; Mt 3:17
+: Ge 2:16–17; 3:16–19; Ex 20:1–3; Mt 3:17 (cf. Mk 1:11; Lk 3:22)
 
 As speech through people
 : Dt 18:18–20; Jer 1:9; Eze 13:1–7 — see also Ex 4:12; Nu 22:38; 1Sa 15:3, 18, 23; 1Ki 20:36; 2Ch 20:20; 25:15–16; Isa 30:12–14; Jer 6:10–12; 36:29–31

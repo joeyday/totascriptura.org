@@ -4,8 +4,6 @@ Things to do in this vault. Remove an item once it's done. (`PLAN.md` is ignored
 
 - [ ] Add a link to the new book PDF somewhere on the site (where is still to be decided: Home page, About, or Colophon?).
 - [ ] Run these topic pages through `tsgen refs` (harmonies on; a few at a time, reviewing each diff, and skip notes pages).
-	- [ ] [[topic/God’s word|God’s word]]
-	- [ ] [[topic/Gospel|Gospel]]
 	- [ ] [[topic/Great Law|Great Law]]
 	- [ ] [[topic/Heaven|Heaven]]
 	- [ ] [[topic/Heirs of God|Heirs of God]]
