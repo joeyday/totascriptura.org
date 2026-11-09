@@ -23,6 +23,7 @@ Marriage covenant
 
 ## See also
 
-- [[Complementarianism]]
+- [[topic/Complementarianism|Complementarianism]]
 - [[topic/Family|Family]]
 - [[topic/God the bridegroom|God the bridegroom]]
+- [[topic/Sex|Sex]]
