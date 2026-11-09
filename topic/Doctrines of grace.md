@@ -5,7 +5,7 @@ aliases:
 categories:
   - "[[Soteriology]]"
 featured: true
-hero: Aspen-path.png
+hero: "[[Aspen-path.png]]"
 ---
 Total depravity
 : {{[[mt]]|[[topic/Total depravity|Total depravity]]}}

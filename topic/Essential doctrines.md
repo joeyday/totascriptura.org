@@ -2,7 +2,7 @@
 categories:
   - "[[Soteriology]]"
 featured: true
-hero: Pillars.png
+hero: "[[Pillars.png]]"
 ---
 :::
 *In essentials unity, in non-essentials\

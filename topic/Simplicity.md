@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Theology (proper)]]"
-hero: Blue-flowers.png
+hero: "[[Blue-flowers.png]]"
 ---
 “God’s unity of **simplicity** means that God is one with himself, selfsame and indivisible in his being and operations, and God is not composed of parts. God is pure God, and nothing but God is God.”[^1]
 

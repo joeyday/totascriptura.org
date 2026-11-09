@@ -7,7 +7,7 @@ aliases:
 categories:
   - "[[Prolegomena]]"
 featured: true
-hero: Boardwalk.png
+hero: "[[Boardwalk.png]]"
 ---
 ## Canon of
 

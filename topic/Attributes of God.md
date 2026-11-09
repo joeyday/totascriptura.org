@@ -2,7 +2,7 @@
 categories:
   - "[[Theology (proper)]]"
 featured: true
-hero: Rocks.png
+hero: "[[Rocks.png]]"
 ---
 {{[[aseity-heading]]}}
 : {{[[aseity]]}}

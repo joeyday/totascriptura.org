@@ -2,7 +2,7 @@
 categories:
   - "[[Paterology]]"
 featured: false
-hero: Monastery.png
+hero: "[[Monastery.png]]"
 ---
 Places in Scripture where God is called “Father” or people are called “sons” or “children” of God.
 

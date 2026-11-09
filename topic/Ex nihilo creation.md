@@ -2,7 +2,7 @@
 categories:
   - "[[Cosmology]]"
 featured: true
-hero: Work-table-2.png
+hero: "[[Work-table-2.png]]"
 ---
 Creation from nothing (most explicit passages)
 : {{[[ex-nihilo]]}}

@@ -5,7 +5,7 @@ categories:
   - "[[Ecclesiology]]"
   - "[[Sacramentology]]"
 featured: true
-hero: Hidden-waterfall.png
+hero: "[[Hidden-waterfall.png]]"
 ---
 ## Institution, commandment of
 

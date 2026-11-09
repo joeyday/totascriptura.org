@@ -5,7 +5,7 @@ aliases:
 categories:
   - "[[Theology (proper)]]"
 featured: true
-hero: Pink-tree.png
+hero: "[[Pink-tree.png]]"
 ---
 God’s works of **providence** are, his most holy, wise, and powerful preserving and governing all his creatures, and all their actions.[^1]
 

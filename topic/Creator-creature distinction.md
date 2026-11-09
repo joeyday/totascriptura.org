@@ -6,7 +6,7 @@ categories:
   - "[[Theology (proper)]]"
   - "[[Anthropology]]"
 featured: true
-hero: Turtle.png
+hero: "[[Turtle.png]]"
 ---
 :::
 *For my thoughts are not your thoughts,\

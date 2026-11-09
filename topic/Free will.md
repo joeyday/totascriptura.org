@@ -2,7 +2,7 @@
 categories:
   - "[[Anthropology]]"
 featured with: "[[topic/Providence|Providence]]"
-hero: Windmill.png
+hero: "[[Windmill.png]]"
 ---
 Most explicit affirmations of
 : Jer 7:24, 31; Eze 33:11; Hos 8:4; Lk 7:30; 1Co 7:37; 10:13
