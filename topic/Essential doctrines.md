@@ -2,9 +2,8 @@
 categories:
   - "[[Soteriology]]"
 featured: true
+hero: Pillars.png
 ---
-![[Pillars.png|300x137]]
-
 :::
 *In essentials unity, in non-essentials\
 liberty, in all things charity.*

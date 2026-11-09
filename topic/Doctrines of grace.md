@@ -5,9 +5,8 @@ aliases:
 categories:
   - "[[Soteriology]]"
 featured: true
+hero: Aspen-path.png
 ---
-![[Aspen-path.png|300x137]]
-
 Total depravity
 : {{[[mt]]|[[topic/Total depravity|Total depravity]]}}
 : Ps 14:2–3 (cf. Ps 53:2–3); Ps 58:3; Isa 53:6; Jer 13:23; Mt 7:18 (cf. Lk 6:43); Mt 12:34 (cf. Lk 6:45); Ro 8:7–8; 1Co 2:14; 2Co 4:3–4; 1Jn 1:8–10

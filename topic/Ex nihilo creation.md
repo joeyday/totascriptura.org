@@ -2,9 +2,8 @@
 categories:
   - "[[Cosmology]]"
 featured: true
+hero: Work-table-2.png
 ---
-![[Work-table-2.png|300x137]]
-
 Creation from nothing (most explicit passages)
 : {{[[ex-nihilo]]}}
 

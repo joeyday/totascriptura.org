@@ -7,9 +7,8 @@ aliases:
 categories:
   - "[[Prolegomena]]"
 featured: true
+hero: Boardwalk.png
 ---
-![[Boardwalk.png|300x137]]
-
 ## Canon of
 
 Old Testament canon

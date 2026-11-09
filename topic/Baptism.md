@@ -5,10 +5,8 @@ categories:
   - "[[Ecclesiology]]"
   - "[[Sacramentology]]"
 featured: true
+hero: Hidden-waterfall.png
 ---
-
-![[Hidden-waterfall.png|300x137]]
-
 ## Institution, commandment of
 
 Baptism instituted and commanded

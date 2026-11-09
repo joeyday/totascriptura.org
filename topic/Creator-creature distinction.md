@@ -6,9 +6,8 @@ categories:
   - "[[Theology (proper)]]"
   - "[[Anthropology]]"
 featured: true
+hero: Turtle.png
 ---
-![[Turtle.png|300x137]]
-
 :::
 *For my thoughts are not your thoughts,\
 neither are your ways my ways.*[^1]

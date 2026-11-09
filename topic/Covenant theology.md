@@ -2,9 +2,8 @@
 categories:
   - "[[Biblical theology]]"
 featured: true
+hero: Autumn-chapel-ruins.png
 ---
-![[Autumn-chapel-ruins.png|300x137]]
-
 ## Covenant of Redemption
 
 Covenant of Redemption

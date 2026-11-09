@@ -1,9 +1,8 @@
 ---
 categories:
   - "[[Ecclesiology]]"
+hero: Sandcastle.png
 ---
-![[Sandcastle.png|300x137]]
-
 The **church** is the community of all true believers for all time.[^1]
 
 Nature of

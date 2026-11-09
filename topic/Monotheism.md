@@ -4,9 +4,8 @@ aliases:
 categories:
   - "[[Theology (proper)]]"
 featured: true
+hero: Dock-beach-2.png
 ---
-![[Dock-beach-2.png|300x137]]
-
 Biblical **monotheism** is not simply doctrinal belief in one God but faith in and exclusive devotion to the specific God Yahweh. It is therefore also called **exclusive Yahwism**.
 
 Monolatry commanded

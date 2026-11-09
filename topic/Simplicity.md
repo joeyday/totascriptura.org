@@ -1,9 +1,8 @@
 ---
 categories:
   - "[[Theology (proper)]]"
+hero: Blue-flowers.png
 ---
-![[Blue-flowers.png|300x137]]
-
 “God’s unity of **simplicity** means that God is one with himself, selfsame and indivisible in his being and operations, and God is not composed of parts. God is pure God, and nothing but God is God.”[^1]
 
 The doctrine of divine simplicity denies any composition in God, including:

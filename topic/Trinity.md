@@ -2,10 +2,8 @@
 categories:
   - "[[Theology (proper)]]"
 featured: true
+hero: Town.png
 ---
-
-![[Town.png|300x137]]
-
 God is a simple unity—one in being, essence, and nature—but there are three persons who are God: God the Father, the Lord Jesus Christ, and the Holy Spirit. The three persons are co-essential, co-eternal, co-equal, and mutually indwell one another, yet are distinguished by eternal relations of origin and temporal roles in creation and redemption.
 
 ## Oneness
