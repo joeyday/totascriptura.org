@@ -35,7 +35,7 @@ God’s steadfast love, mercy, faithfulness
 God’s anger, wrath
 : Jer 17:4
 
-%% ## Men, human institutions %%
+## Men, human institutions
 
 Life of believers
 : Ps 133:3; Isa 25:8 (cited at 1Co 15:54); Da 12:2; Mt 19:16–21 (cf. Mk 10:17–21; Lk 18:18–22); Mt 19:29 (cf. Mk 10:30; Lk 18:29–30); Mt 25:46; Lk 10:25–28; 20:34–36; Jn 3:15–16, 36; 4:14, 36; 5:24, 39–40; 6:27–29, 40, 47, 51, 54, 58, 68; 8:51–52; 10:26–28; 11:25–26; 12:25, 50; 17:2–3; Ac 13:48; Ro 2:7; 5:21; 6:22–23; 1Co 15:42, 52–54; Gal 6:8; 1Ti 1:16; 6:12; Tit 1:2; 3:7; 1Jn 2:17, 25; 5:11, 13; Jude 1:21 — see also Ac 13:46; 1Jn 3:15
