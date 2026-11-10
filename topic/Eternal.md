@@ -45,7 +45,8 @@ God’s anger, wrath
 
 %% Priesthood, statutes, feasts, offerings %%
 
-%% Punishment of the wicked %%
+Punishment of the wicked
+: Ex 14:13; Nu 24:24; Dt 13:16; 28:46; Jos 8:28; 1Sa 3:13–14; 2Sa 12:10; 1Ki 2:33; 2Ki 5:27; Job 20:7; Ps 9:5–6; 49:11, 19; 52:5; 69:23 (cited at Ro 11:10); Ps 74:3; 78:66; 81:15; 92:7; Ps 109:19 NIV; Isa 13:20; 25:2; 32:14; 33:14; 34:10; Isa 34:10, 17; Jer 18:16; 20:11; 23:40; 25:9, 12; 49:13, 33; 50:39; 51:26, 39, 57, 62; Eze 26:21; 27:36; 28:19; 35:9; Da 7:26; 12:2; Am 8:7; Ob 1:10; Zep 2:9; Mal 1:4; Mt 12:32 (cf. Mk 3:29); Mt 18:8; Mt 21:19 (cf. Mk 11:14); Mt 25:41, 46; Ro 11:10 (cites Ps 69:23); 2Th 1:9; Heb 6:2; 2Pe 2:17 KJV; Jude 1:6, 7; Jude 1:13; Rev 14:11; 19:3; 20:10
 
 %% Men, human things? %%
 
