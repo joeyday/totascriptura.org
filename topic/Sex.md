@@ -24,11 +24,11 @@ Incest prohibited
 Bestiality prohibited
 : Ex 22:19; Lev 18:23; 20:15–16; Dt 27:21
 
-%% Pedophilia prohibited %%
+%% Pedophilia prohibited? %%
 
 %% There are two sexes, genders
 : {{[[mt]]|[[Gender roles|Gender roles]]}}
-: Ge 1:26–27; 2:23; Mt 19:4 %%
+: Ge 1:26–27; 2:23; Mt 19:4 — but see Gal 3:28 %%
 
 %% Cross-dressing, transgenderism prohibited
 : Dt 22:5 %%
