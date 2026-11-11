@@ -13,7 +13,7 @@ Secures salvation
 : Isa 19:20; 53:4–12; Mt 18:11; Jn 3:16–17; Ro 3:23–25; 5:8–10, 18–19; 8:3–4, 28–34; 1Co 6:19–20; 2Co 5:14–21; Gal 1:3–4; 3:13; 4:4–5; Eph 1:3, 7, 14; 2:14–16; 5:2, 25–27; Col 1:12–14; 2Ti 1:9–10; Tit 2:13–14; Heb 1:3; 2:10; 7:25; 9:11–15, 26; 10:14; 13:12; 1Pe 2:24; 3:18; 1Jn 1:7; 4:9; Rev 1:5; 5:9–10
 
 Also secures fulfillment of conditions for salvation
-: {{mt|[[topic/Effectual grace|Effectual grace]]}}
+: {{[[mt]]|[[topic/Effectual grace|Effectual grace]]}}
 : Gal 3:13–14; Eph 1:3–4; 2:4–8; Php 1:29
 
 ## Limited in scope to the elect

@@ -23,7 +23,7 @@ Right administration of the sacraments
 : *Baptism:* {{[[baptism-partial]]}}; *Lord’s Supper:* {{[[lords-supper-partial]]}}
 
 Church discipline
-: {{mt|[[topic/Church discipline|Church discipline]]}}
+: {{[[mt]]|[[topic/Church discipline|Church discipline]]}}
 : {{[[church-discipline-partial]]}}
 
 ## Metaphors for
@@ -32,7 +32,7 @@ Family
 : Mt 12:49–50 (cf. Mk 3:34–35; Lk 8:21); 2Co 6:18; Eph 3:14; 1Ti 5:1–2; 1Jn 3:14–18
 
 Bride of Christ
-: {{mt|[[topic/God the bridegroom|God the bridegroom]]}}
+: {{[[mt]]|[[topic/God the bridegroom|God the bridegroom]]}}
 : 2Co 11:2; Eph 5:32
 
 Other metaphors

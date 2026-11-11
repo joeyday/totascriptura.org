@@ -24,7 +24,7 @@ Effectual grace
 : Jer 31:33; Eze 36:26–27; 37:1–14; Jn 3:8; 6:37, 44–45, 63–65; Ac 16:14; Ro 9:18–19; 2Co 4:6; 1Pe 1:3; 1Jn 5:1
 
 Preservation of the saints
-: {{mt|[[topic/Preservation of the saints|Preservation of the saints]]}}
+: {{[[mt]]|[[topic/Preservation of the saints|Preservation of the saints]]}}
 : Jn 6:37–40; 10:28–29; Ro 8:38–39; 11:28–29; 1Co 3:13–15; Eph 1:13–14; Php 1:6; 1Th 5:23–24; 1Pe 1:3–5; 1Jn 2:19
 
 ## See also

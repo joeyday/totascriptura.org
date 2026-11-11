@@ -18,7 +18,7 @@ There is only one God
 : Mt 19:17; Jn 5:44; 1Co 8:4–6 (alludes to Dt 6:4); Eph 4:4–6; 1Ti 1:17; 2:5; Jas 4:12
 
 There is no one else like God
-: {{mt|[[topic/Creator-creature distinction|Creator-creature distinction]]}}
+: {{[[mt]]|[[topic/Creator-creature distinction|Creator-creature distinction]]}}
 : {{[[there-is-no-other-god]]}}
 
 Other so-called gods are no gods at all
