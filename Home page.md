@@ -6,7 +6,7 @@ quick nav: true
 
 Hi, I’m Joey. This project is my small contribution to Christian systematic theology. I’m endeavoring to bring “the total weight of the teaching of Scripture”[^grudem] to bear on many important topics here. For more on how and why the site came to be, read [[About|about this project]].
 
-You’re welcome to browse my [favorite topics](/index/featured) or all topics [alphabetically](/index/alphabetical/topic) or [categorically](/index/categorical), or use the search box if you’re looking for something specific. You can even visit a [random topic](/random) if you’re feeling lucky.
+You’re welcome to browse my [favorite topics](/index/featured) or all topics [alphabetically](/index/topic) or [categorically](/index/category), or use the search box if you’re looking for something specific. You can even visit a [random topic](/random) if you’re feeling lucky.
 
 Note that some visual aspects of the site can be adjusted for aesthetics and/or accessibility. Visit the [Settings](/settings) page for details.
 
