@@ -1,7 +1,6 @@
 ---
 categories:
   - "[[Reference material]]"
-draft: true
 ---
 Scripture proofs for each section of the Westminster Confession of Faith, combined from the Westminster Assembly’s own proofs (1647), the 1788 American revision, and the OPC and PCA editions (which use the same set of proofs). Chapter titles are the Confession’s own and section numbers follow the OPC and PCA editions.
 
