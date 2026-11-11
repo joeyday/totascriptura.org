@@ -2,7 +2,6 @@
 categories:
 - "[[Anthropology]]"
 ---
-
 Biblical manhood
 : Eph 5:25–33; 6:4; Col 3:19, 21; Tit 2:2, 6; 1Pe 3:7
 

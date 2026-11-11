@@ -17,4 +17,4 @@ Unfaithfulness to God called “whoredom” or “adultery”
 - [[topic/God the Father|God the Father]]
 - [[topic/Jesus is God|Jesus is God]]
 - [[topic/Marriage|Marriage]]
-- [[Complementarianism]]
+- [[Gender roles]]
