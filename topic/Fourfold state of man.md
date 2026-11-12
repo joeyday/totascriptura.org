@@ -1,16 +1,17 @@
 ---
-draft: true
+categories:
+  - "[[Anthropology]]"
+  - "[[Soteriology]]"
 ---
-
 Innocent: able to sin, able not to sin (posse peccare, posse non peccare)
-: Ecc 7:29
+: Ge 1:26, 31; 2:16–17; 3:6, 17; Ecc 7:29; Col 3:10
 
 Fallen: not able not to sin (non posse non peccare)
 : {{[[mt]]|[[topic/Total depravity|Total depravity]]}}
-: Ge 6:5; 8:21; 1Sa 24:13; Job 14:4; 15:14–16; Ps 14:3 (cf. Ps 53:3); Jer 13:23; Mt 7:18 (cf. Lk 6:43); Mt 12:34 (cf. Lk 6:45); Jn 3:6; 8:34; 15:5; Ro 3:10–11; 7:18; 8:7–8; 2Co 3:5
+: {{[[non-posse-non-peccare]]}}
 
 Reborn: able not to sin (posse non peccare)
-: —
+: Jn 8:36; Ro 6:6–7, 14, 17–19, 22; 7:14–25; Gal 5:17; Php 2:13; Col 1:13; 1Jn 1:8, 10
 
 Glorified: not able to sin (non posse peccare)
-: —
+: Eph 4:13; Heb 12:23; 1Jn 3:2–3; Jude 1:24; Rev 21:27

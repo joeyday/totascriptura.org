@@ -70,7 +70,7 @@ Relevant? Jer 2:31
 ## Verses that may or may not fit under any of the foregoing categories
 
 Uncategorized
-: Ps 17:3; Isa 30:1, 15; Jer 18:12; 22:4–5; 42:9–17; Mt 17:12 (Mk 9:13); Jas 1:13–14
+: Ps 17:3; Isa 30:1, 15; Jer 18:12; 22:4–5; 42:9–17; Mt 17:12 (Mk 9:13); Jn 5:40; Jas 1:13–14; 4:7
 
 ## Greek words for “will”
 
