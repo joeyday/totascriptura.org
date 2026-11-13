@@ -1,5 +1,7 @@
 ![[Trinity-diagram-3.svg|300x216]]
 
+Illustration adapted from: Taylor, Justin. [_Using a Diagram to Illustrate Trinitarian Relationships_](https://www.thegospelcoalition.org/blogs/justin-taylor/using-a-diagram-to-illustrate-trinitarian-relationships). The Gospel Coalition.{style="font-family: var(--font-secondary); font-size: var(--font-size-small); color: var(--color-main-text-muted); text-align: center; text-wrap: pretty;"}
+
 ## Todo
 
 - Split apart references to the numerical oneness of the essence v. the oneness of mind, will, purpose among the persons

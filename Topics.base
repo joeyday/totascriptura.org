@@ -23,11 +23,14 @@ views:
             - file.folder != "partial"
     order:
       - file.name
+      - file.folder
       - draft
       - hidden
       - stub
       - aside of
       - categories
+    columnSize:
+      file.name: 199
   - type: table
     name: Uncategorized
     filters:
