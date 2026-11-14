@@ -28,6 +28,7 @@ Jesus is God, less explicit statements
 : Jn 8:19; Jn 10:30; 14:7–9; 2Co 4:4–5; Php 2:5–11; Col 1:15–17, 19; 2:9–10; Heb 1:3; Jude 1:5
 
 ## Summary of Murray Harris’ conclusions in his book, “Jesus as God”
+
 > Harris’ conclusions were that it is certain that John 1:1 and John 20:28 applied the title God to Jesus Christ. Harris believed that it was very probable that Romans 9:5; Titus 2:13; Hebrews 1:8 and 2 Peter 1:1 applied the title God to Jesus and that it was probable that that John 1:18 did as well. Harris believed that it was possible, but not likely that that Acts 20:28; Hebrews 1:9 and 1 John 5:20 called Jesus God. Harris concluded that it was not at all likely that Matthew 1:23; John 17:3; Galatians 2:20; Ephesians 5:5; Colossians 2:2; 2 Thessalonians 1:12 and 1 Timothy 3:16 applied the title God to Jesus (Harris, 1992 171)
 
 —From reviewer D. Ingolfsland on Amazon.
@@ -73,6 +74,7 @@ Wrath
 : —
 
 ## Draft inferences
+
 Some of these are near complete but I don’t like them since they aren’t necessarily exclusively describing the one God. 
 
 “The fountain of living waters”
@@ -139,6 +141,7 @@ Interesting observation
 : Mt 14:25–27 (cf. Mk 6:48–50; Jn 6:19–20) — cf. Job 9:8; Ps 77:19; Isa 43:16 — I got this one from the first chapter of <cite>The Essential Trinity</cite> (eds. Brandon Crowe and Carl Trueman), but aren’t these OT passages references to the crossing of the Red Sea? Seems like a stretch to connect this to Jesus walking on water, but there is an I AM statement here, so maybe the connection is appropriate?
 
 ## From the ’83 Watchtower article
+
 > To redeem what Adam lost for mankind, Jesus needed to sacrifice a perfect human life, no more, no less. (Ex 21:23; 1Co 15:22, 45, 47; Ro 5:18, 19, RS, Catholic and Protestant editions; Mt 20:28) This alone gives the lie to the Incarnation and Trinity dogmas.
 
 But are they taking into account?
@@ -146,11 +149,17 @@ But are they taking into account?
 ::: one-tab
 1Sa 2:25; Job 9:32–33; 16:19–21; 35:7; 41:11; Ps 49:7–9; 89:48; Isa 59:16; Mt 16:26; Ro 11:35
 :::
+
 ## When Jesus read Isa 61 in Nazareth
+
 When Jesus stood up and read Isa 61:1–2 in the synagogue at Nazareth, did he really just read the first two verses, or did Luke just quote the first two verses as a way to give the zip code for the whole chapter? Isa 61 is an interesting chapter since it opens in the third person talking about Yawheh, then shifts in the center to the first person, Yawheh himself speaking. If Jesus really read the whole chapter, he would have read that middle section (Isa 61:8-9). Is that section just meant as a quote of what the Father would say, or is it meant as the Son speaking in the first person? Is this passage possibly meant to be God the Son speaking to God the Father and referring to both himself and the Father as Yahweh? Mind. Blown. —**Joey** 05:38, 13 October 2012 (UTC)
+
 ## 1Co 2:16
+
 Have I mentioned 1Co 2:16 anywhere in my Jesus is God article on Tota Scriptura? Should I mention it, or do scholars generally not interpret it as affirming Jesus' deity? —**Joey**
+
 ## Jones of Nayland’s proofs
+
 Verses given by Jones of Nayland in his <cite>Catholic Doctrine of a Trinity</cite> (Google Books). Deleting as I go.
 
 Inferences from pairs of passages.
@@ -175,34 +184,44 @@ Isa 2:17–18 ~(cf. 1Jn 5:20–21)~; Jer 23:6; Jn 14:11; 2Co 5:19; 2Co 5:20; Jud
 ## Jesus’ own claims about himself
 The following is from Ericksen’s <cite>Making Sense of the Trinity</cite>. Deleting as I go.
 
-The judgment scene of Mt 25:31–46 reflects the theophanic language of Da 7:9–10, Joel 3:1–12, and Zec 14:5. In Matthew 19:28; 25:31–46, Jesus alludes to Da 7. In Da 7:9 the Ancient of Days sits on a throne. Jesus himself, however, takes the role of the Ancient of Days, sitting on his “glorious throne.”
-
-In Mt 21:16, Jesus applies Ps 8:1–2 to himself.
-
-Other references of this type Mt 11:10, Mk 1:2, and Lk 7:27 (Mal 3:1; 4:5–6). In Mk 9:12–13 (Mt 17:11–12), Mt 11:10 (Lk 7:27), and Mt 11:14, there are references to Mal 3:1; 4:5–6, which predict the coming of Elijah as the forerunner of Yahweh. Jesus, however, identified John the Baptist, who had come as his forerunner, as Elijah.
-
-He claimed the power to judge the world (Mt 25:31) and to reign over it (Mt 24:30; Mk 14:62).
+> The judgment scene of Mt 25:31–46 reflects the theophanic language of Da 7:9–10, Joel 3:1–12, and Zec 14:5. In Matthew 19:28; 25:31–46, Jesus alludes to Da 7. In Da 7:9 the Ancient of Days sits on a throne. Jesus himself, however, takes the role of the Ancient of Days, sitting on his “glorious throne.”
+> 
+> In Mt 21:16, Jesus applies Ps 8:1–2 to himself.
+> 
+> Other references of this type Mt 11:10, Mk 1:2, and Lk 7:27 (Mal 3:1; 4:5–6). In Mk 9:12–13 (Mt 17:11–12), Mt 11:10 (Lk 7:27), and Mt 11:14, there are references to Mal 3:1; 4:5–6, which predict the coming of Elijah as the forerunner of Yahweh. Jesus, however, identified John the Baptist, who had come as his forerunner, as Elijah.
+> 
+> He claimed the power to judge the world (Mt 25:31) and to reign over it (Mt 24:30; Mk 14:62).
 ## “He meant to pass by them”
+
 Mark 6:45-52 — On pages 139–140 in <cite>Theological Foundations I, Essentials of Christian Doctrine</cite> from Bethlehem College and Seminary, the claim is made that Jesus “passing by them” is an allusion to Ex 33:19, since the same Greek verb, παρέρχομαι (parerchomai), is used there in the Septuagint. The point is driven home by a note in the leader’s guide claiming that the literal translation of “Take heart; it is I. Do not be afraid,” is “Take heart; *I am.* Do not be afraid.” I don’t buy this at first blush, but perhaps need to ponder it more.
 
 ::: one-tab
 I still don’t know if I buy “passing by them” as an allusion to Ex 33:19, but I get the I AM connection now. It is word-for-word from the Septuagint, “I AM” (ἐγὼ εἰμί). Jesus’ words here closely parallel many phrases in Isaiah 43.
 :::
+
 ## Hab 1:12
+
 Hab 1:12 deserves a spot in difficult passages, I think. NWT has “You do not die” (and NIV and some other modern translations agree) while many other translations have “We will not die.” If God does not die—so say JW’s—how can Jesus be God? I think this passage actually shows the immortality of God, and the fact that Jesus could not be held in the grave becomes really good evidence of his deity.
+
 ## Biblical Unitarian arguments
+
 “The Scriptures never say the word ‘Trinity’, they never say the phrase ‘God the Son’, they never say the word ‘co-equal’, ‘co-essential’—in fact, they never say any of this. Not only do they never say any of these words, but none of these concepts, anywhere, are explained in Scripture.” —Sean Finnegan, ~*[Five Major Problems with the Trinity](http://www.youtube.com/watch?v=-qxvmP-NzN4&desktop_uri=%2Fwatch%3Fv%3D-qxvmP-NzN4&app=desktop)*~
 
 (See todos above.)
+
 ## Wikipedia &rsaquo; Nontrinitarianism
+
 Wikipedia’s [Nontrinitarianism](https://en.wikipedia.org/wiki/Nontrinitarianism) article gives a number of passages in the section titled “Points of Dissent”.
+
 ## Programmatic christological texts
+
 Camden Bucey, on an episode of the <cite>Christ the Center</cite> podcast about the book of Hebrews, said there are only three or four “programmatic christological texts”:
 
 * Heb 1:1–4
 * Col 1:15–19
 * Jn 1
 * Php 2:5–11
+
 ## More fodder for the difficult passages section
 
 ~100 Scriptural Arguments
@@ -212,20 +231,31 @@ Passages Sean Finnegan specifically calls out in his video
 : 1Ti 2:5; Jn 17:3; 1Co 8:6; Dt 6:4; Ps 110:1
 
 ## More Yahweh passages applied to Jesus?
+
 Robert L. Reymond from his <cite>A New Systematic Theology of the Christian Faith</cite>:
+
 > The New Testament writers show no hesitancy in applying to Christ Old Testament descriptions and privileges that are reserved specifically for Yahweh. For instance, (1) Moses’ description of Yahweh as “King of kings” (Dt 10:17) John applies to Christ (Rev 17:14; 19:16); (2) the author of Hebrews applies the entirety of Ps 102:25–27 to him (1:10–12); (3) Proverbs 18:10 provides the background for Peter’s assertion in Acts 4:12; (4) Joel’s summons to trust in Yahweh (2:32) Paul employs to summon men to faith in Christ (Ro 10:13); (5) when Isaiah looked upon Yahweh (Isa 6:1–3), according to John he was beholding the glory of the preincarnate Son of God (John 12:40–41); (6) Isaiah’s call to sanctify Yahweh in the heart (8:12–13) Peter applies directly to Christ—he is the one who is to be sanctified as Lord in the heart (1Pe 3:14–15); (7) Isaiah’s representation of Yahweh as a stone that causes men to stumble and a rock that makes them fall (8:14) Paul applies to Christ (Ro 9:32–33); (8) Yahweh, whose coming would be preceded by Yahweh’s forerunner (Isa 40:3; Mal 3:1; 4:5), is equated with Christ (Mt 3:3; 11:10; Mark 1:2–3; Luke 1:16–17; 3:4; John 1:23); (9) Jesus himself employs Yahweh’s words in Isaiah 43:10 and 45:22 to summon men to be his witnesses and to rest in him (Ac 1:8; Mt 11:28); (10) Isaiah’s description of Yahweh as “the first and the last” (44:6) John employs to describe the glorified Christ (Rev 2:8; 22:12–13); (11) Yahweh, “before whom every knee shall bow and by whom every mouth shall swear (Isa 45:23), Paul identifies as Christ (Ro 14:10; Php 2:10); and (12) Yahweh, the pierced One upon whom men would look and mourn (Zec 12:10), John tells us is the Christ (John 19:37).
 
 ::: {style="margin-left: 1em:"}
 Also, Bauckham gives a boatload of these in chapter 6 of his <cite>Jesus and the God of Israel</cite>, starting with those in Paul but don’t miss later in the chapter he even moves outside of Paul. Need to compare his lists against mine. I’m positive he has a bunch I’ve left out.
 :::
+
 ## Heb 3:3–4
+
 Does Heb 3:3–4 say essentially that Jesus is God? —**Joey** 14:51, 17 March 2017 (UTC)
+
 ## Love the Lord your God with all your heart, soul, mind, and strength
+
 To the existing inference section on this topic I should probably add some references from Mark according to this from <cite>The Essential Trinity</cite>:
+
 > Finally, I would like to draw attention to what kind of a relation Jesus expects the believer to have with him, namely readiness both to live and die for him. We therefore again turn to the Shema, but this time to its second part: ‘And you shall love the Lord your God with all your heart \[kardia\] and with all your soul \[psyche\] and with all your mind \[\dianoia] and with all your strength \[ischys\]’ (Mk 12:30). In the later rabbinic exposition of Deuteronomy 6:5 each element of the love command was assigned specific meaning: ‘with all your heart’ referred both to the good and the evil inclinations of a human being, that is, an undivided heart; ‘with all your soul’ meant ‘even if he takes your soul’, that is, even at the cost of one’s life; ‘with all your strength’ referred to one’s whole property.
 > 
 > What is striking about the Gospel of Mark, however, is Jesus’ requirement of such loyalty to his own person: Jesus demands undivided attention to his word (Mk 4:1–20; 7:1–23) and the kingdom of God (Mk 9:43–48); the disciples should be ready to suffer and die for the sake of him and the gospel (Mk 8:34–35); the disciples have left everything to follow Jesus (Mk 10:28–30). Mark apparently includes Jesus in the devotion that, according to the Shema, should be offered to God alone. Or, to put it differently, the Christian reader of Mark’s Gospel must, in order to fulfil the Shema, include Jesus in the devotion directed to God.
+
 ## Matthew 22:41–46
+
 Mt 22:41–46 ~(cf. Mk 12:35–37; Lk 20:41–44)~ belongs on this page as an inference. Probably in the pre-existence section? Where else could it go?
+
 ## Mark 5:19–20 
+
 Mk 5:19–20 ~(cf. Lk 8:39)~ is relevant to this topic as an inference. I guess there are different ways to interpret it, but to me the identification of Jesus with God is so deliberate. Did the man make a mistake? He should have given glory to God for his healing but he glorified Jesus instead? Or was he right to glorify Jesus because Jesus is God? If he was mistaken, why do the gospel writers not point out his mistake? Or why not simply correct it and say he went about proclaiming what God had done for him?
