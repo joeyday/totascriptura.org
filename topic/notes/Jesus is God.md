@@ -182,7 +182,7 @@ Isolated passages, “there being no danger of mistaking their application”:
 Isa 2:17–18 ~(cf. 1Jn 5:20–21)~; Jer 23:6; Jn 14:11; 2Co 5:19; 2Co 5:20; Jude 1:4
 :::
 ## Jesus’ own claims about himself
-The following is from Ericksen’s <cite>Making Sense of the Trinity</cite>. Deleting as I go.
+The following is from Erickson’s <cite>Making Sense of the Trinity</cite>. Deleting as I go.
 
 > The judgment scene of Mt 25:31–46 reflects the theophanic language of Da 7:9–10, Joel 3:1–12, and Zec 14:5. In Matthew 19:28; 25:31–46, Jesus alludes to Da 7. In Da 7:9 the Ancient of Days sits on a throne. Jesus himself, however, takes the role of the Ancient of Days, sitting on his “glorious throne.”
 > 
@@ -190,7 +190,7 @@ The following is from Ericksen’s <cite>Making Sense of the Trinity</cite>. Del
 > 
 > Other references of this type Mt 11:10, Mk 1:2, and Lk 7:27 (Mal 3:1; 4:5–6). In Mk 9:12–13 (Mt 17:11–12), Mt 11:10 (Lk 7:27), and Mt 11:14, there are references to Mal 3:1; 4:5–6, which predict the coming of Elijah as the forerunner of Yahweh. Jesus, however, identified John the Baptist, who had come as his forerunner, as Elijah.
 > 
-> He claimed the power to judge the world (Mt 25:31) and to reign over it (Mt 24:30; Mk 14:62).
+> He claimed the power to judge the world (Mt 25:31) and to reign over it (Mt 24:30; Mk 14:62).[^1]
 ## “He meant to pass by them”
 
 Mark 6:45-52 — On pages 139–140 in <cite>Theological Foundations I, Essentials of Christian Doctrine</cite> from Bethlehem College and Seminary, the claim is made that Jesus “passing by them” is an allusion to Ex 33:19, since the same Greek verb, παρέρχομαι (parerchomai), is used there in the Septuagint. The point is driven home by a note in the leader’s guide claiming that the literal translation of “Take heart; it is I. Do not be afraid,” is “Take heart; *I am.* Do not be afraid.” I don’t buy this at first blush, but perhaps need to ponder it more.
@@ -259,3 +259,5 @@ Mt 22:41–46 ~(cf. Mk 12:35–37; Lk 20:41–44)~ belongs on this page as an in
 ## Mark 5:19–20 
 
 Mk 5:19–20 ~(cf. Lk 8:39)~ is relevant to this topic as an inference. I guess there are different ways to interpret it, but to me the identification of Jesus with God is so deliberate. Did the man make a mistake? He should have given glory to God for his healing but he glorified Jesus instead? Or was he right to glorify Jesus because Jesus is God? If he was mistaken, why do the gospel writers not point out his mistake? Or why not simply correct it and say he went about proclaiming what God had done for him?
+
+[^1]: Erickson, Millard J. (2000). _Making Sense of the Trinity (Three Crucial Questions)_, pp. 20–21. Kindle Edition. Baker Academic.

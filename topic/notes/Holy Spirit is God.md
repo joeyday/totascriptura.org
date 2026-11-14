@@ -2,9 +2,9 @@
 Is this another example of the words of Yahweh ascribed to the Holy Spirit? Heb 3:7–11 ~(Ps 95:7–11)~ —**Joey** 17:22, 10 October 2012 (UTC)
 ## Jones of Nayland’s proof texts
 Transcribe Jones’s proof texts from his [<cite>Catholic Doctrine of a Trinity</cite>](https://play.google.com/books/reader?printsec=frontcover&output=reader&id=lgE3AAAAMAAJ&pg=GBS.PA103).
-## Ericksen’s proof texts
+## Erickson’s proof texts
 
-Proof texts from Ericksen’s <cite>Making Sense of the Trinity</cite>. Deleting as I go.
+Proof texts from Erickson’s <cite>Making Sense of the Trinity</cite>. Deleting as I go.
 
 > Moreover, Jesus attributed to the Holy Spirit the ability to change human hearts and personalities: it is the Spirit who works conviction (John 16:8–11) and regeneration (John 3:5–8) within us. Elsewhere he had said with respect to this ability to change human hearts: “With man this is impossible, but with God all things are possible” (Mt 19:25–26). While these texts do not specifically affirm that the Spirit is omnipotent, they certainly indicate that he has power which presumably only God has.
 > 
@@ -14,7 +14,7 @@ Proof texts from Ericksen’s <cite>Making Sense of the Trinity</cite>. Deleting
 > 
 > In addition, the Spirit raised Christ from the dead and will also raise us; that is, God will raise us through the Spirit: “If the Spirit of him who raised Jesus from the dead is living in you, he who raised Christ from the dead will give life to your mortal bodies also through his Spirit which dwells in you” (Ro 8:11).
 > 
-> Giving the Scriptures is another divine work of the Holy Spirit. In 2 Timothy 3:16 Paul writes, “All Scripture is God-breathed and is useful for teaching, rebuking, correcting, and training in righteousness.” Peter also speaks of the Spirit’s role in giving us the Scriptures, but emphasizes the influence on the writer rather than the end product: “prophecy never had its origin in the will of man, but men spoke from God as they were carried along by the Holy Spirit” (2 Peter 1:21).
+> Giving the Scriptures is another divine work of the Holy Spirit. In 2 Timothy 3:16 Paul writes, “All Scripture is God-breathed and is useful for teaching, rebuking, correcting, and training in righteousness.” Peter also speaks of the Spirit’s role in giving us the Scriptures, but emphasizes the influence on the writer rather than the end product: “prophecy never had its origin in the will of man, but men spoke from God as they were carried along by the Holy Spirit” (2 Peter 1:21).[^1]
 
 ## Incommunicable attributes
 
@@ -22,3 +22,5 @@ Proof texts from Ericksen’s <cite>Making Sense of the Trinity</cite>. Deleting
 
 “Who is a teacher like him?”
 : Job 36:22
+
+[^1]: Erickson, Millard J. (2000). _Making Sense of the Trinity (Three Crucial Questions)_, pp. 27–28. Kindle Edition. Baker Academic.
