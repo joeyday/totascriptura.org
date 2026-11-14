@@ -3,7 +3,7 @@ categories:
   - "[[Ecclesiology]]"
 hero: "[[Sandcastle.png]]"
 ---
-The **church** is the community of all true believers for all time.[^1]
+The **church** is “the community of all true believers for all time.”[^1]
 
 Nature of
 : Dt 4:10; Mt 16:18; Ac 2:47; 7:38; Eph 1:22–23; 2:14–15, 19; 5:25; Heb 2:12; 12:1, 22–23

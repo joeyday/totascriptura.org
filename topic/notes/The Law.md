@@ -22,16 +22,6 @@ From the Westminster Larger Catechism:
 >
 > *Q. 96. What particular use is there of the moral law to unregenerate men?*\
 > A. The moral law is of use to unregenerate men, to awaken their consciences to flee from wrath to come, and to drive them to Christ; or, upon their continuance in the estate and way of sin, to leave them inexcusable, and under the curse thereof.
-
-## Uses of the Law
-
-From the Westminster Larger Catechism:
-
-> *Q. 95. Of what use is the moral law to all men?*\
-> A. The moral law is of use to all men, to inform them of the holy nature and will of God, and of their duty, binding them to walk accordingly; to convince them of their disability to keep it, and of the sinful pollution of their nature, hearts, and lives; to humble them in the sense of their sin and misery, and thereby help them to a clearer sight of the need they have of Christ, and of the perfection of his obedience.
->
-> *Q. 96. What particular use is there of the moral law to unregenerate men?*\
-> A. The moral law is of use to unregenerate men, to awaken their consciences to flee from wrath to come, and to drive them to Christ; or, upon their continuance in the estate and way of sin, to leave them inexcusable, and under the curse thereof.
 >
 > *Q. 97. What special use is there of the moral law to the regenerate?*\
 > A. Although they that are regenerate, and believe in Christ, be delivered from the moral law as a covenant of works, so as thereby they are neither justified nor condemned; yet, besides the general uses thereof common to them with all men, it is of special use, to show them how much they are bound to Christ for his fulfilling it, and enduring the curse thereof in their stead, and for their good; and thereby to provoke them to more thankfulness, and to express the same in their greater care to conform themselves thereunto as the rule of their obedience.

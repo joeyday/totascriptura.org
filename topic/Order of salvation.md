@@ -38,4 +38,4 @@ Glorification
 
 - [[topic/Doctrines of grace|Doctrines of grace]]
 
-[^1]: Romans 8:29–30
+[^1]: Ro 8:29–30 ESV

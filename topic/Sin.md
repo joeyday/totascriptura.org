@@ -2,7 +2,7 @@
 categories:
 - "[[Hamartiology]]"
 ---
-**Sin** is any failure to conform to the moral law of God in act, attitude, or nature.[^1]
+**Sin** is “any failure to conform to the moral law of God in act, attitude, or nature.”[^1]
 
 Wrong action
 : —
@@ -16,4 +16,4 @@ Wrong nature
 Sins of ignorance
 : Lev 4:2–4; Ps 19:12–13; Ac 3:17, 19; 1Jn 1:8–9
 
-[^1]: Grudem, Wayne (1994). <cite>Systematic Theology: An Introduction to Biblical Doctrine</cite> (p. 490). Zondervan. Kindle Edition.
+[^1]: Grudem, Wayne (2009). <cite>Systematic Theology: An Introduction to Biblical Doctrine</cite> (p. 490). Zondervan. Kindle Edition.

@@ -3,7 +3,7 @@ draft: true
 ---
 
 :::
-*To \[God\] is due from angels and men, and every other creature, whatsoever worship, service, or obedience he is pleased to require of them.*[^1]
+*“To \[God\] is due from angels and men, and every other creature, whatsoever worship, service, or obedience he is pleased to require of them.”*[^1]
 :::
 
 Passages in this topic are grouped under each heading based on their indication, grammatically, that observing a given practice is either **necessary** or **sufficient** for salvation.[^2]

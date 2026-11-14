@@ -82,4 +82,4 @@ Worship of created things forbidden
 Aspiring to become like God is sin
 : Ge 3:4–5; Isa 14:12–15; Eze 28:2–10; 2Th 2:3–4
 
-[^1]: Isaiah 55:8–9
+[^1]: Isa 55:8–9 ESV

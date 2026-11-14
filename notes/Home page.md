@@ -121,7 +121,7 @@ Consider using symlinks from the Skinny folder under db.jday.us over to the Skin
 
 ## Interesting verse
 
-“It is beyond dispute that the inferior is blessed by the superior.” —Heb 7:7
+“It is beyond dispute that the inferior is blessed by the superior.” —Heb 7:7 ESV
 
 You don’t necessarily have to read this in context, since the author uses this statement as the ground for an argument he’s making. He holds this to be self-evident. What are the implications of this idea? —**Joey** 16:04, 18 January 2014 (UTC)
 

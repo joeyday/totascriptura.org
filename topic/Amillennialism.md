@@ -42,4 +42,4 @@ Each parallel section spans the entire church age from the first coming to the s
 | Second coming, final judgment                                                                  | Rev 1:7; 6:16–17; 11:15–19; 14:14, 16; 16:15, 20; 19:11–16; 20:10–15 |
 | New heavens, new earth                                                                         | Rev 7:9–17; 21:1–27; 22:1–5                                          |
 
-[^1]: Hendriksen, William. <cite>More Than Conquerors</cite> (pp. 21–22). Grand Rapids, MI: Baker Books. Kindle Edition.
+[^1]: Hendriksen, William (1940). <cite>More Than Conquerors</cite> (pp. 21–22). Grand Rapids, MI: Baker Books. Kindle Edition.

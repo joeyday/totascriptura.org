@@ -25,4 +25,4 @@ The heart is deceitful
 
 ## External links
 
-- [Think Noble Things of God! › Does God deceive people?](http://www.jimmcguiggan.com/questions2.asp?q_ID=22)
+- [Think Noble Things of God! › Does God deceive people?](http://web.archive.org/web/20160424155231/http://jimmcguiggan.com/questions2.asp?q_ID=22)

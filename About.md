@@ -58,13 +58,13 @@ My prayer as you browse these pages is that you, like me, will be “confronted 
 Joey Day\
 February 2017
 
-[^psalms1]: Psalms 119:105
-[^hebrews]: Hebrews 4:12
-[^acts]: Acts 20:26–27
+[^psalms1]: Psalms 119:105 ESV
+[^hebrews]: Hebrews 4:12 ESV
+[^acts]: Acts 20:26–27 ESV
 [^sproul]: Sproul, R.C. “Tota Scriptura.” <cite>Tabletalk Magazine</cite>. Oct 2008 (pp. 4–7).
-[^luke]: Luke 24:27
-[^timothy]: 2 Timothy 3:16–17
+[^luke]: Luke 24:27 ESV
+[^timothy]: 2 Timothy 3:16–17 ESV
 [^grudem24]: Grudem, Wayne (2009). <cite>Systematic Theology: An Introduction to Biblical Doctrine</cite> (p. 24). Zondervan.
 [^grudem37]: Ibid. (p. 37).
 [^grudem28]: Ibid. (p. 28).
-[^psalms2]: Psalms 119:162
+[^psalms2]: Psalms 119:162 ESV

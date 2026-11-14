@@ -5,8 +5,8 @@ featured: true
 hero: "[[Pillars.png]]"
 ---
 :::
-*In essentials unity, in non-essentials\
-liberty, in all things charity.*
+*“In essentials unity, in non-essentials\
+liberty, in all things charity.”*[^1]
 :::
 
 Passages in this topic are grouped under each heading based on their indication, grammatically, that believing the given doctrine is either **necessary** or **sufficient** for salvation.[^necessary]
@@ -82,3 +82,5 @@ In non-essentials, liberty
 : Ro 14:1–5, 10, 13, 19, 21–23; 1Co 8:1–3, 8–9; 10:23–24, 28–33; Tit 1:15; Jas 4:11–12, 17
 
 [^necessary]: A **necessary doctrine** ~(e.g. *“if you don’t believe this you cannot be saved”*)~ must be believed for salvation but may not be enough to save by itself. A **sufficient doctrine** ~(e.g. *“if you believe this you will be saved”*)~ is enough to save by itself, but may go beyond what is strictly necessary for salvation. Considered logically, a correct understanding of any of the sufficient doctrines must in some way contain or presuppose all the necessary ones.
+
+[^1]: Attributed to Rupertus Meldenius (1627)
